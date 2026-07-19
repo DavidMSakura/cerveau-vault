@@ -51,7 +51,7 @@
 
 - **CA 2026** (janv-juin) : **53K€** (vs 40K même période an dernier, 38K avant)
 - **Trajectoire annuelle** : 70K → 80K → objectif 100K
-- **Vente appartement locatif** : 208K€ net vendeur (en cours) → solde crédit perso 22K, retour voiture LLD société
+- **Vente appartement locatif** : vendue, 208K€ net vendeur encaissé → solde crédit perso 22K, retour voiture LLD société
 - **Investissements prévus** : Bricks (prêt immo), Trade Republic (ETF), Assurance Vie
 - **Rapport à l'argent** : Anxiété historique, surtout vis-à-vis des enfants. Se stabilise avec la progression et la vente.
 
@@ -62,7 +62,6 @@
 - **Maxime** : Jovial, sportif (parkour, acrobaties, callisthénie, pêche, vélo de route). A trouvé le sens du travail, ambitieux. Facile.
 - **Emilie** : Plus difficile depuis le divorce — colère, transgression, relation tendue. Semble s'améliorer. Peu démonstrative. Fait de l'équitation, veut se mettre à la salle + gym. David s'inquiète du lien et de son rapport au sérieux/avenir.
 - **Steph** : Compagne en union libre. Partenaire pro (contrat Crédit Foncier ensemble).
-- **Juillet 2026** : Croisière Méditerranée — premières vacances tous les 4.
 
 ---
 
