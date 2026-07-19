@@ -1,0 +1,11 @@
+# Secrets / tokens / clés
+.env
+credentials.json
+tokens.json
+*.pem
+*.key
+id_ed25519*
+
+# Fichiers locaux à la machine
+.claude/settings.local.json
+.obsidian/workspace.json

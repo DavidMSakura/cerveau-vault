@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "printf '\\n--- FIN DE SESSION ---\\nPense a ajouter une entree dans memory.md : date, ce quon a fait, decisions prises, suite prevue.\\n'"
+          }
+        ]
+      }
+    ]
+  }
+}
