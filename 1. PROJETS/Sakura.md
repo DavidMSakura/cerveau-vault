@@ -15,6 +15,8 @@ casquette: Contenu & Médias
 
 **Origine / outils** : lancé avec la méthode de vente par webinaire de **Jean & Jodi (Liberty Webi)** — voir [[3. RESSOURCES/Accompagnements marketing (Liberty Webi & Scaling Academy)]]. Matériel (slides webi, séquences email, modules SAKURA S-A-K-U-R-A) dans `~/Documents/Formation/Liberty Webi/`.
 
+**Contenu détaillé de la méthode S.A.K.U.R.A.** (6 modules + onboarding) et un second modèle de funnel (lead magnet vidéo → Calendly → vente par appel, différent du webinaire) documentés dans [[3. RESSOURCES/Outils & Frameworks/Systeme.io - templates lead magnet et tunnel de vente]] — **à clarifier avec David** : ce funnel par appel remplace-t-il le webinaire, ou est-ce une version antérieure/parallèle jamais lancée ?
+
 Voir [[6. PROCESS/Conception de programme transformationnel (Sakura & Cercle de Vérité)]] pour la méthode de construction.
 
 ## Prochaine étape
