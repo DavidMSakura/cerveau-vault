@@ -18,7 +18,11 @@ casquette: Contenu & Médias
 6. **Les émotions** — *à rédiger entièrement*
 7. **Conclusion** — *à rédiger*
 
+## Répartition de la rédaction
+- **Triangle de Karpman** (section vide) → à écrire par **Steph**, certifiée Karpman.
+- Reste à clarifier : qui rédige Émotions et Conclusion.
+
 ## Prochaine étape
-_À préciser avec David : quelle section prioriser (Triangle de Karpman et Émotions sont les plus vides), échéance visée, piste d'édition/publication._
+_À préciser avec David : échéance visée pour la section Karpman (Steph), et qui prend Émotions/Conclusion, piste d'édition/publication._
 
 Voir [[3. RESSOURCES/Outils & Frameworks/Consentement et amortisseur d'ego - concepts originaux du livre]] pour le détail des frameworks originaux qui en sont extraits et réutilisables en formation/coaching indépendamment du livre.
