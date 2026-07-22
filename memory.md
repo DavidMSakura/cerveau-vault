@@ -139,3 +139,22 @@ David a confirmé et fourni le manuscrit (`~/Downloads/Le Triangle Dramatique - 
 **Suite prévue** : demander à David quelle section du livre prioriser en rédaction, et l'échéance/piste de publication visée.
 
 <!-- Les entrées de session s'ajoutent ici, de la plus récente à la plus ancienne -->
+
+## 2026-07-22 — Architecture Mac / GitHub / serveur
+
+Architecture cible validée :
+- Le vault Obsidian principal vit maintenant en local sur le Mac dans :
+  /Users/DavidM/Documents/IA/Vault-Mnemonaute
+- Ce vault local est un dépôt Git relié à :
+  git@github.com:DavidMSakura/cerveau-vault.git
+- Le serveur utilise désormais un clone de ce même repo dans :
+  /home/david/Doc
+- Le bot Telegram Doc lit le vault serveur /home/david/Doc.
+- Le Mac pousse les changements vers GitHub.
+- Le serveur récupère les changements depuis GitHub.
+- GitHub devient le pont entre Obsidian local, Claude Code local et le bot Telegram serveur.
+- L’ancien /home/david/Doc serveur a été sauvegardé avant remplacement.
+- Ne pas confondre :
+  - /home/david/Doc = clone serveur du vault GitHub
+  - /home/david/telegram-claude-bot = code du bot Telegram et automatisations
+  - /Users/DavidM/Documents/IA/Vault-Mnemonaute = vault Obsidian local principal sur Mac
