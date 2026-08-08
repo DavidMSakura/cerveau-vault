@@ -183,3 +183,17 @@ Nouvelle plaquette 2 pages A4 créée en HTML imprimable : `~/Documents/Formatio
 **Un seul verbatim, volontairement** : David trouve l'exercice d'auto-citation inconfortable. Celui retenu (participante prise de parole, « un avant et un après… j'ai changé de métier… j'étais pétrifiée ») raconte une transformation concrète et vaut mieux que plusieurs compliments empilés. À noter : aucun organisme n'a demandé de verbatims, c'était une proposition commerciale de ma part — David a eu raison de vérifier avant d'accepter.
 
 **Suite prévue** : vérifier le SIRET et retélécharger l'attestation URSSAF au nom de la société. Le CV, lui, reste à réécrire — celui du dossier s'arrête en 2018 et porte l'adresse de Craponne.
+
+## 2026-08-08 (2) — SIRET vérifié, CV 2026 réécrit
+
+**SIRET tranché** : le bon est **88306507000038** (siège Écully, actif depuis le 01/09/2025), vérifié via l'API officielle `recherche-entreprises.api.gouv.fr`. L'ancien **88306507000012 est fermé** — c'était le siège de Craponne. Ne plus l'utiliser (conventions, factures, BPF).
+
+**Attestation URSSAF — point non résolu** : celle du 08/08/2026 est à jour côté date, mais reste établie au nom de **MR MARSAC DAVID en nom propre** (n° 8248539D01, adresse Tassin), pas de Level-Up Attitude. C'est l'attestation du gérant au régime des indépendants. Si la SARL n'a jamais eu de salarié, elle n'a probablement pas de compte employeur URSSAF et donc pas d'attestation de vigilance à son nom — à expliquer au demandeur le cas échéant.
+
+**CV 2026 réécrit** — `~/Documents/Formation/_Level-Up Attitude/CV David Marsac 2026.html` (+ `.pdf`, 2 pages A4). Le fichier `04 - CV David Marsac 2026.pdf` qui existait n'était que l'ancien CV avec l'adresse corrigée : il s'arrêtait en 2019 et dupliquait le bloc formation. Le nouveau reprend la direction artistique de la plaquette (bleu de Prusse, trait vermillon, mêmes polices) et se pose en **complément** d'elle : la plaquette vend, le CV prouve. Page 1 = accroche + parcours chronologique (Level-Up Attitude, Allianz, Fiducial, BNP Paribas regroupé 2004-2015) ; page 2 = diplômes, compétences, encart chanbara, livre/YouTube/scène.
+
+**Ajouts demandés par David en séance** : le **codéveloppement** (il anime et participe à un groupe fermé, une séance par mois) et l'**IA** (pratique quotidienne, conception d'assistants et d'agents, automatisation de la veille et du contenu — systèmes développés et exploités en propre). Les deux figurent au CV.
+
+**Pipeline de génération PDF** : le HTML est monté depuis un template avec la photo injectée en base64, puis rendu par Chrome headless (`--headless --print-to-pdf --no-pdf-header-footer`) — pas besoin de passer par Cmd+P. Attention, contrairement à la plaquette, le CV embarque son propre reset CSS et un `<!doctype html>` : sans ça les marges par défaut du navigateur cassent la mise en page hors contexte Artifact.
+
+**Note de cadrage** : David a signalé en fin de session que le dossier de pièces justificatives MyConnecting n'est plus le sujet actif — ne pas relancer les points RIB/URSSAF/Qualiopi de sa propre initiative.
