@@ -197,3 +197,27 @@ Nouvelle plaquette 2 pages A4 créée en HTML imprimable : `~/Documents/Formatio
 **Pipeline de génération PDF** : le HTML est monté depuis un template avec la photo injectée en base64, puis rendu par Chrome headless (`--headless --print-to-pdf --no-pdf-header-footer`) — pas besoin de passer par Cmd+P. Attention, contrairement à la plaquette, le CV embarque son propre reset CSS et un `<!doctype html>` : sans ça les marges par défaut du navigateur cassent la mise en page hors contexte Artifact.
 
 **Note de cadrage** : David a signalé en fin de session que le dossier de pièces justificatives MyConnecting n'est plus le sujet actif — ne pas relancer les points RIB/URSSAF/Qualiopi de sa propre initiative.
+
+## 2026-08-08 (3) — Intégration de l'entretien Tony Robbins dans le vault
+
+**Source** : `https://youtu.be/I_w81rptxkc` — *Tony Robbins: No One Is Ready For What's Coming (The truth about AI)*, The Diary of a CEO (Steven Bartlett), 15/01/2026, 2 h. Le titre parle d'IA mais l'IA n'occupe que le premier quart : le vrai sujet est comment un humain change.
+
+**Récupération de la transcription — méthode qui marche enfin** : `yt-dlp` installé dans un venv **sur le Mac** récupère les sous-titres auto (`--write-auto-subs --sub-langs en --sub-format json3`, avec `--extractor-args "youtube:player_client=android,web"` car le client web par défaut échoue). Le json3 se nettoie en paragraphes horodatés avec dédoublonnage des sous-titres roulants. C'est la solution au problème resté ouvert depuis le 18/07 (Firecrawl ~20 % de réussite, yt-dlp bloqué depuis l'IP du serveur) — **le blocage venait de l'IP serveur, pas de l'outil**. Depuis le Mac, ça passe.
+
+**5 notes créées / enrichies** :
+- `3. RESSOURCES/Transcriptions YouTube/Tony Robbins - No One Is Ready For What's Coming (Diary of a CEO).md` — synthèse complète en 10 sections, avec une section « Limites » (il affirme beaucoup, source peu ; biais de survivant sur la partie argent).
+- `3. RESSOURCES/Outils & Frameworks/Les 6 besoins humains (Tony Robbins).md` — les 6 besoins, la règle d'addiction (un comportement qui satisfait 3 besoins sur 6 devient une addiction), le piège significativité→amour, les problèmes comme drogue, et **l'exercice des 2 besoins dominants** utilisable tel quel.
+- `3. RESSOURCES/Outils & Frameworks/Strategy Story State et le levier (Tony Robbins).md` — la séquence inversée (State → Story → Strategy), le levier (« le changement n'est jamais une question de capacité »), le conditionnement, et le protocole d'état de Robbins avant scène.
+- `3. RESSOURCES/Outils & Frameworks/Saisons de la vie et les 3 niveaux de patterns (Tony Robbins).md` — les 4 saisons, les 3 niveaux de patterns, créer vs gérer, la mécanique d'apprentissage (immersion, chunking, micro-learning, modélisation).
+- `2. CASQUETTES/Société.md` — section « Matière Tony Robbins pour les formations », ventilée par offre du catalogue.
+
+**Tags posés** (demande explicite de David) : `tony-robbins`, `coaching`, plus `developpement-personnel`, `mindset`, `outil-formation`, `prise-de-parole`, `sakura`, `cercle-de-verite`, `ia`, `apprentissage`, `transcription`. Le vault n'utilisait quasiment pas de tags avant (seules les casquettes en avaient un) — c'est le premier ensemble structuré.
+
+**Deuxième volet demandé — brancher ça sur les futures sessions de conception** :
+- `6. PROCESS/Conception de programme transformationnel...` : nouvelle section **3 bis, une grille en 6 points** à dérouler systématiquement (ordre State/Story/Strategy · quels 3 besoins le problème satisfait et par quoi on les remplace · où est le levier · où sont l'immersion et le conditionnement · calibrage du chunking · niveau d'influence visé). C'est le mécanisme durable : cette fiche est relue à chaque session Sakura/CDV.
+- `1. PROJETS/Cercle de Vérité.md` : le piège significativité→amour décrit le client cible avec précision. **Test le plus dur à passer avant de tourner les vidéos** : la sur-adaptation satisfait au moins 3 besoins (connexion, significativité, certitude d'être accepté) — par quoi les remplace-t-on ? Un programme qui demande juste d'arrêter échoue.
+- `1. PROJETS/Sakura.md` : critère de réussite du parcours autonome = l'échelle d'influence de Robbins, niveau 3-4 (« changer l'état d'un groupe sans être là ») — pas « du contenu vendu en ligne ». Et **objection sérieuse au découpage hebdomadaire** : Robbins défend l'immersion (l'état de pic verrouille le souvenir). Piste notée : concentrer sur 1-2 temps forts immersifs, réserver l'étalement au conditionnement.
+
+**Repère personnel noté dans les fiches** : à 48 ans, David est en **début d'automne** dans les saisons de Robbins — la saison de la récolte et du levier, pas celle du travail en force. Cohérent avec son objectif de dissocier temps et revenus.
+
+**À faire remonter à la prochaine session sur les offres** : la question ouverte la plus utile est celle du remplacement des 3 besoins dans le Cercle de Vérité — elle n'est pas tranchée.

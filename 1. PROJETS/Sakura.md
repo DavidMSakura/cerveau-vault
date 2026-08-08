@@ -19,5 +19,17 @@ casquette: Contenu & Médias
 
 Voir [[6. PROCESS/Conception de programme transformationnel (Sakura & Cercle de Vérité)]] pour la méthode de construction.
 
+## Apport Tony Robbins (08/08/2026)
+
+Ajouté après [[Tony Robbins - No One Is Ready For What's Coming (Diary of a CEO)]]. Trois apports pour la version parcours autonome + coaching visio.
+
+**1. Le critère de réussite du format autonome.** Robbins donne une échelle de l'influence : changer l'état de quelqu'un (1) quand tu es là, (2) quand tu n'es pas là, (3) pour un groupe sans être là, (4) à grande échelle sans être là. **Un parcours autonome réussi, c'est le niveau 3-4 — pas « du contenu vendu en ligne ».** Test à appliquer à chaque module : *si j'enlève ma présence, est-ce que ça change encore l'état de quelqu'un ?* Si la réponse est non, c'est de l'information, et l'information ne se paie pas 997 €.
+
+**2. L'objection sérieuse au découpage.** Robbins défend l'immersion (12 h/jour sur 4 jours) sur deux arguments : l'immersion vaut des années d'expérience, et l'état de pic verrouille le souvenir — « ça se grave comme le 11-Septembre, pas comme le 11 août ». **C'est une objection directe au format « une vidéo par semaine ».** Piste à arbitrer : concentrer Sakura sur un ou deux temps forts immersifs (visio longue, live collectif) plutôt que d'étaler, et réserver l'étalement au conditionnement (répétition d'état) qui, lui, doit être long.
+
+**3. L'ossature State → Story → Strategy.** L'ordre naturel de construction d'un programme est l'inverse du bon. Sakura enseigne des stratégies (celles du chanbara) — mais elles ne prendront que si l'état est installé et l'histoire démontée d'abord. À vérifier module par module sur la structure S.A.K.U.R.A. existante lors de la révision.
+
+**Bonus, très aligné avec le positionnement chanbara** : le protocole d'état de Robbins avant de monter sur scène (respiration explosive, visualisation du public tel qu'il sera à la fin, monter à 20/10 pour redescendre à 9) et sa discipline du bain froid — dont l'intérêt déclaré est mental et non physiologique : *« quand je dis go, on y va »*, ne jamais négocier avec soi-même une décision déjà prise. C'est exactement le registre de Sakura et de la préparation du combattant. Détail : [[Strategy Story State et le levier (Tony Robbins)]].
+
 ## Prochaine étape
 _À préciser : une fois le Cercle de Vérité tourné et testé en pub, définir le seuil de rentabilité (taux d'upgrade CDV → Sakura nécessaire) avant de relancer du budget pub sur ce tunnel._
