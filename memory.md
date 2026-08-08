@@ -176,4 +176,10 @@ Nouvelle plaquette 2 pages A4 créée en HTML imprimable : `~/Documents/Formatio
 
 **Décision actée** : la clause de confidentialité signée avec High Impact (Grant Aylward) en 2025 s'applique — les clients finaux de Grant (Ferrero, DS Smith) ne sont pas nommés dans la plaquette, formulation neutre retenue. David a confirmé que Grant préfère qu'on l'applique. Question tranchée, ne pas la rouvrir.
 
-**Suite prévue** : vérifier le SIRET, retélécharger l'attestation URSSAF au nom de la société, et — si David le souhaite — regénérer la plaquette en `.pptx` éditable.
+**Plaquette — version finale** : livrée en deux formats côte à côte, `Plaquette David Marsac 2026.html` (imprimable A4 via Cmd+P) et `Plaquette David Marsac 2026.pptx` (A4 portrait, 2 diapos, éditable). Attention : le pptx utilise Avenir Next, qui n'existe que sur macOS — exporter en PDF avant tout envoi à un tiers sous Windows.
+
+**Principe éditorial retenu** : la plaquette part en même temps que le CV, donc tout ce que le CV fait mieux en a été retiré — bloc « Parcours » chronologique supprimé (doublon intégral), diplômes supprimés (BTS Banque, ITB, Licence LEA), remplacés par un renvoi « voir CV joint ». Ne restent que les **habilitations** qui autorisent un outil (Coach AGORA, DISC & Forces Motrices), parce qu'elles servent d'argument commercial et pas de biographie. La place libérée a servi à un bloc « Modalités d'intervention » (formats, langues, lieux) et à la mention du livre en cours.
+
+**Un seul verbatim, volontairement** : David trouve l'exercice d'auto-citation inconfortable. Celui retenu (participante prise de parole, « un avant et un après… j'ai changé de métier… j'étais pétrifiée ») raconte une transformation concrète et vaut mieux que plusieurs compliments empilés. À noter : aucun organisme n'a demandé de verbatims, c'était une proposition commerciale de ma part — David a eu raison de vérifier avant d'accepter.
+
+**Suite prévue** : vérifier le SIRET et retélécharger l'attestation URSSAF au nom de la société. Le CV, lui, reste à réécrire — celui du dossier s'arrête en 2018 et porte l'adresse de Craponne.
