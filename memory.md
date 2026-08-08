@@ -158,3 +158,22 @@ Architecture cible validée :
   - /home/david/Doc = clone serveur du vault GitHub
   - /home/david/telegram-claude-bot = code du bot Telegram et automatisations
   - /Users/DavidM/Documents/IA/Vault-Mnemonaute = vault Obsidian local principal sur Mac
+
+## 2026-08-08 — Dossier administratif MyConnecting + refonte de la plaquette commerciale
+
+**Dossier MyConnecting** : balayage complet du Mac pour les 11 pièces demandées par MyConnecting, copiées dans `~/Documents/Formation/MyConnecting/_Admin` avec un récapitulatif `00 - INFOS A TRANSMETTRE (recap).md`. Trouvés : CNI recto/verso (valide jusqu'au 24/06/2035, photos redressées à 180°), RIB Qonto, CV, photo d'identité, 3 diplômes (BTS Banque A 2007, BTS Banque B 2008, ITB CFPB 2011) + certifications DISC et Coach AGORA, récépissé NDA, Kbis à jour.
+
+**Points administratifs identifiés** :
+- **NDA à utiliser : 84691738269** (Level-Up Attitude, juillet 2020) — à ne pas confondre avec 84691719569, qui est celui de David en nom propre (avril 2020). C'est le 738269 qui figure sur tous les BPF depuis 2021.
+- **SIRET incertain** : 88306507000012 date du récépissé de 2020, quand le siège était à Craponne. Le siège est désormais 4 rue du Prieuré, 69130 Écully (Kbis à jour au 30/06/2026), ce qui implique probablement un nouveau NIC. À vérifier sur annuaire-entreprises.data.gouv.fr avec le SIREN 883 065 070.
+- **Attestation de vigilance URSSAF inutilisable** : celle du 01/12/2025 est périmée (validité 6 mois) et établie au nom de David en nom propre, pas de Level-Up Attitude. À retélécharger au nom de la société.
+- **Qualiopi : aucun certificat sur le Mac**, seulement une fiche explicative générique. Conclusion la plus probable : non certifié.
+- La société est passée de SASU à **SARL à associé unique** (Kbis 2026 vs 2024).
+
+**Refonte de la plaquette commerciale** : l'ancienne (`Plaquette CV David Marsac.pptx`, 2023) vendait le positionnement quitté — 8 références bancaires sur 9, titre « Formateur – Coach certifié », diplômes en tête, et aucune mention du titre de champion du monde, des 50K abonnés YouTube ni de la première partie de Fabien Olicard.
+
+Nouvelle plaquette 2 pages A4 créée en HTML imprimable : `~/Documents/Formation/_Level-Up Attitude/Plaquette David Marsac 2026.html` (ouvrir, Cmd+P, enregistrer en PDF). Positionnement retenu avec David : **« Prise de parole en public · Confiance en soi · Management »**, avec le chanbara comme preuve centrale. Accroche validée par lui : « Double champion du monde de sabre japonais. J'enseigne ce que le combat m'a appris : atteindre des objectifs ambitieux, surtout quand la pression monte. » Structure : page 1 = accroche, 3 preuves chiffrées, 3 offres, méthode ; page 2 = mission signature (Crédit Foncier), références groupées, parcours, certifications. Direction artistique tirée de son univers : bleu de Prusse (la vague de Hokusai qu'il cite comme son symbole) et un unique trait vermillon en bord de page (la coupe de sabre).
+
+**Décision actée** : la clause de confidentialité signée avec High Impact (Grant Aylward) en 2025 s'applique — les clients finaux de Grant (Ferrero, DS Smith) ne sont pas nommés dans la plaquette, formulation neutre retenue. David a confirmé que Grant préfère qu'on l'applique. Question tranchée, ne pas la rouvrir.
+
+**Suite prévue** : vérifier le SIRET, retélécharger l'attestation URSSAF au nom de la société, et — si David le souhaite — regénérer la plaquette en `.pptx` éditable.
