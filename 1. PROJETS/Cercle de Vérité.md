@@ -7,13 +7,26 @@ casquette: Contenu & Médias
 
 **Objectif** : offre digitale low-ticket pour hommes qui se sur-adaptent, ne savent pas dire non. Sert de porte d'entrée peu coûteuse avant l'upgrade vers [[Sakura]] (mid/high-ticket), après l'échec de la vente à froid de Sakura par webinaire.
 
-**Offre** : protocole vidéo 7 jours "sortir du Cercle de Complaisance", angle "consentement masculin". Prix 27€ + bump "15 Scripts Anti-Craquage" (17€) + upsell 1 "Peur du Rejet" (17€) + upsell 2 "Décodeur Émotionnel" (27€). Panier moyen visé 50-60€.
+**Offre** : protocole vidéo 7 jours "sortir du Cercle de Complaisance", angle "consentement masculin".
+
+**Tunnel et prix — arrêtés le 08/08/2026** :
+
+| Étape | Produit | Prix |
+|---|---|---|
+| Front-end | Le Cercle de Vérité (7 jours + 3 bonus) | **27 €** |
+| Order bump | Les 15 Scripts Anti-Craquage | **17 €** |
+| Upsell 1 | 2 jours pour rester fort | **39 €** |
+| Upsell 2 | Le Décodeur Émotionnel | **27 €** |
+
+Panier maximum théorique **110 €**, panier moyen visé **50-60 €**.
+
+⚠️ **Point de production à régler** : l'upsell 1 a été tranché à **39 €** le 08/08/2026, mais les versions vidéo tournées sont 17, 27, 47 et 57 € — **il n'existe pas de `Upsell1 39E.mp4`**. Deux options : utiliser `Upsell1 neutre 0 prix.mp4` (la version sans prix annoncé) en affichant le 39 € uniquement sur la page, ou retourner une prise. La version neutre est la solution rapide et suffisante pour un test à 200 €.
 
 **Statut au 08/08/2026** : **produit complet et prêt.** Pages de vente en ligne (davidmarsac.com/cercle-de-verite, /confirmation-cdv + pages upsell/downsell), **les 7 vidéos quotidiennes sont tournées** (hébergées côté Systeme.io, pas sur le Mac — ne pas conclure du contenu local qu'il manque quelque chose), bonus PDF/audio produits, VSL et vidéos d'upsell tournées. **10 créas publicitaires vidéo existent** (dans `~/Documents/Formation/Olivier Clovis Scaling Academy/Ads/Videos/`, tournées le 01/02/2026).
 
 **Prochain jalon** : **premier test Meta avec un budget limité à 200€.** C'est un test d'apprentissage, pas un lancement — objectif : mesurer CPM, CTR, coût par achat et taux de prise des bumps/upsells sur de vraies données, avant d'envisager tout budget significatif.
 
-**Détail du tunnel** : le prix de l'**upsell 1 n'est pas arrêté** — les versions vidéo 17€, 27€, 47€ et 57€ ont toutes été tournées, plus une version neutre sans prix.
+**Reste à faire avant diffusion** : afficher la **durée d'accès** sur la page de vente (absente aujourd'hui, flou bloquant pour un achat impulsif à 27 €).
 
 **Accompagnement en cours** : **Olivier Clovis / Scaling Academy** (launch-funnel.com) pour caler le tunnel low-ticket. Matériel (scripts ads, structure tunnel, séquences email, contenus/vidéos Insta) dans `~/Documents/Formation/Olivier Clovis Scaling Academy/`. Voir [[3. RESSOURCES/Accompagnements marketing (Liberty Webi & Scaling Academy)]].
 

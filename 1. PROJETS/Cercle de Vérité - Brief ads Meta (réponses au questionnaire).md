@@ -37,7 +37,7 @@ Plus 3 bonus inclus : les 10 Scripts de NON prêts à l'emploi (PDF), l'audio d'
 
 **Durée d'accès** : accès à vie *(à confirmer — ce n'est écrit nulle part sur la page).*
 
-**Reste du tunnel** : order bump « Les 15 Scripts Anti-Craquage » (17 €), upsell 1 « 2 jours pour rester fort » (prix non arrêté : versions 17/27/47/57 € toutes tournées), upsell 2 « Le Décodeur Émotionnel » (27 €). Panier moyen visé : 50-60 €.
+**Reste du tunnel** : order bump « Les 15 Scripts Anti-Craquage » (**17 €**), upsell 1 « 2 jours pour rester fort » (**39 €**), upsell 2 « Le Décodeur Émotionnel » (**27 €**). Panier maximum théorique 110 €, panier moyen visé 50-60 €.
 
 ---
 
@@ -156,6 +156,6 @@ Chemin : `~/Documents/Formation/Olivier Clovis Scaling Academy/Contenus/Low Tick
 
 ## Points à trancher avant diffusion
 
-1. **Prix de l'upsell 1** — toujours pas arrêté (17/27/47/57 € tournés).
+1. ~~Prix de l'upsell 1~~ — **tranché le 08/08/2026 : 39 €.** ⚠️ Aucune vidéo à 39 € n'a été tournée (17/27/47/57 € seulement) : utiliser `Upsell1 neutre 0 prix.mp4` et n'afficher le prix que sur la page, ou retourner une prise.
 2. **Durée d'accès** — à afficher sur la page.
 3. **Budget du test** : 200 €. C'est un test d'apprentissage, pas un lancement. Métriques à relever : CPM, CTR, coût par achat, **et surtout taux de prise du bump et des upsells** — c'est le panier moyen, pas le coût par achat, qui décidera si le tunnel est viable.
