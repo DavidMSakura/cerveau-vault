@@ -7,7 +7,18 @@ casquette: Contenu & Médias
 
 **Objectif** : offre digitale mid/high-ticket — confiance en soi par les stratégies du chanbara, à développer en parcours autonome + coaching visio.
 
-**Prix** : 497€ (early bird) → 997€ (tarif plein), vente unique, paiement possible en 3-4x.
+**Prix — historique** : 497€ (early bird) → 997€ (tarif plein), vente unique, paiement possible en 3-4x. C'est ce tarif qui a servi au tunnel webinaire déficitaire ci-dessous.
+
+**Prix — architecture cible (annoncée le 08/08/2026, pas encore implémentée)** : Sakura éclate en **deux niveaux**.
+
+| Niveau | Prix visé | Contenu |
+|---|---|---|
+| **Mid-ticket** | ~997€ | Le parcours + **coachings collectifs uniquement** |
+| **High-ticket** | ~2500€ | Accompagnement total, avec **coaching individuel premium** |
+
+C'est la direction à retenir dans toute réflexion à venir (offres, tunnel, argumentaires, calculs de rentabilité). **Rien n'est encore construit ni mis en vente** : ni les contenus différenciés, ni les pages, ni la mécanique de passage d'un niveau à l'autre.
+
+Conséquence pour le funnel : le calcul du taux d'upgrade nécessaire depuis [[Cercle de Vérité]] change complètement selon le niveau visé — un upgrade à 2500€ demande dix fois moins de conversions qu'à 27€ de panier moyen pour rentabiliser le même budget pub. À refaire proprement une fois les deux niveaux définis.
 
 **Statut** : 13 élèves acquis, tous payés intégralement (aucun impayé). Modèle initial — vente à froid par webinaire Zoom — pas rentable : ~9100€ dépensés en pubs Meta pour ~3000€ de CA encaissé, soit **~-6100€ net**. Pubs Meta coupées depuis **novembre 2025** pour stopper la fuite de trésorerie ; le projet est en pause côté acquisition, pas côté contenu/élèves existants.
 

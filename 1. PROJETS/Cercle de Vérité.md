@@ -9,7 +9,11 @@ casquette: Contenu & Médias
 
 **Offre** : protocole vidéo 7 jours "sortir du Cercle de Complaisance", angle "consentement masculin". Prix 27€ + bump "15 Scripts Anti-Craquage" (17€) + upsell 1 "Peur du Rejet" (17€) + upsell 2 "Décodeur Émotionnel" (27€). Panier moyen visé 50-60€.
 
-**Statut** : pages de vente déjà en ligne (davidmarsac.com/cercle-de-verite, /confirmation-cdv + pages upsell/downsell). Contenu (vidéos, bonus) pas encore finalisé/tourné. **Aucune pub Meta encore créée ni diffusée** — c'est le principal chantier restant avant tout coût d'acquisition.
+**Statut au 08/08/2026** : **produit complet et prêt.** Pages de vente en ligne (davidmarsac.com/cercle-de-verite, /confirmation-cdv + pages upsell/downsell), **les 7 vidéos quotidiennes sont tournées** (hébergées côté Systeme.io, pas sur le Mac — ne pas conclure du contenu local qu'il manque quelque chose), bonus PDF/audio produits, VSL et vidéos d'upsell tournées. **10 créas publicitaires vidéo existent** (dans `~/Documents/Formation/Olivier Clovis Scaling Academy/Ads/Videos/`, tournées le 01/02/2026).
+
+**Prochain jalon** : **premier test Meta avec un budget limité à 200€.** C'est un test d'apprentissage, pas un lancement — objectif : mesurer CPM, CTR, coût par achat et taux de prise des bumps/upsells sur de vraies données, avant d'envisager tout budget significatif.
+
+**Détail du tunnel** : le prix de l'**upsell 1 n'est pas arrêté** — les versions vidéo 17€, 27€, 47€ et 57€ ont toutes été tournées, plus une version neutre sans prix.
 
 **Accompagnement en cours** : **Olivier Clovis / Scaling Academy** (launch-funnel.com) pour caler le tunnel low-ticket. Matériel (scripts ads, structure tunnel, séquences email, contenus/vidéos Insta) dans `~/Documents/Formation/Olivier Clovis Scaling Academy/`. Voir [[3. RESSOURCES/Accompagnements marketing (Liberty Webi & Scaling Academy)]].
 

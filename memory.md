@@ -221,3 +221,19 @@ Nouvelle plaquette 2 pages A4 créée en HTML imprimable : `~/Documents/Formatio
 **Repère personnel noté dans les fiches** : à 48 ans, David est en **début d'automne** dans les saisons de Robbins — la saison de la récolte et du levier, pas celle du travail en force. Cohérent avec son objectif de dissocier temps et revenus.
 
 **À faire remonter à la prochaine session sur les offres** : la question ouverte la plus utile est celle du remplacement des 3 besoins dans le Cercle de Vérité — elle n'est pas tranchée.
+
+## 2026-08-08 (4) — Ads Meta du Cercle de Vérité + nouvelle architecture Sakura
+
+**Contexte** : David travaille avec un prestataire/outil qui produit ses ads Meta et lui a envoyé un questionnaire en 7 points sur l'offre low-ticket. Réponses rédigées à partir des sources réelles (page de vente en ligne, bible de production, mécanisme unique, compilation des scripts).
+
+**Matière du Cercle de Vérité — où elle est** : tout est dans `~/Documents/Formation/Olivier Clovis Scaling Academy/`. Les deux documents à ouvrir en priorité pour toute question pub sont `Contenus/Low Ticket - Le Cercle de Vérité/🔥 MÉCANISME UNIQUE Nice Guy.docx` (le positionnement) et `.../Parcours/COMPILATION — Scripts Cercle de Vérité (base créas pubs).docx` — 26 000 mots compilés le 06/08/2026, contenant un index publicitaire déjà prêt (mécanisme, douleurs, punchlines, séquences, objections). C'est cette compilation qu'il faut fournir comme matière brute, pas les scripts jour par jour.
+
+**Règle éditoriale non négociable des créas** (extraite de la compilation, à rappeler à chaque fois) : l'accusation « tu manipules » n'est supportable que dans une bouche qui se l'applique d'abord à elle-même. **David doit porter l'accusation sur lui-même avant de la retourner vers le spectateur** — « je manipulais » avant « tu manipules ». Sans ça le crochet devient une agression et les signalements Meta grimpent.
+
+**Avatar — ne pas confondre avec celui du webinaire Sakura** : le webinaire visait 50 % hommes / 50 % femmes. Le Cercle de Vérité est **exclusivement masculin, 35-60 ans**, hypersensibles, en reconstruction (rupture *ou* séparation *ou* reconversion *ou* épreuve — la rupture n'est qu'un cas parmi d'autres, ne pas réduire le ciblage à « post-rupture »). Conscient du symptôme (« je n'arrive pas à dire non »), **pas du mécanisme** — c'est ce qui fait la force du crochet.
+
+**Correction importante à mon analyse** : j'avais conclu de l'inventaire local que les 7 vidéos quotidiennes n'étaient pas tournées et recommandé de repousser les ads. **Faux — elles sont tournées**, simplement hébergées côté Systeme.io et absentes du Mac. Ne plus déduire l'état de production du contenu local.
+
+**Statut réel du Cercle de Vérité** : produit complet et prêt. **Premier test Meta prévu avec un budget limité à 200€** — test d'apprentissage (CPM, CTR, coût par achat, taux de prise bump/upsells), pas un lancement. Le prix de l'upsell 1 n'est toujours pas arrêté (versions 17/27/47/57€ toutes tournées).
+
+**Sakura — nouvelle architecture cible (pas encore implémentée)** : Sakura devient une offre à **deux niveaux** — un **mid-ticket à ~997€** avec coachings collectifs uniquement, et un **high-ticket à ~2500€** avec accompagnement total et coaching individuel premium. Le « 2500€ » qui figurait dans le questionnaire du prestataire n'était donc pas une erreur mais la cible de David. Rien n'est construit : ni contenus différenciés, ni pages, ni mécanique de passage. **Le calcul du taux d'upgrade nécessaire depuis le Cercle de Vérité est à refaire une fois les deux niveaux définis** — il change radicalement selon le niveau visé.
