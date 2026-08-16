@@ -1,6 +1,6 @@
 ---
 type: projet
-statut: en pause — à confirmer avec David
+statut: en jachère (décision de David, 16/08/2026)
 date_creation: 2026-08-16
 tags:
   - mnemonaute
@@ -11,17 +11,21 @@ tags:
 
 # Livre — Libérez votre mémoire
 
-> ⚠️ **Projet découvert le 16/08/2026** en explorant `~/Documents/Mnemonaute/`. Il n'existait nulle part dans le vault, qui ne connaissait que [[Livre - Le Triangle Dramatique]]. **Ce sont deux livres différents.** Statut réel à confirmer avec David : abandonné, en pause, ou toujours vivant ?
+> **🌱 EN JACHÈRE — décision de David, 16/08/2026.** Le projet n'est pas abandonné, il n'est simplement pas d'actualité. **Ne pas le relancer de ma propre initiative.**
+>
+> Sur la préface : question réglée, **elle n'est pas un enjeu**. David considère que Fabien Olicard dira oui s'il la lui demande, le jour où le livre reprendra. Il n'y a donc rien à sécuriser ni à revalider — ne plus poser la question.
+>
+> Projet découvert le 16/08/2026 en explorant `~/Documents/Mnemonaute/`. Il n'existait nulle part dans le vault, qui ne connaissait que [[Livre - Le Triangle Dramatique]]. **Ce sont deux livres différents.**
 
 **Titre** : *LIBÉREZ VOTRE MÉMOIRE*
 **Sous-titre / catchline presse** : « Une mémoire illimitée pour gagner en confiance en soi et vivre une vie plus épanouie. »
 **Auteur** : David Marsac · **Institution** : Mnemonaute
 
-## 🎯 Le point qui change tout
+## La préface
 
-> **PRÉFACE DE FABIEN OLICARD — « accord de sa part : OK »**
+La note d'intention porte la mention **« PRÉFACE de Fabien Olicard — accord de sa part : OK »**.
 
-C'est écrit noir sur blanc dans la note d'intention. Un accord de préface d'un auteur qui vend en librairie et remplit des salles est un **actif rare**, et il dort dans un dossier depuis des années. Première question à se poser : est-il toujours valable ?
+David a tranché : ce n'est pas un enjeu, et ça ne se périme pas. Fabien acceptera s'il le lui demande, le moment venu. **Sujet clos, ne pas le rouvrir.**
 
 ---
 
@@ -98,13 +102,12 @@ Trois raisons de le remettre sur la table :
 2. **La préface est accordée.** À revalider, mais l'accord a existé.
 3. **Le positionnement colle enfin.** Le livre promettait déjà « mémoire → confiance en soi » avant que la chaîne ne fasse le pivot. Il n'est pas en décalage avec le David de 2026 : il l'annonçait.
 
-**Le point de friction à trancher avec David** : il a **deux** projets de livre ouverts — celui-ci et [[Livre - Le Triangle Dramatique]] (co-écrit avec Stéphanie Kapp, sur Karpman / CNV / consentement). Aucun des deux n'avance. La question n'est pas lequel est le meilleur, c'est **lequel se termine**.
+Mais **ce n'est pas la priorité de David aujourd'hui**, et c'est un choix cohérent : les offres digitales ([[Cercle de Vérité]], [[Sakura]]) passent avant, et l'autre manuscrit — [[Livre - Le Triangle Dramatique]], co-écrit avec Stéphanie Kapp — est plus avancé.
 
 ## Prochaine étape
 
-À décider par David :
-1. Le projet est-il vivant, en pause ou abandonné ?
-2. L'accord de préface de Fabien Olicard tient-il toujours ?
-3. Si vivant : lequel des deux livres passe en priorité ?
+**Aucune.** Le projet dort volontairement.
+
+Ce qui a changé le 16/08/2026, et qui vaudra le jour où il reprendra : **la matière des neuf chapitres est désormais dans le vault**, fiche par fiche. Le manuscrit n'est plus un projet d'écriture à partir de rien, c'est un projet de montage. Voir la colonne de droite du chemin de fer ci-dessus.
 
 Voir aussi : [[Livre - Le Triangle Dramatique]] · [[Catalogue des vidéos Mnemonaute]] · [[Idées de contenu Mnemonaute - backlog]] · [[Contenu & Médias]]
