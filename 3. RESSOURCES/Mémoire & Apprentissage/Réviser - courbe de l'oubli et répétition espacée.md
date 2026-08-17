@@ -59,6 +59,22 @@ Une boîte compartimentée — une boîte à chaussures pour du format carte pos
 
 ---
 
+## La version numérique : Anki
+
+La vidéo *Flashcards, l'outil ultime* consacre sa seconde moitié à **Anki** (AnkiApp sur mobile), gratuit, qu'il utilise et recommande sans affiliation.
+
+**Ce qu'il en retient**
+- On peut **télécharger des jeux déjà faits** (les *decks*) ou créer les siens. Il cite le deck *Départements français* à 101 entrées, dont le verso affiche le nom, la préfecture **et une carte de France avec le département en rouge** ; et le deck *United States and Capitals*, utilisé pour la masterclass de [[Mémoriser la géographie]].
+- **L'auto-évaluation à chaque carte** — facile / moyen / difficile / très difficile — pilote la suite : l'application représente plus souvent ce qui a posé problème et espace ce qui est acquis. **C'est la boîte à compartiments, automatisée.**
+- *« On se rend compte qu'on n'a pas besoin d'apprendre toutes les choses avec la même quantité de révision. »*
+- L'argument décisif est la **disponibilité** : dans le bus, en salle d'attente, aux toilettes. *« Si vous avez deux minutes à tuer, au lieu de faire un jeu dont vous direz après qu'il ne vous a rien apporté — lancez Anki. »*
+
+**Qui s'en sert vraiment** : *« tous ceux que je connais qui ont fait médecine s'en sont servis »*, plus un ami pilote en formation. C'est l'argument à sortir face à un adulte qui trouve les flashcards enfantines.
+
+**Le format matériel**, si l'on préfère le papier : des fiches Bristol coupées en deux ou en quatre — **le format carte de visite** est le bon. Un carnet marche aussi, question au recto de la page, réponse au verso.
+
+---
+
 ## Le vrai bénéfice : on ne révise plus que ce qui résiste
 
 C'est l'argument qui fait vendre la méthode, et il est plus fort que la promesse de mémorisation.
