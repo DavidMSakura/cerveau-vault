@@ -1,8 +1,10 @@
 # Mémoire & Apprentissage
 
-Le corpus Mnemonaute : dix ans d'enseignement de David sur la mémoire, l'apprentissage et le développement personnel, extrait des **58 vidéos** de la chaîne YouTube et remonté par technique plutôt que par ordre de publication.
+Le corpus Mnemonaute : dix ans d'enseignement de David sur la mémoire et l'apprentissage, extrait des **58 vidéos** de la chaîne YouTube et remonté par technique plutôt que par ordre de publication.
 
-Ajouté le 16/08/2026. Les verbatims complets sont hors vault, dans `~/Documents/Mnemonaute/Scripts/`.
+Ajouté le 16/08/2026, complété le 17/08/2026. Les verbatims complets sont hors vault, dans `~/Documents/Mnemonaute/Scripts/`.
+
+> Le versant **développement personnel et coaching** ne relève pas de la mémoire : il a été déplacé dans `3. RESSOURCES/Outils & Frameworks/` → [[Développement personnel - la matière Mnemonaute]].
 
 ---
 
@@ -28,13 +30,12 @@ Ajouté le 16/08/2026. Les verbatims complets sont hors vault, dans `~/Documents
 
 ## Les applications
 
-- **[[Calcul mental et tables de multiplication]]** — le filon le plus vu de la chaîne
+- **[[Rubik's cube sans algorithme]]** — le contenu le plus vu de la chaîne (681 000 vues) : une histoire remplace 200 formules
+- **[[Calcul mental et tables de multiplication]]** — le filon le plus vu après le cube
+- **[[Mémoriser la géographie]]** — départements, Europe des 28, 50 états US : une méthode, trois cas
+- **[[Vocabulaire et langues étrangères]]** — le mot-pont, et quand passer par le sens plutôt que par le son
 - **[[Trous de mémoire et stress à l'oral]]** — le protocole en situation
 - **[[Prise de parole sans notes - la méthode des 3 techniques]]** — le pont vers le métier d'aujourd'hui
-
-## Le versant développement personnel
-
-- **[[Développement personnel - la matière Mnemonaute]]** — zone de confort, les 10 leçons, le pivot de 2025
 
 ## Référence
 
