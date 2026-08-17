@@ -85,31 +85,20 @@ L'accroche assume l'âge : *« L'an prochain j'aurai 50 ans. Et je vais être ho
 
 ---
 
-## Les autres vidéos du versant
+## Les fiches détaillées
 
-**Les 3 phrases qui changent tout (quand quelqu'un va mal)** — 2025 — https://youtu.be/JjwS6Tl2ZB8
-Outil relationnel court. Croise directement les [[Outils de coaching (Steph) - Drivers, CoDev, chronotypes, imposteur|outils de coaching]] et le [[Consentement et amortisseur d'ego - concepts originaux du livre|Triangle de Karpman]] : quoi dire à quelqu'un qui souffre sans basculer en Sauveur.
+Le contenu de ces vidéos a été extrait le 17/08/2026 dans des fiches dédiées :
 
-**La pire erreur que tu fais chaque jour sans t'en rendre compte** — 2025 — https://youtu.be/PH-Nn4_b_Cg
-Format court, hook fort. Un script existe dans `~/Documents/Mnemonaute/Décisions/`.
+- **[[Surmonter ses peurs, décider et agir (Mnemonaute 2019)]]** — les 70 à 90 % de décisions qu'on ne prend pas, l'anecdote du vestiaire de chanbara, la physiologie de la peur et le renversement cause/conséquence, la stratégie de l'aveu, le pilote automatique. Inclut la suite de 2025, *La pire erreur que tu fais chaque jour*, avec l'anecdote du général au Pentagone.
+- **[[Méditation et pleine conscience (Mnemonaute 2019)]]** — le sas d'entrée et de sortie, la posture complète, l'exercice des dix respirations, « aligner ses réactions avec ses valeurs », manger et marcher en pleine conscience, l'anecdote des parents d'élèves.
+- **[[Accords toltèques et grille d'auto-évaluation (Mnemonaute 2022)]]** — les cinq accords avec l'exemple de Josiane et celui de l'autoroute, l'exercice des accords inversés, et la grille de feedback en quatre questions.
+- **[[Poser de bonnes questions et soutenir quelqu'un (Mnemonaute)]]** — l'hexamètre de Quintilien, les formulations qui enferment, l'interronégative, « sors la pelle et creuse », et les trois phrases quand quelqu'un va mal.
 
-**Qu'est-ce qu'une bonne question ?** — 2026 — https://youtu.be/rJFrgk2EjXQ
-La dernière vidéo publiée. **Script écrit disponible** dans `~/Documents/Mnemonaute/Questions/`. Recoupe la **Questiologie** déjà présente au vault et la posture de coach.
+⚠️ **La trilogie 2019 était la matière la moins exploitée de tout le corpus** : 7 400, 7 200 et 4 900 vues, format long, transcription dégradée — alors que le sujet (peurs, décision, passage à l'action) est **exactement** celui du [[Cercle de Vérité]] aujourd'hui. Dix mille mots écrits par David sept ans avant l'offre.
 
-**Les 4 (+1) Accords toltèques** — 2022 — https://youtu.be/Gml1me4sAak
-Fiche de synthèse existante dans `~/Documents/Mnemonaute/Accords tolteques/`.
-
-**S'auto-évaluer objectivement sans jugement pour un feedback efficace** — 2022 — https://youtu.be/5atgsQF0Sc0
-Croise directement [[SHERPA - méthode MENTOR (feedback managérial)]] — matière formation management.
+## Reste sans fiche dédiée
 
 **La matrice Eisenhower** — 2020 — https://youtu.be/PY3hxa1iv14
-Déjà documentée dans [[Boîte à outils formation - frameworks courts]]. La vidéo est l'angle « organisation, stress, charge mentale », plus vendeur que l'angle outil.
-
-**La trilogie Développement Personnel** — 2019 — trois épisodes longs, format d'avant le pivot :
-1. *Surmonter ses peurs, prendre des décisions et agir* — https://youtu.be/SSIRdAAuSpM
-2. *Les secrets de la méditation* — https://youtu.be/Uco4lqF0Cyk
-3. *Pleine Conscience* — https://youtu.be/twApG6z6HlA
-
-⚠️ **Ces trois vidéos sont les moins exploitées de tout le corpus** : 7 400, 7 200 et 4 900 vues, format long, transcription de mauvaise qualité — mais le sujet (peurs, décision, passage à l'action) est **exactement** celui du Cercle de Vérité aujourd'hui. Il y a là 10 000 mots de matière brute sur les peurs, écrits par David sept ans avant l'offre.
+Déjà documentée dans [[Boîte à outils formation - frameworks courts]]. La vidéo apporte l'angle « organisation, stress, charge mentale », plus vendeur que l'angle outil, et se branche sur [[Hygiène de la mémoire]].
 
 Voir aussi : [[Cercle de Vérité]] · [[Sakura]] · [[Idées de contenu Mnemonaute - backlog]] · [[Les 6 besoins humains (Tony Robbins)]]

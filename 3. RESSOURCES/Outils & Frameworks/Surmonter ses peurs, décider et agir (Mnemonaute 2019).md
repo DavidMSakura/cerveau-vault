@@ -132,6 +132,52 @@ Dit en **avril 2019**. La vidéo *La zone de confort est une prison* est sortie 
 
 ---
 
+## La suite, six ans plus tard : « La pire erreur que tu fais chaque jour »
+
+*La pire erreur que tu fais chaque jour sans t'en rendre compte…* (2025, 5:33, 796 vues) — https://youtu.be/PH-Nn4_b_Cg · **transcription propre, citable**
+
+David y renvoie explicitement à la vidéo de 2019 et reprend le même chiffre, actualisé : *« chaque jour on prend entre 2 000 et 10 000 décisions, mais il y en a 90 % que tu ne choisis même pas »* — automatiques, inconscientes, basées sur l'habitude, la peur ou le confort.
+
+> *« Si on ne choisit pas, c'est la vie qui choisit à notre place. Et la vie, elle s'en fout de tes rêves. »*
+
+### Les trois issues d'un choix
+
+| Tu… | Résultat |
+|---|---|
+| décides, et c'est la bonne décision | **tu progresses** |
+| décides, et c'est la mauvaise | tu restes au même niveau — **mais tu as accumulé de l'expérience** |
+| **ne décides pas** | **tu régresses** — dans les faits, mais aussi dans ta confiance, ton énergie, ta dynamique |
+
+> *« Ne pas choisir, c'est refuser d'apprendre. La seule personne qui échoue, c'est celle qui abandonne et qui s'abandonne à la vie. »*
+
+### L'anecdote du général au Pentagone
+
+Qu'il donne pour ce qu'elle est : *« peu importe qu'elle soit vraie ou pas, elle est juste trop puissante pour ne pas la raconter. »*
+
+Un général trois étoiles est nommé sur un poste où une restructuration profonde traîne **depuis dix ans** — études, contre-études, cabinets, consultants, et deux doctrines opposées, A et B. Trois mois après sa prise de poste, on lui demande de trancher.
+
+Il réunit les deux camps : *« vous avez chacun trente minutes pour faire valoir vos arguments, soyez synthétiques. »* À la fin, il se lève, désigne l'un des deux du doigt : **« OK, faites ça. Exécution. »** L'affaire est pliée en une heure.
+
+Son assistant, sidéré : *« ça fait dix ans qu'on tourne autour du pot, et il est impossible que vous ayez pris connaissance de tous les éléments. Comment pouvez-vous être sûr que c'est le bon choix ? »*
+
+> **« Si j'ai pris la bonne décision, on le saura tout de suite et on continuera. Si j'ai pris la mauvaise, eh bien on mettra moins de dix ans à le savoir. »**
+>
+> *« Quand tu es aux commandes de quelque chose, décide. Dans ton boulot comme dans ta vie. »*
+
+**La morale qu'il en tire** : *« décider, c'est mettre le temps à ton service, pas à ton désavantage. »*
+
+### La chute
+
+*« Si tu attends que quelqu'un te valide, te choisisse, te donne l'autorisation — personne ne va te choisir, personne ne va t'attendre, personne ne va venir te sauver. Cette personne que tu attends, ce n'est pas ton boss, ce n'est pas ton parent, ce n'est pas ton partenaire de vie. **C'est toi.** C'est ton toi d'aujourd'hui qui peut sauver ton toi de demain. »*
+
+Et le renversement final : *« tu crois peut-être que ce sont les événements de ta vie qui t'ont défini — ton éducation, les blessures, les réussites, les humiliations, les abandons. Mais non. **Ce ne sont pas les événements qui te définissent, c'est ce que tu fais de ce qui t'arrive.** »*
+
+Écho direct à la leçon 8 des [[Développement personnel - la matière Mnemonaute|10 leçons]] : *« avoir de la chance, c'est ce que vous allez faire avec ce qui vous arrive. »*
+
+**Le CTA** : le lead magnet **« Le petit guide de nos peurs »** — c'est la deuxième des deux seules vidéos du catalogue à renvoyer vers le funnel.
+
+---
+
 ## Ce qu'il faut en faire
 
 1. **L'anecdote du vestiaire est à sortir de là.** Elle mérite sa propre vidéo courte, et elle a sa place dans l'argumentaire de [[Sakura]] comme dans les formations prise de parole.
