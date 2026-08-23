@@ -9,7 +9,7 @@ Prépare la semaine à venir en lisant l'état réel du vault plutôt qu'en impr
 
 ## Étapes
 
-1. **Lire les projets ouverts** : parcourir tous les fichiers de `1. PROJETS/` (sauf `_INDEX.md`). Pour chaque projet, noter son statut (frontmatter `statut:`) et sa section "Prochaine étape".
+1. **Lire les projets ouverts** : parcourir tous les fichiers de `1. PROJETS/` (sauf l'index `Projets - ce qui a une fin.md`). Pour chaque projet, noter son statut (frontmatter `statut:`) et sa section "Prochaine étape".
 2. **Lire les casquettes** : parcourir `2. CASQUETTES/` pour rappeler les responsabilités permanentes actives (Finances, Contenu & Médias, Famille, Société).
 3. **Lire le journal récent** : les 5-7 dernières entrées de `5. JOURNAL/` (si elles existent) pour capter l'humeur, les victoires et apprentissages récents — ne pas se limiter à la théorie des projets, tenir compte de l'état réel de la semaine passée.
 4. **Lire `memory.md`** : la dernière entrée ou les deux dernières, pour le contexte des sessions de travail précédentes (technique, business, etc.).

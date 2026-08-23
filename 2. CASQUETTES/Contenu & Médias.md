@@ -19,7 +19,7 @@
 
 ## Le corpus est désormais dans le vault (16/08/2026)
 
-Les 58 vidéos ont été transcrites (`~/Documents/Mnemonaute/Scripts/`, 131 000 mots) et la matière remontée par technique dans [[3. RESSOURCES/Mémoire & Apprentissage/_INDEX|Mémoire & Apprentissage]] — 14 fiches.
+Les 58 vidéos ont été transcrites (`~/Documents/Mnemonaute/Scripts/`, 131 000 mots) et la matière remontée par technique dans [[Corpus Mnemonaute - toutes les techniques|Mémoire & Apprentissage]] — 14 fiches.
 
 - **Le backlog d'idées** : [[Idées de contenu Mnemonaute - backlog]]
 - **Le livre qui en découle** : [[Livre - Libérez votre mémoire]]
