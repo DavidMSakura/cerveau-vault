@@ -299,3 +299,36 @@ Nouvelle plaquette 2 pages A4 créée en HTML imprimable : `~/Documents/Formatio
 - Les deux meilleures vidéos du versant coaching (*Qu'est-ce qu'une bonne question* et *Les 3 phrases*) font **670 et 980 vues**. C'est le constat du pivot en chiffres : le meilleur contenu actuel n'atteint pas l'audience historique.
 
 **État final du corpus** : `Mémoire & Apprentissage` compte 24 fiches et 32 200 mots (contre 14 fiches et ~19 000 mots avant la session). Les 58 vidéos sont désormais toutes exploitées, à l'exception des deux vidéos promotionnelles Memory Box (unboxing et jeu concours), qui n'ont pas de contenu technique.
+
+## 2026-08-23 — Reprise du chantier MyConnecting : correction du cas Vernet, déroulé pédagogique et supports PowerPoint
+
+**Priorité redonnée par David** : terminer MyConnecting. La formation **Radiance Mutuelle (agence de Dijon), les 16 et 17 septembre 2026**, était le vrai travail en cours — pas le dossier administratif, qui reste ouvert sur trois points (URSSAF au nom propre, RIB adresse Craponne, Qualiopi introuvable) mais dont il n'a pas demandé la reprise.
+
+**Contacts MyConnecting** : **Maori Chunnee** (m.chunnee@groupemyconnecting.com), équipe Humain & RSE, gère l'onboarding et le cadrage ; **Simon Chatelain** (s.chatelain@) est le commercial qui a placé la mission. Tutoiement des deux côtés.
+
+**Corrections de fond apportées par David au cas fil rouge Marc Vernet**, toutes justes et toutes intégrées en v4 du déroulé :
+- **La décennale était mal posée.** Elle pèse sur le constructeur (art. 1792) : sur les lots que Marc réalise lui-même il n'y a pas d'attestation à réclamer, il n'y a personne derrière. Le meilleur angle de conseil est ailleurs — la **dommages-ouvrage** (L.242-1), obligatoire pour le particulier qui fait construire et presque jamais souscrite. Trois questions distinctes désormais dans la fiche, plus l'avertissement que la question « plomberie/électricité relève-t-elle de la décennale » est trop fine pour la salle.
+- **L'urbanisme était présenté à l'envers.** Chenôve est en zone U d'un PLU métropolitain : à 25 m² une **déclaration préalable suffit** (seuil DP à 20 m², relevé à 40 m² en zone U). Et le lien avec l'assurance n'est pas l'autorisation mais la PJ et la surface à redéclarer.
+- **25 m² ne peuvent pas contenir salon, cuisine, chambre et salle d'eau.** L'extension devient une **suite parentale** (chambre + salle d'eau), l'ancienne chambre du RDC étant réunie au salon. Ça justifie d'un coup la plomberie faite maison, le remeublement, et donne les 120 m² à opposer à la surface déclarée. La cuisine équipée disparaît du poste mobilier.
+- **Le cas B tombait sur la complémentaire collective obligatoire** : un salarié du privé ne quitte pas librement sa mutuelle d'entreprise. Le client devient **Jean-Claude, 64 ans, jeune retraité** sorti du collectif à la liquidation de sa pension — validé par David. Sa variante (un salarié à quelques mois de la retraite) est notée en réserve, jugée trop longue pour douze minutes.
+- Même problème sur **Marc Vernet lui-même** : il est désormais **salarié couvert par le contrat collectif Radiance de son entreprise**. David n'a pas voulu en faire un TNS — « s'ils ne sont pas à l'aise avec le pro, ça risque d'être clivant ou de générer : je le passe à un collègue spécialisé ».
+- Les **trois cas courts sont étoffés** (prénoms, âge, métier, revenus, propriétaire ou locataire) pour que les participants n'aient pas à inventer en jouant.
+
+**Deux apports de David sur la conclusion d'entretien, désormais au cœur du dispositif** :
+1. **Le tremplin**, dans la présentation du J1 : « nous déciderons ensemble de ce que nous mettrons en place aujourd'hui ou lors de nos prochains rendez-vous. » C'est la partie culottée, et elle est délibérée — elle pose qu'il y aura une décision, rend le second rendez-vous normal, et installe le « nous » dont la conclusion aura besoin.
+2. **Le triptyque de clôture** : « avez-vous la sensation que ce que j'ai partagé vous permettra d'atteindre votre objectif ? » · « qu'est-ce qui vous fait penser ça ? » · « quelle serait la suite logique pour vous à partir de maintenant ? » Logé dans le **E d'ACTE** (J2, 14h50, porté de 40 à 50 min en reprenant 10 min sur PACC) plutôt que dans une séquence nouvelle, pour ne pas mordre sur les trios.
+
+Les deux forment l'**arc des deux jours** : la conclusion n'est pas un moment, c'est l'encaissement d'une promesse faite à la première minute. David vise explicitement le remplacement de « bon, je vous l'envoie par mail, si ça vous convient revenez vers moi », qu'il a trop vu.
+
+**Trois livrables produits**, tous dans `~/Documents/Formation/MyConnecting/` :
+- `Deroule pedagogique DDA Radiance.html` — passé en **v4**, c'est la source de vérité du contenu.
+- `Deroule pedagogique DDA Radiance.pptx` — **15 pages, format IGECOM** (tableau 5 colonnes horaires / titre / objectifs / contenus / modalités), avec les objectifs tagués selon la **taxonomie de Bloom** et une page de progression Comprendre → Analyser → Appliquer → Créer sur les deux jours.
+- `Support DDA Radiance - JOUR 1.pptx` (**44 slides**) et `- JOUR 2.pptx` (**51 slides**), avec animations d'apparition au clic.
+
+**Charte graphique — la découverte utile** : le support `2026_Support Assertivité & Leadership_DDA.pptx` (reçu par WeTransfer le 21/07, dans le sous-dossier `wetransfer_...`) embarque le **vrai thème « MyConnecting CORPO »** — violet `#4E006E`, orange `#FF4B00`, canard `#005064`, Montserrat, 100 layouts chartés avec logos et bandeaux dégradés. Les trois livrables sont construits **directement sur ce fichier** (slides purgées, masters conservés), ce qui donne une charte exacte sans avoir à la reconstituer. Montserrat est installée sur le Mac. À réutiliser pour toute production MyConnecting future.
+
+**Outillage** (scratchpad de session, à recréer si besoin) : `deck.py` — moteur de composants (intertitres, manifestes, consignes, cartes, étapes, encarts, tableaux, split) plus injection XML `<p:timing>` pour les animations, que python-pptx ne sait pas faire nativement. `check.py` — contrôleur de débordement qui mesure chaque zone de texte avec la vraie Montserrat via PIL, et la hauteur réelle des tableaux. Indispensable : c'est lui qui a rattrapé les débordements, et le tableau du déroulé est étiré pour remplir la page.
+
+**Mail de cadrage** : brouillon créé dans Gmail (non envoyé), en réponse au fil Radiance, à Maori avec Simon en copie. Il relance sur la date **et** transmet les sept questions de cadrage en amont. Point d'alerte relevé au passage : David avait proposé le 31 août après-midi, le 1er septembre matin et le 2 septembre après-midi le 13 août, **et n'a jamais eu de confirmation** — la semaine proposée commence dans huit jours.
+
+**Reste à faire** : ouvrir les trois PowerPoint pour valider le rendu à l'écran ; faire remplacer le texte de garantie du test d'entrée (J1, 9h45) par une vraie garantie Radiance ; obtenir les réponses au cadrage, notamment la conséquence factuelle d'une formule au minimum sur un deux-roues et la répartition des six informations dues, qui sont les deux seuls trous restants dans le contenu.
