@@ -392,3 +392,38 @@ Autres décisions de David : « greffier » devient **scribe** ; les acronymes p
 **Tâche en attente donnée par Elisabeth le 24/08** : aller voir les croyances qui l'empêchent, et « qu'est-ce qui me ferait le plus peur ? ». Prochaine séance annoncée plus technique : carré, discipline, ressources.
 
 **Limite technique à vérifier dimanche** : launchd doit obtenir l'autorisation d'automatiser Notes.app en arrière-plan. Si le log du dimanche indique « Notes.app inaccessible », c'est une permission à accorder dans Réglages → Confidentialité → Automatisation.
+
+## 2026-08-24 (2) — Mémoire à deux étages, Kanban, format Sakura arrêté
+
+**Point de départ** : David partage une conversation WhatsApp avec Stéphane et Calix sur leurs systèmes IA, et demande ce qu'on peut copier.
+
+**Ce qui manquait vraiment, et qui est désormais en place** :
+- **`Etat actuel.md`** (racine du vault, 3 674 car.) — les échéances datées, les chantiers actifs, les décisions en attente, les points de vigilance. Ne contient que ce qui est vivant.
+- **Hook `SessionStart`** dans `.claude/settings.json` — il injecte ce fichier au démarrage via `jq --rawfile`, testé en réel. Le hook `Stop` existant est préservé.
+- **Skill `/fin`** (`.claude/skills/fin/SKILL.md`) — résumé, écriture dans `memory.md`, retaille de `Etat actuel.md`.
+- **`~/Applications/Doc.app`** — lance Claude Code dans le vault. Icône : le **condensateur de flux** de *Retour vers le futur*, générée en `.icns` (trois branches cyan, fond bleu nuit → violet).
+- **`CLAUDE.md` réécrit** : l'instruction demandait de lire `memory.md` **en entier** au démarrage — 65 000 caractères, ~16 000 tokens brûlés avant la première question. Elle dit maintenant de s'appuyer sur l'état injecté et de n'ouvrir `memory.md` qu'au besoin. **C'est le vrai gain : la séparation présent / archive, pas le hook.**
+
+**Correction factuelle à retenir** : Stéphane affirme que `/done` et `/backup` sont des commandes natives de Claude Code. **C'est faux** — ce sont des skills qu'il a créés ou qui viennent d'un plugin. Sa recommandation d'usage, elle, est reprise : lancer `/fin` à la fin de chaque session, terminal comme Telegram.
+
+**Trello — la décision a évolué en cours de session.** D'abord écarté au profit du plugin **Kanban d'Obsidian** (cartes en markdown dans le vault, accessibles nativement, zéro API) — le tableau `1. PROJETS/Tableau de bord.md` a été créé : 24 cartes, 7 colonnes, dont une colonne « ⏳ En attente d'un tiers » qui isole ce que seul Radiance peut débloquer. Puis David signale que **Steph se met à Trello et qu'ils auront des projets communs** : Trello redevient justifié, mais **en parallèle** du vault et pour la seule **coordination** (qui fait quoi, pour quand), la matière restant dans le vault.
+- **Steph n'a pas de second cerveau** : Trello sera son seul endroit, donc les cartes doivent être **autoportantes** — compréhensibles sans contexte externe.
+- David : « pourquoi je collerai dans Trello, si tu peux le faire ? » — il a raison, et ça annule mon conseil d'attendre un mois : c'est précisément la friction du recopiage qui tue les tableaux partagés. **En attente de sa clé API + token**, à ranger dans le **trousseau macOS** et non dans le vault.
+- **API sur le Mac** (curl suffit, j'ai Bash) ; **MCP seulement plus tard pour le bot Telegram**, qui n'a pas de shell libre.
+
+**Sakura — le format du high-ticket est ARRÊTÉ (décision tranchée)** : **6 séances individuelles d'1 h sur 3 mois**, une tous les quinze jours, plus l'accès direct par messages **sur horaires et jours convenables**, pour **2 500 €**. Soit ~9 h → **~280 €/h**.
+- Le mot **« illimité » est abandonné**. Il contredisait frontalement l'objectif de dissocier temps et revenus, et ignorait la garde alternée (vendredi soir → mardi soir). La formulation retenue est **celle que David utilise déjà dans ses pages Systeme.io** — « samedi à 23 h je ne répondrai pas ». Il l'avait donc déjà résolu sans le savoir.
+- Reste à définir : le contenu différencié des deux niveaux, les pages, la mécanique de passage, le rythme des collectifs du mid-ticket.
+
+**MyConnecting** : David a **envoyé le mail à Maori le 24/08 à 15h15**, Simon en copie, avec la relance de cadrage, les sept questions, et en pièces jointes le déroulé pédagogique et les supports J1 et J2.
+
+**⚠️ Mon erreur, et elle est partie chez le client.** En basculant les commentaires gris vers les notes du présentateur, j'ai déplacé l'avertissement « texte d'illustration à remplacer par une vraie garantie Radiance ». Ce n'était pas un commentaire de formateur mais un **avertissement sur la validité du contenu** : la clause de dégât des eaux que j'ai inventée est donc partie sur la slide 9 du J1 **sans mention visible**. Un bandeau orange a été ajouté depuis. **À signaler à Maori ou à évoquer au cadrage** — un formateur qui signale lui-même sa zone non validée inspire plus confiance qu'un formateur dont on découvre l'approximation en réunion.
+
+**⚠️ Deuxième erreur, réparée** : l'import des notes iOS du matin les avait déversées **sans aucun lien**, créant 52 orphelines. Sur 131 notes, **64 étaient orphelines**. Corrigé :
+- **21 index de dossier** créés dans `3. RESSOURCES/Notes iOS/` (`_Index — Sakura`, `_Index — Olivier Clovis`…), chacun listant ses notes et pointant vers les fiches de référence du vault.
+- Les 12 orphelines plus anciennes rattachées ([[Finances]] → Trade Republic et la vente d'appartement, [[Famille]] → croisière et séance sur le couple, le Tableau de bord → ses 8 fiches projet).
+- `Etat actuel.md` rejoint `CLAUDE.md` et `memory.md` dans les fichiers masqués du graphe.
+- **Résultat : 64 → 3 orphelines**, toutes techniques, zéro lien cassé.
+- **La cause est traitée** : `~/.local/bin/vault-notes-index.py` est appelé par le script de synchronisation, donc les index se regénèrent chaque dimanche.
+
+**Reste à faire** : signaler la clause d'illustration à Maori ; fournir la clé et le token Trello ; définir le contenu différencié des deux niveaux Sakura ; trancher entre les deux livres ; trancher la tension marketing ; vérifier le journal du cron notes iOS le lundi 25/08 (permission d'automatisation Notes.app en tâche de fond, non garantie).
