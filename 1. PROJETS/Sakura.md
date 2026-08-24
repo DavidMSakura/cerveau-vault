@@ -24,11 +24,19 @@ casquette: Contenu & Médias
 
 Le mid-ticket garde le parcours et les coachings collectifs ; c'est l'individuel et la disponibilité qui se paient.
 
-> ⚠️ **Point à trancher : le mot « illimité ».** Il entre en contradiction frontale avec l'objectif de fond — *dissocier temps et revenus, travailler sur le business plutôt que dans le business*. Un accès sans plafond, c'est du temps vendu sans compteur, et sur un accompagnement le risque n'est pas la moyenne mais la **variance** : deux clients sur dix consomment la majorité de la disponibilité. Il faut aussi tenir compte de la garde alternée (vendredi soir → mardi soir tous les quinze jours) : « illimité » veut dire joignable ces jours-là aussi.
->
-> Formulation alternative, qui garde la valeur perçue sans l'engagement infini : **« accès direct par messages, réponse sous 24 h ouvrées »**. Elle dit la même chose au client — je suis là, tu n'es pas seul, tu n'attends pas — sans promettre une disponibilité sans fin.
->
-> **Et le nombre de sessions ne peut pas rester « à déterminer » : c'est lui qui fait le prix.** Hypothèse à valider : six séances d'une heure sur trois mois (une tous les quinze jours), plus les messages en semaine. Soit environ neuf heures pour 2 500 € → **~280 €/h**, ce qui se compare correctement à une journée de formation. Passer à « illimité » sans plafond peut faire tomber ce taux sous les 150 €/h sur les clients les plus demandeurs.
+**Format du high-ticket — arrêté le 24/08/2026.**
+
+| | |
+|---|---|
+| **Séances individuelles** | **6 séances d'1 h sur 3 mois**, une tous les quinze jours |
+| **Entre les séances** | Accès direct par messages, **sur horaires et jours convenables** |
+| **Prix** | 2 500 € |
+
+Le mot « **illimité** » est abandonné au profit des **horaires et jours convenables** — formulation que David utilise déjà dans ses pages Systeme.io (« samedi à 23 h je ne répondrai pas »). Elle dit au client ce qu'il veut entendre — je suis là, tu n'attends pas — sans promettre une disponibilité sans fin, et elle protège les week-ends de garde (vendredi soir → mardi soir tous les quinze jours).
+
+**Économie de l'offre** : environ 6 h de séances plus 3 h de messages sur les trois mois, soit **~9 h pour 2 500 € → ~280 €/h**. Comparable à une journée de formation, et défendable en vente. C'était le vrai enjeu du plafonnement : avec un accès sans limite, le taux tombe sous 150 €/h sur les clients les plus demandeurs — or sur un accompagnement, le risque n'est pas la moyenne mais la variance, deux clients sur dix consommant la majorité de la disponibilité.
+
+**Reste à définir** : le contenu différencié des deux niveaux, les pages de vente, la mécanique de passage du mid vers le high, et le rythme des coachings collectifs du mid-ticket.
 
 C'est la direction à retenir dans toute réflexion à venir (offres, tunnel, argumentaires, calculs de rentabilité). **Rien n'est encore construit ni mis en vente** : ni les contenus différenciés, ni les pages, ni la mécanique de passage d'un niveau à l'autre.
 

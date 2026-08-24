@@ -21,7 +21,7 @@ kanban-plugin: board
 
 - [ ] **Cercle de Vérité — arrêter le prix de l'upsell 1** : 17, 27, 47 ou 57 €. Les quatre sont tournés. #cercle-de-verite
 - [ ] **Cercle de Vérité — lancer le test Meta à 200 €**. Test d'apprentissage, pas un lancement. #cercle-de-verite
-- [ ] **Sakura — arrêter le format du high-ticket** : nombre de séances sur les 3 mois, et remplacer « accès illimité » par une promesse tenable #sakura
+- [ ] **Sakura — définir le contenu différencié des deux niveaux**, et le rythme des collectifs du mid-ticket #sakura
 - [ ] **Sakura — construire les deux niveaux** : mid ~997 € et high ~2 500 €. Le contenu du premium est défini, le reste non. #sakura
 - [ ] **Sakura — recalculer le taux d'upgrade** nécessaire depuis le Cercle de Vérité, une fois les niveaux définis #sakura
 - [ ] **Contrat Crédit Foncier** — 13 femmes, 9 mois, avec Steph #formation
@@ -51,6 +51,7 @@ kanban-plugin: board
 - [x] Synchronisation automatique des notes iOS — dimanche 18h #systeme
 - [x] Fiche de suivi du coaching Elisabeth Roche #coaching
 - [x] Corpus Mnemonaute — 24 fiches, 32 200 mots #mnemonaute
+- [x] **Sakura — format du high-ticket arrêté** : 6 séances d'1 h sur 3 mois + messages sur horaires convenables, 2 500 € #sakura
 
 %% kanban:settings
 ```
