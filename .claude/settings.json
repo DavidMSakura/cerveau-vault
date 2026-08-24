@@ -10,6 +10,18 @@
           }
         ]
       }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -Rs --rawfile etat \"$HOME/Documents/IA/Vault-Mnemonaute/Etat actuel.md\" '{hookSpecificOutput:{hookEventName:\"SessionStart\",additionalContext:(\"<contexte-permanent source=\\\"Etat actuel.md\\\">\\n\"+$etat+\"\\n</contexte-permanent>\")}}' </dev/null 2>/dev/null || true",
+            "timeout": 10,
+            "statusMessage": "Lecture de l'état actuel…"
+          }
+        ]
+      }
     ]
   }
 }
