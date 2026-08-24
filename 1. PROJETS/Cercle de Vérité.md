@@ -51,3 +51,13 @@ Détail : [[Les 6 besoins humains (Tony Robbins)]] — l'exercice des deux besoi
 
 ## Prochaine étape
 _À préciser : finaliser + tourner le contenu vidéo restant, puis créer les pubs Meta. Avant relance budget pub : définir avec David le taux d'upgrade CDV → Sakura nécessaire pour être rentable (vu l'échec du tunnel Sakura direct)._
+
+## La matière personnelle de David
+
+Le travail que David mène en coaching individuel porte sur **le mécanisme exact que vend cette offre**. Ses formulations de séance — « arrêter de n'être qu'utile, et reconnecter à l'authentique », « être pour recevoir et non faire pour avoir » — décrivent l'avatar mot pour mot.
+
+C'est doublement utile. D'une part c'est la meilleure piste disponible pour la question restée ouverte du **remplacement des trois besoins** que la sur-adaptation satisfait : sa réponse à lui, en séance, est la connexion à soi — pas une autre stratégie. D'autre part c'est ce qui rend tenable la règle éditoriale des créas, qui veut que l'accusation soit portée sur soi avant d'être retournée vers le spectateur.
+
+→ [[Coaching Elisabeth Roche - suivi des séances]]
+
+**Tension à trancher** : le coaching pousse vers « le marketing, on s'en fout, sois toi-même », ce qui frotte avec la logique funnel et le test Meta. Les deux peuvent coexister — le message porte sur le contenu, pas sur le canal — mais à choisir consciemment avant le lancement.
