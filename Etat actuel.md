@@ -9,13 +9,13 @@
 | Quand | Quoi | État |
 |---|---|---|
 | **16-17 sept.** | Formation DDA Radiance, agence de Dijon, via MyConnecting | Supports prêts, 2 trous de contenu |
-| **avant le 31/08** | Point de cadrage Radiance — créneaux proposés le 13/08, **jamais confirmés** | Brouillon Gmail prêt, **non envoyé** |
+| **avant le 31/08** | Point de cadrage Radiance | ✉️ **Relancé le 24/08** avec les 7 questions et les supports en pièces jointes — en attente de réponse |
 | **cette semaine** | Devoir donné par Elisabeth le 24/08 : les croyances qui m'empêchent, et ma plus grande peur | à faire |
 | **dimanche 18h** | 1ère exécution auto du cron notes iOS — vérifier le log lundi | à surveiller |
 
 ## 🔨 Chantiers actifs
 
-**MyConnecting / Radiance.** Déroulé HTML v6, déroulé pédagogique 15 pages, supports J1 (43 slides) et J2 (51 slides). Restent deux trous que seul le client peut boucher : la conséquence factuelle d'une formule au minimum sur un deux-roues, et la répartition des six informations dues. Et le texte de garantie du test d'entrée (J1, 9h45) est une clause que j'ai inventée — à remplacer par une vraie garantie Radiance.
+**MyConnecting / Radiance.** Déroulé HTML v6, déroulé pédagogique 15 pages, supports J1 (43 slides) et J2 (51 slides). Restent deux trous que seul le client peut boucher : la conséquence factuelle d'une formule au minimum sur un deux-roues, et la répartition des six informations dues. Et le texte de garantie du test d'entrée (J1, 9h45) est une clause inventée : elle est **partie chez le client le 24/08 sans mention visible**. Un bandeau d'avertissement a été ajouté sur la slide depuis ; à signaler à Maori, ou à évoquer au cadrage.
 
 **Cercle de Vérité.** Produit complet et prêt. Test Meta à 200 € **pas encore lancé**. Le prix de l'upsell 1 n'est toujours pas arrêté (17/27/47/57 € tous tournés). Question de fond ouverte depuis le 08/08 : par quoi remplacer les 3 besoins que la sur-adaptation satisfait ? Piste depuis le 24/08 → la matière du coaching Elisabeth Roche.
 
