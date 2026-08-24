@@ -16,6 +16,20 @@ casquette: Contenu & Médias
 | **Mid-ticket** | ~997€ | Le parcours + **coachings collectifs uniquement** |
 | **High-ticket** | ~2500€ | Accompagnement total, avec **coaching individuel premium** |
 
+**Ce que contient le high-ticket — précisé le 24/08/2026.** La différence entre les deux niveaux, c'est **l'accès premium** :
+
+- **Coaching individuel**, rythme à déterminer
+- **Sur trois mois**
+- **Accès illimité** pour du micro-coaching ou des messages entre les sessions
+
+Le mid-ticket garde le parcours et les coachings collectifs ; c'est l'individuel et la disponibilité qui se paient.
+
+> ⚠️ **Point à trancher : le mot « illimité ».** Il entre en contradiction frontale avec l'objectif de fond — *dissocier temps et revenus, travailler sur le business plutôt que dans le business*. Un accès sans plafond, c'est du temps vendu sans compteur, et sur un accompagnement le risque n'est pas la moyenne mais la **variance** : deux clients sur dix consomment la majorité de la disponibilité. Il faut aussi tenir compte de la garde alternée (vendredi soir → mardi soir tous les quinze jours) : « illimité » veut dire joignable ces jours-là aussi.
+>
+> Formulation alternative, qui garde la valeur perçue sans l'engagement infini : **« accès direct par messages, réponse sous 24 h ouvrées »**. Elle dit la même chose au client — je suis là, tu n'es pas seul, tu n'attends pas — sans promettre une disponibilité sans fin.
+>
+> **Et le nombre de sessions ne peut pas rester « à déterminer » : c'est lui qui fait le prix.** Hypothèse à valider : six séances d'une heure sur trois mois (une tous les quinze jours), plus les messages en semaine. Soit environ neuf heures pour 2 500 € → **~280 €/h**, ce qui se compare correctement à une journée de formation. Passer à « illimité » sans plafond peut faire tomber ce taux sous les 150 €/h sur les clients les plus demandeurs.
+
 C'est la direction à retenir dans toute réflexion à venir (offres, tunnel, argumentaires, calculs de rentabilité). **Rien n'est encore construit ni mis en vente** : ni les contenus différenciés, ni les pages, ni la mécanique de passage d'un niveau à l'autre.
 
 Conséquence pour le funnel : le calcul du taux d'upgrade nécessaire depuis [[Cercle de Vérité]] change complètement selon le niveau visé — un upgrade à 2500€ demande dix fois moins de conversions qu'à 27€ de panier moyen pour rentabiliser le même budget pub. À refaire proprement une fois les deux niveaux définis.
