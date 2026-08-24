@@ -37,3 +37,4 @@ _(ce que j'aurais fait différemment, ou ce que j'ai compris)_
 
 **Une phrase pour clore la journée :**
 
+→ [[Journal - mode d'emploi]]

@@ -8,3 +8,5 @@ casquette: Finances
 **Objectif** : 208K€ net vendeur.
 
 **Statut** : ✅ Conclue. Solde du crédit perso (22K€), retour de la voiture LLD société et investissements (Bricks, Trade Republic, Assurance Vie) tous réglés.
+
+→ [[Finances]]

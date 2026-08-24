@@ -94,3 +94,5 @@ git push -u origin main
 - Vérification manuelle avant push : après le git add -A, vérifier git status et la liste exacte des fichiers stagés (pas leur contenu) avant de committer/pusher.
 - ~/.ssh jamais dans le champ : ni Doc/ ni telegram-claude-bot/ ne contiennent ~/.ssh.
 - Aucun cat/affichage de .env, tokens.json ou credentials.json ne sera fait à aucun moment.
+
+→ [[Ressources - ce que je veux garder|Ressources]]

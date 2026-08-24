@@ -19,3 +19,9 @@
 
 ---
 tags: casquette
+
+## Ce qui s'y rattache
+
+- [[Veille hebdomadaire portefeuille Trade Republic]]
+- [[Vente appartement locatif]] — clos
+- [[Société]] pour le chiffre d'affaires

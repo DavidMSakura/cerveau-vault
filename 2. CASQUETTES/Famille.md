@@ -14,3 +14,8 @@
 
 ---
 tags: casquette
+
+## Ce qui s'y rattache
+
+- [[Croisière Méditerranée juillet 2026]] — archivé
+- [[Coaching Elisabeth Roche - suivi des séances]] — la séance du 3 août porte sur le couple

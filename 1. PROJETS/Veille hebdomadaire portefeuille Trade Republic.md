@@ -44,3 +44,5 @@ Ces poids réels (et non le plan initial 52,5/5/25/10/7,5 sans S&P500) servent d
 ## Fréquence
 
 Hebdomadaire, le lundi matin, intégré au message existant plutôt qu'en message séparé.
+
+→ [[Finances]]

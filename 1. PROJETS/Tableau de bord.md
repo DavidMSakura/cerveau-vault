@@ -54,6 +54,17 @@ kanban-plugin: board
 - [x] Corpus Mnemonaute — 24 fiches, 32 200 mots #mnemonaute
 - [x] **Sakura — format du high-ticket arrêté** : 6 séances d'1 h sur 3 mois + messages sur horaires convenables, 2 500 € #sakura
 
+## 🗂 Les fiches
+
+- [[Cercle de Vérité]]
+- [[Sakura]]
+- [[Contrat Crédit Foncier]]
+- [[Livre - Libérez votre mémoire]]
+- [[Livre - Le Triangle Dramatique]]
+- [[Idées de contenu Mnemonaute - backlog]]
+- [[Veille hebdomadaire portefeuille Trade Republic]]
+- [[Coaching Elisabeth Roche - suivi des séances]]
+
 %% kanban:settings
 ```
 {"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,true],"show-checkboxes":true,"date-format":"YYYY-MM-DD","date-display-format":"DD/MM","show-relative-date":true,"link-date-to-daily-note":false,"hide-date-in-title":true,"new-line-trigger":"shift-enter","move-tags":false,"metadata-keys":[]}
