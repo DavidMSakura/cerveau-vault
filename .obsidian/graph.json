@@ -1,9 +1,9 @@
 {
   "collapse-filter": true,
-  "search": "-file:CLAUDE -file:memory",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0676114240287424,
+  "scale": 1.1815062602381228,
   "close": true
 }
