@@ -1,6 +1,9 @@
 # Contexte permanent — David Marsac
 
-> **Au démarrage de chaque session** : lis immédiatement `memory.md` et résume en 2-3 lignes ce qu'on a fait lors des sessions précédentes, avant toute chose.
+> **Au démarrage de chaque session** : `Etat actuel.md` t'est injecté automatiquement — tu l'as déjà sous les yeux, ne le relis pas.
+> Ouvre `memory.md` **seulement si tu as besoin de l'historique** : une décision passée, un chemin de fichier, ce qui a été tranché et pourquoi. Il fait 65 000 caractères, il ne se lit pas en entier.
+>
+> **À la fin de chaque session** : lance `/fin` — résumé, mise à jour de `memory.md`, retaille de `Etat actuel.md`.
 
 ---
 
