@@ -344,3 +344,51 @@ Les deux forment l'**arc des deux jours** : la conclusion n'est pas un moment, c
 **Graphe Obsidian nettoyé** : `CLAUDE.md` et `memory.md` masqués par un filtre (`-file:CLAUDE -file:memory`) plutôt que renommés, puisque Claude Code lit `CLAUDE.md` par son nom. `hideUnresolved` passé à `true`. Et `Bienvenue.md`, la note d'accueil par défaut d'Obsidian jamais supprimée, est effacée — elle générait à elle seule le nœud fantôme « créez un lien ».
 
 **Point non résolu** : David dit voir un nœud nommé « Titre » dans son graphe. Introuvable — aucun fichier, aucun lien, aucun alias, aucun titre H1 de ce nom. L'hypothèse la plus probable est qu'il s'agissait de « créez un lien » ou de « Bienvenue », tous deux supprimés depuis. À reposer s'il le voit encore.
+
+## 2026-08-24 — Supports MyConnecting v3, et automatisation des notes iOS
+
+**Volet 1 — MyConnecting.** David a relu les trois livrables et corrigé beaucoup. Trois de ses retours ont mis au jour de vraies erreurs de ma part :
+
+1. **Le A d'ACTE était faux.** J'avais écrit « recevoir l'objection sans la contester — *vous avez raison* ». Or valider l'objection interdit de la traiter. La formule juste est « je comprends que le prix compte pour vous ». Corrigé partout.
+2. **Le point dur d'ACTE est le C, pas le T.** Le A est acquis (« je comprends » est la phrase 4×4 passe-partout), le T arrive trop tôt (syndrome du bon élève qui veut répondre juste avant d'avoir compris à quoi). Ma slide « le T est la lettre dangereuse » a été supprimée et remplacée par *Le point dur, c'est le C*, avec un iceberg en rappel et la formule de David : **« sors ta pelle et creuse »**.
+3. **Le triptyque de clôture n'est pas le E d'ACTE.** ACTE traite une objection ; le triptyque conclut, avec ou sans objection préalable, et peut même l'éviter. J'avais fait un raccord logique inexistant.
+
+**Autre correction structurelle de David, la veille** : les **deux tours de découverte** n'avaient pas de sens — une découverte déjà faite ne se refait pas, et j'avais en plus placé la révélation de la fiche complète *entre* les deux tours, ce qui faisait rejouer un client dont le groupe connaissait déjà les couches. Remplacé par **un seul entretien avec un arrêt au milieu** : découverte (25') · **stop** (20') · reprise (25') · révélation (20'), la révélation passant à la fin.
+
+**Deux règles éditoriales posées par David, à appliquer partout** :
+- Les **commentaires de formateur ne se projettent pas**. Toutes les petites lignes grises sont passées en **notes du présentateur** (7 sur le J1, 12 sur le J2).
+- **Typographie française** : espace insécable avant `; : ! ?` et à l'intérieur des guillemets. Une passe automatique a corrigé ~200 runs sur les trois fichiers.
+
+**La phrase du paperboard a changé sur sa proposition** : « ne prépare pas ce qu'il va **dire** » → « ce qu'il va **vendre** ». Elle règle la contradiction avec une journée passée à préparer son discours, elle vise le vrai défaut (arriver avec sa solution déjà choisie), et vendre/comprendre est presque une rime.
+
+**Sept schémas natifs créés** (formes PowerPoint, éditables, à la charte) : pyramide des trois niveaux, 3C en chevrons, frise des six informations dues (J1) · schéma de la flèche, iceberg des trois couches, courbe de l'oubli tracée, arc du rendez-vous, rotation des trois rôles (J2). **L'arc n'est plus « des deux jours » mais « du rendez-vous »** — David a fait remarquer qu'il fallait parler de début et de fin de rendez-vous, pas d'hier et d'aujourd'hui : c'est la structure de leur entretien qu'on enseigne, pas celle de la formation.
+
+Autres décisions de David : « greffier » devient **scribe** ; les acronymes portent leurs **initiales en enluminure** dans les carrés (P A C C, A C T E, T O P) et non des chiffres ; le mot « placement » est banni (il veut dire épargne en assurance).
+
+**État final** : J1 43 slides, J2 51, déroulé pédagogique 15 pages, déroulé HTML en v6. Zéro débordement, zéro animation orpheline.
+
+---
+
+**Volet 2 — Les notes iOS, enfin automatisées.**
+
+**Réponse à sa question : non, aucun cron ne les parcourait.** Le rapatriement des 20-21 juillet était ponctuel et n'a jamais été reconduit — cinq semaines de notes n'étaient jamais entrées dans le vault. Les crons existants (BOAMP, rappels, briefings) tournent sur le **serveur**, qui n'a aucun accès à Notes.app : seul un processus **local sur le Mac** peut le faire.
+
+**Mis en place** : `~/.local/bin/vault-notes-sync.py`, lancé par un agent launchd `com.davidmarsac.vault-notes-sync` **chaque dimanche à 18h** (juste avant sa préparation de semaine). Le script exporte via AppleScript, écrit dans `3. RESSOURCES/Notes iOS/`, ne réécrit que ce qui a changé (empreintes SHA1 dans `~/.local/share/vault-notes-sync.json`), puis commit et push. Journal dans `~/.local/share/vault-notes-sync.log`.
+
+**Deux garde-fous, et ils comptent** :
+- **Liste blanche de dossiers** — 33 dossiers business. Sont exclus en dur : **Level-Up Attitude** (la note ADMIN contient toujours les secrets en clair repérés en juillet), Perso, Notes, Quick Notes, Magie, Ukulele, Whatsapp, Rdv MD.
+- **Détecteur de secrets** — toute note contenant un token Anthropic/Telegram/GitHub, un IBAN, une clé d'API, un mot de passe ou des codes de récupération est **ignorée et signalée**, jamais écrite. Le vault part sur GitHub, donc l'écriture est irréversible.
+
+**Première exécution** : 51 notes intégrées, 208 Ko, aucun secret détecté.
+
+**⚠️ Effet de bord à trancher avec David** : le dossier **« Elisabeth Roche coaching »** est dans le périmètre, donc le **verbatim brut de son coaching personnel — dont la séance « le couple » — est désormais poussé sur GitHub**, en plus de la fiche de synthèse. En juillet, ce type de contenu avait été délibérément tenu hors du vault. À retirer du périmètre s'il préfère que seule la fiche subsiste.
+
+**Fiche créée** : `3. RESSOURCES/Coaching Elisabeth Roche - suivi des séances.md` (1 240 mots), accompagnement hebdomadaire démarré le 20/07. Trois séances : le couple (3/08), moi et les autres (17/08), le travail (24/08). Le fil conducteur des trois est le même — **passer du faire à l'être**.
+
+**Découverte qui compte pour le business** : la phrase du 24 août, **« arrêter de n'être qu'utile, et reconnecter à l'authentique »**, avec « être pour recevoir et non faire pour avoir », décrit très exactement le mécanisme du [[Cercle de Vérité]] — l'homme qui existe par son utilité. **David travaille sur lui la chose qu'il vend**, et sa réponse en séance (la connexion à soi, pas une autre stratégie) est une piste pour la question restée ouverte depuis le 08/08 : par quoi remplacer les besoins que la sur-adaptation satisfait ?
+
+**Tension à trancher consciemment** : Elisabeth ouvre la séance du 24 par « plus visible marketing, réseaux, pub — **on s'en fout, sois toi-même** », ce qui frotte avec la stratégie funnel en cours (ads Meta, test 200 €). Les deux peuvent coexister — elle parle du contenu, pas du canal — mais à reposer avant le lancement.
+
+**Tâche en attente donnée par Elisabeth le 24/08** : aller voir les croyances qui l'empêchent, et « qu'est-ce qui me ferait le plus peur ? ». Prochaine séance annoncée plus technique : carré, discipline, ressources.
+
+**Limite technique à vérifier dimanche** : launchd doit obtenir l'autorisation d'automatiser Notes.app en arrière-plan. Si le log du dimanche indique « Notes.app inaccessible », c'est une permission à accorder dans Réglages → Confidentialité → Automatisation.
