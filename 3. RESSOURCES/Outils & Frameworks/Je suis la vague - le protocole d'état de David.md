@@ -77,6 +77,8 @@ Le rituel moteur ne sert donc pas seulement à faire circuler l'adrénaline : il
 C'est de la **réattribution causale**, et c'est directement enseignable — bien plus que « n'aie pas peur ».
 
 > Une exception, notée par David : **avant la finale**, l'enjeu était tel que la peur revenait. Le dispositif a des limites, et c'est honnête de le dire en salle.
+>
+> **Et c'est précisément là qu'il a changé de levier.** Cette finale, contre un adversaire qu'il n'avait jamais battu, il l'a gagnée en allant chercher le pattern de Diego auprès d'un rival — voir [[La politique des alliés]]. L'état amène à 100 % de ses moyens ; il ne fournit pas la solution technique. Les deux récits se racontent ensemble.
 
 **Il a permis de passer de 70 % à 100 %.** Et selon David, c'est ce qui lui a permis d'atteindre ce niveau.
 
