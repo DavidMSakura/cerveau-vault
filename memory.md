@@ -437,3 +437,66 @@ Autres décisions de David : « greffier » devient **scribe** ; les acronymes p
 **La clause de garantie d'illustration du J1 est réglée avec Maori** — David s'en est chargé le 25/08, hors mail (rien dans le fil Gmail). Le bandeau d'avertissement reste sur la slide 9 en attendant la vraie garantie Radiance.
 
 **Non résolu, et non deviné** : la **date du point de cadrage Radiance** reste inconnue. Question posée à David, restée sans réponse — à reposer, car elle commande le planning et la formation est les 16-17/09.
+
+## 2026-08-25 (2) — Les récits fondateurs, le Crédit Foncier remis à plat, et le tableau des idées
+
+### Deux récits capturés, jamais documentés jusqu'ici
+
+**[[Je suis la vague - le protocole d'état de David]]** — championnats du monde 2007 à Yokohama. **Sam**, un ami vivant au Japon, offre à David un **tenugui** portant la Grande Vague de Hokusai (« Sous la grande vague au large de **Kanagawa** » — David disait *Kamigawa*, qui est le plan japonisant de Magic). Flash immédiat : « je suis la vague ». Le rituel complet : sautiller, un grand saut genou levé, arriver le premier sur l'aire, occuper le territoire, le regard. Puis « Hajime », et la vague part comme un barrage qui cède. **Il devient champion du monde ce jour-là.**
+
+> **Le mécanisme, dans ses mots : « je mettais de l'utile pour cacher l'inutile. »**
+> Les sensations n'ont **pas** disparu. Ce qui change, c'est leur **attribution** : comme il venait de sauter, il était normal que ses jambes tremblent et que son cœur s'emballe. Le rituel moteur ne sert pas seulement à faire circuler l'adrénaline — il **fournit un alibi physiologique**. La peur est toujours là, elle n'a plus de preuve à exhiber. C'est de la réattribution causale, et c'est bien plus enseignable que « n'aie pas peur ».
+> Exception assumée : **avant la finale**, l'enjeu était tel que la peur revenait. À dire en salle — un protocole qui avoue sa limite est cru.
+
+**[[La politique des alliés]]** — la même finale. Face à **Diego**, un Italien qu'il n'a jamais battu. David va voir **Alain Giraud**, un rival qui le bat lui aussi mais qui a été éliminé, et qui bat souvent Diego. Alain donne le pattern : attaque à la jambe, puis feinte jambe → main. David applique **sans fioritures, sans réinventer**. Il gagne.
+Trois choses rendent le récit rare : demander à quelqu'un qui vous bat (l'[[Consentement et amortisseur d'ego - concepts originaux du livre|amortisseur d'ego]] en situation), Alain qui donne sans rien y gagner, et la discipline d'appliquer tel quel.
+
+**Les deux s'emboîtent** : l'état amène à 100 % de ses moyens, il ne fabrique pas la compétence manquante.
+
+### ⚠️ Mes quatre erreurs, corrigées par David
+
+1. **« Emotion = Energy in Motion »** proposé comme un apport — il l'emploie déjà à l'oral.
+2. **La mise en mouvement du corps face au trac** présentée comme neuve — il l'enseigne depuis toujours, illustrée par le chanbara.
+3. **Kahler apporté comme une découverte** — il le connaît mieux que moi et l'utilise dans le livre et dans Sakura. Ce n'était pas une lacune de David mais **du vault** : fiche [[Les quatre mythes de la psychologie (Taibi Kahler)]] créée, avec les quatre croyances et ce que chacune fabrique. C'est **Kahler**, avec un h.
+4. **Ma thèse opposait confiance et compétence.** Son recadrage est meilleur : *la confiance l'a mené jusqu'à la limite de ses ressources intérieures, puis il a fallu qu'il utilise sa confiance pour sortir en chercher à l'extérieur.* **Deux étages : la confiance qui porte, la confiance qui ouvre.** Aller demander à un rival qui vous bat demande une confiance considérable. Ce recadrage rend inutile le repositionnement de [[Sakura]] que j'avais proposé.
+
+### Décisions tranchées
+
+- **Upsell 1 du [[Cercle de Vérité]] : 27 €** (« 2 jours pour rester fort »). Ce choix **lève le blocage de production** du 08/08 : le tarif de 39 € alors retenu n'avait aucune vidéo, alors que `Upsell1 27E.mp4` existe.
+- **Titre de la vidéo : « C'est pas la confiance qui m'a rendu champion. »** Tranchant en ouverture, nuance en chute, avec la formule finale : *« La confiance ne remplace pas la compétence. Elle donne le courage d'aller la chercher. »* → [[Idée - Confiance vs compétence]]
+- **Appel vers [[Sakura]]**, pas le Cercle de Vérité — le lien chanbara/championnat/stratégies est direct.
+- **`git push` autorisé** : règle ajoutée à `.claude/settings.local.json`. Le vault n'avait pas été poussé depuis le 24/08 11h25, soit 24 commits — le bot Telegram travaillait sur une version périmée.
+- **Les cartes cochées valent « terminé »** : script `~/.local/bin/vault-kanban-tidy.py` créé, branché sur la synchro du dimanche, qui descend les cartes cochées en colonne de fin.
+
+### Crédit Foncier — remis à plat
+
+Fiche [[Contrat Crédit Foncier]] passée de trois lignes à un état complet. **Interlocutrice : Sophie Pons** — dans l'agenda, chercher **« Sophie leadership 🚺 »** autant que « Parcours femmes ». Calendrier de l'automne : **Prise de parole les 14 et 15 septembre**, Communication et gestion de conflits le 12 octobre, **clôture le 8 décembre**.
+
+**Six feuilles de présence** créées ou complétées dans `Formation/CFF - Sophie Pons/Coachings/À envoyer/` — trois n'existaient pas du tout. Deux erreurs trouvées dans `Suivi coachings DM.xlsx` : la séance de Pascaline **reportée du 21/05 au 02/06**, et sa **séance 2 du 27/07** absente. David confirme : 1h30 par séance, le 19 mai pour Laila, et Pascaline est la seule à avoir eu une seconde séance.
+
+**Cinq brouillons Gmail** créés (Laila, Sandra, Pascaline avec ses deux fiches, Christelle, Khom), **sans pièces jointes** — six fichiers Word auraient saturé le contexte pour un geste de cinq secondes. **Vouvoiement retenu**, à changer si David les tutoie.
+
+### Le tableau des idées, et une consigne permanente
+
+`1. PROJETS/Idées de contenu - tableau.md` — Kanban à cinq colonnes (Captées → Étoffées → À produire → Publiées → Écartées), tags `#pub` `#video` `#post`. Règle posée pour éviter la dispersion : ce tableau est le **flux de travail**, le [[Idées de contenu Mnemonaute - backlog|backlog Mnemonaute]] reste le **fonds documenté**.
+
+**Consigne ajoutée à `CLAUDE.md`** : proposer spontanément d'y verser toute formule ou histoire née d'un échange qui ferait une accroche, une pub ou une vidéo. Ses meilleures formules naissent en conversation et se perdaient.
+
+**[[Idée - Réviser sans méthode, le cas de Louis]]** — David préfère partir d'un témoignage. **Louis, 19 ans, brillant, en droit, a raté sa première année à deux dixièmes : 9,80.** Sa phrase : « je n'ai pas de méthode, jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus ». **Découverte** : Louis était déjà dans le backlog sans son nom — c'est lui, « un étudiant rencontré par David », qui a inspiré la série « enchaîner les méthodes », priorité 1. Son témoignage en devient la vidéo d'ouverture.
+
+### Autres
+
+**[[Le cycle des émotions (Jérôme Lefeuvre)]]** — fiche créée puis purgée de ce que David maîtrise déjà. Ce qui reste vraiment neuf : la distinction **émotion / sentiment / humeur** (« si ça dure, ce n'est plus une émotion »), **le dégoût** — absent du vault, avec « il y a plus de relations toxiques que de gens toxiques », utile au Cercle de Vérité — et **le chagrin comme station-service**.
+
+**Formulaire F&L 2026** (Jody Cavalié Academy / Liberty Webi) rempli en pilotant Chrome par AppleScript. Prérequis découvert : le réglage se trouve dans le menu **« Présentation »**, pas « Affichage ». Les clics simulés ne passent pas sur les combobox HubSpot — **seule la navigation clavier fonctionne**. Formulaire en 8 étapes, le DOM les contient toutes : remplir une étape masquée ne marche pas.
+
+**Coachings SHERPA** : seule **Véronique** a un rendez-vous à venir (2 septembre, 9h-10h30). **Marina et Dominique n'ont plus rien de planifié** d'ici juin 2027.
+
+### Reste à faire
+
+- **Envoyer les cinq brouillons** en y glissant les pièces jointes, après avoir vérifié le vouvoiement.
+- **Préparer les deux journées Prise de parole** des 14 et 15/09, depuis `Prise de parole _ V2.pptx` — échéance **11/09**.
+- **Poser la reconduction 2027 avec Sophie** avant la clôture du 8 décembre.
+- **Fournir la clé API et le token Trello**, à ranger dans le trousseau macOS.
+- **Confirmer l'angle « Gandhi vs Dev Perso »** — mon hypothèse (la citation apocryphe « sois le changement ») attend validation.
+- **Mettre à jour `Suivi coachings DM.xlsx`**, faux sur deux points.

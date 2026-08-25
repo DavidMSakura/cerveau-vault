@@ -2,42 +2,47 @@
 
 > Ce fichier est injecté au démarrage de chaque session. Il ne contient que ce qui est **vivant maintenant**.
 > Tout ce qui est résolu en sort et reste dans `memory.md`. Cible : rester sous 4 000 caractères.
-> Dernière mise à jour : **25/08/2026**
+> Dernière mise à jour : **25/08/2026 (soir)**
 
 ## ⏰ Échéances
 
 | Quand | Quoi | État |
 |---|---|---|
-| **16-17 sept.** | Formation DDA Radiance, agence de Dijon, via MyConnecting | Supports envoyés au client le 24/08 |
-| **avant le 31/08** | Point de cadrage Radiance | Relancé le 24/08 — **date toujours inconnue**, à demander à David |
-| **cette semaine** | Devoir donné par Elisabeth le 24/08 : les croyances qui m'empêchent, et ma plus grande peur | à faire |
-| **dim. 31/08 18h** | 1ère exécution automatique du cron notes iOS | vérifier le journal le lendemain : la permission Notes.app en tâche de fond n'est pas garantie |
+| **ven. 11/09** | Préparer les 2 journées **Prise de parole** CFF, depuis `Prise de parole _ V2.pptx` | à faire — prochain vrai jalon |
+| **14-15/09** | Journées Prise de parole, Crédit Foncier | — |
+| **16-17/09** | Formation DDA Radiance, Dijon, via MyConnecting | supports envoyés au client |
+| **avant le 31/08** | Point de cadrage Radiance | relancé le 24/08 — **date toujours inconnue, à demander à David** |
+| **dim. 31/08 18h** | 1ère exécution auto du cron notes iOS + rangement Kanban | vérifier le journal le lendemain : permission Notes.app en tâche de fond non garantie |
+| **08/12** | Clôture du parcours CFF | **poser la reconduction 2027 avec Sophie avant**, pas après |
 
 ## 🔨 Chantiers actifs
 
-**MyConnecting / Radiance.** Livrables partis. Deux trous que seul le client peut boucher : la conséquence factuelle d'une formule au minimum sur un deux-roues, et la répartition des six informations dues. La clause d'illustration du test d'entrée (J1, slide 9) a été **réglée avec Maori le 25/08** ; un bandeau d'avertissement figure sur la slide en attendant la vraie garantie Radiance.
+**Crédit Foncier.** Le contrat le plus rentable. Interlocutrice **Sophie Pons** — dans l'agenda, chercher « Sophie leadership 🚺 » autant que « Parcours femmes ». **Cinq brouillons Gmail prêts** pour les feuilles de présence : il reste à y glisser les pièces jointes (dossier `Coachings/À envoyer/`) et à vérifier le vouvoiement. Le fichier `Suivi coachings DM.xlsx` est faux sur deux points.
 
-**Cercle de Vérité.** Produit prêt. Test Meta à 200 € pas lancé. Prix de l'upsell 1 **arrêté à 27 €** le 25/08 — la vidéo correspondante existe, plus rien ne bloque la production. Question ouverte depuis le 08/08 : par quoi remplacer les 3 besoins que la sur-adaptation satisfait ? Piste → la matière du coaching.
+**MyConnecting / Radiance.** Livrables partis. Deux trous que seul le client peut boucher : la conséquence factuelle d'une formule au minimum sur un deux-roues, et la répartition des six informations dues.
 
-**Sakura.** Le format du high-ticket est **arrêté** : 6 séances d'1 h sur 3 mois + messages sur horaires convenables, 2 500 €. Reste à définir le **contenu différencié** des deux niveaux, les pages, la mécanique de passage, et le rythme des collectifs du mid-ticket.
+**Cercle de Vérité.** Produit prêt, **upsell 1 arrêté à 27 €** — la vidéo existe, plus rien ne bloque. **Le test Meta à 200 € n'est toujours pas lancé.** Question ouverte depuis le 08/08 : par quoi remplacer les 3 besoins que la sur-adaptation satisfait ? Piste → la matière du coaching.
 
-**Trello.** Justifié pour la coordination avec Steph, qui n'a pas de second cerveau — donc cartes autoportantes. **En attente de la clé API et du token** (`trello.com/power-ups/admin`), à ranger dans le trousseau macOS, jamais dans le vault. Le vault garde la matière, Trello ne porte que le qui-fait-quoi.
+**Sakura.** Format du high-ticket arrêté (6 séances d'1 h sur 3 mois + messages sur horaires convenables, 2 500 €). Reste le **contenu différencié** des deux niveaux, les pages, la mécanique de passage.
 
-**Coaching Elisabeth Roche.** Hebdomadaire. Prochaine séance annoncée « plus technique : carré, discipline, ressources ».
+**Contenu.** Trois idées vivantes dans `Idées de contenu - tableau` : « C'est pas la confiance qui m'a rendu champion » (prête à tourner, appel vers Sakura), « le cas de Louis » (ouvre la série priorité 1), « Gandhi vs Dev Perso » (**angle à confirmer par David**).
 
-**Contenu Mnemonaute.** Backlog écrit, rien lancé. Quick win jamais fait : le CTA du lead magnet sur les 5 vidéos les plus vues, une après-midi pour 1,18 M de vues.
+**Trello.** Justifié pour la coordination avec Steph, qui n'a pas de second cerveau — donc cartes autoportantes. **En attente de la clé API et du token** (`trello.com/power-ups/admin`), à ranger dans le trousseau macOS, jamais dans le vault.
+
+**Coaching Elisabeth Roche.** Hebdomadaire, prochaine séance annoncée « plus technique : carré, discipline, ressources ».
 
 ## ⏸️ En attente d'une décision de David
 
-- **Les deux livres.** *Libérez votre mémoire* en jachère depuis le 16/08 (préface Olicard). *Le Triangle Dramatique* en rédaction. Aucun n'avance. Lequel passe devant ?
-- **La tension marketing.** Elisabeth dit « le marketing, on s'en fout, sois toi-même » ; la stratégie dit ads Meta → funnel. À trancher consciemment.
+- **Les deux livres.** *Libérez votre mémoire* en jachère depuis le 16/08 (préface Olicard). *Le Triangle Dramatique* en rédaction. Aucun n'avance.
+- **La tension marketing.** Elisabeth dit « le marketing, on s'en fout, sois toi-même » ; la stratégie dit ads Meta → funnel.
+- **Marina et Dominique** n'ont plus aucun coaching planifié d'ici juin 2027. Normal si les parcours sont finis.
 
 ## ⚠️ Points de vigilance
 
 - **Secrets en clair.** La note « ADMIN » du dossier iCloud *Level-Up Attitude* contient toujours le token Anthropic, celui du bot Telegram, l'IBAN Qonto et des codes de récupération. Signalé le 20/07, non résolu. Le dossier est exclu en dur de la synchro, mais le problème d'origine reste entier.
-- **Administratif MyConnecting**, non clos mais en pause volontaire (décision du 08/08) : URSSAF au nom propre, RIB adresse Craponne, Qualiopi introuvable. **Ne pas relancer de moi-même.**
+- **Administratif MyConnecting**, en pause volontaire (décision du 08/08) : URSSAF, RIB, Qualiopi. **Ne pas relancer de moi-même.**
 - **Signaux comportementaux** (voir CLAUDE.md) : procrastination admin, Magic Arena, dispersion, absence de Pomodoro, le petit singe.
 
 ## 🧠 Comment marche ta mémoire
 
-`Etat actuel.md` (ce fichier) = le présent, injecté au démarrage · `memory.md` = l'historique, 18 sessions, à ouvrir au besoin · `1. PROJETS/Tableau de bord.md` = le Kanban · `/fin` en fin de session met les trois à jour.
+`Etat actuel.md` = le présent, injecté au démarrage · `memory.md` = 20 sessions d'historique, à ouvrir au besoin · `Tableau de bord` = le Kanban des projets · `Idées de contenu - tableau` = le Kanban des contenus · `/fin` met les trois à jour.
