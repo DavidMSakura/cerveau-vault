@@ -155,3 +155,14 @@ Sur 58 vidéos, **une seule** envoie vers un lead magnet du funnel actuel : *Les
 Autrement dit : le pont entre la chaîne et l'offre low-ticket a été construit une fois, il fonctionne, et il n'a pas été réutilisé. Avant de produire quoi que ce soit de neuf, **ajouter ce CTA en fin des cinq vidéos les plus vues** coûte une après-midi et touche 1,18 million de vues cumulées, dont un flux continu.
 
 Voir aussi : [[Contenu & Médias]] · [[Cercle de Vérité]] · [[Sakura]] · [[Livre - Libérez votre mémoire]] · [[Catalogue des vidéos Mnemonaute]]
+
+---
+
+## Ce fichier et le tableau des idées
+
+Deux outils, deux fonctions — ne pas les confondre.
+
+- **Ce backlog** est le **fonds documenté** : les idées argumentées, avec le manque qu'elles comblent, la cible, le lien funnel, les dettes éditoriales. On y réfléchit.
+- **[[Idées de contenu - tableau]]** est le **flux de travail** : où en est chaque idée, de la capture à la publication. On y avance.
+
+Une idée d'ici qui passe en production entre là-bas. Une idée captée là-bas qui mérite d'être creusée revient ici.
