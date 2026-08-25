@@ -17,7 +17,7 @@
 
 ## 🔨 Chantiers actifs
 
-**Crédit Foncier.** Le contrat le plus rentable. Interlocutrice **Sophie Pons** — dans l'agenda, chercher « Sophie leadership 🚺 » autant que « Parcours femmes ». **Cinq brouillons Gmail prêts** pour les feuilles de présence : il reste à y glisser les pièces jointes (dossier `Coachings/À envoyer/`) et à vérifier le vouvoiement. Le fichier `Suivi coachings DM.xlsx` est faux sur deux points.
+**Crédit Foncier.** Le contrat le plus rentable. Interlocutrice **Sophie Pons** — dans l'agenda, chercher « Sophie leadership 🚺 ». **Cinq brouillons Gmail prêts** : reste à y glisser les pièces jointes (`Coachings/À envoyer/`) et vérifier le vouvoiement. `Suivi coachings DM.xlsx` est faux sur deux points.
 
 **MyConnecting / Radiance.** Livrables partis. Deux trous que seul le client peut boucher : la conséquence factuelle d'une formule au minimum sur un deux-roues, et la répartition des six informations dues.
 
@@ -27,7 +27,7 @@
 
 **Contenu.** Trois idées vivantes dans `Idées de contenu - tableau` : « C'est pas la confiance qui m'a rendu champion » (prête à tourner, appel vers Sakura), « le cas de Louis » (ouvre la série priorité 1), « Gandhi vs Dev Perso » (**angle à confirmer par David**).
 
-**Trello.** Justifié pour la coordination avec Steph, qui n'a pas de second cerveau — donc cartes autoportantes. **En attente de la clé API et du token** (`trello.com/power-ups/admin`), à ranger dans le trousseau macOS, jamais dans le vault.
+**Trello.** Pour la coordination avec Steph, qui n'a pas de second cerveau — donc cartes autoportantes. **En attente de la clé API et du token** (`trello.com/power-ups/admin`), à ranger dans le trousseau macOS.
 
 **Coaching Elisabeth Roche.** Hebdomadaire, prochaine séance annoncée « plus technique : carré, discipline, ressources ».
 
@@ -39,7 +39,7 @@
 
 ## ⚠️ Points de vigilance
 
-- **Secrets en clair.** La note « ADMIN » du dossier iCloud *Level-Up Attitude* contient toujours le token Anthropic, celui du bot Telegram, l'IBAN Qonto et des codes de récupération. Signalé le 20/07, non résolu. Le dossier est exclu en dur de la synchro, mais le problème d'origine reste entier.
+- **Secrets en clair.** La note « ADMIN » du dossier iCloud *Level-Up Attitude* contient toujours les tokens Anthropic et Telegram, l'IBAN Qonto et des codes de récupération. Signalé le 20/07, non résolu. Le dossier est exclu de la synchro, mais le problème d'origine reste entier.
 - **Administratif MyConnecting**, en pause volontaire (décision du 08/08) : URSSAF, RIB, Qualiopi. **Ne pas relancer de moi-même.**
 - **Signaux comportementaux** (voir CLAUDE.md) : procrastination admin, Magic Arena, dispersion, absence de Pomodoro, le petit singe.
 
