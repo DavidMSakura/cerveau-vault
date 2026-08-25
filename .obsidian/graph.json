@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-file:CLAUDE -file:memory -file:\"Etat actuel\"",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.067611424028743,
+  "scale": 0.7615010323751056,
   "close": true
 }
