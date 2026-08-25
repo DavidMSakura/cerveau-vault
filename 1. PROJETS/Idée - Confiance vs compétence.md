@@ -40,40 +40,60 @@ Confondre les deux, c'est passer des années à travailler sa confiance pour un 
 
 > ### « C'est pas la confiance qui m'a rendu champion. »
 
-Retenu par David le 25/08/2026. Direct, oral, tient en un souffle, et contre-intuitif venant de quelqu'un dont c'est le métier. Il fonctionne comme titre de vidéo autant que comme accroche publicitaire.
+Retenu par David le 25/08/2026. Direct, oral, tient en un souffle, et contre-intuitif venant de quelqu'un dont c'est le métier. Fonctionne comme titre de vidéo autant que comme accroche publicitaire.
 
-**Variantes**, si le format demande autre chose :
-- « La confiance en soi ne t'apprendra jamais ce que tu ne sais pas faire. »
-- « Tu n'as pas un problème de confiance. Tu as un problème d'information. »
-- « En finale du championnat du monde, ma confiance en moi n'a servi à rien. »
-
-## Pitch vidéo — chaîne Mnemonaute
-
-**Déroulé** :
-1. **Le crochet** — « c'est pas la confiance qui m'a rendu champion ».
-2. **Ce que la confiance fait vraiment** : le rituel, la vague, passer de 70 % à 100 % de ses moyens. Concret, corporel, démontrable.
-3. **Le mur** : la finale, Diego, jamais battu. Cent pour cent, et ça ne suffit pas.
-4. **Le vrai levier** : aller demander à un rival qui vous bat. L'ego qu'il faut poser pour le faire.
-5. **La discipline** : appliquer sans fioritures, sans réinventer. Le point le plus dur.
-6. **La chute** : le titre de champion du monde.
-7. **Le diagnostic**, donné au spectateur : *je n'ose pas, ou je ne sais pas ?*
-
-**Pourquoi ça marche sur cette chaîne** : une promesse concrète en surface — comment j'ai gagné un championnat du monde — et du mindset à l'intérieur. C'est exactement le format qui manque depuis le pivot, où les vidéos de mindset pur plafonnent à 900 vues quand les applications concrètes en font des centaines de milliers. Voir [[Idées de contenu Mnemonaute - backlog]].
+**Variantes** si le format demande autre chose : « La confiance en soi ne t'apprendra jamais ce que tu ne sais pas faire » · « Tu n'as pas un problème de confiance, tu as un problème d'information » · « En finale du championnat du monde, ma confiance en moi n'a servi à rien ».
 
 ---
 
-## L'appel : vers quelle offre ?
+## La thèse, recadrée par David — et c'est elle qui tient
 
-David veut que la vidéo renvoie vers [[Sakura]] ou le [[Cercle de Vérité]]. **Il y a une tension à résoudre avant de choisir.**
+Première version : *la confiance ne règle pas un problème de compétence*. Vraie, mais elle oppose les deux et elle laisse la confiance sans emploi.
 
-**Le problème** : la vidéo affirme que la confiance ne suffit pas. Or Sakura est vendu comme un parcours de **confiance en soi**. Renvoyer naïvement de l'une à l'autre reviendrait à démonter l'offre dans son propre appel.
+**Recadrage de David, le 25/08/2026 :**
 
-**La solution, et elle vaut mieux qu'un contournement : c'est un repositionnement de Sakura.**
+> La confiance l'a mené **jusqu'à la limite de ses ressources intérieures** — jusqu'à l'expression de son plein potentiel. Puis, arrivé à cette limite, **il a fallu qu'il utilise sa confiance pour sortir** et aller chercher des ressources à l'extérieur, par la politique des alliés.
 
-Sakura ne vend pas *de la confiance*. Sakura transmet **les stratégies du chanbara** — et la première d'entre elles est de savoir **distinguer un problème d'état d'un problème de compétence**, puis d'aller chercher ce qui manque. Le protocole d'état ([[Je suis la vague - le protocole d'état de David|la vague]]) et la [[La politique des alliés|politique des alliés]] sont deux de ces stratégies, pas deux discours de motivation.
+**Pourquoi c'est plus juste.** Aller demander « comment fais-tu pour me battre ? » à un rival qui vous domine, la veille d'une finale de championnat du monde, **demande une confiance considérable**. Quelqu'un qui doute ne le fait pas : il se tait, il perd, et il garde sa dignité intacte. La confiance n'a donc pas été inutile — elle a servi ailleurs que là où on l'attend.
 
-Formulé ainsi, l'appel devient cohérent : *« la confiance ne suffit pas — voilà ce qui marche vraiment, et c'est ce que j'enseigne dans Sakura. »* La vidéo ne contredit plus l'offre, elle la qualifie.
+**Deux étages, et c'est ce qui rend l'idée enseignable :**
 
-**Recommandation : Sakura**, pas le Cercle de Vérité. Le lien est direct — chanbara, championnat, stratégies — alors que le Cercle de Vérité demanderait un détour par l'ego posé pour demander de l'aide. Le détour est réel mais moins évident, et un appel à l'action ne supporte pas le détour.
+| | |
+|---|---|
+| **La confiance qui porte** | Elle vous amène au bout de ce que vous avez déjà. De 70 % à 100 % de vos moyens. C'est la vague, le rituel, la réattribution des sensations. |
+| **La confiance qui ouvre** | Elle vous fait sortir chercher ce que vous n'avez pas. C'est elle qui permet de poser son ego et de demander. |
 
-**À trancher par David** : ce repositionnement de Sakura vaut-il pour l'offre entière, ou seulement pour cette vidéo ? S'il vaut pour l'offre, il touche les pages de vente et le mécanisme unique.
+**Et ça règle la question de l'offre** : plus besoin de repositionner [[Sakura]] contre la confiance. La confiance reste au centre — elle change de fonction, elle ne perd pas son rôle.
+
+---
+
+## La structure de la vidéo
+
+Le tranchant en ouverture, la nuance en chute. Le crochet pose le paradoxe, la fin le résout — et le spectateur reste jusqu'au bout parce qu'il attend l'explication.
+
+1. **Le crochet** — « C'est pas la confiance qui m'a rendu champion. »
+2. **Ce que la confiance fait vraiment** — le rituel, la vague, passer de 70 % à 100 % de ses moyens. Concret, corporel, démontrable. → [[Je suis la vague - le protocole d'état de David]]
+3. **Le mur** — la finale, Diego, jamais battu. Cent pour cent de ses moyens, et ça ne suffit pas.
+4. **Le retournement** — « En fait si. Mais pas celle que vous croyez. »
+5. **Le vrai levier** — aller demander à un rival qui vous bat, et appliquer sans rien réinventer. → [[La politique des alliés]]
+6. **La chute** — « La confiance ne m'a pas donné la technique. Elle m'a donné le culot d'aller la demander à un type qui me battait. »
+7. **Le diagnostic offert au spectateur** — *je n'ose pas, ou je ne sais pas ?* Et dans les deux cas, la confiance sert : à faire, ou à aller chercher.
+
+**La formule à retenir, en douze mots :**
+
+> ### « La confiance ne remplace pas la compétence. Elle donne le courage d'aller la chercher. »
+
+**Pourquoi ça marche sur cette chaîne** : promesse concrète en surface — comment j'ai gagné un championnat du monde — et mindset à l'intérieur. Exactement le format qui manque depuis le pivot, où le mindset pur plafonne à 900 vues quand les applications concrètes en font des centaines de milliers. Voir [[Idées de contenu Mnemonaute - backlog]].
+
+---
+
+## L'appel
+
+**Vers [[Sakura]].** Le lien est direct — chanbara, championnat, stratégies — et le recadrage de David le rend cohérent sans acrobatie : la vidéo montre les deux usages de la confiance, Sakura enseigne les deux.
+
+Le [[Cercle de Vérité]] demanderait un détour par l'ego qu'on pose pour demander de l'aide. Le lien existe, mais un appel à l'action ne supporte pas le détour.
+
+## Reste à trancher
+
+- **Le prénom de Diego et celui d'Alain** : on les nomme, ou on dit « un adversaire » et « un ami » ? Nommer rend le récit vivant ; il faut leur accord si la vidéo est publique.
+- **La longueur** : format court pour les réseaux, ou format long YouTube avec le récit complet des deux finales ?
