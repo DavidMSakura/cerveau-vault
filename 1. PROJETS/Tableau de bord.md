@@ -6,8 +6,6 @@ kanban-plugin: board
 
 ## 🔥 Cette semaine
 
-- [ ] **Croyances limitantes + ma plus grande peur** — devoir donné par Elisabeth le 24/08 #coaching @{2026-08-29}
-- [ ] Tourner Mnemonaute : "Révisions sans méthode", "Gandhi vs. Dev Perso"
 - [ ] **CFF — faire signer et envoyer les 6 feuilles de présence** — le dossier « À envoyer » est prêt #formation
 
 
