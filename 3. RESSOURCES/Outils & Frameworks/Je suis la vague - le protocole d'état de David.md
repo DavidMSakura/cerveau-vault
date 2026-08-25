@@ -32,9 +32,13 @@ Le vestiaire, deux jeunes qui se préparent, l'un qui dit *« je tombe contre Da
 
 ## 3. Le tenugui — l'étape supplémentaire
 
-**Premier championnat du monde.** Un ami qui vit au Japon les rejoint pour la compétition et lui offre un **tenugui** — le tissu qu'on porte sur la tête sous le casque, souvent décoré.
+**Championnats du monde 2007, Yokohama.** **Sam**, un ami qui vit au Japon, les rejoint pour la compétition et lui offre un **tenugui** — le tissu qu'on porte sur la tête sous le casque, souvent décoré.
 
-Sur celui-là : **la Grande Vague de Hokusai**.
+Sam et David étaient très proches : *« on finissait toujours dans les bras l'un de l'autre après les combats »*. David lui a dit, depuis, que son tenugui était ce qui l'avait aidé.
+
+Sur celui-là : **la Grande Vague de Hokusai** — « Sous la grande vague au large de **Kanagawa** », série des *Trente-six vues du mont Fuji*, vers 1830.
+
+**Et David est devenu champion du monde ce jour-là.** C'est ce qui donne à l'anecdote sa force : le dispositif n'a pas seulement rassuré, il a gagné.
 
 > « J'ai un flash absolu, je tombe amoureux de ce dessin, et je me dis : OK, **je suis la vague**. »
 
@@ -60,9 +64,21 @@ C'est aussi ce qui a donné le **bleu de Prusse** de sa plaquette et de son CV �
 
 ---
 
-## Pourquoi ce récit vaut cher
+## Le mécanisme, dans les mots de David
 
-**Il ne supprime pas la peur, il en change la lecture.** Les sensations sont probablement les mêmes ; ce qui bascule, c'est ce qu'elles veulent dire. « Mon corps me lâche » devient « mon corps se charge ». C'est exactement le renversement que David enseigne déjà — *on confond la cause et la conséquence* — mais vécu, et donc racontable.
+> **« Je mettais de l'utile pour cacher l'inutile. »**
+
+C'est la clé de tout le protocole, et elle est plus fine qu'un simple travail sur l'état.
+
+**Les sensations n'ont pas disparu** — David le confirme. Ce qui a changé, c'est **à quoi il les attribue**. Comme il venait de sautiller et de sauter, il était *normal* que ses jambes soient sensibles et que son cœur s'emballe. Il ne se disait plus « c'est la peur qui génère ça », mais **« je viens de faire un exercice, mon corps réagit à l'exercice »**.
+
+Le rituel moteur ne sert donc pas seulement à faire circuler l'adrénaline : il **fournit un alibi physiologique**. Il donne aux sensations une cause utile, qui recouvre la cause inutile. La peur est toujours là, mais elle n'a plus de preuve à exhiber.
+
+C'est de la **réattribution causale**, et c'est directement enseignable — bien plus que « n'aie pas peur ».
+
+> Une exception, notée par David : **avant la finale**, l'enjeu était tel que la peur revenait. Le dispositif a des limites, et c'est honnête de le dire en salle.
+
+**Il a permis de passer de 70 % à 100 %.** Et selon David, c'est ce qui lui a permis d'atteindre ce niveau.
 
 **Il transforme un état subi en état choisi**, par un protocole reproductible : un geste moteur, une occupation d'espace, une image, un déclencheur verbal.
 
@@ -72,9 +88,19 @@ C'est aussi ce qui a donné le **bleu de Prusse** de sa plaquette et de son CV �
 
 ---
 
-## Questions ouvertes
+## Transfert et enseignement — réponses de David
 
-- Quel championnat, quelle année ? Quel résultat ce jour-là ?
-- Le nom de l'ami qui a offert le tenugui — il tient l'objet déclencheur de toute l'histoire.
-- Est-ce que le protocole est **transféré hors chanbara** : avant une scène, une formation, un rendez-vous difficile ?
-- Comment le rendre **enseignable** sans dépendre du hasard d'un cadeau ?
+**Hors chanbara** : il s'en sert **tout le temps**, « dès que j'ai besoin de me positiver et d'abattre des obstacles ». Le protocole n'est pas resté sur l'aire de combat.
+
+**Le symbole n'a pas à être la vague.** La vague peut servir de symbole universel, mais **chacun doit trouver le sien** — et il n'a pas besoin d'être aussi puissant ni aussi énergique. *« Ça peut être une ouverture, une sensibilité. Ça peut être un miroir, un trèfle à quatre feuilles qui représente un moment avec quelqu'un. Il n'y a pas de limite. »*
+
+**Ce qui compte, ce sont deux choses seulement : l'énergie et la visualisation.** Le reste — l'objet, l'image, le mot — est propre à chacun.
+
+C'est ce qui rend l'exercice transmissible : on ne distribue pas la vague de David, on fait chercher à chacun **son** image, et on lui donne le protocole pour la déclencher.
+
+---
+
+## Reste à décider
+
+- Où va ce récit : le livre, [[Sakura]], une vidéo, les formations prise de parole ? Il peut aller partout, mais ne se structure pas pareil selon la destination.
+- Comment se nomme l'exercice quand on le fait faire à quelqu'un d'autre.
