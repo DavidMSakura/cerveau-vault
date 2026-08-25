@@ -1,13 +1,84 @@
 ---
 statut: en cours
 casquette: Société
+client: Crédit Foncier (CFF)
+interlocutrice: Sophie Pons
+fin_prevue: 2026-12-08
 ---
 
-# Contrat Crédit Foncier — Leadership et Ambition au féminin
+# Contrat Crédit Foncier — Audace et Leadership au féminin
 
-**Objectif** : accompagnement de 13 femmes sur 9 mois, avec Steph.
+Parcours d'accompagnement de **13 femmes sur 9 mois**, animé avec Steph. **Le contrat le plus rentable en cours.**
 
-**Statut** : en cours, très rentable.
+**Interlocutrice** : **Sophie Pons**, au Crédit Foncier. Dans l'agenda, les dates du parcours sont souvent posées sous son prénom — chercher **« Sophie leadership 🚺 »** autant que « Parcours femmes ».
+
+**Fin du contrat** : **8 décembre 2026**, avec la journée de clôture. Une reconduction avec une nouvelle promotion sera à discuter pour l'an prochain.
+
+---
+
+## Le calendrier
+
+### Journées collectives — automne 2026
+
+| Quand | Module | Format |
+|---|---|---|
+| **lun. 14 et mar. 15 septembre** | **Prise de parole en public** | 2 journées, 9h30-17h30 |
+| **lun. 12 octobre** | Communication et gestion de conflits | 1 journée, 9h30-17h30 |
+| **mar. 8 décembre** | Carrière & progression — **clôture du parcours** | 1 journée, 9h30-17h30 |
+
+### Déjà réalisé
+
+- Présentation du parcours et kick-off
+- Auto-sabotage et légitimité
+- **La charge mentale** — 12 juin 2026, 9h-12h30, distanciel Teams
+- Alter Horse · B Boost
+
+### Coachings individuels
+
+Chaque participante bénéficie d'un **Test EQ.i 2.0 + coaching, 4h30**. Séances en visio, 1h30 chacune.
+
+| Participante | Séance 1 | Séance 2 | Feuille de présence |
+|---|---|---|---|
+| Isabelle CHEN | 21/05, 9h-10h30 | — | ✅ **signée** |
+| Laila EDDAMIRI | 19/05, 14h-15h30 | — | à signer |
+| Sandra VIEIRA | 20/05, 11h-12h30 | — | à signer |
+| Pascaline ZABARDI | 02/06, 15h-16h30 | 27/07, 15h30-17h | à signer (2 fiches) |
+| Christelle ERHARD | 26/06, 10h30-12h | — | à signer |
+| Khom RIVIERE | 29/06, 14h-15h30 | — | à signer |
+
+> La séance 1 de Pascaline a été **reportée du 21/05 au 02/06** — l'ancienne date traîne encore dans le fichier de suivi.
+>
+> **Pascaline est la seule à avoir eu une seconde séance** à ce jour (confirmé par David le 25/08/2026).
+
+**Six feuilles de présence prêtes à signer** dans `Formation/CFF - Sophie Pons/Coachings/À envoyer/`. La seule déjà signée est dans `Coachings/Signés/`.
+
+⚠️ Le fichier `Coachings/Suivi coachings DM.xlsx` **n'est pas à jour** : mauvaise date pour Pascaline, et sa séance 2 n'y figure pas.
+
+---
+
+## Où sont les contenus
+
+Tout est dans `~/Documents/Formation/CFF - Sophie Pons/`.
+
+**`Leadership au féminin/`** — les supports du parcours :
+- `1.Presentation parcours + kick-off.pptx`
+- `Auto-sabotage et Legitimite/` — trois versions du support, plus un deck Genspark
+- `Charge mentale/` — support, PDF, et le questionnaire d'évaluation avec ses résultats
+- `Prise de parole/` — trois versions, dont `Prise de parole _ V2.pptx` **à reprendre pour les 14 et 15 septembre**
+- `Alter Horse/` · `Marina/` · `Ambition-and-leadership-au-feminin-3.pdf`
+
+**`Coachings/`** — conventions, feuilles de présence, suivi, et les rapports EQ.i (`_client` et `_coach` par participante).
+
+**`Managers/`, `EAA inspirants/`, `Memoire/`** — les autres missions chez le même client, à ne pas confondre avec le parcours féminin.
+
+---
 
 ## Prochaine étape
-_À préciser : prochaine session, échéance du contrat._
+
+**Préparer les deux journées Prise de parole des 14 et 15 septembre**, à partir de `Prise de parole _ V2.pptx`. C'est le prochain jalon, et c'est dans trois semaines.
+
+À rapprocher de la matière disponible : [[Je suis la vague - le protocole d'état de David]] et [[Trous de mémoire et stress à l'oral]] — le trac, la physiologie, le protocole d'état. Et [[La politique des alliés]], qui parle à un public de femmes en progression de carrière.
+
+## À décider plus tard
+
+La **reconduction pour une nouvelle promotion** en 2027. À poser avec Sophie avant la clôture du 8 décembre, pas après — un contrat qui s'arrête sans que la suite soit évoquée ne repart pas tout seul.
