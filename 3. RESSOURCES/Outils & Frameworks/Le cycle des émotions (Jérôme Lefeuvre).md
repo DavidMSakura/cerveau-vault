@@ -30,7 +30,7 @@ C'est l'apport principal, et il manquait au vault.
 
 **« Une émotion stockée et mal évacuée devient une humeur. »** D'où le diagnostic, simple et utilisable en coaching : *si ça dure, ce n'est plus une émotion.* Une colère est une information ; une irritabilité chronique est un déchet. On ne les traite pas de la même façon — la première se dit, la seconde s'évacue.
 
-Et le mnémonique de l'auteur : **Emotion = Energy in Motion**. L'émotion est de l'énergie qui doit circuler ; ce qui ne circule pas stagne.
+Le mnémonique **Emotion = Energy in Motion** revient chez lui, mais il est classique et David l'emploie déjà à l'oral — ce n'est pas un apport.
 
 ---
 
@@ -45,7 +45,7 @@ Elle apparaît **quand un obstacle contrarie un projet** : « quand je vis quelq
 - **L'attaque** — « tu es nul »
 - **La plainte** — « je suis nul »
 
-> Ça se branche directement sur [[Livre - Le Triangle Dramatique]] : le blâme et l'attaque mènent au Persécuteur, la plainte à la Victime. Kahler décrit la **déformation de l'expression**, Karpman le **rôle relationnel** qui en découle. Les deux grilles s'emboîtent.
+> ⚠️ **David connaît Kahler et l'utilise déjà** dans le livre et dans Sakura, via [[Les quatre mythes de la psychologie (Taibi Kahler)]] — qui sont la racine de ces trois avatars. Ce n'est donc pas un apport de Lefeuvre, mais une reprise. Voir la fiche dédiée.
 
 **Protocole en trois temps** : reconnaître les signaux physiques (mâchoires, respiration) · ventiler l'énergie par le corps (marcher, frapper un coussin, crier) · exprimer en « je », sans blâme, en nommant le besoin contrarié.
 
@@ -57,7 +57,7 @@ Thèse : la peur est le **superpouvoir des gens brillants**, parce qu'anticiper 
 
 **Trois gestes** : nommer précisément le déclencheur (nommer active le néocortex) · **donner un prénom à sa peur et négocier avec elle** · découper l'action en marches assez petites pour être montées sans attendre que la peur parte.
 
-> À rapprocher de [[Trous de mémoire et stress à l'oral]] et de [[Surmonter ses peurs, décider et agir (Mnemonaute 2019)]], qui couvrent déjà la physiologie. Ce qui est neuf ici, c'est **le remède moteur** et la personnification de la peur.
+> ⚠️ **David enseigne déjà la mise en mouvement du corps** face au trac, illustrée par le chanbara — voir [[Trous de mémoire et stress à l'oral]] et [[Surmonter ses peurs, décider et agir (Mnemonaute 2019)]]. Seule la **personnification de la peur** (lui donner un prénom, négocier avec elle) est neuve ici.
 
 ### Le chagrin — la station-service
 
@@ -95,8 +95,8 @@ La seule des cinq qui ne déclenche pas une alerte : elle donne une **permission
 
 **Pour le [[Cercle de Vérité]]** — le passage sur le dégoût décrit l'avatar avec précision : l'homme qui se sur-adapte accepte des relations qui le dégoûtent, et finit par se dégoûter lui-même. Et « plus de relations toxiques que de gens toxiques » évite le discours facile sur les autres pour ramener à soi, ce qui est exactement la règle éditoriale des créas.
 
-**Pour [[Sakura]] et la prise de parole** — le trac comme adrénaline mal distribuée, avec un remède moteur immédiat, complète la physiologie déjà documentée. Utilisable tel quel en salle.
+**Pour [[Sakura]] et la prise de parole** — rien de neuf sur le trac, David le traite déjà par le corps et le chanbara. À croiser plutôt avec « la vague », sujet à ouvrir.
 
-**Pour le [[Livre - Le Triangle Dramatique]]** — les trois avatars de Kahler donnent l'étage manquant : d'où viennent les rôles de Karpman, et par quelle déformation de la colère on y entre.
+**Pour le [[Livre - Le Triangle Dramatique]]** — voir plutôt [[Les quatre mythes de la psychologie (Taibi Kahler)]], qui est le vrai socle. Lefeuvre n'en donne qu'un dérivé.
 
 **Pour toi** — la distinction émotion / sentiment / humeur est un outil de diagnostic personnel. Et la joie comme compétence recoupe la question du plaisir dans le travail travaillée en coaching → [[Coaching Elisabeth Roche - suivi des séances]].
