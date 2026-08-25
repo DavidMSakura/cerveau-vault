@@ -427,3 +427,13 @@ Autres décisions de David : « greffier » devient **scribe** ; les acronymes p
 - **La cause est traitée** : `~/.local/bin/vault-notes-index.py` est appelé par le script de synchronisation, donc les index se regénèrent chaque dimanche.
 
 **Reste à faire** : signaler la clause d'illustration à Maori ; fournir la clé et le token Trello ; définir le contenu différencié des deux niveaux Sakura ; trancher entre les deux livres ; trancher la tension marketing ; vérifier le journal du cron notes iOS le lundi 25/08 (permission d'automatisation Notes.app en tâche de fond, non garantie).
+
+## 2026-08-25 — Icône de Doc.app, et clause MyConnecting réglée
+
+**Session courte.** Deux points.
+
+**L'icône de `Doc.app` ne s'affichait pas** alors que le `.icns` était valide et bien installé. Cause : **`osacompile` génère un `Assets.car`** dans `Contents/Resources/` **et une clé `CFBundleIconName`** dans l'Info.plist, et sur macOS récent les deux prennent le pas sur `applet.icns`. Correction : supprimer `Assets.car`, retirer `CFBundleIconName`, garder `CFBundleIconFile = applet`, puis `lsregister -f` et `killall Dock`. **À refaire si l'app est un jour recompilée** — `osacompile` réintroduira les deux à chaque fois.
+
+**La clause de garantie d'illustration du J1 est réglée avec Maori** — David s'en est chargé le 25/08, hors mail (rien dans le fil Gmail). Le bandeau d'avertissement reste sur la slide 9 en attendant la vraie garantie Radiance.
+
+**Non résolu, et non deviné** : la **date du point de cadrage Radiance** reste inconnue. Question posée à David, restée sans réponse — à reposer, car elle commande le planning et la formation est les 16-17/09.

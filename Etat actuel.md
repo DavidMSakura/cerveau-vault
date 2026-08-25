@@ -2,17 +2,16 @@
 
 > Ce fichier est injecté au démarrage de chaque session. Il ne contient que ce qui est **vivant maintenant**.
 > Tout ce qui est résolu en sort et reste dans `memory.md`. Cible : rester sous 4 000 caractères.
-> Dernière mise à jour : **24/08/2026 (soir)**
+> Dernière mise à jour : **25/08/2026**
 
 ## ⏰ Échéances
 
 | Quand | Quoi | État |
 |---|---|---|
 | **16-17 sept.** | Formation DDA Radiance, agence de Dijon, via MyConnecting | Supports envoyés au client le 24/08 |
-| **avant le 31/08** | Point de cadrage Radiance | Relancé le 24/08 à 15h15 avec les 7 questions — **en attente de réponse** |
+| **avant le 31/08** | Point de cadrage Radiance | Relancé le 24/08 — **date toujours inconnue**, à demander à David |
 | **cette semaine** | Devoir donné par Elisabeth le 24/08 : les croyances qui m'empêchent, et ma plus grande peur | à faire |
-| **lun. 25/08** | Vérifier le journal du cron notes iOS (`~/.local/share/vault-notes-sync.log`) | permission Notes.app en tâche de fond non garantie |
-| **dim. 31/08 18h** | 1ère exécution automatique du cron notes iOS | — |
+| **dim. 31/08 18h** | 1ère exécution automatique du cron notes iOS | vérifier le journal le lendemain : la permission Notes.app en tâche de fond n'est pas garantie |
 
 ## 🔨 Chantiers actifs
 
