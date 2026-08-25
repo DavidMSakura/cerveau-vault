@@ -15,12 +15,12 @@ casquette: Contenu & Médias
 |---|---|---|
 | Front-end | Le Cercle de Vérité (7 jours + 3 bonus) | **27 €** |
 | Order bump | Les 15 Scripts Anti-Craquage | **17 €** |
-| Upsell 1 | 2 jours pour rester fort | **39 €** |
+| Upsell 1 | 2 jours pour rester fort | **27 €** |
 | Upsell 2 | Le Décodeur Émotionnel | **27 €** |
 
 Panier maximum théorique **110 €**, panier moyen visé **50-60 €**.
 
-⚠️ **Point de production à régler** : l'upsell 1 a été tranché à **39 €** le 08/08/2026, mais les versions vidéo tournées sont 17, 27, 47 et 57 € — **il n'existe pas de `Upsell1 39E.mp4`**. Deux options : utiliser `Upsell1 neutre 0 prix.mp4` (la version sans prix annoncé) en affichant le 39 € uniquement sur la page, ou retourner une prise. La version neutre est la solution rapide et suffisante pour un test à 200 €.
+✅ **Prix de l'upsell 1 arrêté à 27 €** (David, 25/08/2026). Ce choix **règle le blocage de production** qui traînait depuis le 08/08 : le tarif de 39 € alors retenu n'avait aucune vidéo correspondante, alors que **`Upsell1 27E.mp4` existe** dans `~/Documents/Formation/Olivier Clovis Scaling Academy/`. Plus rien à retourner ni à contourner — la prise est prête.
 
 **Statut au 08/08/2026** : **produit complet et prêt.** Pages de vente en ligne (davidmarsac.com/cercle-de-verite, /confirmation-cdv + pages upsell/downsell), **les 7 vidéos quotidiennes sont tournées** (hébergées côté Systeme.io, pas sur le Mac — ne pas conclure du contenu local qu'il manque quelque chose), bonus PDF/audio produits, VSL et vidéos d'upsell tournées. **10 créas publicitaires vidéo existent** (dans `~/Documents/Formation/Olivier Clovis Scaling Academy/Ads/Videos/`, tournées le 01/02/2026).
 
