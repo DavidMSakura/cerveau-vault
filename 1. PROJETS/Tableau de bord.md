@@ -9,6 +9,7 @@ kanban-plugin: board
 - [ ] **Croyances limitantes + ma plus grande peur** — devoir donné par Elisabeth le 24/08 #coaching @{2026-08-29}
 - [x] **Relire les supports J1 et J2** une dernière fois avant de figer #myconnecting
 - [ ] Tourner Mnemonaute : "Révisions sans méthode", "Gandhi vs. Dev Perso"
+- [ ] **CFF — faire signer et envoyer les 6 feuilles de présence** — le dossier « À envoyer » est prêt #formation
 
 
 ## ⏳ En attente d'un tiers
@@ -21,6 +22,8 @@ kanban-plugin: board
 
 ## 🚧 En cours
 
+- [ ] **CFF — préparer les 2 journées Prise de parole** des 14 et 15/09, depuis `Prise de parole _ V2.pptx` #formation @{2026-09-11}
+- [ ] **CFF — poser la reconduction 2027 avec Sophie** avant la clôture du 8 décembre #formation
 - [x] **Cercle de Vérité — arrêter le prix de l'upsell 1** : 17, 27, 47 ou 57 €. Les quatre sont tournés. #cercle-de-verite
 - [ ] **Cercle de Vérité — lancer le test Meta à 200 €**. Test d'apprentissage, pas un lancement. #cercle-de-verite
 - [x] **Sakura — définir le contenu différencié des deux niveaux**, et le rythme des collectifs du mid-ticket #sakura
