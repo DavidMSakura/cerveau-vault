@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] **Croyances limitantes + ma plus grande peur** — devoir donné par Elisabeth le 24/08 #coaching @{2026-08-29}
 - [ ] **Relire les supports J1 et J2** une dernière fois avant de figer #myconnecting
-- [ ] **Signaler la clause de garantie d'illustration** — elle est partie dans le J1 sans mention visible #myconnecting
 
 ## ⏳ En attente d'un tiers
 
@@ -48,6 +47,7 @@ kanban-plugin: board
 **Complete**
 
 - [x] Supports DDA Radiance J1 et J2, déroulé pédagogique, déroulé HTML v6 #myconnecting
+- [x] **Clause de garantie d'illustration — réglée avec Maori le 25/08** #myconnecting
 - [x] **Mail envoyé à MyConnecting le 24/08** — relance de cadrage, 7 questions, déroulé pédagogique + J1 + J2 en pièces jointes #myconnecting
 - [x] Synchronisation automatique des notes iOS — dimanche 18h #systeme
 - [x] Fiche de suivi du coaching Elisabeth Roche #coaching

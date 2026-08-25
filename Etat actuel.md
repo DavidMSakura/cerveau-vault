@@ -16,7 +16,7 @@
 
 ## 🔨 Chantiers actifs
 
-**MyConnecting / Radiance.** Livrables partis. Deux trous que seul le client peut boucher : la conséquence factuelle d'une formule au minimum sur un deux-roues, et la répartition des six informations dues. **Et un point à signaler** : la clause de garantie du test d'entrée (J1, slide 9) est un texte que j'ai inventé — elle est partie sans mention visible, un bandeau a été ajouté depuis. À dire à Maori, ou à évoquer au cadrage.
+**MyConnecting / Radiance.** Livrables partis. Deux trous que seul le client peut boucher : la conséquence factuelle d'une formule au minimum sur un deux-roues, et la répartition des six informations dues. La clause d'illustration du test d'entrée (J1, slide 9) a été **réglée avec Maori le 25/08** ; un bandeau d'avertissement figure sur la slide en attendant la vraie garantie Radiance.
 
 **Cercle de Vérité.** Produit prêt. Test Meta à 200 € pas lancé. Prix de l'upsell 1 non arrêté (17/27/47/57 €). Question ouverte depuis le 08/08 : par quoi remplacer les 3 besoins que la sur-adaptation satisfait ? Piste → la matière du coaching.
 
