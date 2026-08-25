@@ -36,25 +36,44 @@ Confondre les deux, c'est passer des années à travailler sa confiance pour un 
 
 ---
 
-## Accroches publicitaires
+## Le titre retenu
 
-1. **« J'ai été champion du monde. Pas grâce à la confiance en moi. »**
-   La plus forte : contre-intuitive venant d'un coach en confiance en soi, et elle s'auto-applique.
-2. **« La confiance en soi ne t'apprendra jamais ce que tu ne sais pas faire. »**
-3. **« Tu n'as pas un problème de confiance. Tu as un problème d'information. »**
-4. **« En finale du championnat du monde, ma confiance en moi n'a servi à rien. »**
+> ### « C'est pas la confiance qui m'a rendu champion. »
 
-## Pitch vidéo
+Retenu par David le 25/08/2026. Direct, oral, tient en un souffle, et contre-intuitif venant de quelqu'un dont c'est le métier. Il fonctionne comme titre de vidéo autant que comme accroche publicitaire.
 
-**Titre de travail** : *Pourquoi la confiance en soi ne suffit pas — et ce qui marche à la place.*
+**Variantes**, si le format demande autre chose :
+- « La confiance en soi ne t'apprendra jamais ce que tu ne sais pas faire. »
+- « Tu n'as pas un problème de confiance. Tu as un problème d'information. »
+- « En finale du championnat du monde, ma confiance en moi n'a servi à rien. »
+
+## Pitch vidéo — chaîne Mnemonaute
 
 **Déroulé** :
-1. **Le crochet** — « je vends de la confiance en soi, et je vais vous dire pourquoi ça ne suffit pas ».
+1. **Le crochet** — « c'est pas la confiance qui m'a rendu champion ».
 2. **Ce que la confiance fait vraiment** : le rituel, la vague, passer de 70 % à 100 % de ses moyens. Concret, corporel, démontrable.
 3. **Le mur** : la finale, Diego, jamais battu. Cent pour cent, et ça ne suffit pas.
 4. **Le vrai levier** : aller demander à un rival qui vous bat. L'ego qu'il faut poser pour le faire.
 5. **La discipline** : appliquer sans fioritures, sans réinventer. Le point le plus dur.
-6. **La chute** : le titre.
+6. **La chute** : le titre de champion du monde.
 7. **Le diagnostic**, donné au spectateur : *je n'ose pas, ou je ne sais pas ?*
 
-**Pourquoi ça marche** : une promesse concrète en surface (comment j'ai gagné un championnat du monde), du mindset à l'intérieur — c'est exactement le format qui manque à la chaîne depuis le pivot. Voir [[Idées de contenu Mnemonaute - backlog]].
+**Pourquoi ça marche sur cette chaîne** : une promesse concrète en surface — comment j'ai gagné un championnat du monde — et du mindset à l'intérieur. C'est exactement le format qui manque depuis le pivot, où les vidéos de mindset pur plafonnent à 900 vues quand les applications concrètes en font des centaines de milliers. Voir [[Idées de contenu Mnemonaute - backlog]].
+
+---
+
+## L'appel : vers quelle offre ?
+
+David veut que la vidéo renvoie vers [[Sakura]] ou le [[Cercle de Vérité]]. **Il y a une tension à résoudre avant de choisir.**
+
+**Le problème** : la vidéo affirme que la confiance ne suffit pas. Or Sakura est vendu comme un parcours de **confiance en soi**. Renvoyer naïvement de l'une à l'autre reviendrait à démonter l'offre dans son propre appel.
+
+**La solution, et elle vaut mieux qu'un contournement : c'est un repositionnement de Sakura.**
+
+Sakura ne vend pas *de la confiance*. Sakura transmet **les stratégies du chanbara** — et la première d'entre elles est de savoir **distinguer un problème d'état d'un problème de compétence**, puis d'aller chercher ce qui manque. Le protocole d'état ([[Je suis la vague - le protocole d'état de David|la vague]]) et la [[La politique des alliés|politique des alliés]] sont deux de ces stratégies, pas deux discours de motivation.
+
+Formulé ainsi, l'appel devient cohérent : *« la confiance ne suffit pas — voilà ce qui marche vraiment, et c'est ce que j'enseigne dans Sakura. »* La vidéo ne contredit plus l'offre, elle la qualifie.
+
+**Recommandation : Sakura**, pas le Cercle de Vérité. Le lien est direct — chanbara, championnat, stratégies — alors que le Cercle de Vérité demanderait un détour par l'ego posé pour demander de l'aide. Le détour est réel mais moins évident, et un appel à l'action ne supporte pas le détour.
+
+**À trancher par David** : ce repositionnement de Sakura vaut-il pour l'offre entière, ou seulement pour cette vidéo ? S'il vaut pour l'offre, il touche les pages de vente et le mécanisme unique.
