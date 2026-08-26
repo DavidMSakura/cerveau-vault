@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## 🔥 Cette semaine
 
-- [ ] **CFF — faire signer et envoyer les 6 feuilles de présence** — le dossier « À envoyer » est prêt #formation
+- [x] **CFF — faire signer et envoyer les 6 feuilles de présence** — le dossier « À envoyer » est prêt #formation
 
 
 ## ⏳ En attente d'un tiers
@@ -14,13 +14,13 @@ kanban-plugin: board
 - [ ] **Conséquence factuelle d'une formule au minimum sur un deux-roues** — seul Radiance peut répondre #myconnecting
 - [ ] **Répartition des six informations dues** — ouverture vs contractualisation, telle que Radiance la pratique #myconnecting
 - [ ] **Vraie garantie Radiance** pour le test d'entrée du J1 — la clause actuelle est inventée #myconnecting
-- [ ] **Date du point de cadrage** — trois créneaux proposés le 13/08, aucune réponse #myconnecting
+- [x] **Date du point de cadrage** — trois créneaux proposés le 13/08, aucune réponse #myconnecting
 
 
 ## 🚧 En cours
 
 - [ ] **CFF — préparer les 2 journées Prise de parole** des 14 et 15/09, depuis `Prise de parole _ V2.pptx` #formation @{2026-09-11}
-- [ ] **CFF — poser la reconduction 2027 avec Sophie** avant la clôture du 8 décembre #formation
+- [x] **CFF — poser la reconduction 2027 avec Sophie** avant la clôture du 8 décembre #formation
 - [ ] **Funnel — la sortie est fermée** : `/cercle-de-verite` pointe vers `/sakura` qui renvoie une 404 (ancien webinaire à timers). À régler **avant** le test Meta #cercle-de-verite #sakura
 - [ ] **Corriger le lien de confidentialité sur `/guide-offert`** — un espace dans l'URL mène à une 404 #admin
 - [ ] **Cercle de Vérité — lancer le test Meta à 200 €**. Test d'apprentissage, pas un lancement. #cercle-de-verite
@@ -48,7 +48,6 @@ kanban-plugin: board
 ## ✅ Fait
 
 **Complete**
-
 - [x] **Relire les supports J1 et J2** une dernière fois avant de figer #myconnecting
 - [x] **Cercle de Vérité — arrêter le prix de l'upsell 1** : 17, 27, 47 ou 57 €. Les quatre sont tournés. #cercle-de-verite
 - [x] **Sakura — définir le contenu différencié des deux niveaux**, et le rythme des collectifs du mid-ticket #sakura
@@ -75,6 +74,9 @@ kanban-plugin: board
 - [ ] [[Idées de contenu Mnemonaute - backlog]]
 - [ ] [[Veille hebdomadaire portefeuille Trade Republic]]
 - [ ] [[Coaching Elisabeth Roche - suivi des séances]]
+
+
+
 
 %% kanban:settings
 ```
