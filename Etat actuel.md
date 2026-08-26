@@ -9,10 +9,9 @@
 |---|---|---|
 | **ven. 28/08** | Point de cadrage Radiance | en cours de calage sur cette date |
 | **dim. 31/08 18h** | 1ère exécution auto du cron notes iOS + rangement Kanban | vérifier le journal le lendemain : permission Notes.app en tâche de fond non garantie |
-| **31/08 → 03/09** | Caler l'**animation** des 2 journées Prise de parole CFF avec Steph | support déjà conçu et mis en forme par une graphiste — reste le timing, les passages des 13 participantes, et le partage Steph/David. Le 11/09 est impossible : IGECOM à Naves. Créneaux libres : lun. 31/08 aprèm, mar. 01/09 matin, mer. 02/09 aprèm |
 | **ven. 04/09 14h** | Tripartite Teams CFF — coaching **Jilani Ben-Yahmed** (avec Sophie Pons et François) | autre dossier que le parcours féminin |
 | **09 → 11/09** | IGECOM : Toulon, Clermont, Naves | déplacement, aucune prépa possible |
-| **14-15/09** | Journées Prise de parole, Crédit Foncier | — |
+| **14-15/09** | Journées Prise de parole, Crédit Foncier | **deux journées indépendantes** : 7 managers, puis 6 cadres non managers. Support déjà conçu et mis en forme. **Rien à préparer** — format que David anime en routine |
 | **16-17/09** | Formation DDA Radiance, Dijon, via MyConnecting | supports envoyés au client |
 | **08/12** | Clôture du parcours CFF | la reconduction 2027 est du ressort de **Steph**, pas de David |
 

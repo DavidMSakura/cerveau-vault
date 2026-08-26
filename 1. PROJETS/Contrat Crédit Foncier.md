@@ -24,7 +24,7 @@ Parcours d'accompagnement de **13 femmes sur 9 mois**, animé avec Steph. **Le c
 
 | Quand | Module | Format |
 |---|---|---|
-| **lun. 14 et mar. 15 septembre** | **Prise de parole en public** | 2 journées, 9h30-17h30 |
+| **lun. 14 et mar. 15 septembre** | **Prise de parole en public** | **2 journées indépendantes**, 9h30-17h30 — un groupe de **7 managers**, un groupe de **6 cadres non managers**. Pas un parcours en deux jours : la même journée jouée deux fois devant deux publics |
 | **lun. 12 octobre** | Communication et gestion de conflits | 1 journée, 9h30-17h30 |
 | **mar. 8 décembre** | Carrière & progression — **clôture du parcours** | 1 journée, 9h30-17h30 |
 
@@ -77,14 +77,11 @@ Tout est dans `~/Documents/Formation/CFF - Sophie Pons/`.
 
 ## Prochaine étape
 
-**Caler l'animation des deux journées Prise de parole des 14 et 15 septembre**, avec Steph. Le support existe et est mis en forme : il ne reste ni conception ni design.
+**Rien à préparer pour les 14 et 15 septembre.** Le support est conçu et mis en forme, les groupes sont petits (7 et 6), les deux journées sont indépendantes, et c'est un format que David anime en routine. Dit par lui le 26/08 : *« relax, typiquement le genre de truc que j'anime tout le temps, confort »*.
 
-Ce qui reste réellement à décider :
-- le **timing des deux journées** pour 13 participantes ;
-- **combien de passages** chacune, et sous quelle forme ;
-- **qui anime quoi** entre Steph et David.
+⚠️ **Ne pas transformer ce jalon en chantier.** Le seul point ouvert, mineur : le contenu diffère-t-il entre le groupe managers et le groupe cadres non managers ?
 
-Fenêtre utile : **31/08 → 03/09**. Le 11/09 est impossible, David est à Naves pour IGECOM (déplacement IGECOM du 9 au 11).
+À noter pour le calendrier : David est en déplacement **IGECOM du 9 au 11 septembre** (Toulon, Clermont, Naves) et enchaîne directement sur les 14-15.
 
 Matière disponible à injecter si besoin : [[Je suis la vague - le protocole d'état de David]] et [[Trous de mémoire et stress à l'oral]] — le trac, la physiologie, le protocole d'état. Et [[La politique des alliés]], qui parle à un public de femmes en progression de carrière.
 
