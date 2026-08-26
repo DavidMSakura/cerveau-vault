@@ -500,3 +500,67 @@ Fiche [[Contrat Crédit Foncier]] passée de trois lignes à un état complet. *
 - **Fournir la clé API et le token Trello**, à ranger dans le trousseau macOS.
 - **Confirmer l'angle « Gandhi vs Dev Perso »** — mon hypothèse (la citation apocryphe « sois le changement ») attend validation.
 - **Mettre à jour `Suivi coachings DM.xlsx`**, faux sur deux points.
+
+## 2026-08-26 — Le guide de Steph, et trois pannes serveur dont deux de mon fait
+
+### Le guide « Ton second cerveau »
+
+Steph veut son propre second cerveau. Produit en une session, révisé quatre fois :
+
+- **Artefact** : https://claude.ai/code/artifact/1285ae55-cafd-47bb-a820-8c1c4e7a12c9
+- **Source HTML** : `~/Documents/Second cerveau - guide/guide-source.html`
+- **Version texte pour l'assistant** : `~/Documents/Second cerveau - guide/GUIDE.md`
+
+Douze chapitres, 48 étapes, du compte Claude jusqu'au briefing Telegram. Le parti pris structurel : chaque étape porte une étiquette **[TOI]** ou **[L'ASSISTANT]**, et la bascule se produit au chapitre 4 — avant, elle clique ; après, elle donne des consignes. C'est le sujet du guide autant que sa mise en page.
+
+**⚠️ L'épingle de partage ne suit pas les republications.** À chaque modification, il faut la redéplacer manuellement, sinon les destinataires restent sur l'ancienne version. Vérifié deux fois aujourd'hui.
+
+### Les corrections de David sur le guide
+
+- **« On s'en fout des "David a…" »** — j'avais présenté la structure de dossiers comme une préférence personnelle. C'est en réalité **PARA**, de **Tiago Forte** (*Construire un second cerveau*), dont le principe est : **on range par degré d'action, pas par thème**. Un classement thématique s'effondre parce qu'une note appartient à plusieurs thèmes ; PARA pose une question à réponse unique. **Elliot Meunier** ajouté au bon endroit — sur les liens `[[ ]]` et le Zettelkasten, pas sur les dossiers. Les dix mentions personnelles ont ensuite été neutralisées pour permettre la diffusion.
+- **Titre générique** : « Ton second cerveau » et non « Le second cerveau de Steph », *« comme ça je peux le partager à d'autres »*.
+- **Allègement** : *« aussi épuré que possible… on est sur du "Do as I say", donc "Fais comme je dis, et questionne plus tard" »*. Dix blocs d'explication repliés derrière « Pour en savoir plus ». **Règle de tri appliquée : on replie le *pourquoi*, jamais le *attention*** — les 14 avertissements restent tous ouverts.
+- **Modules Obsidian** : David n'en a que deux, `obsidian-git` et `obsidian-kanban`. C'est devenu la recommandation elle-même — étape 5.6 « Deux modules, et pas plus », qui nomme le piège de la surinstallation.
+
+### Le retour de Stéphane et de son IA « Rufio »
+
+Sept points sur neuf retenus. Les trois sérieux :
+
+1. **Le bot Telegram écrivait sans limite** — vraie faille, non vue. Corrigé plus fort que proposé : le bot **n'écrit que dans un seul fichier** (`Depuis Telegram.md`) et **n'exécute aucune commande système**. Restreindre aux `.md` ne protège pas du vrai danger, qui est le shell. Bénéfice en prime : plus de conflit de synchro possible.
+2. **Aucun durcissement serveur** — nouvelle étape 9.4 « Fermer les portes », avec l'ordre imposé : vérifier la clé **puis** couper l'auth par mot de passe.
+3. **Le jeton Claude du serveur expire aussi** — excellente prise, vérifiée chez lui *et* chez David. Le guide avertissait pour Google et pas pour Claude : incohérence levée.
+
+Retenu aussi : l'**audit de péremption** et la **capture de patterns comportementaux datés**, tous deux ajoutés à la skill `/fin` (passée de quatre à six étapes), et le bloc **« priorités de la semaine »** dans `CLAUDE.md`.
+
+**Refusé, avec argument écrit dans le guide** : deux clés SSH séparées. Le cloisonnement ne paie que si la clé fuit *isolément* ; si elle est volée, le Mac l'est déjà. Le coût — un `~/.ssh/config` à comprendre au pire moment — dépasse le gain. Gardé comme note pour lecteur averti.
+**Écarté comme surdimensionné** : la recherche full-text sur `memory.md`. L'assistant *cherche* dans le fichier, il ne le lit pas. Découpage par période le jour où ça dépassera 100 000 caractères.
+
+### Réparations serveur
+
+- **Google OAuth confirmé réparé** — les 69 `invalid_grant` s'arrêtent à 07:30 le 26/08, `tokens.json` réécrit à 09:22. **Premier briefing parti depuis le 30 juillet.**
+- **Cron `pull-vault.sh` retiré.** `/home/david/Doc` est un **clone orphelin** : rien ne le lit, ni le bot (qui utilise `/home/david/vault-clone`), ni un Claude Code (absent du serveur). Il était entretenu 288 fois par jour pour personne, avec un journal de **81 418 lignes**. Sauvegardes : `~/crontab.avant-20260826-133956.bak`, `~/pull-vault.log.avant-purge`.
+- **Jeton `CLAUDE_CODE_OAUTH_TOKEN` remplacé.** Celui du 18/07 était mort — trois `401 Invalid authentication` au journal. Outil créé : **`~/rotate-secret.sh`** (mode 700), qui demande la valeur en **saisie masquée** pour qu'aucun jeton ne transite par la conversation ni par l'historique shell.
+- **Journal du bot créé** : `~/telegram-claude-bot/logs/bot.log`. Il n'en avait aucun avant.
+
+### ⚠️ Mes quatre erreurs
+
+1. **`DRY_RUN` n'existe pas dans `briefing.js`** — seulement dans `veille-boamp.js`. J'ai cru tester à blanc et **j'ai envoyé un vrai briefing** sur le Telegram de David. Vérifier qu'un drapeau existe avant de s'appuyer dessus.
+2. **J'ai accusé `pull-vault.sh` de bloquer la synchro en silence.** Faux : zéro échec depuis toujours, parce que rien n'écrit dans `Doc`. Le vrai défaut était ailleurs — le clone ne servait à rien.
+3. **La plus coûteuse : j'ai conclu que PM2 n'était pas installé** parce que `which pm2` était revenu vide — il vit sous nvm, absent du PATH en SSH non interactif. J'ai donc écrit un script qui tue le bot et le relance à la main : PM2 a ressuscité le sien, mon script a lancé le sien, **deux instances, `409 Conflict` en boucle**, bot muet. J'avais en plus ajouté un cron `@reboot` redondant qui aurait recréé le conflit à chaque démarrage. Tout corrigé : script basé sur `pm2 restart --update-env`, cron retiré. **Une commande qui échoue ne prouve pas l'absence de la chose.**
+4. **Shift+Entrée annoncé pour le retour à la ligne** — c'est **Option+Entrée** sur Terminal.app. `/terminal-setup` active « Option comme touche Meta », et **il faut quitter Terminal.app puis le rouvrir**.
+
+Les erreurs 3 et 4 ont produit deux ajouts au guide : **9.5 « Une fenêtre, deux machines »** (le copier-coller d'un jeton n'est pas une répétition, c'est un transport entre deux ordinateurs — question posée par David lui-même) et **9.7 « Qui relance le bot »** (on ne relance jamais un service à la main quand un gestionnaire existe), plus une ligne de diagnostic `409` au chapitre 10.
+
+### Décisions tranchées
+
+- **ProRealTime écarté** pour le suivi automatique du portefeuille : pas d'API propre, l'accès passe par l'API du courtier, incompatible avec un cron sans navigateur. Yahoo reste la source.
+- **Dossier `Secrets` local** (idée de Stéphane) intégré au guide en étape 8.2, avec **trois verrous** : exclu de la sauvegarde, interdit par `CLAUDE.md`, bloqué par une règle de permission. Avec ses limites dites : ce n'est pas un coffre-fort, iCloud peut le synchroniser, et **ce qui *ouvre* quelque chose reste au Trousseau**.
+- **Note ADMIN** : recommandations données en trois piles — supprimer les jetons techniques (récupérables sans elle), déplacer les codes de récupération au Trousseau, laisser l'IBAN. **David a nettoyé la note.**
+- **Fichier compagnon `GUIDE.md` rendu optionnel** — objection de David : *« ça ferait 2 guides »*. Il devient un accessoire, avec repli explicite (copier le chapitre depuis le navigateur).
+
+### Reste à faire
+
+- **Surveillance automatique des jetons** : proposée, **non tranchée**. Détecter un `401` dans `logs/bot.log` et envoyer une alerte Telegram avec la commande à copier. Vaut pour Claude et Google. ~20 min.
+- **L'installation de Steph n'a pas commencé.**
+- **Redémarrer Terminal.app** pour activer Option+Entrée.
+- Nouvelle idée capturée dans [[Idées de contenu - tableau]] : **« Fais comme je dis, questionne après »** — on n'a pas besoin de comprendre pour agir ; la chute est *« la vraie compétence, ce n'est pas le Terminal, c'est le réflexe de demander »*. Se raccorde aux deux étages de [[Idée - Confiance vs compétence]].
