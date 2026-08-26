@@ -10,7 +10,7 @@
 | **dim. 31/08 18h** | 1ère exécution auto du cron notes iOS + Kanban | vérifier le journal le lendemain — permission Notes.app en tâche de fond non garantie |
 | **ven. 04/09 14h** | Tripartite Teams CFF — coaching **Jilani Ben-Yahmed** | autre dossier que le parcours féminin |
 | **09 → 11/09** | IGECOM : Toulon, Clermont, Naves | déplacement, aucune prépa possible |
-| **14-15/09** | Journées Prise de parole, CFF | 2 journées indépendantes (7 managers, 6 non managers), support prêt. **Rien à préparer** |
+| **14-15/09** | Journées Prise de parole, CFF | 2 journées indépendantes (7 managers, 6 non managers), support prêt (`CFF - Sophie Pons/Leadership au féminin/Prise de parole/Prise de parole _ V2.pptx`, version graphiste). **Rien à préparer** |
 | **16-17/09** | DDA Radiance, Dijon, via MyConnecting | supports envoyés au client |
 | **08/12** | Clôture du parcours CFF | reconduction 2027 = ressort de **Steph** |
 
@@ -29,11 +29,6 @@
 **Contenu.** Quatre idées dans `Idées de contenu - tableau`, dont « C'est pas la confiance qui m'a rendu champion » (**prête à tourner**) et « Gandhi vs Dev Perso » (angle à confirmer).
 
 **Trello.** Coordination avec Steph. **En attente de la clé API et du token** (`trello.com/power-ups/admin`), à ranger dans le trousseau. · **Coaching Elisabeth Roche** : hebdomadaire.
-
-## ✅ À vérifier au prochain passage
-
-- **Le nouveau lanceur `Doc.app`** (un clic ouvre, les suivants réveillent la fenêtre) — pas encore testé au Stream Deck. Sauvegarde `Doc.app.bak-20260826-231254` à supprimer ensuite.
-- **Où vit la version graphiste** du support Prise de parole : rien de plus récent que `Prise de parole _ V2.pptx` (8 juin) dans le dossier CFF.
 
 ## ⏸️ En attente d'une décision de David
 
