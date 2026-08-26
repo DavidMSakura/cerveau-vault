@@ -633,3 +633,23 @@ Réalisé, mais **par chapitre** plutôt qu'en un bloc — le guide entier fait 
 - **L'installation de Steph n'a toujours pas commencé.**
 - **Sakura** : contenu différencié des deux niveaux.
 - Supprimer `~/Applications/Doc.app.bak-20260826-231254` après quelques lancements sans souci.
+
+---
+
+## 2026-08-26 (2) — Ménage : deux points de la checklist fermés
+
+Session courte, uniquement du rangement — elle solde deux lignes du « reste à faire » de l'entrée précédente.
+
+**1. Sauvegarde `Doc.app` supprimée.** David a lancé lui-même `rm -rf ~/Applications/Doc.app.bak-20260826-231254`. Le lanceur corrigé (identifiant de bundle, réutilisation de l'onglet Terminal) est **validé au Stream Deck** — les deux réparations de l'entrée précédente tiennent. `~/Applications/` ne contient plus que `Doc.app`. **Tranché**, le sujet est clos.
+
+**2. La version graphiste du support Prise de parole, c'est bien la V2.** Question ouverte depuis le 24/08, **tranchée** : `~/Documents/Formation/CFF - Sophie Pons/Leadership au féminin/Prise de parole/Prise de parole _ V2.pptx` (8 juin) *est* la version graphiste. Il n'y avait rien de plus récent ailleurs, et ma recherche n'a rien remonté d'autre pour le CFF — les autres `V2` trouvés appartiennent à IGECOM et Burger King, dossiers sans rapport. Chemin reporté dans `Etat actuel.md`, sur la ligne des journées du 14-15/09, pour ne plus avoir à le rechercher.
+
+**3. Fichier de verrouillage supprimé.** Un `~$Prise de parole _ V2.pptx` (165 octets, 8 juin) traînait à côté du support — reliquat d'une fermeture ratée de PowerPoint, pas d'une édition en cours (PowerPoint était fermé au moment de la vérification). Supprimé sur demande de David. Sans lui, le support risquait de s'ouvrir en lecture seule le 14/09.
+
+### Ce qui reste à faire
+
+- **Journal du cron notes iOS + Kanban** à vérifier le 01/09, après la première exécution du 31/08.
+- **L'installation de Steph n'a toujours pas commencé** (chapitres 0 à 3, non délégables).
+- **Cinq brouillons Gmail CFF** : pièces jointes à glisser, vouvoiement à vérifier.
+- **Sakura** : contenu différencié des deux niveaux.
+- **Cercle de Vérité** : les créas vidéo d'abord, le test Meta 200 € ensuite.
