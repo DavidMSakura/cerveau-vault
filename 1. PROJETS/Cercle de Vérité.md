@@ -61,3 +61,19 @@ C'est doublement utile. D'une part c'est la meilleure piste disponible pour la q
 → [[Coaching Elisabeth Roche - suivi des séances]]
 
 **Tension à trancher** : le coaching pousse vers « le marketing, on s'en fout, sois toi-même », ce qui frotte avec la logique funnel et le test Meta. Les deux peuvent coexister — le message porte sur le contenu, pas sur le canal — mais à choisir consciemment avant le lancement.
+
+---
+
+## ⚠️ Le maillon d'upgrade est rompu — vérifié le 26/08/2026
+
+La page `www.davidmarsac.com/cercle-de-verite` **pointe vers `/sakura`**, qui renvoie une **404**.
+
+`/sakura` est l'ancienne **page d'inscription au webinaire**, protégée par des timers d'accès : hors fenêtre d'ouverture, elle est injoignable. Or c'est précisément le dispositif que la logique funnel devait **remplacer** — la vente à froid par webinaire n'était pas rentable (CAC ~700 €/vente).
+
+**Conséquence concrète** : un acheteur du Cercle de Vérité qui clique pour monter en gamme tombe sur une page introuvable. Le passage low-ticket → mid-ticket, qui est toute la raison d'être du funnel, ne mène nulle part.
+
+**Ce n'est pas réparable en corrigeant le lien** : il n'existe pas encore de page vers laquelle pointer. L'architecture à deux niveaux de [[Sakura]] (mid ~997 € / high 2 500 €) est décidée mais pas construite — pages comprises.
+
+**À traiter avant le test Meta.** Payer de la publicité pour amener des gens sur un tunnel dont la sortie est fermée revient à financer la moitié d'un parcours.
+
+**Autre correction, mineure** : le lien vers la politique de confidentialité en pied de `/guide-offert` contient un espace (`politique-%20confidentialite`) et donne une 404. Les autres pages du funnel sont correctes. `/guide-offert` étant la page par défaut du domaine, c'est celle que voient les visiteurs qui tapent simplement l'adresse.

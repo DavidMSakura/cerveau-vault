@@ -21,6 +21,8 @@ kanban-plugin: board
 
 - [ ] **CFF — préparer les 2 journées Prise de parole** des 14 et 15/09, depuis `Prise de parole _ V2.pptx` #formation @{2026-09-11}
 - [ ] **CFF — poser la reconduction 2027 avec Sophie** avant la clôture du 8 décembre #formation
+- [ ] **Funnel — la sortie est fermée** : `/cercle-de-verite` pointe vers `/sakura` qui renvoie une 404 (ancien webinaire à timers). À régler **avant** le test Meta #cercle-de-verite #sakura
+- [ ] **Corriger le lien de confidentialité sur `/guide-offert`** — un espace dans l'URL mène à une 404 #admin
 - [ ] **Cercle de Vérité — lancer le test Meta à 200 €**. Test d'apprentissage, pas un lancement. #cercle-de-verite
 - [ ] **Sakura — recalculer le taux d'upgrade** nécessaire depuis le Cercle de Vérité, une fois les niveaux définis #sakura
 
