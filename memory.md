@@ -564,3 +564,72 @@ Les erreurs 3 et 4 ont produit deux ajouts au guide : **9.5 « Une fenêtre, deu
 - **L'installation de Steph n'a pas commencé.**
 - **Redémarrer Terminal.app** pour activer Option+Entrée.
 - Nouvelle idée capturée dans [[Idées de contenu - tableau]] : **« Fais comme je dis, questionne après »** — on n'a pas besoin de comprendre pour agir ; la chute est *« la vraie compétence, ce n'est pas le Terminal, c'est le réflexe de demander »*. Se raccorde aux deux étages de [[Idée - Confiance vs compétence]].
+
+---
+
+## 2026-08-26 (2) — Le CFF remis d'aplomb, la sonde des jetons, et le guide rendu autonome
+
+### Crédit Foncier — trois erreurs à moi, corrigées par David
+
+J'avais transformé les journées Prise de parole des 14-15/09 en chantier de préparation, avec des créneaux à bloquer dans l'agenda. Trois hypothèses fausses, empilées sans vérifier :
+
+1. **Ce n'est pas un parcours de deux jours.** Ce sont **deux journées indépendantes** : un groupe de **7 managers**, un groupe de **6 cadres non managers**. La même journée jouée deux fois devant deux publics.
+2. **Le support est déjà conçu et mis en forme par une graphiste.** Il ne reste ni conception ni design. *(Emplacement de la version graphiste non confirmé : rien de plus récent que `Prise de parole _ V2.pptx` du 8 juin dans `~/Documents/Formation/CFF - Sophie Pons/Leadership au féminin/Prise de parole/`.)*
+3. **Steph est en lead sur la relation Sophie Pons** et cale la suite. David est **prestataire** : conception, design, animation. Je lui avais mis la reconduction 2027 sur le dos — ce n'est pas son rôle. Le rendez-vous que je visais (04/09 14h) n'est d'ailleurs pas le parcours féminin mais la **tripartite de démarrage du coaching de Jilani Ben-Yahmed**.
+
+Sa réponse, qui vaut règle : *« relax. Typiquement le genre de truc que j'anime tout le temps. confort. »* **Tranché : rien à préparer pour les 14-15/09.**
+
+Deux mémoires système écrites là-dessus (`feedback_animation_est_routine`, `project_cff_repartition_roles_steph`). Fiche [[Contrat Crédit Foncier]] corrigée en conséquence.
+
+**Trouvaille d'agenda au passage** : l'échéance « préparer le 11/09 » que j'avais posée était intenable — David est en **déplacement IGECOM du 9 au 11 septembre** (Toulon, Clermont, Naves) et enchaîne directement sur les 14-15. Une échéance posée sans regarder l'agenda ne vaut rien.
+
+### Décisions tranchées
+
+- **Test Meta 200 € : en sourdine.** *« je t'ai dit que ça arriverait après la validation et tournage des vidéos créatives ads meta »*. Ne plus le remonter comme un retard.
+- **Codes de récupération à régénérer : abandonné.** *« on oublie je prends la responsabilité »*. Le point est sorti des vigilances, il ne se rouvre pas.
+- **Point de cadrage Radiance** : en cours de calage sur le **28/08**.
+
+### La sonde des jetons — faite, testée
+
+Le contexte : jeton Claude mort le 18/07 découvert le 26/08, briefing Google muet depuis le 30/07 découvert le même jour. Un mois de silence à chaque fois.
+
+**J'avais proposé la veille le mauvais des deux dispositifs.** Le scan de journal (`401` dans `bot.log`) est *réactif* : il n'y a de refus que si quelqu'un a essayé. Bot inutilisé dix jours = journal vide = panne découverte au pire moment. La **sonde active** ne compte sur rien : elle teste elle-même chaque matin. Même coût, meilleur résultat. David : *« oui, vas-y »* — après m'avoir dit *« je n'ai rien compris »* sur ma première explication, trop jargonneuse.
+
+Livré sur le serveur (`187.77.161.25`, `srv1792680`) :
+
+- **`~/telegram-claude-bot/check-tokens.js`** — teste Claude via le SDK avec le modèle le moins cher (le test doit emprunter **le même chemin** que le briefing, sinon il valide une porte qui n'est pas celle qu'on utilise) et Google en forçant `getAccessToken()` (c'est le *refresh* qui casse, pas la lecture). Silence si tout va bien, Telegram nommant le service et la commande sinon. N'affiche jamais un jeton.
+- **Cron `0 7 * * *`** (UTC ; le serveur est en `Etc/UTC`) — 30 min avant le briefing de semaine (`30 7`), été comme hiver puisque les deux dérivent ensemble. Journal : `logs/check-tokens.log`. Crontab sauvegardé en `~/crontab.avant-sonde-20260826-205228.bak`.
+- **Testé dans les deux sens** : les deux jetons OK en conditions réelles ; avec un faux jeton Claude, détection (`401 OAuth access token has expired`) et alerte réellement partie sur le Telegram de David.
+- **L'alerte se répète chaque matin** tant que ce n'est pas réparé — volontaire.
+
+### Le guide de Steph — trois modifications
+
+Artefact republié deux fois sur la même URL, `~/Documents/Second cerveau - guide/guide-source.html` et `GUIDE.md` tenus en parallèle.
+
+**1. Les replis ne ressemblaient pas à des boutons.** Remarque de David, et le défaut était pire que décrit : le bandeau était en petites capitales monospace grises — la mise en forme exacte des titres de section — avec un `+` discret, et sur petit écran le texte « Pour en savoir plus » était **purement masqué** par une media query. Refait : chevron qui pivote vers le bas à l'ouverture, « **Cliquer pour développer** » souligné, casse normale en vert sarcelle, bordure verte, et sur petit écran l'étiquette est **raccourcie** au lieu d'être supprimée. Chapitre 0 réaligné.
+
+> David a précisé ensuite que **le téléphone n'est pas un cas d'usage** — le guide se lit devant le Mac, pendant l'installation. Mon argument « Steph lirait au téléphone » ne tenait pas. La règle petit écran reste, sans coût.
+
+**2. La surveillance des jetons ajoutée en 9.9**, le point « filet de sécurité » : quatrième consigne (vérification quotidienne des deux autorisations), plus deux encadrés — pourquoi tester activement bat relire un journal, et pourquoi l'alerte doit se répéter. Renvoi ajouté depuis 9.5.
+
+**3. Le guide rendu autonome — l'idée de David.** *« Est-il un élément développable du style "copie colle ce qui vient et donne le à ton 2e cerveau" ? avec un raccourci qui copie direct ? »* Il avait raison de tiquer : jusque-là `GUIDE.md` n'était accessible à Steph **que si David le lui envoyait à part**. Le lien seul ne suffisait pas.
+
+Réalisé, mais **par chapitre** plutôt qu'en un bloc — le guide entier fait 69 Ko, pénible à coller et coûteux en contexte, et le guide dit déjà de travailler un chapitre à la fois. Chaque chapitre porte un bouton **« Copier pour l'assistant »** qui met dans le presse-papier : la note de cadrage à l'assistant + le chapitre en markdown + la consigne « conduis-moi ». Un seul collage suffisant. Plus un bouton « Copier le guide entier » en 4.4, avec la bonne voie de dépôt : **coller dans une note Obsidian vide** — une note Obsidian *est* un fichier texte, donc ni TextEdit ni histoire d'extension. Repli prévu si le presse-papier est bloqué : zone de texte pré-sélectionnée. **David a testé sur son Mac : ça marche.**
+
+### Doc.app — deux réparations
+
+**a) Erreur `-1743` au lancement.** `~/Applications/Doc.app` (applet AppleScript, trois lignes qui lancent `claude` dans le vault) n'avait **aucun `CFBundleIdentifier`**, et sa signature ne scellait pas son `Info.plist`. macOS enregistre les autorisations d'automatisation par identifiant de bundle : sans identifiant, pas d'endroit où retenir la réponse, donc refus sans jamais poser la question. Correctif : identifiant `com.davidmarsac.doc`, re-signature ad-hoc, `lsregister -f`, `tccutil reset AppleEvents`. **David a autorisé, Doc se lance.** Détail consigné dans les vigilances de l'état — **même famille de panne que le cron notes iOS** du 31/08.
+
+**b) Une nouvelle fenêtre à chaque clic.** `do script` en ouvre toujours une. Réécrit : à la création, le script pose un **titre personnalisé** sur l'onglet (« Doc — second cerveau ») ; aux clics suivants il le cherche et se contente de réveiller la fenêtre. Traité aussi le démarrage à froid, où Terminal ouvre une fenêtre vide de lui-même — le script la réutilise au lieu d'en ajouter une. Sauvegardes : `~/Applications/Doc.app.bak-20260826-231254` et l'ancien `main.scpt` dans le scratchpad. **Non testé par David au moment d'écrire.**
+
+### Découverte technique de David
+
+**Ctrl+V, pas Cmd+V**, pour coller une image dans Claude Code — repéré dans les astuces affichées en bas de fenêtre. *« c'était la 2e question technique qui restait en suspens »*. La première était Option+Entrée pour le retour à la ligne (session précédente).
+
+### Ce qui reste à faire
+
+- **Confirmer où vit la version graphiste** du support Prise de parole.
+- **Tester le nouveau lanceur Doc.app** depuis le Stream Deck.
+- **L'installation de Steph n'a toujours pas commencé.**
+- **Sakura** : contenu différencié des deux niveaux.
+- Supprimer `~/Applications/Doc.app.bak-20260826-231254` après quelques lancements sans souci.
