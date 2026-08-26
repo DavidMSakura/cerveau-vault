@@ -22,7 +22,7 @@ kanban-plugin: board
 - [ ] **CFF — préparer les 2 journées Prise de parole** des 14 et 15/09, depuis `Prise de parole _ V2.pptx` #formation @{2026-09-11}
 - [x] **CFF — poser la reconduction 2027 avec Sophie** avant la clôture du 8 décembre #formation
 - [ ] **Funnel — la sortie est fermée** : `/cercle-de-verite` pointe vers `/sakura` qui renvoie une 404 (ancien webinaire à timers). À régler **avant** le test Meta #cercle-de-verite #sakura
-- [ ] **Corriger le lien de confidentialité sur `/guide-offert`** — un espace dans l'URL mène à une 404 #admin
+- [x] **Corriger le lien de confidentialité sur `/guide-offert`** — un espace dans l'URL mène à une 404 #admin
 - [ ] **Cercle de Vérité — lancer le test Meta à 200 €**. Test d'apprentissage, pas un lancement. #cercle-de-verite
 - [ ] **Sakura — recalculer le taux d'upgrade** nécessaire depuis le Cercle de Vérité, une fois les niveaux définis #sakura
 
@@ -31,7 +31,7 @@ kanban-plugin: board
 
 - [ ] **Ajouter le CTA du lead magnet aux 5 vidéos les plus vues** — 1,18 M de vues cumulées, une après-midi de travail #mnemonaute
 - [ ] **Série « enchaîner les méthodes »** — la vidéo Code de la route 2018 est déjà la démonstration complète, il y a un cas à remonter #mnemonaute
-- [ ] **Note ADMIN** — migrer les secrets vers un gestionnaire de mots de passe, régénérer les deux tokens #securite
+- [x] **Note ADMIN** — migrer les secrets vers un gestionnaire de mots de passe, régénérer les deux tokens #securite
 
 
 ## 🤔 À trancher
