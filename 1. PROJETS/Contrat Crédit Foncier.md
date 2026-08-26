@@ -12,6 +12,8 @@ Parcours d'accompagnement de **13 femmes sur 9 mois**, animé avec Steph. **Le c
 
 **Interlocutrice** : **Sophie Pons**, au Crédit Foncier. Dans l'agenda, les dates du parcours sont souvent posées sous son prénom — chercher **« Sophie leadership 🚺 »** autant que « Parcours femmes ».
 
+> **Répartition des rôles.** **Steph est en lead sur la relation avec Sophie** et cale la suite du parcours. **David intervient en prestataire** : conception, design, animation. Tout ce qui touche au commercial et à la relation client passe par Steph — ne pas mettre la reconduction ou la négociation sur le dos de David.
+
 **Fin du contrat** : **8 décembre 2026**, avec la journée de clôture. Une reconduction avec une nouvelle promotion sera à discuter pour l'an prochain.
 
 ---
@@ -64,7 +66,7 @@ Tout est dans `~/Documents/Formation/CFF - Sophie Pons/`.
 - `1.Presentation parcours + kick-off.pptx`
 - `Auto-sabotage et Legitimite/` — trois versions du support, plus un deck Genspark
 - `Charge mentale/` — support, PDF, et le questionnaire d'évaluation avec ses résultats
-- `Prise de parole/` — trois versions, dont `Prise de parole _ V2.pptx` **à reprendre pour les 14 et 15 septembre**
+- `Prise de parole/` — trois versions, dont `Prise de parole _ V2.pptx` (8 juin). **Le support est déjà conçu et mis en forme par une graphiste** — il n'y a pas de design à refaire ⚠️ *emplacement de la version graphiste à confirmer : rien de plus récent que V2 dans ce dossier*
 - `Alter Horse/` · `Marina/` · `Ambition-and-leadership-au-feminin-3.pdf`
 
 **`Coachings/`** — conventions, feuilles de présence, suivi, et les rapports EQ.i (`_client` et `_coach` par participante).
@@ -75,10 +77,17 @@ Tout est dans `~/Documents/Formation/CFF - Sophie Pons/`.
 
 ## Prochaine étape
 
-**Préparer les deux journées Prise de parole des 14 et 15 septembre**, à partir de `Prise de parole _ V2.pptx`. C'est le prochain jalon, et c'est dans trois semaines.
+**Caler l'animation des deux journées Prise de parole des 14 et 15 septembre**, avec Steph. Le support existe et est mis en forme : il ne reste ni conception ni design.
 
-À rapprocher de la matière disponible : [[Je suis la vague - le protocole d'état de David]] et [[Trous de mémoire et stress à l'oral]] — le trac, la physiologie, le protocole d'état. Et [[La politique des alliés]], qui parle à un public de femmes en progression de carrière.
+Ce qui reste réellement à décider :
+- le **timing des deux journées** pour 13 participantes ;
+- **combien de passages** chacune, et sous quelle forme ;
+- **qui anime quoi** entre Steph et David.
 
-## À décider plus tard
+Fenêtre utile : **31/08 → 03/09**. Le 11/09 est impossible, David est à Naves pour IGECOM (déplacement IGECOM du 9 au 11).
 
-La **reconduction pour une nouvelle promotion** en 2027. À poser avec Sophie avant la clôture du 8 décembre, pas après — un contrat qui s'arrête sans que la suite soit évoquée ne repart pas tout seul.
+Matière disponible à injecter si besoin : [[Je suis la vague - le protocole d'état de David]] et [[Trous de mémoire et stress à l'oral]] — le trac, la physiologie, le protocole d'état. Et [[La politique des alliés]], qui parle à un public de femmes en progression de carrière.
+
+## Pas du ressort de David
+
+La **reconduction pour une nouvelle promotion** en 2027 : c'est **Steph** qui est en lead sur la relation Sophie et qui cale la suite.
