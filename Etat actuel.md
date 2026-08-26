@@ -8,7 +8,7 @@
 | Quand | Quoi | État |
 |---|---|---|
 | **ven. 28/08** | Point de cadrage Radiance | en cours de calage sur cette date |
-| **dim. 31/08 18h** | 1ère exécution auto du cron notes iOS + rangement Kanban | vérifier le journal le lendemain : permission Notes.app en tâche de fond non garantie |
+| **dim. 31/08 18h** | 1ère exécution auto du cron notes iOS + rangement Kanban | vérifier le journal le lendemain : permission Notes.app en tâche de fond non garantie. **En cas d'échec, regarder d'abord l'autorisation d'automatisation macOS** — voir la note de vigilance plus bas |
 | **ven. 04/09 14h** | Tripartite Teams CFF — coaching **Jilani Ben-Yahmed** (avec Sophie Pons et François) | autre dossier que le parcours féminin |
 | **09 → 11/09** | IGECOM : Toulon, Clermont, Naves | déplacement, aucune prépa possible |
 | **14-15/09** | Journées Prise de parole, Crédit Foncier | **deux journées indépendantes** : 7 managers, puis 6 cadres non managers. Support déjà conçu et mis en forme. **Rien à préparer** — format que David anime en routine |
@@ -40,6 +40,7 @@
 
 ## ⚠️ Points de vigilance
 
+- **Autorisations d'automatisation macOS (erreur `-1743`).** Réglé pour `Doc.app` le 26/08 : une app AppleScript **sans `CFBundleIdentifier`** ne peut pas se voir accorder le droit de piloter une autre app — macOS n'a nulle part où retenir la réponse, et refuse sans jamais poser la question. Correctif : ajouter l'identifiant, re-signer (`codesign --force --sign - --identifier ...`), ré-enregistrer (`lsregister -f`), puis `tccutil reset AppleEvents <id>`. **Même famille de panne que le cron notes iOS** qui doit piloter Notes.app.
 - **Épingle de partage.** L'artefact partagé ne suit pas les republications : après chaque modification du guide, il faut redéplacer l'épingle, sinon les destinataires restent sur l'ancienne version.
 - **Administratif MyConnecting**, en pause volontaire (08/08) : URSSAF, RIB, Qualiopi. **Ne pas relancer de moi-même.**
 - **Signaux comportementaux** (voir CLAUDE.md) : procrastination admin, Magic Arena, dispersion, absence de Pomodoro, le petit singe.
