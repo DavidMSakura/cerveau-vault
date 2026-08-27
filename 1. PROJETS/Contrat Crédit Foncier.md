@@ -94,3 +94,23 @@ La **reconduction pour une nouvelle promotion** en 2027 : c'est **Steph** qui es
 Treize participantes sur neuf mois : il était acquis dès le départ que tout le monde ne serait pas là à chaque fois. Une absence ponctuelle est **intégrée au dispositif** et n'a aucune incidence sur le parcours ni sur la facturation. Ne pas la remonter comme un problème.
 
 Exemple : Laila Eddamiri a annoncé le 26/08 qu'elle serait absente à la journée Prise de parole de septembre, étant en congés. C'est sans conséquence.
+
+## Les séances de coaching, dates réelles — reconstituées le 27/08/2026
+
+Reconstituées à partir des **invitations Teams envoyées par les participantes elles-mêmes**, qui font foi. `Suivi coachings DM.xlsx` est faux sur trois points et ne doit plus servir de référence pour l'administratif.
+
+| Coachée | Séance | Date et horaire | Feuille signée |
+|---|---|---|---|
+| Khom Rivière | 1 | 18/05, 14h00–15h30, **en présentiel, salle Braudel** | ❌ manquante |
+| Laila Ed Damiri | 1 | 19/05, 14h00–15h30 | ✅ |
+| Sandra Vieira | 1 | 20/05, 11h00–12h30 | ✅ |
+| Isabelle Chen | 1 | 21/05, 9h00–10h30 | ✅ |
+| Pascaline Zabardi | 1 | 02/06, 15h00–16h30 | ✅ |
+| Christelle Erhard | 1 | 26/06, 10h30–12h00 | ❌ manquante |
+| Laila Ed Damiri | 2 | 29/06, 10h00–11h30 | ❌ manquante |
+| Khom Rivière | 2 | 29/06, 14h00–15h30 | ❌ manquante |
+| Pascaline Zabardi | 2 | 27/07, 15h30–17h00 | ✅ |
+
+**Ce que le fichier de suivi avait faux.** Pascaline y figure au 21 mai : l'invitation porte la mention « report du jeudi 21/05 15h au mardi 02/06 15h », la séance a donc bien eu lieu le 2 juin. Sa séance 2 du 27 juillet n'y est pas du tout. Khom y figure au 29 juin alors que c'est sa **seconde** séance, la première ayant eu lieu le 18 mai en présentiel. Et la seconde séance de Laila, le 29 juin, n'y est pas non plus.
+
+**Conséquence.** Neuf séances ont eu lieu, pas six. Il manque **quatre** feuilles signées et non deux — Khom pour ses deux séances, Laila pour la seconde, Christelle pour la sienne. Les relances envoyées le 26/08 ne demandaient qu'une feuille à chacune : elles sont à refaire pour Khom et pour Laila.

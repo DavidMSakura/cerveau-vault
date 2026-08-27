@@ -17,7 +17,7 @@
 
 **Second cerveau de Steph.** Guide fini, autonome (bouton « Copier pour l'assistant » par chapitre) — artefact `1285ae55…`, sources dans `~/Documents/Second cerveau - guide/`. Steph n'a besoin que du lien. **L'installation n'a toujours pas commencé** ; elle démarre par les chapitres 0 à 3, qui ne se délèguent pas.
 
-**Crédit Foncier.** Le plus rentable. **Steph est en lead sur Sophie Pons** ; David est prestataire (conception, design, animation) — la reconduction 2027 n'est pas son sujet. Les cinq relances sont parties le 26/08. **Feuilles signées reçues et classées** (27/08) : Pascaline (séances 1 et 2), Sandra, Laila — dans `Coachings/Signés/`. **En attente : Christelle Erhard et Khom Rivière**, pas de relance demandée pour l'instant. `Suivi coachings DM.xlsx` faux sur deux points.
+**Crédit Foncier.** Le plus rentable. **Steph est en lead sur Sophie Pons** ; David est prestataire (conception, design, animation) — la reconduction 2027 n'est pas son sujet. Les cinq relances sont parties le 26/08. **Feuilles signées reçues et classées** (27/08) : Pascaline (séances 1 et 2), Sandra, Laila — dans `Coachings/Signés/`. **Brouillon prêt pour Nathalie Feugeas** (Sophie en copie) avec les cinq feuilles — il répond à une demande de Sophie du **29/07 restée sans réponse**. ⚠️ **Neuf séances ont eu lieu, pas six** : il manque quatre feuilles (Khom ×2, Laila séance 2, Christelle), les relances du 26/08 étaient incomplètes. Dates réelles dans [[Contrat Crédit Foncier]]. `Suivi coachings DM.xlsx` faux sur deux points.
 
 **MyConnecting / Radiance.** Livrables partis. Deux trous que seul le client peut boucher : la conséquence d'une formule au minimum sur un deux-roues, et la répartition des six informations dues.
 
