@@ -6,7 +6,7 @@
 
 | Quand | Quoi | État |
 |---|---|---|
-| **ven. 28/08** | Point de cadrage Radiance | en cours de calage sur cette date |
+| **date dans l'invitation** | Cadrage Radiance (Teams, MyConnecting + 4 personnes Radiance) | **invitation reçue le 27/08 de N. Durieux — non ouverte, absente de l'agenda.** Créneaux proposés : 4, 7 ou 8 septembre |
 | **dim. 31/08 18h** | 1ère exécution auto du cron notes iOS + Kanban | vérifier le journal le lendemain — permission Notes.app en tâche de fond non garantie |
 | **ven. 04/09 14h** | Tripartite Teams CFF — coaching **Jilani Ben-Yahmed** | autre dossier que le parcours féminin |
 | **09 → 11/09** | IGECOM : Toulon, Clermont, Naves | déplacement, aucune prépa possible |
