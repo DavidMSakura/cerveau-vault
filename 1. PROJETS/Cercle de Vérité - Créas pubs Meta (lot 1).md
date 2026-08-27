@@ -32,6 +32,8 @@ Dix scripts vidéo et dix visuels, un angle par créa. Matière brute destinée 
 
 On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un malaise. L'effet Wow vient du **regard des autres sur ses oui** — c'est ce qui fait basculer, pas la théorie.
 
+**Confirmé le 27/08 : le jour 5 enseigne bien de ne pas se justifier.** La promesse de l'angle 1 — « un non n'a pas besoin de raison, une raison ça se démonte » — est donc adossée au produit, et pas seulement à une belle formule. C'est le seul enseignement du protocole qui soit à la fois applicable le soir même, vérifiable dans le corps, et absent du discours des concurrents. **À considérer comme candidat au positionnement principal**, au-delà de la seule créa.
+
 **Deux règles qui ne bougent pas.** Tu portes l'accusation sur toi avant de la retourner : « je manipulais » avant « tu manipules ». Et on ne promet pas la guérison, on promet un premier NON.
 
 **Le silence compte comme un oui — tranché le 27/08.** Le mécanisme ne se limite pas au faux OUI prononcé : le silence qui passe pour un accord en fait partie, et il est probablement plus fréquent chez l'avatar. C'est ce qui rend l'angle 3 légitime sous sa forme corrigée, et ce qui a produit l'angle 12.
@@ -72,7 +74,9 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 **Visuel** — Séquence filmée en salle si tu en as une, sinon un billet en gros plan qui passe d'une main à l'autre. Le billet est le personnage principal.
 
-> ⏸️ **En attente de ta réponse — le script ci-dessus est faux.** Il vient du document du 08/08, qui ne retenait que « ça me ferait plaisir ». Tu dis que la vraie phrase est « on m'a volé mon portefeuille, j'ai besoin de manger ce soir et demain ». Ce ne sont pas deux formulations du même exercice, ce sont **deux démonstrations différentes** : « ça me ferait plaisir » prouve que tu donnes pour faire plaisir, sans aucune justification — c'est le plus proche du mécanisme du Cercle. Le portefeuille volé prouve qu'on ne sait pas refuser quelqu'un dans le besoin — c'est de la compassion, pas de la sur-adaptation, et ça ne démontre pas la même chose. Dis-moi lequel tu joues réellement, et je réécris. Le montant suit : 20 € est plus crédible avec le portefeuille volé, 50 € est plus spectaculaire avec « ça me ferait plaisir », parce que c'est justement l'absurdité qui fait la démonstration.
+> ✅ **Tranché le 27/08 : on part sur les 50 € et « ça me ferait plaisir »**, script ci-dessus. C'est la version qui démontre le mécanisme du Cercle — on te fait donner sans la moindre justification, uniquement pour faire plaisir, et c'est l'absurdité du montant qui fait la preuve.
+>
+> **À soumettre à Anthony** : David joue aussi une variante où il ajoute « on m'a volé mon portefeuille, j'ai besoin de manger ce soir et demain ». Elle démontre autre chose — l'incapacité à refuser quelqu'un dans le besoin, ce qui relève de la compassion plutôt que de la sur-adaptation. Elle est probablement plus émouvante et moins démonstrative. À trancher avec lui.
 
 ---
 
@@ -230,6 +234,25 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
+## 13 — « Comme tu veux »
+**Hook Clovis n°5 — Arrête de… (paradoxal)** · Le seul angle où la révélation est prononcée par quelqu'un d'autre que toi
+
+> **[ACCROCHE]** Arrête de dire « comme tu veux ». Guillaume l'a dit pendant des années, jusqu'à la phrase que sa compagne lui a sortie.
+> **[SITUATION]** Dans son couple, il évitait tout. « Ok. » « Pas de souci. » « Comme tu veux. » Jamais un conflit, jamais un désaccord.
+> **[ÉCHELLE]** Tu vois le tableau. Tu as un avis, tu le sais avant même qu'on te pose la question, et tu ne le dis pas. Alors elle choisit. Et le soir, tu es sec, absent, sans savoir pourquoi.
+> **[SON OUI]** Un jour, elle lui a dit : « Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »
+> **[RÉVÉLATION]** Il ne protégeait pas la relation. Il la rendait floue. « Comme tu veux », ça a l'air d'un cadeau — en vrai tu refiles la décision et tu gardes le droit d'être déçu. Elle joue sans les informations. Elle ne peut pas gagner, et elle finit par le sentir.
+> **[PAS TA FAUTE]** On t'a appris que ne pas imposer, c'était être respectueux. Personne ne t'a dit qu'en cachant ce que tu veux, tu enlèves à l'autre sa seule chance de te faire plaisir.
+> **[CTA]** Sept jours pour redire « j'ai envie ». 27 €.
+
+**Visuel** — Scène de couple reconstituée en amorce, très courte, puis toi face caméra à partir de la phrase de la compagne. Elle doit s'afficher à l'écran en même temps qu'elle est dite : c'est le pivot de la créa.
+
+**Variante à tester — la question qui cache l'envie.** Même angle, autre symptôme : « ça te dirait d'aller là-bas ? » au lieu de « j'ai envie d'aller là-bas, qu'est-ce que t'en penses ? ». Tu planques ton désir dans une question pour qu'un refus ne t'atteigne pas. Sauf qu'en le planquant, tu retires à l'autre toute possibilité de te faire plaisir — il ne peut pas accepter quelque chose que tu n'as jamais demandé.
+
+**Pourquoi cet angle est à part** — il attrape le mécanisme **en amont du non**. Il ne s'agit plus de refuser : il s'agit de n'avoir jamais dit ce qu'on voulait. C'est probablement l'étage le plus profond du problème, et le seul angle du lot qui n'a pas besoin d'une demande extérieure pour exister.
+
+---
+
 # LES IMAGES
 
 **Audience différente** : ici on parle à des hommes qui savent déjà que leur situation est malsaine. Donc pas de pédagogie, pas de petit texte.
@@ -252,6 +275,8 @@ Le format qui tient tout seul, c'est **une réplique reconnaissable, puis le ret
 | 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. | Tu l'as déplacé à l'intérieur de toi. |
 | 11 | Christophe | Il a dit oui à son associé. | Puis il a espéré des mois qu'un autre arrête le projet. |
 | 12 | Qui ne dit mot consent | « Qui ne dit mot consent. » | Sauf que toi, tu ne consens pas. Tu t'écrases. |
+| 13 | « Comme tu veux » | « Comme tu veux. » | Tu lui refiles la décision. Tu gardes le droit d'être déçu. |
+| 13b | La question qui cache | « Ça te dirait d'aller là-bas ? » | Ce que tu voulais dire : « j'ai envie d'y aller. » |
 
 **Direction artistique** — fond sombre uni, typo lourde, ligne 1 en gris moyen, ligne 2 en blanc. Aucune illustration : sur ce format, l'image parasite la lecture, et la lecture est tout. Les 11 images Gemini du dossier `Ads/Images/` ne servent pas cet usage.
 
@@ -267,6 +292,10 @@ Relevée sur l'ancienne page de vente et dans le tunnel écrit avec Anthony. Ce 
 **Christophe.** Empêtré dans un partenariat bancal avec un ami sur un projet économique important. Il a osé dire non, il est sorti du deal, il a évité de se mettre en risque, et il mène depuis un projet rentable qu'il conduit seul. → **c'est l'angle 11.**
 
 **Pierre.** Se laissait marcher sur les pieds au travail et acceptait de se surcharger en faisant passer les autres avant lui. Il sait maintenant refuser de nouvelles tâches, prioriser sa propre organisation, et dire non — même à ses chefs. → **candidat évident pour un douzième angle, sur le terrain professionnel**, absent du lot actuel alors que c'est le quotidien de l'avatar.
+
+**Guillaume.** Dans son couple, il évitait le conflit à coups de « ok », « pas de souci », « comme tu veux » — et derrière il devenait sec, absent, passif-agressif. Jusqu'au jour où sa compagne lui a dit : *« Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »* Il ne protégeait pas la relation, il la rendait floue. → **c'est l'angle 13.**
+
+> C'est la meilleure phrase de tout le corpus, et elle n'était nulle part dans les créas. Elle énonce le mécanisme unique **dans la bouche de la victime**, donc sans que tu aies à accuser qui que ce soit. Elle vient du mail 3 du tunnel, « Ta nouvelle phrase à bannir : comme tu veux » — l'angle était déjà validé dans la séquence, il ne manquait qu'à le sortir en publicité.
 
 **Jeremy.** D'éducateur spécialisé à magicien professionnel. En surpoids, il subissait sa vie et un métier qui ne l'épanouissait pas. Témoignage vidéo — donc utilisable tel quel en créa, sans rien tourner.
 
