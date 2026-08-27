@@ -38,7 +38,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-# LES DIX VIDÉOS
+# LES VIDÉOS
 
 ## 1 — La cigarette et les 50 centimes
 **Hook Clovis n°7 — Question → Réflexion** · Audience froide, l'angle le plus léger donc le plus large
@@ -190,7 +190,22 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-# LES DIX IMAGES
+## 11 — Christophe et l'associé
+**Hook Clovis n°6 — Défi et preuve sociale** · Le seul angle du lot porté par un client, pas par toi
+
+> **[ACCROCHE]** Christophe a failli perdre son argent et son meilleur ami la même année. Parce qu'il n'a pas su dire non au départ.
+> **[SITUATION]** Un ami lui propose de monter un projet ensemble. Vrai projet, vrai argent. Dès la première réunion, il sent que le montage est bancal.
+> **[ÉCHELLE]** Tu vois très bien ce moment. Tu as senti quelque chose. Tu n'as rien dit parce que c'était un ami. Tu t'es dit que tu verrais plus tard, et que tu ne pouvais pas lui faire ça maintenant.
+> **[SON OUI]** Christophe a dit oui. Puis il a passé des mois à espérer que quelqu'un d'autre arrête le projet à sa place.
+> **[RÉVÉLATION]** Sauf que son ami, lui, avançait. Il engageait de l'argent, du temps, sa réputation — sur la foi d'un associé qui n'était pas d'accord et qui ne le disait pas. Ce n'est pas de la loyauté. C'est laisser quelqu'un décider avec une information fausse. Le vrai risque, ce n'était pas le non. C'était le oui.
+> **[PAS TA FAUTE]** Il a fini par le dire. Il est sorti du deal, il a gardé l'ami, et il mène aujourd'hui un projet rentable, seul.
+> **[CTA]** Ton premier NON en sept jours, ou je te rembourse.
+
+**Visuel** — Face caméra, ton posé de celui qui raconte quelqu'un d'autre. Aucune incrustation avant la dernière phrase.
+
+---
+
+# LES IMAGES
 
 Mêmes angles, mais **une audience différente** : ici on parle à des hommes qui savent déjà que leur situation est malsaine. Donc pas de pédagogie, pas de petit texte. Une phrase, lisible en une seconde, sur un visuel qui l'illustre.
 
@@ -208,6 +223,22 @@ Mêmes angles, mais **une audience différente** : ici on parle à des hommes qu
 | 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. Tu l'as déplacé. | Ardoise couverte de traits |
 
 ---
+
+---
+
+# Preuve sociale — la matière
+
+Relevée sur l'ancienne page de vente et dans le tunnel écrit avec Anthony. Ce sont des transformations nommées et concrètes, ce qui manquait totalement au lot.
+
+**Fabrice**, 48 ans, cadre. Faisait passer tous les désirs de sa compagne avant les siens, frustration permanente et manque de reconnaissance. Il ose désormais dire et faire ce qu'il veut, aménage son temps et vit ses passions — pour mieux prendre soin de lui, de sa compagne et de sa fille. Son verbatim : *« Aujourd'hui, je n'assume pas qui je suis, je ne suis pas heureux. Je sens que j'ai des chaînes qui me retiennent et je veux m'en libérer. Je veux pouvoir dire ce que je veux à qui je veux, quand je veux. »*
+
+**Christophe.** Empêtré dans un partenariat bancal avec un ami sur un projet économique important. Il a osé dire non, il est sorti du deal, il a évité de se mettre en risque, et il mène depuis un projet rentable qu'il conduit seul. → **c'est l'angle 11.**
+
+**Pierre.** Se laissait marcher sur les pieds au travail et acceptait de se surcharger en faisant passer les autres avant lui. Il sait maintenant refuser de nouvelles tâches, prioriser sa propre organisation, et dire non — même à ses chefs. → **candidat évident pour un douzième angle, sur le terrain professionnel**, absent du lot actuel alors que c'est le quotidien de l'avatar.
+
+**Jeremy.** D'éducateur spécialisé à magicien professionnel. En surpoids, il subissait sa vie et un métier qui ne l'épanouissait pas. Témoignage vidéo — donc utilisable tel quel en créa, sans rien tourner.
+
+**Un cinquième angle dort dans le tunnel** : les 48 heures. Ce n'est pas le premier NON qui casse, c'est le deuxième jour, quand la culpabilité revient et qu'on se dit « je vais passer pour un égoïste ». C'est la justification de l'upsell 1, et c'est un excellent angle de pub à part entière.
 
 # Durées
 

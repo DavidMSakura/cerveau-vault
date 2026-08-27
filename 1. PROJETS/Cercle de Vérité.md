@@ -5,7 +5,9 @@ casquette: Contenu & Médias
 
 # Cercle de Vérité
 
-**Objectif** : offre digitale low-ticket pour hommes qui se sur-adaptent, ne savent pas dire non. Sert de porte d'entrée peu coûteuse avant l'upgrade vers [[Sakura]] (mid/high-ticket), après l'échec de la vente à froid de Sakura par webinaire.
+**Objectif** : offre digitale low-ticket pour hommes qui se sur-adaptent, ne savent pas dire non. Sert de porte d'entrée peu coûteuse avant l'upgrade vers [[Sakura]], après l'échec de la vente à froid de Sakura par webinaire.
+
+**Nomenclature de la gamme, précisée le 27/08/2026** : **Sakura** est le mid-ticket. **Hikari** est le high-ticket — Sakura *plus* l'accompagnement premium. Hikari inclut donc Sakura. C'est sous le nom Hikari que le coaching premium apparaît dans le tunnel et les séquences email écrites avec Anthony.
 
 **Offre** : protocole vidéo 7 jours "sortir du Cercle de Complaisance", angle "consentement masculin".
 
@@ -15,12 +17,17 @@ casquette: Contenu & Médias
 |---|---|---|
 | Front-end | Le Cercle de Vérité (7 jours + 3 bonus) | **27 €** |
 | Order bump | Les 15 Scripts Anti-Craquage | **17 €** |
-| Upsell 1 | 2 jours pour rester fort | **27 €** |
+| Upsell 1 | 2 jours pour rester fort | **39 €** |
+| Downsell | Le même, en deux fois | **2 × 13,50 €** |
 | Upsell 2 | Le Décodeur Émotionnel | **27 €** |
 
 Panier maximum théorique **110 €**, panier moyen visé **50-60 €**.
 
-✅ **Prix de l'upsell 1 arrêté à 27 €** (David, 25/08/2026). Ce choix **règle le blocage de production** qui traînait depuis le 08/08 : le tarif de 39 € alors retenu n'avait aucune vidéo correspondante, alors que **`Upsell1 27E.mp4` existe** dans `~/Documents/Formation/Olivier Clovis Scaling Academy/`. Plus rien à retourner ni à contourner — la prise est prête.
+⚠️ **Prix de l'upsell 1 : 39 €, confirmé par David le 27/08/2026** — c'est le tarif réellement paramétré dans le tunnel. Le passage à 27 € envisagé le 25/08 n'a pas été retenu.
+
+**Conséquence de production, non résolue** : il n'existe aucune vidéo d'upsell à 39 €. Le dossier `Contenus/Upsell 1 - 2 jours pour rester fort/` contient des prises à 17, 27, 47 et 57 €, plus `Upsell1 neutre 0 prix.mp4`. **C'est cette prise neutre qu'il faut utiliser**, en n'affichant les 39 € que sur la page — ou retourner une prise.
+
+**La justification de cet upsell**, telle qu'elle est écrite dans le tunnel : la phase critique n'est pas le premier NON, ce sont les **48 heures qui suivent**. Les gens y arrivent, se sentent fiers, puis la culpabilité les rattrape au deuxième jour — « je vais passer pour un égoïste, on va moins m'apprécier, je vais me retrouver isolé » — et ils retombent. C'est la vraie ligne de partage entre ceux qui tiennent et ceux qui jettent le Cercle de Vérité.
 
 **Statut au 08/08/2026** : **produit complet et prêt.** Pages de vente en ligne (davidmarsac.com/cercle-de-verite, /confirmation-cdv + pages upsell/downsell), **les 7 vidéos quotidiennes sont tournées** (hébergées côté Systeme.io, pas sur le Mac — ne pas conclure du contenu local qu'il manque quelque chose), bonus PDF/audio produits, VSL et vidéos d'upsell tournées. **10 créas publicitaires vidéo existent** (dans `~/Documents/Formation/Olivier Clovis Scaling Academy/Ads/Videos/`, tournées le 01/02/2026).
 
