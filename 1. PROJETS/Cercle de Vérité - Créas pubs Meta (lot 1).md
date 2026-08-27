@@ -209,6 +209,32 @@ Mêmes angles, mais **une audience différente** : ici on parle à des hommes qu
 
 ---
 
+# Durées
+
+Les dix scripts tiennent entre 66 et 79 secondes. C'est au-dessus de la minute, et c'est volontaire sur ceux qui démontrent quelque chose : la démonstration ne se compresse pas sans perdre l'échelle de « oui », qui est tout le mécanisme de bascule.
+
+Deux familles, donc, à tester séparément.
+
+**Les pubs qui expliquent** — les 50 euros, l'ami qui déménage, l'astreinte, le corps, dans cinq ans. Elles peuvent aller au-delà de la minute, jusqu'à 80 secondes environ. Leur effet Wow vient de l'accumulation.
+
+**Les pubs qui mettent en scène** — la cigarette, l'autorité retournée, le parent du dimanche, le distributeur, le faux merci. Elles doivent rester serrées, une minute maximum. Leur effet vient de la reconnaissance immédiate d'une scène, pas de la démonstration.
+
+---
+
+# Trois points à vérifier avec Anthony
+
+Repérés en lisant le document de travail commun, et qui touchent directement à ce qu'on écrit dans les créas.
+
+**La garantie.** Le tunnel annonce un remboursement à 30 jours, la page de vente promet « ton premier NON en 7 jours ou remboursé ». Ce ne sont pas les mêmes promesses. Mes CTA reprennent la seconde. À trancher avant diffusion, parce que c'est une mention qui engage.
+
+**Le prix de l'upsell 1.** Le document commun affiche 39 € barré à 87 €. Tu l'as arrêté à **27 €** le 25/08, précisément parce que la vidéo à 27 € existait déjà. Le document n'a pas suivi.
+
+**Hikari.** Le document désigne le coaching premium sous ce nom, alors que le vault et le tunnel parlent de **Sakura**. Deux offres différentes, ou un changement de nom qui n'a pas été répercuté ?
+
+Et un cadeau au passage : le document contient des témoignages nommés — Fabrice, Christophe, Pierre. C'est de la preuve sociale exploitable, qui manque totalement au lot actuel.
+
+---
+
 # Ce qui est mis de côté, et pourquoi
 
 Cinq des quinze angles du 08/08 ne sont pas dans le lot. Ils restent disponibles si Anthony veut permuter.
