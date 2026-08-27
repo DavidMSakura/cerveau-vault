@@ -1,5 +1,5 @@
 ---
-statut: à valider
+statut: à envoyer à Anthony
 casquette: Contenu & Médias
 projet: "[[Cercle de Vérité]]"
 date: 2026-08-27
@@ -10,177 +10,213 @@ tags:
   - creas
 ---
 
-# Cercle de Vérité — Créas pubs Meta, lot 1
+# Cercle de Vérité — Créas Meta, matière pour Anthony
 
-Écrit le 27/08/2026 à partir de trois sources : le [[Cercle de Vérité - Brief ads Meta (réponses au questionnaire)|brief ads]], le mécanisme unique, et la `Masterclass Process Ads à 1M` de Clovis (9 types de hooks, équilibre 50/50 image/vidéo, formats ugly / funny / selfie authentique en mouvement).
+Dix scripts vidéo et dix visuels, un angle par créa. Matière brute destinée à Anthony : il corrige, puis il étoffe.
 
-## Règles qui s'appliquent à tout le lot
+**Sources croisées** : les 15 angles du 08/08 (`Creas Ads Meta - 15 angles, hooks, scripts, CTA.docx`, dont toutes les formulations sortent des scripts du programme), la structure de script donnée par Anthony, et les sept types de hooks retenus chez Clovis.
 
-1. **Non négociable** — David porte l'accusation sur lui-même avant de la retourner. « Je manipulais » avant « tu manipules ». Sans ça, le crochet devient une agression et les signalements Meta grimpent.
-2. **Pas de surpromesse.** On ne promet pas la guérison en 7 jours, on promet **un premier NON**. Un seul. Le premier domino.
-3. **Vocabulaire** : combat, bushido, vécu. Jamais celui du coaching américain.
-4. **Les 3 premières secondes qualifient** autant qu'elles accrochent : elles doivent faire lever la tête à un homme de 40-55 ans et à personne d'autre.
-5. **Format** : selfie en mouvement, lumière naturelle, pas de plateau. Le visage et le vécu portent la crédibilité — pas la production.
-6. **Longueur** : 35-50 s. CTA identique partout : *« Le lien est sous la vidéo. 27 €. Sept jours. Ton premier NON ou remboursé. »*
+**Ce qui a changé depuis le document du 08/08** : ces scripts-là faisaient 18 à 27 secondes et posaient le mécanisme d'entrée. On passe à une minute, et la révélation part à la fin.
 
 ---
 
-## AD 1 — Le mécanisme
-**Hook Clovis n°9 — Déclaration paradoxale** · Angle : mécanisme unique · Selfie fixe, plan serré
+## La structure, sur chaque script
 
-> Pendant quinze ans, j'ai cru que j'étais quelqu'un de gentil.
-> En fait, je manipulais.
-> Quand tu dis oui alors que tu penses non, tu donnes à l'autre l'illusion qu'il est d'accord avec toi. Tu lui fais prendre une décision sur une information fausse. Ça porte un nom, et ce n'est pas la gentillesse.
-> Moi je ne manipulais pas par méchanceté. Je manipulais par peur. Peur qu'on m'en veuille, peur de décevoir, peur du silence après le refus.
-> Et un jour ça sort. Vers l'extérieur — la colère, la rupture. Ou vers l'intérieur — le vide, l'épuisement.
-> J'ai fait un protocole de sept jours pour en sortir. Le lien est sous la vidéo.
+1. **Accroche** — trois secondes, on plante le décor et on implique avec un « tu ».
+2. **Situation générale**, selon l'angle. Une mise en situation ou une histoire, jamais une thèse.
+3. **L'échelle de « oui »** — une succession de faits sur lesquels il est d'accord.
+4. **Son OUI à lui.**
+5. **La révélation** : ces oui-là sont de la manipulation.
+6. **Ce n'est pas ta faute**, ça se change, et tu seras plus heureux après.
+7. **CTA.**
 
-**Incrustation** : « Je manipulais. » (s. 3) — « Par peur. » (s. 12)
+On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un malaise. L'effet Wow vient du **regard des autres sur ses oui** — c'est ce qui fait basculer, pas la théorie.
 
----
+**Deux règles qui ne bougent pas.** Tu portes l'accusation sur toi avant de la retourner : « je manipulais » avant « tu manipules ». Et on ne promet pas la guérison, on promet un premier NON.
 
-## AD 2 — Le consentement masculin
-**Hook Clovis n°8 — Problème courant, solution unique** · Angle : angle sociétal · Selfie en marchant
-
-> On parle beaucoup du consentement des femmes. À juste titre.
-> Personne ne parle du consentement des hommes.
-> Pourtant, un homme sur deux dit oui à des choses qu'il ne veut pas. À son patron. À son beau-frère. À sa femme. Au copain qui déménage un dimanche.
-> Et chaque oui forcé est une trahison. Pas de l'autre — de soi.
-> J'ai mis quarante ans à comprendre qu'un OUI n'a de valeur que si le NON est possible. Tant que tu ne peux pas dire non, ton oui ne vaut rien. Ni pour toi, ni pour ceux qui le reçoivent.
-> Sept jours pour dire ton premier vrai NON. Le lien est en dessous.
-
-**Incrustation** : « Un OUI n'a de valeur que si le NON est possible. »
+**Un angle a disparu au passage** : « l'aveu de manipulation », qui était l'angle 2 du document du 08/08. Il n'existe plus comme angle, parce qu'il est devenu la mécanique des dix. Sa matière est répartie dans les temps 5.
 
 ---
 
-## AD 3 — Le podium
-**Hook Clovis n°6 — Histoire personnelle** · Angle : preuve incarnée · Selfie, médaille visible ou photo d'archive en insert
+# LES DIX VIDÉOS
 
-> Double champion du monde de sabre japonais. Médaille d'or autour du cou, hymne, le podium.
-> Et à ce moment précis, je n'ai rien ressenti. Le vide.
-> Il m'a fallu des années pour comprendre pourquoi : je ne l'avais pas fait pour moi. Je l'avais fait pour la fierté dans les yeux de mon père.
-> J'étais capable d'aller au combat devant deux mille personnes. J'étais incapable de dire non à un ami qui me demandait un service un dimanche.
-> **Le courage physique ne garantit pas le courage relationnel.**
-> Si tu te reconnais là-dedans, j'ai construit sept jours pour ça. 27 €. Le lien est sous la vidéo.
+## 1 — La cigarette et les 50 centimes
+**Hook Clovis n°7 — Question → Réflexion** · Audience froide, l'angle le plus léger donc le plus large
 
-**Incrustation** : « Le courage physique ne garantit pas le courage relationnel. »
+> **[ACCROCHE]** T'es dehors, tu fumes. Un type s'approche. Tu sais déjà que tu vas dire oui.
+> **[SITUATION]** « T'aurais pas une cigarette ? » — « Ah désolé, c'est ma dernière. » — « Y'a un tabac juste là. Tiens, 50 centimes. »
+> **[ÉCHELLE]** Tu connais la scène. Tu sais que tu ne vas pas te battre pour 50 centimes. Tu sais que ce sera plus simple d'y aller. Et tu sais exactement ce que tu vas ressentir en marchant.
+> **[SON OUI]** Tu y es allé. Tu as acheté un paquet à un inconnu. En souriant.
+> **[RÉVÉLATION]** Sauf que tu ne lui as pas dit non. Tu lui as donné une raison — et une raison, ça se négocie. Il est reparti persuadé que tu étais d'accord, pendant que tu l'insultais dans ta tête. Ce que tu lui as vendu, c'est un faux accord. Moi j'ai fait ça quinze ans en me trouvant sympathique.
+> **[PAS TA FAUTE]** On t'a appris que refuser, c'était décevoir. Ça s'apprend, donc ça se désapprend.
+> **[CTA]** Sept jours pour ton premier vrai NON. Sinon je te rembourse.
 
----
-
-## AD 4 — Le distributeur automatique
-**Hook Clovis n°1 — Comparaison binaire** · Angle : douleur du quotidien · Selfie, ton sec
-
-> Il y a deux types d'hommes de quarante ans.
-> Ceux qui disent oui à tout et qui rentrent le soir en se demandant pourquoi ils sont épuisés. Et ceux qui ont appris à poser une limite sans se justifier pendant dix minutes.
-> J'ai été le premier pendant très longtemps. Disponible, arrangeant, jamais un problème. Tu deviens un distributeur automatique de OUI.
-> Et personne n'aime un distributeur automatique. On s'en sert. On ne l'aime pas.
-> La différence entre les deux types d'hommes, ce n'est pas le caractère. C'est un protocole. Sept jours, un exercice par jour.
-
-**Incrustation** : « Tu deviens un distributeur automatique de OUI. »
+**Visuel** — Sketch joué en une prise, ton léger, presque comique. La bascule sérieuse arrive au temps 5, où tu reviens face caméra.
 
 ---
 
-## AD 5 — L'astreinte
-**Hook Clovis n°7 — Question provoquant la réflexion** · Angle : douleur relationnelle · Selfie, plan très serré
+## 2 — Les 50 euros
+**Hook Clovis n°6 — Défi et preuve sociale** · La démonstration la plus spectaculaire
 
-> Je peux être honnête avec toi deux minutes ?
-> Est-ce que tu es encore en relation avec les gens autour de toi — ou est-ce que tu es en astreinte ?
-> L'astreinte, c'est quand tu es joignable tout le temps, quand tu dis oui avant même d'avoir écouté la question, quand ton téléphone sonne et que ton ventre se serre.
-> J'ai vécu comme ça pendant des années et je croyais que c'était de l'amour.
-> Une vie entière en astreinte, ce n'est pas de l'amour. C'est de l'épuisement organisé.
-> Sept jours pour sortir de l'astreinte. Le lien est en dessous.
+> **[ACCROCHE]** Je peux te faire sortir 50 euros de ta poche avec quatre mots.
+> **[SITUATION]** Je le fais en formation. Je demande à quelqu'un de me donner 50 euros. Il hésite, il rigole, il regarde les autres.
+> **[ÉCHELLE]** Alors j'ajoute quatre mots : « ça me ferait plaisir. » Et il les sort. À chaque fois. Toi aussi tu les sortirais — refuser devant vingt personnes coûte plus cher que 50 euros. Ça, tu le sais.
+> **[SON OUI]** Il donne. Et souvent, dans les minutes qui suivent, il pleure.
+> **[RÉVÉLATION]** Pas pour l'argent. Parce qu'il vient de compter combien de fois il a fait ça dans sa vie. Et parce qu'il réalise qu'à chaque fois, l'autre est reparti convaincu qu'il avait donné de bon cœur. C'est ça le vrai coût : les gens autour de toi ne savent pas ce que tu leur donnes vraiment.
+> **[PAS TA FAUTE]** Quatre mots suffisent à te faire craquer. Ce n'est pas de la faiblesse, c'est un réflexe. Un réflexe, ça se reprogramme.
+> **[CTA]** Sept jours, 27 €. Moins qu'un resto.
 
-**Incrustation** : « Tu n'es plus en relation. Tu es en astreinte. »
-
----
-
-## AD 6 — La promesse
-**Hook Clovis n°2 — Déclaration et promesse** · Angle : offre directe · Selfie, énergie haute
-
-> Dans sept jours, tu auras dit ton premier NON. Clair, assumé, sans culpabiliser. Et sans y laisser la relation.
-> Pas comprendre pourquoi tu dis oui. Le dire. À une vraie personne, dans ta vraie vie.
-> Une vidéo de dix minutes par jour, un exercice de cinq minutes. Sept jours. Pas de groupe, pas de communauté, pas de validation à aller chercher dans le regard des autres. Un protocole commando, seul face à toi.
-> 27 €. Le prix d'un restaurant.
-> Et si au bout de sept jours tu n'as pas dit un seul NON, je te rembourse. Tout le risque est de mon côté.
-
-**Incrustation** : « Ton premier NON ou remboursé. »
+**Visuel** — Séquence filmée en salle si tu en as une, sinon un billet de 50 en gros plan qui passe d'une main à l'autre. Le billet est le personnage principal.
 
 ---
 
-## AD 7 — La confrontation
-**Hook Clovis n°3 — Confrontation et réalisation** · Angle : disqualification · Selfie, ton calme et froid
+## 3 — L'autorité retournée
+**Hook Clovis n°4 — Story perso** · Le meilleur ouvreur du lot, il installe la crédibilité
 
-> Alors continue.
-> Continue de dire « oui, pas de problème » alors qu'il y a un problème. Continue de raccrocher et de te demander cinq minutes après pourquoi tu as encore dit oui.
-> Continue de te dire que ça va passer, que c'est juste une période, que de toute façon tu n'es pas du genre à faire des histoires.
-> Parce que si pour toi une vie d'homme DOIT se passer comme ça — cette vidéo n'est pas pour toi.
-> Moi j'ai arrêté. Ça m'a pris sept jours pour commencer.
-> Le lien est en dessous. Ou pas.
+> **[ACCROCHE]** J'ai été deux fois champion du monde de sabre japonais. Et j'étais incapable de dire à ma femme que ça n'allait pas.
+> **[SITUATION]** Devant un adversaire armé, je ne tremblais pas. Le soir, on me demandait un service et je disais oui avant d'avoir écouté la question.
+> **[ÉCHELLE]** Tu vois de quoi je parle. Tu as déjà tenu tête à un client difficile. Tu as déjà géré une urgence dont personne ne voulait. Et le même soir, tu as dit oui à un truc dont tu n'avais aucune envie.
+> **[SON OUI]** Le courage, tu l'as. Il s'arrête à la porte de tes relations.
+> **[RÉVÉLATION]** Et voilà ce que personne ne t'a dit : ce oui-là n'est pas généreux. Il fait croire à l'autre que tu es d'accord, et te laisse avec une facture que tu présenteras plus tard, en reproches ou en silence. J'ai fait exploser un mariage comme ça, sans jamais élever la voix.
+> **[PAS TA FAUTE]** Le courage physique ne garantit pas le courage relationnel. Deux muscles différents — et le second, personne ne nous l'a fait travailler.
+> **[CTA]** Sept jours pour le muscler. Le lien est en dessous.
 
-**Incrustation** : « Pourquoi j'ai encore dit oui ? »
-
----
-
-## AD 8 — Le corps
-**Hook Clovis n°4 — Secret révélé** · Angle : différenciation méthode · Selfie puis démonstration debout
-
-> Il y a une raison pour laquelle tes NON ne tiennent pas.
-> Ce n'est pas le vocabulaire. Ce n'est pas le manque de confiance. C'est que ton corps dit oui pendant que ta bouche dit non. Les épaules qui rentrent, le sourire d'excuse, la phrase qui monte dans les aigus à la fin.
-> Dans le bushido, avant de frapper, il y a un silence. Trois secondes. Ce silence-là fait plus que n'importe quelle phrase.
-> Si ton corps ne suit pas, tes mots ne valent rien.
-> Jour 6 du protocole, on ne travaille pas les mots. On travaille la posture, la respiration, et ces trois secondes.
-
-**Incrustation** : « Si ton corps ne suit pas, tes mots ne valent rien. »
+**Visuel** — Plan serré, fond neutre. Insert de 1,5 s sur la vraie photo de podium à « champion du monde », puis retour visage. Aucune musique sur les trois premières secondes : le silence fait ralentir le scroll.
 
 ---
 
-## AD 9 — L'anti-surpromesse
-**Hook Clovis n°5 — Défi** · Angle : traitement de l'objection qui va coûter cher · Selfie, ton posé
+## 4 — L'ami qui déménage
+**Hook Clovis n°1 — Il y a deux types de…** · Montre le mécanisme sans une once de théorie
 
-> « Sept jours pour changer un truc que je traîne depuis quarante ans, c'est du flan. »
-> Tu as raison. En sept jours, tu ne deviendras pas quelqu'un d'autre. Je ne te le promets pas et méfie-toi de ceux qui te le promettent.
-> Ce que je te promets, c'est **un** NON. Un seul. Le premier.
-> Parce que le premier est le seul qui coûte. Après, ton cerveau a la preuve que le ciel ne t'est pas tombé sur la tête, et le deuxième ne se discute plus.
-> Je ne vends pas une transformation. Je vends le premier domino.
+> **[ACCROCHE]** Il y a deux types d'hommes qui aident un ami à déménager. Le soir, ils ne dorment pas pareil.
+> **[SITUATION]** Samedi, huit heures du matin. Même cartons, même étage, même ami.
+> **[ÉCHELLE]** Le premier a pris deux secondes avant de répondre : il a regardé son samedi, il a décidé, il a dit oui. Le second a dit oui tout de suite. Toi tu sais lequel tu es. Tu le sais depuis le début de cette vidéo.
+> **[SON OUI]** Le soir, le premier est fatigué et content. Le second attend un merci qui ne vient pas.
+> **[RÉVÉLATION]** Parce que le second n'a pas offert sa journée. Il l'a facturée en douce, sans prévenir personne. Son ami croit avoir reçu un cadeau : il a signé une dette qu'il ne connaît pas. C'est ça, un faux oui — tu fais décider l'autre sur une information fausse.
+> **[PAS TA FAUTE]** La différence entre les deux, ce n'est pas le caractère. C'est deux secondes de consultation avec toi-même.
+> **[CTA]** Sept jours pour apprendre à te consulter. 27 €.
 
-**Incrustation** : « Pas une transformation. Le premier domino. »
-
----
-
-## AD 10 — L'homme invisible
-**Hook Clovis n°6 — Histoire personnelle, variante** · Angle : le coût réel · Selfie, ton bas, sans musique
-
-> Mon mariage ne s'est pas effondré parce que j'étais méchant.
-> Il s'est effondré parce que j'étais devenu invisible.
-> J'ai tout fait. Vraiment tout. J'étais l'homme qui ne dit jamais non, qui ne pose jamais de problème, qui s'efface. Et je pensais sincèrement que c'était de l'amour.
-> Ce que tu donnes sans le choisir finit toujours par se transformer en reproche. D'abord le tien, silencieux. Puis celui de l'autre.
-> Le jour où j'ai commencé à dire non, on m'a regardé autrement. Certains ont grincé. Ceux qui comptaient sont restés.
-> Sept jours. Le lien est sous la vidéo.
-
-**Incrustation** : « Ce que tu donnes sans le choisir finit par se transformer en reproche. »
+**Visuel** — Deux plans successifs de la même scène, l'un lumineux, l'autre plus froid et désaturé. Cartons en B-roll.
 
 ---
 
-## Le volet image — les 50 % manquants
+## 5 — Le parent et le dimanche
+**Hook Clovis n°3 — Un secret** · Le plus chargé émotionnellement, à manier avec précaution
 
-Clovis impose l'équilibre 50/50 image/vidéo pour faire baisser le CPA. **11 images Gemini existent déjà** dans `~/Documents/Formation/Olivier Clovis Scaling Academy/Ads/Images/` — non nommées, à trier.
+> **[ACCROCHE]** Il y a une phrase que ta mère ne t'a jamais dite, et que tu entends à chaque fois.
+> **[SITUATION]** Le téléphone sonne un jeudi soir. « Est-ce que tu peux passer dimanche ? » Six mots. Aucun reproche, aucune pression.
+> **[ÉCHELLE]** Et pourtant ton ventre s'est serré. Tu as déjà calculé ce que ça coûte à ton week-end. Tu as déjà cherché une excuse. Et tu as déjà renoncé à la chercher.
+> **[SON OUI]** Parce que ce que tu as entendu, c'est : « après tout ce que j'ai fait pour toi. » Personne n'a prononcé cette phrase. Elle est dans ta tête.
+> **[RÉVÉLATION]** Alors tu ne réponds pas à une demande : tu rembourses une facture que personne ne t'a présentée. Et dimanche, tu es là physiquement, absent complètement. Ta mère croit passer un moment avec son fils. Elle le passe avec un débiteur. Elle non plus n'a pas signé pour ça.
+> **[PAS TA FAUTE]** La gratitude n'est pas une dette illimitée. Le jour où j'ai compris ça, j'ai recommencé à voir mon père avec plaisir.
+> **[CTA]** Ton créancier émotionnel, c'est le jour 2.
 
-Sept cartes texte à produire, punchline seule sur fond sombre, typo lourde, aucune illustration :
-
-1. « Je manipulais. Par peur. »
-2. « Un OUI n'a de valeur que si le NON est possible. »
-3. « Le courage physique ne garantit pas le courage relationnel. »
-4. « Tu n'es plus en relation. Tu es en astreinte. »
-5. « Tu deviens un distributeur automatique de OUI. »
-6. « La perfection est une prison très élégante. »
-7. « Se justifier, c'est parfois se crucifier. »
-
-Usage : retargeting en priorité, et test à froid sur les trois premières.
+**Visuel** — Plan calme, assis, lumière douce. Ton posé, presque tendre. Cet angle ne supporte pas la provocation : il touche trop juste.
 
 ---
 
-## À trancher
+## 6 — Le distributeur automatique
+**Hook Clovis n°5 — Arrête de… (paradoxal)** · La phrase la plus mémorisable du lot
 
-1. **Les 10 vidéos du 01/02/2026** (`Ads/Videos/`) sont antérieures au mécanisme unique du 06/08. Leurs titres recoupent plusieurs angles ci-dessus — *Nice Guy*, *Champion médailles*, *Vestiaire*, *Lion souris*, *Fierté miroir*. Trente minutes à les revoir et à les taguer : ce qui est réutilisable au montage n'est pas à retourner. Ça peut diviser le tournage par deux.
-2. **Ordre de tournage** si le lot est validé : 1, 3, 6, 5, 9 d'abord — le mécanisme, la preuve incarnée, l'offre, la douleur, l'objection. C'est le socle testable. Les cinq autres en second passage.
-3. **Rappel bloquant, indépendant des créas** : `/sakura` renvoie une 404 depuis la page du Cercle. Payer de la pub avant de réparer la sortie du tunnel, c'est financer la moitié d'un parcours.
+> **[ACCROCHE]** Arrête de dire oui pour qu'on t'apprécie. Tu obtiens l'inverse, et je vais te montrer pourquoi.
+> **[SITUATION]** Tu es celui sur qui on peut compter. Le collègue arrangeant, le pote fiable, le fils présent. Jamais un problème.
+> **[ÉCHELLE]** Tu as remarqué qu'on te demande plus qu'aux autres. Qu'on ne te remercie plus vraiment. Et qu'on ne te demande jamais ton avis — on te demande ta disponibilité.
+> **[SON OUI]** À force de dire oui, tu n'es pas devenu indispensable. Tu es devenu prévisible.
+> **[RÉVÉLATION]** Tu es devenu un distributeur automatique de oui. Et personne n'aime un distributeur — on s'en sert, ce n'est pas la même chose. Le pire, c'est que tu l'as construit toi-même : à chaque oui automatique, tu leur as appris que ton avis n'existait pas.
+> **[PAS TA FAUTE]** On t'a fait croire que ta valeur, c'était ton utilité. C'est faux, et ça se répare.
+> **[CTA]** Redeviens quelqu'un dont le oui a de la valeur. Sept jours.
+
+**Visuel** — Métaphore assumée : un distributeur, une main qui appuie, un produit qui tombe. Fonctionne aussi en version texte plein écran, voix off.
+
+---
+
+## 7 — L'astreinte émotionnelle
+**Hook Clovis n°1 — Il y a deux types de…** · Parle directement aux hypersensibles
+
+> **[ACCROCHE]** Il y a deux types d'hommes fatigués. Ceux qui ont trop travaillé, et ceux qui ont passé la journée à surveiller l'humeur des autres.
+> **[SITUATION]** Tu rentres vidé, et tu n'as rien porté de lourd. Tu n'as pas couru. Tu n'as pas fait de nuit blanche.
+> **[ÉCHELLE]** Mais tu as scanné le ton du mail de ton patron. Le visage de ta compagne en passant la porte. Le silence de ton ado à table. Et à chaque fois, tu as ajusté.
+> **[SON OUI]** Tu n'es plus en relation avec eux. Tu es en astreinte.
+> **[RÉVÉLATION]** Et l'astreinte n'est pas gratuite pour eux non plus. Ils vivent avec un homme qui ne dit jamais ce qu'il pense, qui sourit quand ça ne va pas, et qui explose un jour sans prévenir. Ils croient te connaître. Tu ne leur en as jamais donné les moyens.
+> **[PAS TA FAUTE]** Une vie entière en astreinte, ce n'est pas de l'amour. C'est de l'épuisement organisé. Et ça se désorganise.
+> **[CTA]** Sors de l'astreinte. Sept jours, 27 €.
+
+**Visuel** — Plan fixe, toi immobile, le regard qui balaie hors champ comme si tu surveillais quelque chose. Notifications discrètes qui s'accumulent, puis silence total sur la dernière phrase.
+
+---
+
+## 8 — Le faux merci
+**Hook Clovis n°2 — Confrontation** · La scène la plus reconnaissable du lot
+
+> **[ACCROCHE]** Continue à donner sans rien demander. Tant que tu attendras qu'on devine, tu récolteras des « c'est sympa, merci ».
+> **[SITUATION]** Tu t'es levé tôt. Tu as annulé un truc. Tu as fait le trajet. Tu as réglé le problème de quelqu'un d'autre.
+> **[ÉCHELLE]** Et tu as attendu. Pas un cadeau, pas un discours. Juste un signe qu'il a vu ce que ça t'a coûté. Tu as guetté sa tête. Tu as guetté son ton.
+> **[SON OUI]** Et tu as eu : « c'est sympa, merci. » Le faux merci.
+> **[RÉVÉLATION]** Alors tu encaisses, encore. Sauf que le problème n'est pas son merci. C'est que tu as donné en espérant qu'il devine un prix que tu ne lui as jamais annoncé. Tu lui as fait signer un contrat qu'il n'a pas lu. Et ce que tu donnes sans le choisir finit toujours par se transformer en reproche.
+> **[PAS TA FAUTE]** On ne t'a jamais appris à annoncer le prix. C'est une phrase à apprendre, pas une personnalité à changer.
+> **[CTA]** La formulation, c'est le jour 5.
+
+**Visuel** — Reconstitution courte d'un échange, gros plan sur le visage de celui qui encaisse. Puis toi face caméra pour les deux dernières phrases.
+
+---
+
+## 9 — Le corps qui demande pardon
+**Hook Clovis n°3 — Un secret** · Le seul angle que personne d'autre ne peut faire
+
+> **[ACCROCHE]** Tu as déjà dit non. Et ça n'a pas marché. Ça n'a rien à voir avec tes mots.
+> **[SITUATION]** Tu avais préparé ta phrase. Tu l'as dite calmement, au bon moment. Et l'autre a insisté comme si tu n'avais rien dit.
+> **[ÉCHELLE]** Repasse la scène. Tes épaules sont rentrées. Ta voix est montée dans les aigus à la fin. Tu as souri en le disant. Et tu as ajouté « enfin, si ça t'embête pas trop ».
+> **[SON OUI]** Ta bouche disait non. Ton corps disait : « s'il te plaît, ne m'en veux pas. »
+> **[RÉVÉLATION]** Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires et tu l'as laissé choisir celui qui l'arrangeait. Ça ressemble à de la politesse ; en pratique tu lui as ouvert la porte en prétendant la fermer. Un non qu'on peut ignorer n'est pas un non. C'est une invitation à insister.
+> **[PAS TA FAUTE]** La fermeté ne vient pas du volume. Elle vient de la stabilité. Ce sont les arts martiaux qui me l'ont appris, pas le développement personnel.
+> **[CTA]** La technique du Bushido, c'est le jour 6.
+
+**Visuel** — Démonstration physique : le non effacé, le non agressif, le non aligné. Trois postures, un seul plan large fixe. Le seul angle où l'on doit voir ton corps en entier.
+
+---
+
+## 10 — Dans cinq ans
+**Hook Clovis n°2 — Confrontation** · Projection de conséquence, excellent en retargeting
+
+> **[ACCROCHE]** Continue à dire « oui, pas de problème » alors qu'il y a un problème. Tant que tu n'auras pas dit un seul vrai non, rien ne bougera.
+> **[SITUATION]** Un faux oui, ce n'est rien. Trois heures de ton samedi. Un service rendu. Une soirée sacrifiée.
+> **[ÉCHELLE]** Deux, ce n'est rien non plus. Dix, tu ne les as même pas comptés. Tu ne te souviens d'aucun individuellement — tu te souviens juste d'être fatigué en permanence sans savoir de quoi.
+> **[SON OUI]** Tu as évité l'inconfort immédiat à chaque fois. Tu ne l'as pas supprimé. Tu l'as déplacé à l'intérieur de toi.
+> **[RÉVÉLATION]** Et ça s'accumule. Chaque oui non choisi ajoute une ligne à une ardoise que personne autour de toi ne voit — jusqu'au jour où elle sort d'un coup, sur les mauvaises personnes, pour une broutille. Ce jour-là, ils ne comprendront pas. Ils n'ont jamais vu l'ardoise.
+> **[PAS TA FAUTE]** Dans cinq ans, si rien ne change, tu seras au même endroit. Simplement plus fatigué.
+> **[CTA]** Sept jours contre cinq ans. Ton premier NON ou remboursé.
+
+**Visuel** — Plan sobre, ton calme et grave, aucune provocation. Idéal en retargeting sur ceux qui ont vu la page sans acheter.
+
+---
+
+# LES DIX IMAGES
+
+Mêmes angles, mais **une audience différente** : ici on parle à des hommes qui savent déjà que leur situation est malsaine. Donc pas de pédagogie, pas de petit texte. Une phrase, lisible en une seconde, sur un visuel qui l'illustre.
+
+| # | Angle | Texte | Visuel |
+|---|---|---|---|
+| 1 | La cigarette | Tu n'as pas dit non. Tu as donné une raison. | Une main qui tend un paquet de cigarettes |
+| 2 | Les 50 euros | « Ça me ferait plaisir. » Quatre mots. 50 €. | Un billet de 50 qui passe d'une main à l'autre |
+| 3 | L'autorité retournée | Champion du monde. Incapable de dire non. | Toi en tenue de sabre, regard caméra |
+| 4 | L'ami qui déménage | Tu n'as pas offert ton samedi. Tu l'as facturé. | Carton de déménagement seul dans une pièce vide |
+| 5 | Le parent | La gratitude n'est pas une dette illimitée. | Téléphone qui sonne, écran « Maman » |
+| 6 | Le distributeur | Personne n'aime un distributeur automatique. | Un distributeur, une main qui appuie |
+| 7 | L'astreinte | Tu n'es plus en relation. Tu es en astreinte. | Homme de dos, épaules basses, dans une pièce éclairée |
+| 8 | Le faux merci | « C'est sympa, merci. » Et tu encaisses. | Deux visages, l'un qui remercie mollement, l'autre qui encaisse |
+| 9 | Le corps | Ta bouche dit non. Ton corps demande pardon. | Épaules rentrées, sourire d'excuse, plan taille |
+| 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. Tu l'as déplacé. | Ardoise couverte de traits |
+
+---
+
+# Ce qui est mis de côté, et pourquoi
+
+Cinq des quinze angles du 08/08 ne sont pas dans le lot. Ils restent disponibles si Anthony veut permuter.
+
+**L'aveu de manipulation** est devenu la mécanique des dix, il n'a plus d'existence propre. **Le podium et le vide** doublonnait avec l'autorité retournée sur le même matériau ; sa matière la plus forte — gagner pour le regard d'un autre — est réinjectée dans l'angle 3. **Les deux enfants** est le plus beau visuellement mais le plus abstrait, et il demande une audience déjà consciente. **La prison élégante** repose sur les cinq drivers, donc sur un vocabulaire que l'avatar froid n'a pas. **Le oui qui a de la valeur** ne peut pas se terminer sur la révélation puisqu'il part de l'objection : c'est un très bon script de retargeting, mais il ne rentre pas dans la structure.
+
+# Ce qui reste ouvert
+
+Les dix vidéos de février partent à la benne, acté. Trois angles y étaient couverts — champion, Nice Guy, Dans 5 ans — mais aucun ne peut respecter cette structure.
+
+Pour le test à 200 €, le document du 08/08 recommande trois à quatre angles maximum, un seul CTA, et une seule métrique décisive : le taux de rétention à trois secondes. Ça reste vrai, et ça veut dire que sur les dix, trois seulement partiront en premier.
