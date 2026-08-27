@@ -40,18 +40,20 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 # LES VIDÉOS
 
-## 1 — La cigarette et les 50 centimes
+## 1 — La fausse excuse
 **Hook Clovis n°7 — Question → Réflexion** · Audience froide, l'angle le plus léger donc le plus large
 
-> **[ACCROCHE]** T'es dehors, tu fumes. Un type s'approche. Tu sais déjà que tu vas dire oui.
-> **[SITUATION]** « T'aurais pas une cigarette ? » — « Ah désolé, c'est ma dernière. » — « Y'a un tabac juste là. Tiens, 50 centimes. »
-> **[ÉCHELLE]** Tu connais la scène. Tu sais que tu ne vas pas te battre pour 50 centimes. Tu sais que ce sera plus simple d'y aller. Et tu sais exactement ce que tu vas ressentir en marchant.
-> **[SON OUI]** Tu y es allé. Tu as acheté un paquet à un inconnu. En souriant.
-> **[RÉVÉLATION]** Sauf que tu ne lui as pas dit non. Tu lui as donné une raison — et une raison, ça se négocie. Il est reparti persuadé que tu étais d'accord, pendant que tu l'insultais dans ta tête. Ce que tu lui as vendu, c'est un faux accord. Moi j'ai fait ça quinze ans en me trouvant sympathique.
-> **[PAS TA FAUTE]** On t'a appris que refuser, c'était décevoir. Ça s'apprend, donc ça se désapprend.
+> **[ACCROCHE]** T'es dehors, tu fumes. Un type s'approche. Et tu sais déjà que tu vas mentir.
+> **[SITUATION]** « T'aurais pas une cigarette ? » Tu réponds : « Ah désolé, c'est ma dernière. »
+> **[ÉCHELLE]** Ce n'était pas ta dernière. Tu le sais, il ne le sait pas, et jusque-là tout va bien. Tu as évité le truc pénible, tu t'apprêtes à repartir.
+> **[SON OUI]** Sauf qu'il enchaîne : « Y'a un tabac juste là, tu vas en racheter de toute façon, non ? » Et là, tu sens la gêne monter.
+> **[RÉVÉLATION]** Cette gêne, c'est la preuve. La dernière cigarette n'était pas la vraie raison. La vraie raison, c'est que tu n'avais pas envie de lui en donner une — et ça, tu n'as pas osé le dire. Alors il insiste, et il a raison d'insister : tu lui as fait croire que c'était une question de circonstances. Tu l'as mis dans le rôle du lourd, alors que c'est toi qui as menti.
+> **[PAS TA FAUTE]** Une raison, ça se démonte. Un non, non. Personne ne nous a appris ça — on nous a appris à trouver de bonnes excuses.
 > **[CTA]** Sept jours pour ton premier vrai NON. Sinon je te rembourse.
 
 **Visuel** — Sketch joué en une prise, ton léger, presque comique. La bascule sérieuse arrive au temps 5, où tu reviens face caméra.
+
+**Variante à tester contre celle-ci — les 2 euros.** Même mécanique, sans tabac ni cigarette, donc diffusable sans risque de restriction Meta sur le tabac. « T'aurais pas 2 euros ? » — « Ah désolé, j'ai pas de monnaie. » — « Ben y'a une boulangerie juste là, tu peux en faire, non ? » Et la même gêne, pour la même raison : l'absence de monnaie n'était pas la vraie raison. Le reste du script est identique mot pour mot.
 
 ---
 
@@ -66,19 +68,21 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > **[PAS TA FAUTE]** Quatre mots suffisent à te faire craquer. Ce n'est pas de la faiblesse, c'est un réflexe. Un réflexe, ça se reprogramme.
 > **[CTA]** Sept jours, 27 €. Moins qu'un resto.
 
-**Visuel** — Séquence filmée en salle si tu en as une, sinon un billet de 50 en gros plan qui passe d'une main à l'autre. Le billet est le personnage principal.
+**Visuel** — Séquence filmée en salle si tu en as une, sinon un billet en gros plan qui passe d'une main à l'autre. Le billet est le personnage principal.
+
+> ⏸️ **En attente de ta réponse — le script ci-dessus est faux.** Il vient du document du 08/08, qui ne retenait que « ça me ferait plaisir ». Tu dis que la vraie phrase est « on m'a volé mon portefeuille, j'ai besoin de manger ce soir et demain ». Ce ne sont pas deux formulations du même exercice, ce sont **deux démonstrations différentes** : « ça me ferait plaisir » prouve que tu donnes pour faire plaisir, sans aucune justification — c'est le plus proche du mécanisme du Cercle. Le portefeuille volé prouve qu'on ne sait pas refuser quelqu'un dans le besoin — c'est de la compassion, pas de la sur-adaptation, et ça ne démontre pas la même chose. Dis-moi lequel tu joues réellement, et je réécris. Le montant suit : 20 € est plus crédible avec le portefeuille volé, 50 € est plus spectaculaire avec « ça me ferait plaisir », parce que c'est justement l'absurdité qui fait la démonstration.
 
 ---
 
 ## 3 — L'autorité retournée
 **Hook Clovis n°4 — Story perso** · Le meilleur ouvreur du lot, il installe la crédibilité
 
-> **[ACCROCHE]** J'ai été deux fois champion du monde de sabre japonais. Et j'étais incapable de dire à ma femme que ça n'allait pas.
-> **[SITUATION]** Devant un adversaire armé, je ne tremblais pas. Le soir, on me demandait un service et je disais oui avant d'avoir écouté la question.
-> **[ÉCHELLE]** Tu vois de quoi je parle. Tu as déjà tenu tête à un client difficile. Tu as déjà géré une urgence dont personne ne voulait. Et le même soir, tu as dit oui à un truc dont tu n'avais aucune envie.
-> **[SON OUI]** Le courage, tu l'as. Il s'arrête à la porte de tes relations.
-> **[RÉVÉLATION]** Et voilà ce que personne ne t'a dit : ce oui-là n'est pas généreux. Il fait croire à l'autre que tu es d'accord, et te laisse avec une facture que tu présenteras plus tard, en reproches ou en silence. J'ai fait exploser un mariage comme ça, sans jamais élever la voix.
-> **[PAS TA FAUTE]** Le courage physique ne garantit pas le courage relationnel. Deux muscles différents — et le second, personne ne nous l'a fait travailler.
+> **[ACCROCHE]** J'ai été deux fois champion du monde de sabre japonais. Et le soir, chez moi, je ravalais.
+> **[SITUATION]** Devant un adversaire armé, je ne tremblais pas. Le soir, face à des situations qui ne me convenaient pas, je ne disais rien. Je ravalais et je supportais.
+> **[ÉCHELLE]** Tu vois de quoi je parle. Tu as déjà tenu tête à un client difficile. Tu as déjà géré une urgence dont personne ne voulait. Et le même soir, tu t'es tu sur un truc qui te pèse depuis des mois.
+> **[SON OUI]** Le courage, tu l'as. Il s'arrête à la porte de chez toi.
+> **[RÉVÉLATION]** Et voilà ce que personne ne m'avait dit : ce silence-là n'est pas de la patience. Il laisse croire à l'autre que ça te va. Tu ravales, il continue — parce qu'il n'a aucune raison de s'arrêter — et un jour tu lui présentes une facture qu'il n'a jamais vue arriver. J'ai fait exploser un mariage comme ça, sans jamais élever la voix.
+> **[PAS TA FAUTE]** Le courage physique ne garantit pas le courage relationnel. Deux muscles différents, et le second, personne ne nous l'a fait travailler.
 > **[CTA]** Sept jours pour le muscler. Le lien est en dessous.
 
 **Visuel** — Plan serré, fond neutre. Insert de 1,5 s sur la vraie photo de podium à « champion du monde », puis retour visage. Aucune musique sur les trois premières secondes : le silence fait ralentir le scroll.
@@ -90,11 +94,11 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 > **[ACCROCHE]** Il y a deux types d'hommes qui aident un ami à déménager. Le soir, ils ne dorment pas pareil.
 > **[SITUATION]** Samedi, huit heures du matin. Même cartons, même étage, même ami.
-> **[ÉCHELLE]** Le premier a pris deux secondes avant de répondre : il a regardé son samedi, il a décidé, il a dit oui. Le second a dit oui tout de suite. Toi tu sais lequel tu es. Tu le sais depuis le début de cette vidéo.
-> **[SON OUI]** Le soir, le premier est fatigué et content. Le second attend un merci qui ne vient pas.
-> **[RÉVÉLATION]** Parce que le second n'a pas offert sa journée. Il l'a facturée en douce, sans prévenir personne. Son ami croit avoir reçu un cadeau : il a signé une dette qu'il ne connaît pas. C'est ça, un faux oui — tu fais décider l'autre sur une information fausse.
-> **[PAS TA FAUTE]** La différence entre les deux, ce n'est pas le caractère. C'est deux secondes de consultation avec toi-même.
-> **[CTA]** Sept jours pour apprendre à te consulter. 27 €.
+> **[ÉCHELLE]** Le premier a répondu : « oui, mais à 20h30 je dois être rentré. » Le second a répondu : « oui. » Juste oui. Toi tu sais lequel tu es. Tu le sais depuis le début de cette vidéo.
+> **[SON OUI]** Le soir, le premier est fatigué et content. Le second est encore là à 23h, et il attend un merci qui ne vient pas.
+> **[RÉVÉLATION]** Parce que le second n'a pas offert sa journée. Il a signé un chèque en blanc, puis il en a fixé le montant tout seul, dans sa tête, sans rien dire. Son ami croit avoir reçu un cadeau — il ne sait pas qu'il vient de contracter une dette. C'est ça, un oui inconditionnel : tu fais décider l'autre sur une information fausse.
+> **[PAS TA FAUTE]** La différence entre les deux, ce n'est pas le caractère. C'est trois mots. « Oui, mais. »
+> **[CTA]** Sept jours pour apprendre à les dire. 27 €.
 
 **Visuel** — Deux plans successifs de la même scène, l'un lumineux, l'autre plus froid et désaturé. Cartons en B-roll.
 
@@ -158,6 +162,8 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 **Visuel** — Reconstitution courte d'un échange, gros plan sur le visage de celui qui encaisse. Puis toi face caméra pour les deux dernières phrases.
 
+> ⏸️ **Tu n'es pas fan, et je crois savoir pourquoi.** C'est le seul angle du lot où le méchant, c'est l'autre. Les deux tiers du script construisent du ressentiment contre celui qui remercie mal, et je ne retourne l'accusation qu'à la toute fin. Or l'avatar passe déjà sa vie à ruminer contre les gens qui ne le remercient pas assez : cet angle le conforte au lieu de le déplacer. **Je propose de le remplacer par Pierre** — le terrain professionnel, complètement absent du lot alors que c'est le quotidien de l'avatar : se surcharger au travail, faire passer les autres avant soi, et finir par savoir refuser une tâche même à un chef. Dis-moi si c'est bien ça qui te gênait, ou si c'est autre chose.
+
 ---
 
 ## 9 — Le corps qui demande pardon
@@ -166,8 +172,8 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > **[ACCROCHE]** Tu as déjà dit non. Et ça n'a pas marché. Ça n'a rien à voir avec tes mots.
 > **[SITUATION]** Tu avais préparé ta phrase. Tu l'as dite calmement, au bon moment. Et l'autre a insisté comme si tu n'avais rien dit.
 > **[ÉCHELLE]** Repasse la scène. Tes épaules sont rentrées. Ta voix est montée dans les aigus à la fin. Tu as souri en le disant. Et tu as ajouté « enfin, si ça t'embête pas trop ».
-> **[SON OUI]** Ta bouche disait non. Ton corps disait : « s'il te plaît, ne m'en veux pas. »
-> **[RÉVÉLATION]** Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires et tu l'as laissé choisir celui qui l'arrangeait. Ça ressemble à de la politesse ; en pratique tu lui as ouvert la porte en prétendant la fermer. Un non qu'on peut ignorer n'est pas un non. C'est une invitation à insister.
+> **[SON OUI]** Ta bouche disait non. Ton corps disait : « mais ça se négocie. Insiste un peu, et je craque. »
+> **[RÉVÉLATION]** Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires, et tu l'as laissé choisir celui qui l'arrangeait. Il a insisté, et il a eu raison d'insister : tu venais de le lui demander. Un non qui se négocie n'est pas un non. C'est une première offre.
 > **[PAS TA FAUTE]** La fermeté ne vient pas du volume. Elle vient de la stabilité. Ce sont les arts martiaux qui me l'ont appris, pas le développement personnel.
 > **[CTA]** La technique du Bushido, c'est le jour 6.
 
@@ -183,7 +189,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > **[ÉCHELLE]** Deux, ce n'est rien non plus. Dix, tu ne les as même pas comptés. Tu ne te souviens d'aucun individuellement — tu te souviens juste d'être fatigué en permanence sans savoir de quoi.
 > **[SON OUI]** Tu as évité l'inconfort immédiat à chaque fois. Tu ne l'as pas supprimé. Tu l'as déplacé à l'intérieur de toi.
 > **[RÉVÉLATION]** Et ça s'accumule. Chaque oui non choisi ajoute une ligne à une ardoise que personne autour de toi ne voit — jusqu'au jour où elle sort d'un coup, sur les mauvaises personnes, pour une broutille. Ce jour-là, ils ne comprendront pas. Ils n'ont jamais vu l'ardoise.
-> **[PAS TA FAUTE]** Dans cinq ans, si rien ne change, tu seras au même endroit. Simplement plus fatigué.
+> **[PAS TA FAUTE]** Dans cinq ans, si rien ne change, tu seras au même endroit. Simplement plus fatigué. Et vingt ans plus tard, ce sera juste ta vie que tu auras sacrifiée — sans que personne ne vienne te donner une médaille.
 > **[CTA]** Sept jours contre cinq ans. Ton premier NON ou remboursé.
 
 **Visuel** — Plan sobre, ton calme et grave, aucune provocation. Idéal en retargeting sur ceux qui ont vu la page sans acheter.
@@ -207,22 +213,28 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 # LES IMAGES
 
-Mêmes angles, mais **une audience différente** : ici on parle à des hommes qui savent déjà que leur situation est malsaine. Donc pas de pédagogie, pas de petit texte. Une phrase, lisible en une seconde, sur un visuel qui l'illustre.
+**Audience différente** : ici on parle à des hommes qui savent déjà que leur situation est malsaine. Donc pas de pédagogie, pas de petit texte.
 
-| # | Angle | Texte | Visuel |
+**Contrainte que tu as posée : chaque image doit se suffire à elle-même.** Quelqu'un qui n'a jamais vu la vidéo doit comprendre en une seconde. Ça élimine les punchlines du lot précédent — « tu deviens un distributeur automatique de OUI » ne veut rien dire hors contexte.
+
+Le format qui tient tout seul, c'est **une réplique reconnaissable, puis le retournement**. La réplique installe la scène en une ligne, le retournement fait le travail. Personne n'a besoin d'un préambule.
+
+| # | Angle | Ligne 1 — la réplique | Ligne 2 — le retournement |
 |---|---|---|---|
-| 1 | La cigarette | Tu n'as pas dit non. Tu as donné une raison. | Une main qui tend un paquet de cigarettes |
-| 2 | Les 50 euros | « Ça me ferait plaisir. » Quatre mots. 50 €. | Un billet de 50 qui passe d'une main à l'autre |
-| 3 | L'autorité retournée | Champion du monde. Incapable de dire non. | Toi en tenue de sabre, regard caméra |
-| 4 | L'ami qui déménage | Tu n'as pas offert ton samedi. Tu l'as facturé. | Carton de déménagement seul dans une pièce vide |
-| 5 | Le parent | La gratitude n'est pas une dette illimitée. | Téléphone qui sonne, écran « Maman » |
-| 6 | Le distributeur | Personne n'aime un distributeur automatique. | Un distributeur, une main qui appuie |
-| 7 | L'astreinte | Tu n'es plus en relation. Tu es en astreinte. | Homme de dos, épaules basses, dans une pièce éclairée |
-| 8 | Le faux merci | « C'est sympa, merci. » Et tu encaisses. | Deux visages, l'un qui remercie mollement, l'autre qui encaisse |
-| 9 | Le corps | Ta bouche dit non. Ton corps demande pardon. | Épaules rentrées, sourire d'excuse, plan taille |
-| 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. Tu l'as déplacé. | Ardoise couverte de traits |
+| 1 | La fausse excuse | « Ah désolé, c'est ma dernière. » | Ce n'était pas ta dernière. |
+| 2 | La démonstration | *(en attente du script définitif)* | |
+| 3 | L'autorité retournée | Champion du monde de sabre japonais. | Incapable de dire que ça ne lui convient pas. |
+| 4 | L'ami qui déménage | Lui a dit « oui, mais à 20h30 ». | Toi tu as dit « oui ». Tu rentres à 23h. |
+| 5 | Le parent | « Tu peux passer dimanche ? » | Ce que tu entends : « après tout ce que j'ai fait pour toi ». |
+| 6 | Le distributeur | On ne te demande plus ton avis. | On te demande ta disponibilité. |
+| 7 | L'astreinte | Rentrer épuisé sans avoir rien porté de lourd. | Tu n'as pas travaillé. Tu as surveillé. |
+| 8 | *(à remplacer par Pierre)* | « Tu peux prendre ce dossier en plus ? » | Tu as encore dit oui. Lui a un dossier de moins. |
+| 9 | Le corps | Ta bouche dit non. | Ton corps dit : insiste un peu. |
+| 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. | Tu l'as déplacé à l'intérieur de toi. |
+| 11 | Christophe | Il a dit oui à son associé. | Puis il a espéré des mois qu'un autre arrête le projet. |
 
----
+**Direction artistique** — fond sombre uni, typo lourde, ligne 1 en gris moyen, ligne 2 en blanc. Aucune illustration : sur ce format, l'image parasite la lecture, et la lecture est tout. Les 11 images Gemini du dossier `Ads/Images/` ne servent pas cet usage.
+
 
 ---
 
