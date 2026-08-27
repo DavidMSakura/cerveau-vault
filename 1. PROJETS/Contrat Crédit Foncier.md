@@ -88,3 +88,9 @@ Matière disponible à injecter si besoin : [[Je suis la vague - le protocole d'
 ## Pas du ressort de David
 
 La **reconduction pour une nouvelle promotion** en 2027 : c'est **Steph** qui est en lead sur la relation Sophie et qui cale la suite.
+
+## L'assiduité n'est pas un sujet — précisé le 27/08/2026
+
+Treize participantes sur neuf mois : il était acquis dès le départ que tout le monde ne serait pas là à chaque fois. Une absence ponctuelle est **intégrée au dispositif** et n'a aucune incidence sur le parcours ni sur la facturation. Ne pas la remonter comme un problème.
+
+Exemple : Laila Eddamiri a annoncé le 26/08 qu'elle serait absente à la journée Prise de parole de septembre, étant en congés. C'est sans conséquence.
