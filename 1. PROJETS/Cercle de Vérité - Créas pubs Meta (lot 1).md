@@ -38,6 +38,8 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 **Le silence compte comme un oui — tranché le 27/08.** Le mécanisme ne se limite pas au faux OUI prononcé : le silence qui passe pour un accord en fait partie, et il est probablement plus fréquent chez l'avatar. C'est ce qui rend l'angle 3 légitime sous sa forme corrigée, et ce qui a produit l'angle 12.
 
+**L'angle 8, « le faux merci », est retiré du lot — décision de David, 27/08.** La numérotation ne bouge pas : les identifiants 1 à 13 servent de références de travail avec Anthony, et le 8 reste vacant plutôt que de tout décaler.
+
 **Un angle a disparu au passage** : « l'aveu de manipulation », qui était l'angle 2 du document du 08/08. Il n'existe plus comme angle, parce qu'il est devenu la mécanique des dix. Sa matière est répartie dans les temps 5.
 
 ---
@@ -155,22 +157,6 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-## 8 — Le faux merci
-**Hook Clovis n°2 — Confrontation** · La scène la plus reconnaissable du lot
-
-> **[ACCROCHE]** Continue à donner sans rien demander. Tant que tu attendras qu'on devine, tu récolteras des « c'est sympa, merci ».
-> **[SITUATION]** Tu t'es levé tôt. Tu as annulé un truc. Tu as fait le trajet. Tu as réglé le problème de quelqu'un d'autre.
-> **[ÉCHELLE]** Et tu as attendu. Pas un cadeau, pas un discours. Juste un signe qu'il a vu ce que ça t'a coûté. Tu as guetté sa tête. Tu as guetté son ton.
-> **[SON OUI]** Et tu as eu : « c'est sympa, merci. » Le faux merci.
-> **[RÉVÉLATION]** Alors tu encaisses, encore. Sauf que le problème n'est pas son merci. C'est que tu as donné en espérant qu'il devine un prix que tu ne lui as jamais annoncé. Tu lui as fait signer un contrat qu'il n'a pas lu. Et ce que tu donnes sans le choisir finit toujours par se transformer en reproche.
-> **[PAS TA FAUTE]** On ne t'a jamais appris à annoncer le prix. C'est une phrase à apprendre, pas une personnalité à changer.
-> **[CTA]** La formulation, c'est le jour 5.
-
-**Visuel** — Reconstitution courte d'un échange, gros plan sur le visage de celui qui encaisse. Puis toi face caméra pour les deux dernières phrases.
-
-> ⏸️ **Tu n'es pas fan, et je crois savoir pourquoi.** C'est le seul angle du lot où le méchant, c'est l'autre. Les deux tiers du script construisent du ressentiment contre celui qui remercie mal, et je ne retourne l'accusation qu'à la toute fin. Or l'avatar passe déjà sa vie à ruminer contre les gens qui ne le remercient pas assez : cet angle le conforte au lieu de le déplacer. **Je propose de le remplacer par Pierre** — le terrain professionnel, complètement absent du lot alors que c'est le quotidien de l'avatar : se surcharger au travail, faire passer les autres avant soi, et finir par savoir refuser une tâche même à un chef. Dis-moi si c'est bien ça qui te gênait, ou si c'est autre chose.
-
----
 
 ## 9 — Le corps qui demande pardon
 **Hook Clovis n°3 — Un secret** · Le seul angle que personne d'autre ne peut faire
@@ -270,7 +256,6 @@ Le format qui tient tout seul, c'est **une réplique reconnaissable, puis le ret
 | 5 | Le parent | « Tu peux passer dimanche ? » | Ce que tu entends : « après tout ce que j'ai fait pour toi ». |
 | 6 | Le distributeur | On ne te demande plus ton avis. | On te demande ta disponibilité. |
 | 7 | L'astreinte | Rentrer épuisé sans avoir rien porté de lourd. | Tu n'as pas travaillé. Tu as surveillé. |
-| 8 | *(à remplacer par Pierre)* | « Tu peux prendre ce dossier en plus ? » | Tu as encore dit oui. Lui a un dossier de moins. |
 | 9 | Le corps | Ta bouche dit non. | Ton corps dit : insiste un peu. |
 | 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. | Tu l'as déplacé à l'intérieur de toi. |
 | 11 | Christophe | Il a dit oui à son associé. | Puis il a espéré des mois qu'un autre arrête le projet. |
@@ -309,7 +294,7 @@ Deux familles, donc, à tester séparément.
 
 **Les pubs qui expliquent** — les 50 euros, l'ami qui déménage, l'astreinte, le corps, dans cinq ans. Elles peuvent aller au-delà de la minute, jusqu'à 80 secondes environ. Leur effet Wow vient de l'accumulation.
 
-**Les pubs qui mettent en scène** — la cigarette, l'autorité retournée, le parent du dimanche, le distributeur, le faux merci. Elles doivent rester serrées, une minute maximum. Leur effet vient de la reconnaissance immédiate d'une scène, pas de la démonstration.
+**Les pubs qui mettent en scène** — la cigarette, l'autorité retournée, le parent du dimanche, le distributeur. Elles doivent rester serrées, une minute maximum. Leur effet vient de la reconnaissance immédiate d'une scène, pas de la démonstration.
 
 ---
 
@@ -324,6 +309,16 @@ Repérés en lisant le document de travail commun, et qui touchent directement �
 **Hikari.** Le document désigne le coaching premium sous ce nom, alors que le vault et le tunnel parlent de **Sakura**. Deux offres différentes, ou un changement de nom qui n'a pas été répercuté ?
 
 Et un cadeau au passage : le document contient des témoignages nommés — Fabrice, Christophe, Pierre. C'est de la preuve sociale exploitable, qui manque totalement au lot actuel.
+
+---
+
+# La réserve — angles à écrire plus tard
+
+**La remarque en apparence innocente.** Une phrase qui a l'air anodine mais qui cache un reproche, une pique, quelque chose d'acerbe. Et toi tu dis oui, ou tu ne dis rien : tu ravales. C'est l'angle qui traite du « méchant » sans en faire un méchant — la pique est réelle, mais c'est ton silence qui la laisse passer et qui l'autorise à recommencer. **Idée de David, 27/08/2026. Volontairement pas écrite maintenant** : on aura d'autres occasions de produire des créas, et le lot est déjà au-delà des dix recommandés.
+
+**Pierre, le terrain professionnel.** Se surcharger au travail, faire passer les autres avant soi, et finir par savoir refuser une tâche même à un chef. Témoignage réel, quotidien de l'avatar, absent du lot.
+
+**Les 48 heures.** Ce n'est pas le premier NON qui casse les gens, c'est le deuxième jour, quand la culpabilité revient. Justification de l'upsell 1, jamais sortie en publicité.
 
 ---
 
