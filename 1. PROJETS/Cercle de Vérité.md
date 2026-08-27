@@ -84,3 +84,29 @@ La page `www.davidmarsac.com/cercle-de-verite` **pointe vers `/sakura`**, qui re
 **À traiter avant le test Meta.** Payer de la publicité pour amener des gens sur un tunnel dont la sortie est fermée revient à financer la moitié d'un parcours.
 
 **Autre correction, mineure** : le lien vers la politique de confidentialité en pied de `/guide-offert` contient un espace (`politique-%20confidentialite`) et donne une 404. Les autres pages du funnel sont correctes. `/guide-offert` étant la page par défaut du domaine, c'est celle que voient les visiteurs qui tapent simplement l'adresse.
+
+---
+
+## Le Cercle pris au pied de la lettre — note de David, 27/08/2026
+
+Matière déposée pour plus tard, à ne pas traiter tout de suite.
+
+Le Cercle de Vérité n'est pas qu'une image de programme. C'est **un cercle, avec un dedans et un dehors** : qui est dedans, qui est dehors. Et une fois que quelqu'un est dedans, c'est toujours la vérité. Toujours l'ouverture.
+
+Ce que ça veut dire concrètement, dans les mots de David : *« C'est aussi comment j'arrête de masquer à ceux qui sont proches de moi et que j'aime. Arrêter de mentir, arrêter de dire oui quand je pense non. Une fois qu'ils sont entrés, tout simplifier. »* Et : *« Une fois que les gens nous aiment, on n'a plus à faire semblant, ni à être dans les faux-semblants, ni dans les jeux et les manipulations psychologiques. »*
+
+**L'ouverture va dans les deux sens** : laisser entrer, et laisser sortir.
+
+### Ce que ça déplace
+
+Le produit se vend aujourd'hui sur **dire NON** — une posture défensive, un muscle de refus. Cette note dit l'inverse à l'intérieur du cercle : le NON sert à en tracer le bord, mais une fois qu'on est dedans, l'enjeu n'est plus de refuser, c'est **d'arrêter de faire semblant**. Donc de dire plus, pas moins.
+
+C'est une promesse d'un autre ordre que « ton premier NON en 7 jours ». Plus lente, plus profonde, et plus proche de ce que cherche vraiment l'avatar — pas la capacité à refuser, la fin de l'épuisement d'avoir à jouer un rôle avec ceux qu'il aime.
+
+### Ce que ça pourrait résoudre
+
+La question ouverte depuis le 08/08 : **par quoi remplacer les trois besoins que la sur-adaptation satisfait** — connexion, significativité, certitude d'être accepté ?
+
+Cette note contient une réponse possible : par la relation vraie à l'intérieur du cercle. La sur-adaptation achète une connexion de mauvaise qualité auprès de tout le monde ; le cercle en offre une de bonne qualité auprès de quelques-uns. Ce n'est pas « arrête de donner », c'est « arrête de donner en dehors du cercle pour pouvoir être vrai dedans ».
+
+À creuser — c'est probablement plus un sujet [[Sakura]] ou livre qu'un sujet de pub à 27 €.
