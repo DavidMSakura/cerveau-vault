@@ -34,6 +34,8 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 **Deux règles qui ne bougent pas.** Tu portes l'accusation sur toi avant de la retourner : « je manipulais » avant « tu manipules ». Et on ne promet pas la guérison, on promet un premier NON.
 
+**Le silence compte comme un oui — tranché le 27/08.** Le mécanisme ne se limite pas au faux OUI prononcé : le silence qui passe pour un accord en fait partie, et il est probablement plus fréquent chez l'avatar. C'est ce qui rend l'angle 3 légitime sous sa forme corrigée, et ce qui a produit l'angle 12.
+
 **Un angle a disparu au passage** : « l'aveu de manipulation », qui était l'angle 2 du document du 08/08. Il n'existe plus comme angle, parce qu'il est devenu la mécanique des dix. Sa matière est répartie dans les temps 5.
 
 ---
@@ -211,6 +213,23 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
+## 12 — Qui ne dit mot consent
+**Hook Clovis n°7 — Question → Réflexion** · Le seul angle qui part d'un proverbe, donc l'entrée la plus large du lot
+
+> **[ACCROCHE]** « Qui ne dit mot consent. » Tout le monde connaît. Sauf que toi, tu n'as jamais consenti à rien.
+> **[SITUATION]** Une réunion, une table de famille, un salon un dimanche. Quelqu'un dit un truc qui ne te va pas. Une décision, une blague, une remarque sur toi.
+> **[ÉCHELLE]** Tu ne réponds pas. Tu te dis que ce n'est pas le moment, que tu en reparleras plus tard. Tu n'en reparles jamais. Et en repartant, tu refais la conversation dans ta tête avec les phrases que tu n'as pas dites.
+> **[SON OUI]** Eux, ils ont noté que tu étais d'accord. C'est la règle : qui ne dit mot consent.
+> **[RÉVÉLATION]** Sauf que tu n'as pas consenti. Tu t'es écrasé. Et personne dans la pièce n'a de moyen de faire la différence : ton silence, ils l'ont compté comme un accord, et ils vont continuer sur cette base. Tu ne leur as pas donné la paix. Tu leur as donné une information fausse.
+> **[PAS TA FAUTE]** On t'a appris qu'un homme qui ne fait pas d'histoires est un homme bien. Personne ne t'a dit qu'un silence, ça s'interprète toujours en ta défaveur.
+> **[CTA]** Sept jours pour reprendre la parole. 27 €.
+
+**Visuel** — Le proverbe seul à l'écran sur les trois premières secondes, sans toi, sans voix. Puis coupe franche sur ton visage pour « sauf que toi, tu n'as jamais consenti à rien ». C'est le seul angle du lot où le hook est typographique.
+
+**Pourquoi il est à part** — « Qui ne dit mot consent » est une maxime de consentement. Le second positionnement du produit est **le consentement masculin**. Cet angle fait le pont entre les deux sans avoir à l'expliquer, ce qu'aucun autre script ne réussit.
+
+---
+
 # LES IMAGES
 
 **Audience différente** : ici on parle à des hommes qui savent déjà que leur situation est malsaine. Donc pas de pédagogie, pas de petit texte.
@@ -232,6 +251,7 @@ Le format qui tient tout seul, c'est **une réplique reconnaissable, puis le ret
 | 9 | Le corps | Ta bouche dit non. | Ton corps dit : insiste un peu. |
 | 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. | Tu l'as déplacé à l'intérieur de toi. |
 | 11 | Christophe | Il a dit oui à son associé. | Puis il a espéré des mois qu'un autre arrête le projet. |
+| 12 | Qui ne dit mot consent | « Qui ne dit mot consent. » | Sauf que toi, tu ne consens pas. Tu t'écrases. |
 
 **Direction artistique** — fond sombre uni, typo lourde, ligne 1 en gris moyen, ligne 2 en blanc. Aucune illustration : sur ce format, l'image parasite la lecture, et la lecture est tout. Les 11 images Gemini du dossier `Ads/Images/` ne servent pas cet usage.
 
