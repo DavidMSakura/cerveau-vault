@@ -653,3 +653,91 @@ Session courte, uniquement du rangement — elle solde deux lignes du « reste �
 - **Cinq brouillons Gmail CFF** : pièces jointes à glisser, vouvoiement à vérifier.
 - **Sakura** : contenu différencié des deux niveaux.
 - **Cercle de Vérité** : les créas vidéo d'abord, le test Meta 200 € ensuite.
+
+---
+
+## 2026-08-27 — Créas Meta du Cercle de Vérité, veille mail automatisée, et neuf séances CFF au lieu de six
+
+Longue session, trois sujets qui n'avaient rien à voir et qui se sont éclairés l'un l'autre.
+
+### 1. Les créas publicitaires du Cercle de Vérité
+
+**Livrable** : `1. PROJETS/Cercle de Vérité - Créas pubs Meta (lot 1).md` — douze scripts vidéo, douze visuels, la matière preuve sociale, une réserve d'angles. David le soumet à **Anthony, son copywriter**, qui corrige puis étoffe.
+
+**Ma première version était à jeter, et c'est la leçon de la session.** J'ai écrit dix scripts à partir du brief ads et de la masterclass Clovis, sans demander qui d'autre travaillait sur le sujet. Or Anthony avait déjà donné une **structure de script contraignante** : accroche impliquante en 3 secondes avec un « tu », sujet vaste, mise en situation, **échelle de « oui »** (une succession de faits sur lesquels l'avatar est d'accord), son OUI à lui, **révélation de la manipulation à la fin**, déculpabilisation, CTA. Mes scripts posaient le mécanisme dès la première phrase : ils brûlaient la révélation sur une audience qui ne voit pas encore le problème. *« j'attends de toi que tu me poses des questions avant de foncer tête baissée »*. → mémoire `feedback_questions_avant_production`.
+
+**Je n'avais pas non plus trouvé `Creas Ads Meta - 15 angles, hooks, scripts, CTA (08-08-2026).docx`** (dans `~/Documents/Formation/Olivier Clovis Scaling Academy/Contenus/Low Ticket - Le Cercle de Vérité/`), qui contenait déjà les angles, tirés des propres scripts de David. Il ne manquait que la structure et la durée. **À rouvrir systématiquement pour toute question de créa.**
+
+**Ce que David a corrigé dans mes scripts, et qui dit comment il pense** — à chaque fois il remplace une formule qui *nomme* le mécanisme par une scène qui le *montre* : « tu vas dire oui » devient « tu vas **mentir** » · « je disais oui à un service » devient « je **ravalais et je supportais** » · « deux secondes de consultation » devient « **oui, mais à 20h30 je dois être rentré** » · « s'il te plaît ne m'en veux pas » devient « **ça se négocie, insiste un peu et je craque** ». **Règle qui en découle : rien n'est nommé avant le temps 5.**
+
+**Sa correction sur la cigarette change le mécanisme, pas le script.** La faute n'est pas « tu as dit oui » : *tu n'as pas dit non, tu as donné une raison — et une raison, ça se démonte*. La gêne qui monte quand l'autre répond « y'a un tabac juste là » est la preuve que l'excuse n'était pas la vraie raison. C'est vérifiable dans le corps, ça supprime le méchant, et ça donne une règle applicable le soir même. **David a confirmé que le jour 5 du protocole enseigne bien de ne pas se justifier** : la promesse est donc adossée au produit, et c'est un **candidat au positionnement principal**.
+
+**Décisions tranchées le 27/08 :**
+- **Durée** : une minute, jusqu'à ~85 s pour les pubs qui démontrent (l'échelle de « oui » ne se compresse pas). Les pubs qui mettent en scène restent serrées.
+- **Les dix vidéos du 01/02/2026 partent à la benne** — elles ne peuvent pas respecter cette structure.
+- **L'angle « le faux merci » est retiré, sans remplacement.** *« je préfère ne pas inclure le faux merci, point. on aura plein de fois l'occasion de créer de nouvelles pubs »*. Numéro 8 laissé vacant pour ne pas décaler les références de travail avec Anthony.
+- **La démonstration des 50 € se joue avec « ça me ferait plaisir »**, pas avec le portefeuille volé (à soumettre quand même à Anthony).
+- **Le silence compte comme un oui.** Le mécanisme ne se limite pas au faux OUI prononcé.
+
+**Deux angles nés de l'échange, à porter au crédit de David :**
+- **« Qui ne dit mot consent — sauf que toi tu ne consens pas, tu t'écrases »** (angle 12). Entrée la plus large du lot, hook typographique, et seul script qui relie le mécanisme unique au **consentement masculin** sans le expliquer.
+- **« Comme tu veux »** (angle 13), et les questions qui cachent l'envie — « ça te dirait de… ? » au lieu de « j'ai envie de…, qu'en penses-tu ? ». Il attrape le mécanisme **en amont du non**. Découverte au passage : c'est **déjà le mail 3 du tunnel**, « Ta nouvelle phrase à bannir : comme tu veux », avec un quatrième témoignage, **Guillaume**, et la meilleure phrase de tout le corpus, prononcée par sa compagne : *« Avec toi, je ne sais jamais si tu es vraiment d'accord ou si tu me dis oui pour ensuite me faire payer quelque chose. »*
+
+**Réserve d'angles pour plus tard** (dans le fichier) : la remarque en apparence innocente qui cache une pique et qu'on ravale (idée de David) · Pierre, le terrain professionnel · les 48 heures après le premier NON.
+
+**Corrections de fiche produit** (`1. PROJETS/Cercle de Vérité.md`) : **upsell 1 à 39 €** et non 27 — le passage à 27 € envisagé le 25/08 n'a pas été retenu, et **aucune vidéo à 39 € n'existe** (prises à 17, 27, 47, 57 € + `Upsell1 neutre 0 prix.mp4`, qui est la solution). Downsell = le même en 2 × 13,50 €. **Hikari = le high-ticket**, soit [[Sakura]] *plus* l'accompagnement premium ; Hikari inclut Sakura.
+
+**Note conceptuelle déposée** (à ne pas traiter tout de suite) : le Cercle pris au pied de la lettre — qui est dedans, qui est dehors, et une fois dedans c'est toujours la vérité. Ça déplace la promesse du « dire NON » défensif vers « arrêter de faire semblant avec ceux qu'on aime », et ça contient une réponse possible à la question ouverte depuis le 08/08 sur **le remplacement des trois besoins**.
+
+### 2. La veille de la boîte mail
+
+*« tu es pas censé les parcourir régulièrement et préparer des réponses dans mes brouillons ? »* — non, rien ne tournait en fond, et je n'étais pas allé voir dans ses mails de la matinée. C'est là qu'était l'invitation du cadrage Radiance.
+
+**Routine cloud créée** : « Veille boîte mail — Doc », `trig_01PHwoiyAPmAaQmr6HUxfDDJ`, cron `0 6,10,15 * * *` UTC = **8h, 12h et 17h heure de Paris**. Elle lit la boîte, prépare des brouillons sans jamais envoyer, et ne range un fil que si son historique porte déjà le libellé. Console : `https://claude.ai/code/routines/trig_01PHwoiyAPmAaQmr6HUxfDDJ`.
+
+⚠️ **Deux limites connues.** Le cron est en UTC : **au passage à l'heure d'hiver fin octobre 2026, les horaires glisseront à 7h/11h/16h** et il faudra décaler. Et le **compte GitHub n'est pas connecté au cloud** (`/web-setup`), donc la routine n'a pas accès au vault et écrit sans connaître les dossiers en cours.
+
+**Découverte utile** : les **dossiers Outlook de David sont ses libellés Gmail**. Ranger depuis Outlook ou poser un libellé depuis Gmail est la même opération. Pas besoin de toucher au stockage local d'Outlook, qui est de toute façon un binaire illisible.
+
+**Deux scripts écrits**, pour combler ce que le connecteur Gmail ne sait pas faire :
+- `~/Scripts/mail-pieces-jointes.py` — récupère les pièces jointes d'une recherche Gmail. Le connecteur donne les noms et les identifiants, **jamais les octets**.
+- `~/Scripts/brouillon-avec-pieces-jointes.py` — dépose un brouillon avec ses fichiers attachés, par IMAP APPEND. Faire transiter 500 Ko de base64 par la conversation était impossible.
+
+Les deux lisent le **mot de passe d'application Gmail dans le trousseau macOS** (`security find-generic-password -a david.marsac1@gmail.com -s gmail-app-password`). David ne connaissait pas le principe du trousseau ; expliqué. **Le mot de passe a été tapé dans la conversation** : à révoquer sur `myaccount.google.com/apppasswords` avant tout partage de transcription.
+
+Trois pièges rencontrés, réglés dans les scripts : imaplib encode les recherches en ASCII (littéral UTF-8 obligatoire dès qu'il y a un accent) · les clients Windows envoient les accents en caractère autonome, d'où les `pre´sence` illisibles (remis en combinant avant NFC) · une recherche IMAP sur « emargement » ne trouve pas « émargement ».
+
+**n8n : écarté, et c'est tranché.** Un script local suffit, et David n'aurait ni à l'héberger ni à le maintenir. Le seul cas où il gagnerait — classement Mac éteint, fichiers dans un stockage cloud — n'est pas sa situation.
+
+### 3. Crédit Foncier : neuf séances, pas six
+
+**Quatre feuilles d'émargement signées récupérées et classées** dans `~/Documents/Formation/CFF - Sophie Pons/Coachings/Signés/` (Pascaline ×2, Sandra, Laila), fils rangés dans le libellé `Clients/Crédit Foncier Sophie PONS`.
+
+**Brouillon prêt** pour **Nathalie Feugeas** (`nathalie.feugeas@creditfoncier.fr`), Sophie Pons en copie, avec les cinq feuilles. C'est elle qui recueille les émargements — Sophie l'avait écrit dès le 21/04. **Il répond à une demande de Sophie du 29/07 restée sans réponse pendant un mois.**
+
+⚠️ **`Suivi coachings DM.xlsx` est faux sur trois points et ne doit plus servir de référence.** Reconstitution faite à partir des **invitations Teams envoyées par les participantes**, qui font foi — tableau complet des neuf séances dans [[Contrat Crédit Foncier]]. Pascaline était notée au 21/05 alors que l'invitation dit « report du 21/05 au 02/06 », et sa séance 2 du 27/07 manquait. Khom était notée au 29/06 alors que c'est sa **seconde** séance, la première ayant eu lieu le **18/05 en présentiel, salle Braudel**. Et la seconde séance de Laila, le 29/06, manquait aussi.
+
+**Conséquence** : il manque **quatre** feuilles et non deux — Khom ×2, Laila séance 2, Christelle. **Les relances du 26/08 ne demandaient qu'une feuille à chacune : elles sont à refaire pour Khom et Laila.** Sujet de facturation autant que d'administratif.
+
+**L'assiduité n'est pas un sujet, tranché** : treize participantes sur neuf mois, une absence ponctuelle est intégrée au dispositif. Laila sera absente aux journées de septembre, sans conséquence. Consigné dans [[Contrat Crédit Foncier]] pour ne plus le remonter comme un problème.
+
+### 4. Divers
+
+**Cadrage Radiance validé au 4 septembre.** L'invitation Teams de Nathalie Durieux est arrivée le 27/08 à 9h19, avec quatre personnes de Radiance en copie — **toujours pas acceptée, donc absente de l'agenda**. Journée chargée : la tripartite CFF sur Jilani Ben-Yahmed est le même jour de 14h à 15h.
+
+**Faux conflit d'agenda signalé de ma part** : le calendrier scolaire des enfants et les masterminds Clovis ne sont pas des engagements fermes. → mémoire `project_agenda_evenements_indicatifs`. Au passage, David sur Scaling Academy : *« j'essaie d'y aller quand je peux, mais je ne suis encore pas pleinement committed »*.
+
+**Convention d'écriture** : quand David écrit « $ », il veut dire **euro** — son clavier ne sort pas le €. S'il parle de dollars, il écrit USD. → mémoire `user_convention_symbole_euro`.
+
+### Ce qui reste à faire
+
+- **Retours d'Anthony** sur les douze créas, puis tournage.
+- **Refaire les relances de Khom Rivière et Laila Ed Damiri**, incomplètes — David n'en a pas voulu le 27/08.
+- **Relancer Christelle Erhard** pour sa feuille du 26/06.
+- **Accepter l'invitation Teams** du cadrage Radiance du 04/09.
+- **Vérifier la première exécution de la routine de veille** le 28/08 au matin.
+- **Connecter GitHub au cloud** (`/web-setup`) pour donner le vault à la routine.
+- **Décaler le cron de la routine** fin octobre 2026, au passage à l'heure d'hiver.
+- **Journal du cron notes iOS + Kanban** à vérifier le 01/09.
+- **L'installation de Steph n'a toujours pas commencé.**
+- **Sakura** : contenu différencié des deux niveaux.
