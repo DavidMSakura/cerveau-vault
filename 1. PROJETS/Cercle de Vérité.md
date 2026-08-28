@@ -25,7 +25,21 @@ Panier maximum théorique **110 €**, panier moyen visé **50-60 €**.
 
 ⚠️ **Prix de l'upsell 1 : 39 €, confirmé par David le 27/08/2026** — c'est le tarif réellement paramétré dans le tunnel. Le passage à 27 € envisagé le 25/08 n'a pas été retenu.
 
-**Conséquence de production, non résolue** : il n'existe aucune vidéo d'upsell à 39 €. Le dossier `Contenus/Upsell 1 - 2 jours pour rester fort/` contient des prises à 17, 27, 47 et 57 €, plus `Upsell1 neutre 0 prix.mp4`. **C'est cette prise neutre qu'il faut utiliser**, en n'affichant les 39 € que sur la page — ou retourner une prise.
+**Tranché le 28/08/2026** : il n'existe aucune vidéo d'upsell à 39 € — le dossier `Contenus/Upsell 1 - 2 jours pour rester fort/` contient des prises à 17, 27, 47 et 57 €. **On diffuse `Upsell1 neutre 0 prix.mp4`**, le prix n'apparaissant que sur la page. Pas de retournage. Question close.
+
+## État de production du bump et des upsells (28/08/2026)
+
+Référence des livrables attendus : `~/Documents/Formation/Olivier Clovis Scaling Academy/🔥 TUNNEL Low Ticket - TO DO.docx`.
+
+⚠️ **Aucun audio n'a jamais été enregistré**, confirmé par David le 28/08/2026. Les seuls MP3 existants sont les bandes-son extraites des vidéos [[Sakura]], mises à disposition en audio — ils n'ont rien à voir avec ce tunnel. Les trois audios ci-dessous sont donc tous à produire, aucun n'est « quelque part sur Systeme.io ».
+
+**Order bump — Les 15 Scripts Anti-Craquage (17 €)** — le maillon faible. Seul le PDF existe. Manquent l'audio « Comment gérer la culpabilité sans craquer » (15 min), la vidéo « Comment répondre aux manipulations émotionnelles » (20 min), et **un mockup produit** : les deux upsells ont le leur, pas lui. Or un bump se vend sur une case à cocher, deux lignes et une image. Attention à ne pas confondre avec `Mockups 10 scripts.png`, qui est le cadeau 1 du front-end, pas ce bump.
+
+**Upsell 1 — 2 jours pour rester fort (39 €)** — vidéo, PDF « Les 5 signes que tu es en train de craquer » et mockup en place. Manque l'audio « Je suis en sécurité même si l'autre est déçu » (10 min).
+
+**Upsell 2 — Le Décodeur Émotionnel (27 €)** — le plus complet : vidéo, PDF de décodage, exercice guidé en PDF, mockup. **À enregistrer** : l'audio de l'exercice guidé « Comment identifier le besoin caché » (10 min). Le script est déjà écrit, dans `🎙Script identifier besoin caché + résiliation.docx`.
+
+**Vérification qui reste à faire** : passer une commande test dans le tunnel pour voir ce qu'un acheteur reçoit réellement, avant tout budget Meta.
 
 **La justification de cet upsell**, telle qu'elle est écrite dans le tunnel : la phase critique n'est pas le premier NON, ce sont les **48 heures qui suivent**. Les gens y arrivent, se sentent fiers, puis la culpabilité les rattrape au deuxième jour — « je vais passer pour un égoïste, on va moins m'apprécier, je vais me retrouver isolé » — et ils retombent. C'est la vraie ligne de partage entre ceux qui tiennent et ceux qui jettent le Cercle de Vérité.
 

@@ -42,6 +42,7 @@
 - **Mot de passe d'application Gmail** tapé dans la conversation du 27/08 : à révoquer avant tout partage de transcription.
 - **Cron notes iOS** : 1ère exécution le 31/08 18h, journal à vérifier le 01/09. En cas d'échec : autorisations macOS (`memory.md`, 26/08 (2)).
 - **Épingle de partage.** L'artefact ne suit pas les republications : la redéplacer après chaque modification du guide.
+- **Cercle de Vérité — trois audios jamais enregistrés.** Aucun audio du tunnel n'existe (bump, upsell 1, upsell 2) ; les seuls MP3 de David sont ceux des vidéos Sakura. L'**order bump** est le plus dégarni : PDF seul, sans audio, sans vidéo, **sans mockup produit**. Détail dans [[Cercle de Vérité]]. Upsell 1 : tranché, on diffuse la prise neutre.
 - **Administratif MyConnecting** (URSSAF, RIB, Qualiopi), en pause volontaire depuis le 08/08. **Ne pas relancer.**
 - **Signaux comportementaux** : les cinq de CLAUDE.md, déjà chargés à chaque session.
 
