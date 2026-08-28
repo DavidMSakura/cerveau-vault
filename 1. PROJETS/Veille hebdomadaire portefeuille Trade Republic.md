@@ -45,4 +45,47 @@ Ces poids réels (et non le plan initial 52,5/5/25/10/7,5 sans S&P500) servent d
 
 Hebdomadaire, le lundi matin, intégré au message existant plutôt qu'en message séparé.
 
+---
+
+# Bloc crypto (ajouté le 28/08/2026)
+
+## Statut
+
+David est **intégralement cash sur les cryptos** à ce jour. Il a réalisé un **x10 sur un cycle précédent — 10 000 € devenus 100 000 €** — en multipliant les poches. Il connaît le terrain : la veille n'a pas à expliquer les fondamentaux, elle doit remonter des signaux.
+
+## Nature du bloc — différente du bloc ETF
+
+Ce n'est **pas un suivi de position**. Pas de poids cibles, pas d'écart de rééquilibrage, pas de performance depuis achat, puisqu'il n'y a pas de ligne détenue. L'objet est une **veille de marché destinée à préparer une décision d'entrée** et à en repérer la fenêtre.
+
+## Univers suivi
+
+Liste nominative — les poches que David a détenues :
+
+**BTC · ETH · BNB · XRP · SOL · ADA · AVAX · ZEC · CRO**
+
+Le top 10 CoinMarketCap **ne définit pas l'univers**, il sert de détecteur : si un actif absent de cette liste entre dans le top 10, le signaler en une ligne, sans l'ajouter au suivi. Arbitrage retenu le 28/08/2026 — ZEC et CRO sont hors top 10, suivre le top 10 les aurait fait disparaître.
+
+## Format hebdomadaire
+
+À intégrer au briefing Telegram du lundi, **après** le bloc ETF, en restant court : le message contient déjà six lignes d'ETF.
+
+1. **Noyau détaillé** : BTC et ETH — niveau, variation 7 jours, variation 30 jours.
+2. **Les sept autres en une ligne de synthèse.** Seules celles qui franchissent le seuil ci-dessous sont nommées ; les autres ne sont pas citées.
+3. **Deux chiffres de contexte** : dominance BTC et capitalisation totale du marché. Ce sont les meilleurs repères de phase de cycle, plus utiles qu'un cours isolé.
+4. **Actualité de la semaine uniquement si structurelle** : décision réglementaire, flux ETF significatifs, incident majeur sur une chaîne. Pas de reprise de bruit médiatique ni de prévision de prix.
+
+## Seuils propres à la crypto
+
+Le seuil de dérive à 5 points calibré pour les ETF n'a aucun sens ici : une semaine à ±30 % est banale.
+
+- **±20 % sur 7 jours** → l'actif est nommé dans la ligne de synthèse.
+- **±40 % sur 7 jours** → alerte explicite.
+
+## Points de vigilance
+
+- **Les neuf actifs ne sont pas de même nature.** BTC et ETH ont un rôle structurel dans l'écosystème. XRP dépend d'un modèle d'adoption bancaire et d'un historique judiciaire américain. CRO est adossé à un exchange, donc porteur d'un risque de contrepartie propre. ZEC est hors top 10 depuis longtemps. Ne pas les aligner dans un même tableau sans distinction : la mise en page suggérerait une comparabilité qui n'existe pas.
+- **Un x10 réalisé sur un cycle précédent ne se reproduit pas mécaniquement.** La veille reste descriptive et ne formule jamais d'objectif de performance.
+- **Cadrage éducatif uniquement, pas de conseil en investissement** — même règle que le bloc ETF.
+- ⚠️ Le titre de cette note ne couvre plus son contenu : elle ne parle plus seulement de Trade Republic. À renommer si le bloc crypto est confirmé.
+
 → [[Finances]]
