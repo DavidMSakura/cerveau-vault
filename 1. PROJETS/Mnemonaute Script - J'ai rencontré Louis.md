@@ -24,11 +24,11 @@ C'est la rentrée.
 
 Et il y a quelques jours, j'ai rencontré Louis.
 
-Louis a 19 ans. Et d'ailleurs Louis, si tu regardes cette vidéo, je te passe le bonjour.
+Louis a 19 ans, et il est étudiant en droit. D'ailleurs Louis, si tu regardes cette vidéo, je te passe le bonjour.
 
 Il m'a raconté quelque chose dans lequel, je dois l'avouer, je me suis pas mal reconnu.
 
-Cette année, Louis a terminé avec 9,8 sur 20.
+L'année dernière, Louis a terminé avec 9,8 sur 20.
 
 Il lui fallait 10.
 
@@ -356,7 +356,7 @@ Je n'ai pas bon ? Pile numéro 2.
 
 Et ce deuxième paquet, c'est là que je vais travailler. Je recommence. Encore. Et encore. Jusqu'à être capable de répondre.
 
-Et progressivement, j'ai un système qui fonctionne presque comme un jeu vidéo. J'ai un feedback immédiat. Réussi. Raté. Réussi. Raté.
+Et progressivement, j'ai un système qui fonctionne presque comme un jeu vidéo. J'ai un feedback immédiat. Réussi. Raté. Réussi. Raté. C'est l'effet Super Mario :J’ai mon score immédiatement. Je sais où j’en suis. Et je peux recommencer pour faire mieux.
 
 Et surtout, mon temps s'adapte à mon niveau. Ce que je connais très bien revient de moins en moins souvent. Ce qui est fragile revient davantage.
 
