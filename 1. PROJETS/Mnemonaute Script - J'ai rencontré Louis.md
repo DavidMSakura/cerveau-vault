@@ -152,7 +152,7 @@ Voilà le marché.
 
 ### Le cadre
 
-Tout ce qui suit se fait en cycles Pomodoro. Vingt-cinq minutes de travail, cinq minutes de pause. C'est le squelette de la matinée, et je ne le répéterai pas à chaque étape.
+Tout ce qui suit se fait en cycles Pomodoro. Vingt-cinq minutes de travail, cinq minutes de pause. C'est le squelette de la matinée.
 
 Un mot avant de commencer, parce qu'il y a deux cas de figure.
 
@@ -222,7 +222,7 @@ Si tout n'y est pas — et la première fois, ce sera souvent le cas — vous ne
 
 Maintenant, la deuxième partie de ce que j'ai donné à Louis. Et je vous préviens tout de suite, c'est ma préférée.
 
-Les flashcards.
+Les flashcards. On en a déjà parlé sur la chaine. 
 
 *(insert : bulle vers la vidéo Flashcards)*
 
@@ -242,9 +242,9 @@ Les ratées, vous les refaites tout de suite. Immédiatement. Et vous recommence
 
 Les bonnes, vous n'y touchez plus aujourd'hui. Vous les repoussez à demain, ou au surlendemain.
 
-Et vous savez ce qui se passe ? Vous avez un score. Tout de suite. C'est l'effet Super Mario : vous voyez le tas des bonnes grossir sous vos yeux, en temps réel. Vous ne vous demandez plus si vous progressez, vous le tenez dans la main.
+Et vous savez ce qui se passe ? Vous avez un score. Tout de suite. C'est l'effet Super Mario : vous avez votre score tout de suite et vous pouvez choisir de recommencer pour faire mieux. Et vous voyez le tas des bonnes grossir sous vos yeux, en temps réel. Vous ne vous demandez plus si vous progressez, vous le tenez dans la main.
 
-Il y a autre chose, avec les cartes physiques : le geste. La main, l'œil, le fait de retourner, de trier, de constituer un tas. Vous pouvez utiliser une application, Anki fait très bien le travail. Mais si vous le pouvez, essayez le papier au moins une fois. Ce n'est pas la même mémoire qui travaille.
+Il y a autre chose, avec les cartes physiques : le geste. La main, l'œil, le fait de retourner, de trier, de constituer un tas. Vous pouvez utiliser une application, l'app Anki fait très bien le travail. Mais si vous le pouvez, essayez le papier au moins une fois. Ce n'est pas la même mémoire qui travaille.
 
 Et jour après jour, semaine après semaine, vous rajoutez des cartes. Le paquet grossit, et pourtant il va de plus en plus vite à passer — parce que vous n'êtes plus en train d'apprendre, vous êtes en train de réviser.
 
