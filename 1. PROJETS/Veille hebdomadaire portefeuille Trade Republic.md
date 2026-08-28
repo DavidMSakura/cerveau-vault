@@ -65,14 +65,47 @@ Liste nominative — les poches que David a détenues :
 
 Le top 10 CoinMarketCap **ne définit pas l'univers**, il sert de détecteur : si un actif absent de cette liste entre dans le top 10, le signaler en une ligne, sans l'ajouter au suivi. Arbitrage retenu le 28/08/2026 — ZEC et CRO sont hors top 10, suivre le top 10 les aurait fait disparaître.
 
+## Ce que David attend réellement
+
+Précisé le 28/08/2026 : **la lecture de phase, pas le relevé de cours.** La question à laquelle le briefing doit répondre chaque lundi est « où en est-on dans le cycle, et est-ce le moment de bouger ou d'attendre ». Les chiffres sont la pièce justificative, pas le contenu.
+
+Ses mots : un *break*, un signal de prise de position ascendante, un *hyper climax run*, une continuation de tendance, ou l'instruction de patienter.
+
+## Taxonomie des états — vocabulaire fixe d'une semaine à l'autre
+
+Le briefing qualifie la phase avec **un seul de ces termes**, pour que deux lundis soient comparables :
+
+| État | Ce qu'il décrit | Lecture pour David, aujourd'hui cash |
+|---|---|---|
+| **Accumulation / range** | Prix latéral, volumes faibles, volatilité comprimée | Patienter, mais préparer les niveaux |
+| **Break haussier** | Sortie de range confirmée en clôture, avec volume | Le signal d'entrée qu'il cherche |
+| **Continuation** | Tendance installée, replis rachetés | Entrée possible mais moins favorable qu'au break |
+| **Hyper climax run** | Accélération verticale, euphorie, volumes extrêmes | ⚠️ **Signal de fin de cycle, pas d'entrée** |
+| **Distribution / retournement** | Sommets plats, divergences, force qui s'épuise | Ne pas entrer |
+| **Bear / capitulation** | Baisse installée ou purge violente | Zone d'accumulation à surveiller |
+
+**Le piège à ne jamais laisser passer** : l'*hyper climax run* est le moment où le marché est le plus attirant et le plus dangereux. David étant cash et cherchant une entrée, le briefing doit le nommer explicitement comme un signal de sortie ou d'abstention, jamais comme une opportunité.
+
 ## Format hebdomadaire
 
 À intégrer au briefing Telegram du lundi, **après** le bloc ETF, en restant court : le message contient déjà six lignes d'ETF.
 
-1. **Noyau détaillé** : BTC et ETH — niveau, variation 7 jours, variation 30 jours.
-2. **Les sept autres en une ligne de synthèse.** Seules celles qui franchissent le seuil ci-dessous sont nommées ; les autres ne sont pas citées.
-3. **Deux chiffres de contexte** : dominance BTC et capitalisation totale du marché. Ce sont les meilleurs repères de phase de cycle, plus utiles qu'un cours isolé.
-4. **Actualité de la semaine uniquement si structurelle** : décision réglementaire, flux ETF significatifs, incident majeur sur une chaîne. Pas de reprise de bruit médiatique ni de prévision de prix.
+1. **L'état de phase en un mot**, pris dans le tableau ci-dessus, pour BTC — c'est BTC qui donne le tempo du reste.
+2. **La justification en une phrase** : ce qui a changé par rapport au lundi précédent, ou « inchangé ».
+3. **Les niveaux qui comptent** : le seuil dont la rupture invaliderait ou confirmerait la lecture. Deux chiffres, pas plus.
+4. **Dominance BTC et capitalisation totale.** La dominance qui baisse pendant que le marché monte signale une rotation vers les altcoins — c'est directement pertinent pour les sept autres poches.
+5. **Les sept autres en une ligne.** Seules celles qui franchissent le seuil ci-dessous sont nommées.
+6. **Actualité uniquement si structurelle** : décision réglementaire, flux ETF significatifs, incident majeur sur une chaîne. Pas de reprise de bruit médiatique ni de prévision de prix.
+
+## Source suivie — Cédric Froment (YouTube)
+
+David suit cette chaîne, qui publie **le samedi**. Le calendrier tombe bien : la vidéo du samedi précède le briefing du lundi matin, elle peut donc être intégrée fraîche.
+
+**À faire** : récupérer la transcription de la vidéo de la semaine et en tirer trois à cinq lignes — la phase qu'il décrit, les niveaux qu'il cite, ce qu'il attend comme confirmation.
+
+**Contrainte technique à valider côté serveur** : cela suppose de récupérer les sous-titres YouTube automatiquement (yt-dlp ou équivalent) depuis l'instance serveur. Non vérifié à ce jour. Si ça ne passe pas, se rabattre sur un rappel « vidéo du samedi à regarder » avec le lien, plutôt que de rendre le bloc dépendant d'une brique qui échoue.
+
+⚠️ **Toujours attribuer.** Le briefing écrit « Cédric Froment considère que… », jamais « le marché est en… ». C'est son analyse, pas un fait de marché, et la distinction doit rester visible dans le message.
 
 ## Seuils propres à la crypto
 
@@ -86,6 +119,7 @@ Le seuil de dérive à 5 points calibré pour les ETF n'a aucun sens ici : une s
 - **Les neuf actifs ne sont pas de même nature.** BTC et ETH ont un rôle structurel dans l'écosystème. XRP dépend d'un modèle d'adoption bancaire et d'un historique judiciaire américain. CRO est adossé à un exchange, donc porteur d'un risque de contrepartie propre. ZEC est hors top 10 depuis longtemps. Ne pas les aligner dans un même tableau sans distinction : la mise en page suggérerait une comparabilité qui n'existe pas.
 - **Un x10 réalisé sur un cycle précédent ne se reproduit pas mécaniquement.** La veille reste descriptive et ne formule jamais d'objectif de performance.
 - **Cadrage éducatif uniquement, pas de conseil en investissement** — même règle que le bloc ETF.
+- **Une seule source d'analyse est un risque.** Adosser la lecture de phase à Cédric Froment seul revient à déléguer le jugement à une personne. Si sa lecture se révèle fausse sur un cycle, rien dans le briefing ne le corrigera. Deux garde-fous : conserver la lecture chiffrée indépendante (points 1 à 5 du format) même quand elle contredit la vidéo, et signaler explicitement les semaines où les deux divergent — ce sont les plus instructives.
 - ⚠️ Le titre de cette note ne couvre plus son contenu : elle ne parle plus seulement de Trade Republic. À renommer si le bloc crypto est confirmé.
 
 → [[Finances]]
