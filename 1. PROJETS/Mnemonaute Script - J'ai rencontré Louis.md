@@ -102,7 +102,7 @@ Je vous le prouve en dix secondes.
 
 *(temps)*
 
-Perth, Melbourne, Adélaïde et Brisbane sont des villes australiennes.
+Sydney, Melbourne, Adélaïde et Brisbane sont des villes australiennes.
 
 Vous êtes d'accord. Évidemment que vous le savez.
 
