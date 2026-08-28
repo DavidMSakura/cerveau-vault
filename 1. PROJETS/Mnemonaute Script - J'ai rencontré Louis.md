@@ -102,17 +102,31 @@ Je vous le prouve en dix secondes.
 
 *(temps)*
 
-Citez-moi quatre grandes villes d'Australie.
+Perth, Melbourne, Adélaïde et Brisbane sont des villes australiennes.
 
-*(temps — laisser vraiment le silence, ne pas enchaîner)*
+Vous êtes d'accord. Évidemment que vous le savez.
 
-Vous avez trouvé Sydney. Melbourne, sans doute. Peut-être Perth. Et Canberra ?
+*(temps)*
 
-Canberra, c'est la capitale. Vous le savez. Vous l'avez appris à l'école. Si je vous l'avais donnée dans une liste, vous auriez répondu « évidemment » sans hésiter une seconde.
+Maintenant, deuxième question. Si je vous avais demandé de me citer quatre villes d'Australie, avant de vous donner ma liste — est-ce que vous les auriez trouvées ?
 
-Mais je ne vous l'ai pas donnée. Je vous ai demandé d'aller la chercher tout seul. Et ce n'est pas du tout le même exercice.
+*(temps — laisser vraiment le silence)*
 
-Voilà exactement ce qui se passe le jour de l'examen. On ne vous propose pas la réponse : on vous demande de la produire. C'est toute la différence entre reconnaître et restituer, et on ne vous notera jamais que sur la seconde.
+Troisième question. Quelle est la capitale de l'Australie ?
+
+*(temps)*
+
+C'est Canberra. Et Canberra n'était pas dans ma liste.
+
+Est-ce que vous l'aviez remarqué ?
+
+*(temps)*
+
+Regardez ce qui vient de se passer, parce que tout est là.
+
+Vous avez validé ma liste sans le moindre effort : ça, c'est reconnaître. Vous n'auriez peut-être pas su la produire tout seul : ça, c'est restituer. Et vous n'avez pas vu qu'il manquait la capitale : ça, c'est le plus grave, parce que ça veut dire que vous ne voyez pas vos propres trous.
+
+Voilà exactement ce qui se passe le jour de l'examen. On ne vous propose pas la réponse : on vous demande de la produire. On ne vous notera jamais que là-dessus.
 
 La relecture, elle, ne vous entraîne qu'à reconnaître. C'est pour ça qu'on peut passer un mois sur un cours et se retrouver sec devant la copie.
 
@@ -236,7 +250,7 @@ Et jour après jour, semaine après semaine, vous rajoutez des cartes. Le paquet
 
 Vos points faibles sont devenus vos points forts. Simplement parce que ce sont les seuls sur lesquels vous avez travaillé.
 
-Et vous ne serez plus jamais celui qui cherche Canberra.
+Et vous ne serez plus jamais celui qui ne voit pas que Canberra manque à la liste.
 
 ---
 
@@ -265,7 +279,7 @@ Et si ma façon de faire vous plaît, et que vous voulez savoir comment j'ai vai
 ## Notes de tournage
 
 - **Cartes en main dès la partie 7**, manipulation réelle : mélanger, tirer, retourner, faire les deux tas à l'écran.
-- **Silences à tenir** : après la phrase de Louis (partie 1), après « citez-moi quatre grandes villes » (partie 4), avant la phrase de chute (partie 8). Ce sont les trois seuls endroits où le silence travaille — et celui de l'Australie doit être long, sinon la démonstration ne prend pas.
+- **Silences à tenir** : après la phrase de Louis (partie 1), les trois temps de la démonstration australienne (partie 4), avant la phrase de chute (partie 8). Les silences de l'Australie doivent être longs — surtout celui qui suit « est-ce que vous l'aviez remarqué ». Si on enchaîne trop vite, la démonstration ne prend pas.
 - **Bulles + liens en description** : Pomodoro vs Flowtime · Mind Mapping · Lecture rapide · Courbe de l'oubli · Flashcards. **Pas de Leitner.**
 - Le rappel de Canberra en fin de partie 7 referme la boucle ouverte en partie 4 — à ne pas couper au montage.
 - Découpage shorts naturel : le test des villes d'Australie, le premier cycle et l'ennui, la couleur des trous, la feuille blanche, les deux tas. Cinq formats courts autonomes, et celui de l'Australie est le meilleur candidat.
@@ -287,7 +301,7 @@ Ce n'est pas un étudiant en difficulté. C'est même le contraire : il est bril
 
 Alors je lui ai construit une méthode, à partir de ce qu'il connaissait déjà. C'est celle que je vous donne dans cette vidéo, et elle tient en une matinée par notion.
 
-Avant ça, une démonstration en dix secondes sur quatre villes d'Australie, qui vous montrera pourquoi relire son cours ne sert presque à rien.
+Avant ça, une démonstration en dix secondes sur quelques villes d'Australie, qui vous montrera pourquoi relire son cours ne sert presque à rien — et surtout pourquoi vous ne voyez pas vos propres trous.
 
 Ensuite, l'enchaînement complet : le mind map de ce que vous croyez savoir, la lecture rapide de confrontation, la couleur qui identifie vos vrais points aveugles, le mind map à feuille blanche qui vous dit exactement où vous en êtes, et les flashcards construites uniquement sur ce qui vous résiste. Le tout en cycles Pomodoro.
 
@@ -295,7 +309,7 @@ Ensuite, l'enchaînement complet : le mind map de ce que vous croyez savoir, la 
 00:00 Louis, 19 ans, 9,80 de moyenne
 0x:xx « Du potentiel qui reste à démontrer »
 0x:xx Ce qu'il connaissait déjà : Pomodoro sans mode d'emploi
-0x:xx Le test des quatre villes d'Australie
+0x:xx Le test des villes d'Australie : ce que vous croyez savoir
 0x:xx La promesse : une matinée, une notion, définitivement
 0x:xx Étape 1 — le mind map de ce que vous croyez savoir
 0x:xx Étape 2 — la lecture rapide et la couleur des trous
