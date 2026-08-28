@@ -3,34 +3,60 @@ tags:
   - idee-contenu
   - mnemonaute
   - apprentissage
-statut: script rédigé, à valider
+statut: script fusionné, à lire à voix haute
 formats: vidéo
 ajoute: 2026-08-28
 ---
 
 # Script — « J'ai rencontré Louis »
 
-**Cadrage arrêté avec David le 28/08/2026.** Vidéo autonome, préambule de rentrée. **On ne réexplique aucune notion déjà couverte** : on la cite, bulle YouTube + lien en description. **Pas de mention de la boîte de Leitner.** Le test des villes d'Australie est placé **avant** la méthode : il met le spectateur en difficulté, ce qui le rend preneur de la solution — l'inverse le ferait retomber dans « bah oui, je le savais ». Promesse annoncée juste après : *une matinée pour acquérir une notion définitivement*. Fin ouverte, la rentrée de Louis n'a pas eu lieu. **Prénom seul, aucun accord nécessaire** — pas de nom de famille, pas de lieu. **Bonjour à Louis dès la partie 1**, au moment où il est mentionné, pas à la chute. **Son inquiétude est nommée explicitement** (partie 1) : c'est le point d'identification du spectateur. **Sa formule « il n'a rien foutu » est conservée telle quelle** (partie 2) — ce sont ses mots, David y tient. CTA : « Le petit guide de nos peurs ».
+**Version fusionnée du 28/08/2026.** Base : le brouillon de David (trame, voix, posture « je »). Réinjectés depuis la version Doc : la formule des bulletins, la promesse d'une matinée, Pomodoro sans mode d'emploi + les soixante vidéos, la citation complète de Louis, le bonjour et le CTA.
 
-**Adresse** : écrit en **vous**, comme dans la matière dictée par David. Bascule en « tu » = simple chercher-remplacer au prompteur.
+**Décisions** : l'Australie est placée **avant** la méthode — elle met en difficulté, donc elle rend preneur de la solution. « Il n'a rien foutu » est **conservé**, ce sont les mots de Louis. Pas de Leitner. Prénom seul, aucun accord nécessaire. Adresse : **je** pour ce que je fais, **tu** pour interpeller. Jamais de « vous ».
+
+**Durée estimée** : 18 à 20 minutes.
 
 ---
 
-## 1 — Préambule et Louis
+## 1 — C'est la rentrée
 
-Dans quelques jours, vous rentrez. Et pour beaucoup d'entre vous, rentrer, ça veut dire retourner en phase d'apprentissage et de révision.
+C'est la rentrée.
 
-Alors avant que ça recommence, je veux vous parler de quelqu'un que j'ai rencontré cet été.
+Et il y a quelques jours, j'ai rencontré Louis.
 
-Il s'appelle Louis. Il a dix-neuf ans, il est en droit.
+Louis a 19 ans. Et d'ailleurs Louis, si tu regardes cette vidéo, je te passe le bonjour.
 
-Et d'ailleurs Louis, si tu regardes cette vidéo, je te passe le bonjour.
+Il m'a raconté quelque chose dans lequel, je dois l'avouer, je me suis pas mal reconnu.
 
-Louis a eu 9,80 de moyenne. Il lui manquait deux dixièmes de point. Deux dixièmes, sur une année entière. Il redouble.
+Cette année, Louis a terminé avec 9,8 sur 20.
 
-Et ce n'est pas un garçon en difficulté. C'est même l'inverse : Louis est brillant. Je le dis parce que c'est tout le sujet de cette vidéo.
+Il lui fallait 10.
 
-Quand je lui ai demandé ce qui s'était passé, il m'a répondu ça :
+Et le truc intéressant, c'est qu'il n'avait rien foutu. Ce sont ses mots, pas les miens.
+
+---
+
+## 2 — Les deux façons de regarder ça
+
+Évidemment, je peux regarder ça de deux façons.
+
+La première : 9,8 sans vraiment travailler, c'est plutôt rassurant.
+
+Ça veut dire qu'il a des capacités.
+
+Qu'il comprend vite.
+
+Qu'il retient des choses.
+
+Qu'avec un peu plus d'investissement, ça passait probablement.
+
+Et Louis, des capacités, il en a. Ça se voit très vite quand je discute avec lui. Dès que je le branche sur quelque chose qui le passionne, il a énormément de matière.
+
+Il connaît des choses. Il développe. Il fait des liens. Il retient plein d'informations.
+
+Bref : sa mémoire fonctionne. Son cerveau fonctionne.
+
+Et pourtant, au cours de notre discussion, il m'a dit quelque chose qui avait l'air de vraiment l'inquiéter.
 
 *(temps)*
 
@@ -38,37 +64,77 @@ Quand je lui ai demandé ce qui s'était passé, il m'a répondu ça :
 
 Et ce qui m'a frappé, ce n'est pas qu'il ait raté. C'est qu'il était inquiet.
 
-Pas découragé, pas résigné. Inquiet. Parce qu'il ne sait pas où chercher. Il ne sait pas comment faire. Il sait juste que ce qui marchait avant ne marche plus.
+Pas découragé. Pas résigné. Inquiet. Parce qu'il ne sait pas où chercher. Il ne sait pas comment faire.
 
-Et en l'écoutant, je me suis reconnu.
+Et je crois que c'est là qu'il vient de franchir un cap important.
 
 ---
 
-## 2 — « Du potentiel »
+## 3 — « Du potentiel qui reste à démontrer »
 
 Parce que Louis, pendant toute sa scolarité, on lui a dit qu'il avait du potentiel.
 
-Vous connaissez la formule. Elle est sur les bulletins, elle est dans les réunions parents-professeurs, elle revient chaque trimestre. Des capacités. Du potentiel. Qui restent à démontrer.
+Tu connais la formule. Elle est sur les bulletins, elle est dans les réunions parents-professeurs, elle revient chaque trimestre. Des capacités. Du potentiel. Qui restent à démontrer.
 
 Moi aussi je l'ai beaucoup entendue.
 
-Et le problème n'est pas qu'elle soit fausse. Le problème, c'est qu'on s'arrête là. On vous dit que le potentiel est là. Personne ne vous dit comment on l'exploite.
+Et le problème n'est pas qu'elle soit fausse. Le problème, c'est qu'on s'arrête là.
 
-On vous donne un diagnostic, jamais un mode d'emploi.
+On te dit que le potentiel est là. Personne ne te dit comment on l'exploite.
 
-Alors vous avancez avec ce que vous avez : votre mémoire, votre facilité, votre capacité à comprendre vite. Et tant que le volume reste raisonnable, ça marche. Ça marche au collège, ça marche au lycée, ça passe souvent jusqu'au bac.
+On te donne un diagnostic, jamais un mode d'emploi.
 
-Puis un jour le volume double. Et là, la facilité ne suffit plus.
+Alors tu avances avec ce que tu as. Ta mémoire, ta facilité, ta capacité à comprendre vite. Et tant que le volume reste raisonnable, ça marche. Ça marche au collège, ça marche au lycée, ça passe souvent jusqu'au bac.
 
-C'est exactement ce qui est arrivé à Louis. Il n'a pas échoué par manque de capacités. Il a échoué parce que ses capacités l'avaient dispensé d'apprendre à travailler.
+Et puis un jour, le niveau monte.
 
-Lui, il le dit plus simplement que moi. Il n'a rien foutu.
-
-Sauf qu'il n'avait jamais eu besoin de le faire. Et que personne ne lui a jamais montré à quoi ça ressemblait.
+Et ce qui permettait de s'en sortir jusque-là ne suffit plus.
 
 ---
 
-## 3 — Ce qu'il avait déjà
+## 4 — L'erreur à ne pas faire
+
+Et c'est là que je trouve qu'on peut faire une erreur assez terrible.
+
+Se dire : « avant, j'étais bon ».
+
+« Maintenant, je n'y arrive plus. »
+
+« Peut-être que finalement je ne suis pas si intelligent que ça. »
+
+Alors que le problème n'est peut-être absolument pas là.
+
+Les capacités n'ont pas disparu. C'est juste le moment où le talent doit commencer à être soutenu par une méthode.
+
+Et je crois que c'est exactement là où en est Louis.
+
+---
+
+## 5 — Le vrai indice
+
+Et il y a autre chose qui m'a frappé chez lui.
+
+Quand le sujet l'intéresse, Louis apprend. Naturellement. Il retient, il cherche, il creuse, il peut en parler longtemps.
+
+Par contre, quand il s'agit d'un cours qui le passionne moins, il se retrouve beaucoup plus démuni.
+
+Et ça, je le trouve extrêmement intéressant.
+
+Parce que je peux être capable de retenir des centaines d'informations sur un jeu vidéo. Un sport. Un artiste. Une série. Une passion.
+
+Et pourtant, devant trois pages de cours… plus rien.
+
+Alors je peux finir par conclure : « j'ai une mauvaise mémoire ».
+
+Mais si je suis capable de mémoriser énormément de choses dans certains domaines, le problème n'est probablement pas ma mémoire.
+
+La vraie question devient : comment est-ce que je reproduis volontairement ce que mon cerveau sait faire naturellement quand quelque chose me passionne ?
+
+Et c'est précisément là qu'une méthode devient intéressante.
+
+---
+
+## 6 — Ce que Louis avait déjà
 
 Maintenant, ce qui m'a le plus surpris dans notre conversation.
 
@@ -78,185 +144,285 @@ Il ne savait pas quoi mettre dedans.
 
 *(insert : bulle vers la vidéo Pomodoro vs Flowtime)*
 
-Et là j'ai compris quelque chose sur ma propre chaîne. J'ai près de soixante vidéos. La lecture rapide, le mind mapping, les flashcards, le palais de mémoire, la courbe de l'oubli. Chacune enseigne une technique, et chacune est bonne.
+Et là, j'ai compris quelque chose sur ma propre chaîne.
+
+J'ai près de soixante vidéos. La lecture rapide, le mind mapping, les flashcards, le palais de mémoire, la courbe de l'oubli. Chacune enseigne une technique, et chacune est bonne.
 
 Aucune ne dit dans quel ordre on les enchaîne.
 
-Vous pouvez avoir tout regardé et vous retrouver avec un arsenal complet et aucun mode d'emploi. Douze outils sur l'établi, et personne pour vous dire lequel prendre en premier.
+Tu peux avoir tout regardé et te retrouver avec un arsenal complet et aucun mode d'emploi. Douze outils sur l'établi, et personne pour te dire lequel prendre en premier.
 
 Alors je suis parti de ce que Louis savait déjà, et je lui ai construit un enchaînement.
 
-Mais avant de vous le donner, il faut que je vous montre quelque chose. Sur vous.
+Mais avant de te le donner, il faut que je te montre quelque chose. Sur toi.
 
 ---
 
-## 4 — Ce que vous croyez savoir
-
-Parce que si vous êtes comme la plupart des gens, votre méthode de révision, c'est la relecture. On relit le cours, on le relit encore, la veille on le relit une dernière fois.
-
-Et pendant qu'on relit, on est dans un état très particulier — presque de l'auto-hypnose. Les yeux passent sur les lignes, et plus rien n'entre.
-
-Le pire, c'est que ça donne une impression formidable. Parce qu'il y a un biais, et il est fondamental : quand je lis quelque chose, j'ai l'impression de le savoir déjà.
-
-Je vous le prouve en dix secondes.
+## 7 — Le piège
 
 *(temps)*
 
-Sydney, Melbourne, Adélaïde et Brisbane sont des villes australiennes.
+Sydney. Melbourne. Adélaïde. Brisbane.
 
-Vous êtes d'accord. Évidemment que vous le savez.
+Ce sont quatre villes australiennes.
+
+La réaction naturelle, c'est souvent : « oui, évidemment, je le savais ».
+
+Très bien.
 
 *(temps)*
 
-Maintenant, deuxième question. Si je vous avais demandé de me citer quatre villes d'Australie, avant de vous donner ma liste — est-ce que vous les auriez trouvées ?
+Mais si, trente secondes plus tôt, je t'avais demandé : est-ce que tu serais capable de citer quatre grandes villes australiennes ?
+
+Est-ce que tu aurais spontanément sorti ces quatre-là ?
 
 *(temps — laisser vraiment le silence)*
 
-Troisième question. Quelle est la capitale de l'Australie ?
+Peut-être. Peut-être pas.
+
+Et c'est précisément là que mon cerveau peut me piéger.
+
+Parce que quand une information est sous mes yeux, ou qu'on vient de me la donner, elle me paraît familière. Et je confonds facilement « je reconnais cette information » avec « je possède cette information et je suis capable de la retrouver seul ».
+
+Ce n'est pas la même chose.
 
 *(temps)*
 
-C'est Canberra. Et Canberra n'était pas dans ma liste.
+Et maintenant, autre question. Quelle est la capitale de l'Australie ?
 
-Est-ce que vous l'aviez remarqué ?
+*(temps — long)*
+
+La réponse, c'est Canberra.
+
+Et Canberra n'était même pas parmi les quatre villes que je viens de citer.
+
+Est-ce que tu l'avais remarqué ?
 
 *(temps)*
 
-Regardez ce qui vient de se passer, parce que tout est là.
+Alors la vraie question devient : est-ce que j'avais l'information avant qu'on me la donne ? Ou est-ce qu'au moment où j'entends « Canberra », mon cerveau fait simplement : « ah oui, bien sûr » ?
 
-Vous avez validé ma liste sans le moindre effort : ça, c'est reconnaître. Vous n'auriez peut-être pas su la produire tout seul : ça, c'est restituer. Et vous n'avez pas vu qu'il manquait la capitale : ça, c'est le plus grave, parce que ça veut dire que vous ne voyez pas vos propres trous.
+Parce que si c'est le deuxième cas, je n'ai pas retrouvé l'information. Je l'ai reconnue.
 
-Voilà exactement ce qui se passe le jour de l'examen. On ne vous propose pas la réponse : on vous demande de la produire. On ne vous notera jamais que là-dessus.
+Et en révision, la familiarité est une très mauvaise preuve de maîtrise.
 
-La relecture, elle, ne vous entraîne qu'à reconnaître. C'est pour ça qu'on peut passer un mois sur un cours et se retrouver sec devant la copie.
+Quand je relis un cours encore et encore, je peux créer exactement la même illusion. Tout me paraît connu. Tout me paraît évident. « Oui, oui, ça je sais. » « Ça aussi, je sais. »
 
-Alors voilà ce que je vous propose à la place.
+Mais le jour où la feuille est blanche et où personne ne me donne le début de la réponse, la seule chose qui compte, c'est : est-ce que je suis capable de produire l'information moi-même ?
+
+Parce que « quand je le vois, je sais que je le sais » n'est pas une méthode de révision.
+
+C'est précisément le piège.
+
+Alors voilà ce que je propose à la place.
 
 ---
 
-## 5 — La promesse
+## 8 — Le marché
 
 Une matinée.
 
-C'est ce que je vous demande. Une matinée pour acquérir une notion, et l'acquérir définitivement.
+C'est tout ce que je demande. Une matinée pour acquérir une notion, et l'acquérir définitivement.
 
-Comparez avec ce que vous faites d'habitude : vous relisez ce cours en septembre, vous le relisez en novembre, vous le relisez la veille du partiel, et vous avez toujours cette sensation désagréable de ne pas être sûr. Des heures étalées sur des mois, pour un résultat que vous n'arrivez même pas à évaluer.
+Compare avec ce que tu fais d'habitude. Tu relis ce cours en septembre, tu le relis en novembre, tu le relis la veille du partiel, et tu as toujours cette sensation désagréable de ne pas être sûr. Des heures étalées sur des mois, pour un résultat que tu n'arrives même pas à évaluer.
 
-Une matinée, une notion, et vous n'y revenez plus que pour l'entretenir.
+Une matinée, une notion, et tu n'y reviens plus que pour l'entretenir.
 
-Voilà le marché.
+Voilà le marché. Et voilà ce que j'ai proposé à Louis — c'est exactement ce que je ferais moi-même.
 
 ---
 
-## 6 — La boucle
+## 9 — Première étape : je ne commence pas par le cours
 
-### Le cadre
+Oui, je sais. Ça peut sembler bizarre. J'ai un chapitre à réviser, et je commence par ne pas ouvrir le cours.
 
-Tout ce qui suit se fait en cycles Pomodoro. Vingt-cinq minutes de travail, cinq minutes de pause. C'est le squelette de la matinée.
+Je prends une feuille blanche.
 
-Un mot avant de commencer, parce qu'il y a deux cas de figure.
+Et je commence par essayer de retrouver tout ce que je sais déjà.
 
-Si c'est une notion que vous avez déjà croisée — un cours que vous avez suivi, un chapitre que vous avez lu — vous commencez à l'étape 1.
-
-Si c'est une notion totalement nouvelle, vous ne pouvez pas restituer quelque chose que vous n'avez jamais vu. Vous commencez donc par lire le cours ou le livre, une première fois, pour vous l'approprier. Et ensuite seulement vous entrez dans la boucle : votre premier mind map ne sera pas « ce que je sais », il sera « ce que j'ai retenu de cette lecture ». Le geste est le même, le point de départ est différent.
-
-### Premier cycle — le mind map de ce que vous croyez savoir
-
-Vingt-cinq minutes. Une feuille. Rien d'autre.
-
-Pas le cours. Pas le livre. Pas le téléphone. Vous fermez tout.
-
-Et vous faites un mind map de la notion, avec ce que vous avez dans la tête. Vous posez pêle-mêle tout ce qui vous vient : les idées, les mots, les définitions, les exemples, les dates. Vous n'organisez pas parfaitement, vous videz.
+Personnellement, j'aime bien utiliser un mind map. Je mets le sujet au milieu. Et ensuite, je vais chercher.
 
 *(insert : bulle vers la vidéo Mind Mapping)*
 
-Et vous prenez les vingt-cinq minutes. Entièrement. Vous allez avoir fini au bout de huit minutes, avec l'impression d'avoir tout donné — c'est là que le vrai travail commence. Vous creusez. Vous vous re-questionnez. Vous vous ennuyez.
+Qu'est-ce que je sais ? Qu'est-ce que je crois savoir ? Quels concepts me reviennent ? Quels exemples ? Quels mots ? Quels liens ?
 
-Cet ennui est important. Je le dis sérieusement. C'est pendant qu'on s'ennuie sur une feuille que remontent les choses qu'on croyait avoir oubliées.
+Et si j'ai envie d'utiliser Pomodoro, je pars sur un cycle de 25 minutes.
 
-Pause de cinq minutes.
+Pas de téléphone. Pas de cours. Pas de livre. Juste moi et mon cerveau.
 
-À ce stade, vous avez sous les yeux quelque chose que vous n'aviez jamais eu : la carte de ce que vous savez, ou de ce que vous croyez savoir.
+Et je cherche. Je ne me précipite pas.
 
-### Deuxième cycle — la lecture rapide
+Parfois, une information ne vient pas immédiatement. Je creuse. Je me pose des questions. Je fais des associations.
 
-Maintenant, vous ouvrez le cours.
+Et j'accepte même de m'ennuyer un peu.
 
-Et vous le parcourez en lecture rapide. Pas une lecture studieuse, pas de surlignage : vous cherchez à confronter, pas à apprendre.
+Parce que cet effort pour essayer de retrouver l'information fait déjà partie de l'apprentissage.
+
+Au bout de ces 25 minutes, j'ai quelque chose de précieux. J'ai une photographie de : voilà ce que je suis capable de produire avec mes connaissances actuelles.
+
+Évidemment, si je découvre un sujet dont je ne connais absolument rien, cette étape n'a pas de sens. Dans ce cas-là, je commence par découvrir le chapitre, lire le cours ou regarder la ressource. Et ensuite seulement, je fais ce travail de restitution.
+
+---
+
+## 10 — Deuxième étape : maintenant, j'ouvre le cours
+
+Et là, je compare.
+
+Je prends mon livre, mon cours, ma ressource. Et je regarde mon mind map.
 
 *(insert : bulle vers la vidéo Lecture rapide)*
 
-Si la lecture est longue, cette étape peut manger deux cycles. C'est normal, ne la bâclez pas.
+Premier cas : l'information est dans le cours, et elle est déjà sur ma feuille.
 
-Vous cherchez deux choses, et deux seulement.
+Très bien. Ça veut dire : je sais que je sais.
 
-La première : où mon mind map est-il confirmé par le cours ? Là, c'est réglé. Je sais que je sais. Et je ne vais pas remettre une seule minute d'énergie sur cette partie. C'est la décision la plus rentable de toute la matinée, et c'est celle que personne ne prend, parce que réviser ce qu'on maîtrise, c'est agréable.
+Et ça, c'est important. Parce que pourquoi est-ce que je passerais encore vingt minutes à réviser une connaissance déjà acquise ? Je vais plutôt investir mon énergie ailleurs.
 
-La seconde : où sont les trous ? Tout ce qui est dans le cours et qui n'est pas sur ma feuille, je l'ajoute — **d'une couleur différente**.
+Deuxième cas : je découvre quelque chose dans le cours qui n'était pas sur mon mind map.
 
-Et cette couleur, retenez-la, parce qu'on va s'en servir jusqu'à la fin de la vidéo.
+Là, je prends une autre couleur. Et je l'ajoute.
 
-Ce qui est en couleur, ce sont vos points aveugles. Soit vous ne le saviez pas. Soit vous l'aviez oublié. Soit vous ne l'aviez même pas envisagé. Peu importe la raison : ce sont eux qui vont vous coûter du temps et de l'énergie, et ce sont les seuls.
+Et cette couleur devient extrêmement précieuse.
 
-Vous relisez votre mind map complété. Pause. Et vous rangez tout.
+Parce qu'elle représente mes angles morts. Ce que je ne connaissais pas. Ce que j'avais oublié. Ou ce que je pensais connaître mais que je n'ai pas été capable de restituer.
 
-### Troisième cycle — la feuille blanche
+C'est là que se trouve mon travail. Pas partout. Là.
 
-Soit dans la foulée, et c'est ce que je préconise, soit dans l'après-midi, soit le lendemain.
+Et déjà, je suis en train d'arrêter de travailler plus, pour commencer à travailler plus intelligemment.
 
-Vous reprenez une feuille blanche. Et vous refaites le mind map, de mémoire, sans rien sous les yeux.
+---
 
-Puis vous le posez à côté du premier.
+## 11 — Troisième étape : je range tout
 
-Et là, tout devient visible. Normalement, il y a plus d'informations sur le second que sur le premier — c'est la preuve que la lecture a servi à quelque chose, et vous le voyez, ce n'est pas une impression.
+J'ai mon mind map. Je l'ai confronté au cours. Je l'ai complété avec une autre couleur.
 
-Si tout y est : c'est fini. Vous rangez, et vous n'y revenez que la semaine suivante, une seule fois, pour l'entretenir. C'est le travail en mémoire espacée, la courbe de l'oubli.
+Maintenant, je range. Le cours. Le livre. Le mind map. Tout.
+
+Je fais une pause.
+
+Et soit je reviens dessus un peu plus tard dans la journée, soit le lendemain. Moi, je préfère enchaîner direct.
+
+Je reprends une feuille blanche. Mind map numéro 2. De mémoire. À nouveau. Sans tricher.
+
+J'essaie de reconstruire ce que j'ai appris. En totalité.
+
+Et ensuite, je compare le mind map numéro 2 avec le premier. Et surtout avec les éléments que j'avais rajoutés dans cette deuxième couleur.
+
+Est-ce qu'ils sont revenus ?
+
+Oui ? Très bien. Je suis en train de me les approprier.
+
+Non ? Parfait.
+
+Parce que maintenant, je sais exactement où travailler.
+
+Et ça, je trouve ça infiniment plus intéressant que « j'ai révisé deux heures ».
+
+Parce que deux heures de travail ne me disent rien. Ce qui m'intéresse, c'est : qu'est-ce que je suis capable de restituer après ces deux heures ?
 
 *(insert : bulle vers la vidéo sur la courbe de l'oubli)*
 
-Si tout n'y est pas — et la première fois, ce sera souvent le cas — vous ne recommencez pas la matinée. Vous ne reprenez que les branches manquantes. Un cycle, ciblé uniquement sur elles, et vous refaites la comparaison. On ne range que quand la feuille blanche redonne le cours.
-
 ---
 
-## 7 — Les flashcards
+## 12 — Les flashcards
 
-Maintenant, la deuxième partie de ce que j'ai donné à Louis. Et je vous préviens tout de suite, c'est ma préférée.
+Et maintenant, je vais justement m'occuper de ce qui résiste.
 
-Les flashcards. On en a déjà parlé sur la chaine. 
+C'est là que j'ai parlé des flashcards à Louis.
 
 *(insert : bulle vers la vidéo Flashcards)*
 
-Le principe est simple : au recto, une question ou une notion. Au verso, la réponse.
+Mais là encore, je ne lui ai pas proposé de transformer tout son cours en cartes. Ça n'aurait pas de sens.
 
-Mais la vraie question, c'est : sur quoi faites-vous vos cartes ? Parce que c'est là que la plupart des gens abandonnent — ils fabriquent trois cents cartes sur tout le chapitre, ils y passent un week-end, et ils ne les ouvrent jamais.
+Je repars de cette deuxième couleur sur le mind map. C'est ça qui va devenir mes flashcards. Mes trous. Mes oublis. Les informations fragiles.
 
-Vous, vous avez déjà la réponse sur votre feuille. Vous ne faites des cartes **que sur ce qui est en couleur**. Les points aveugles. Rien d'autre. Vous venez de décider que le reste était acquis, il serait absurde d'y revenir.
+Parce que mon objectif n'est toujours pas de dépenser mon énergie sur quelque chose que je maîtrise déjà. Mon énergie va aller là où j'en ai besoin.
 
-*(David prend le paquet de cartes en main — manipulation à l'écran jusqu'à la fin de la partie)*
+Donc : une information ou une question devant. La réponse derrière.
 
-Ensuite, vous mélangez, et vous tirez.
+Et là, je peux presque en faire un jeu.
 
-Vous lisez la question, vous répondez dans votre tête, vous retournez la carte. Vous vous auto-évaluez, tout seul, honnêtement. Et vous faites deux tas. Les bonnes d'un côté. Les ratées de l'autre.
+D'ailleurs, j'en ai apporté.
 
-Les ratées, vous les refaites tout de suite. Immédiatement. Et vous recommencez jusqu'à avoir tout bon.
+*(MONTRER LES FLASHCARDS — manipulation réelle jusqu'à la fin de la partie)*
 
-Les bonnes, vous n'y touchez plus aujourd'hui. Vous les repoussez à demain, ou au surlendemain.
+Je tire une carte. Je lis la question. Je réponds.
 
-Et vous savez ce qui se passe ? Vous avez un score. Tout de suite. C'est l'effet Super Mario : vous avez votre score tout de suite et vous pouvez choisir de recommencer pour faire mieux. Et vous voyez le tas des bonnes grossir sous vos yeux, en temps réel. Vous ne vous demandez plus si vous progressez, vous le tenez dans la main.
+Et seulement ensuite, je retourne.
 
-Il y a autre chose, avec les cartes physiques : le geste. La main, l'œil, le fait de retourner, de trier, de constituer un tas. Vous pouvez utiliser une application, l'app Anki fait très bien le travail. Mais si vous le pouvez, essayez le papier au moins une fois. Ce n'est pas la même mémoire qui travaille.
+J'ai bon ? Très bien. Pile numéro 1.
 
-Et jour après jour, semaine après semaine, vous rajoutez des cartes. Le paquet grossit, et pourtant il va de plus en plus vite à passer — parce que vous n'êtes plus en train d'apprendre, vous êtes en train de réviser.
+Je n'ai pas bon ? Pile numéro 2.
 
-Vos points faibles sont devenus vos points forts. Simplement parce que ce sont les seuls sur lesquels vous avez travaillé.
+Et ce deuxième paquet, c'est là que je vais travailler. Je recommence. Encore. Et encore. Jusqu'à être capable de répondre.
 
-Et vous ne serez plus jamais celui qui ne voit pas que Canberra manque à la liste.
+Et progressivement, j'ai un système qui fonctionne presque comme un jeu vidéo. J'ai un feedback immédiat. Réussi. Raté. Réussi. Raté.
+
+Et surtout, mon temps s'adapte à mon niveau. Ce que je connais très bien revient de moins en moins souvent. Ce qui est fragile revient davantage.
+
+Si tu préfères le numérique, une application comme Anki fait très bien le travail. Mais si tu peux, essaie le papier au moins une fois. La main, l'œil, le geste de retourner la carte et de constituer les deux piles : ce n'est pas la même mémoire qui travaille.
+
+Et le truc presque amusant là-dedans, c'est qu'au bout d'un moment, ce qui était mon point faible devient mon point fort.
+
+Pourquoi ? Parce que je l'ai davantage travaillé.
 
 ---
 
-## 8 — Chute
+## 13 — Ce que ces trois outils ont en commun
 
-Alors je vais finir par une phrase, et si vous ne retenez qu'une chose de cette vidéo, prenez celle-là.
+Et finalement, c'est aussi pour ça que je commence par une feuille blanche.
+
+C'est aussi pour ça que je refais un deuxième mind map.
+
+Et c'est aussi pour ça que les flashcards sont intéressantes.
+
+Tous ces outils m'obligent à répondre à une question très simple : qu'est-ce que je suis réellement capable de retrouver sans aide ?
+
+Aucun des trois ne me laisse reconnaître. Tous les trois m'obligent à produire.
+
+Et à partir de là, je peux arrêter de gaspiller de l'énergie sur ce que je connais déjà, et la mettre là où elle est réellement utile.
+
+Et tu ne seras plus jamais celui qui ne voit pas que Canberra manque à la liste.
+
+---
+
+## 14 — Chute
+
+Et je crois que c'est ça que j'avais envie de transmettre à Louis.
+
+Il a 19 ans. Il vient d'arriver à un moment où ses capacités naturelles ne suffisent plus tout à fait.
+
+9,8. Il lui fallait 10.
+
+Alors il peut regarder ça et se dire : « c'est plutôt incroyable, j'ai eu 9,8 sans quasiment rien faire ». Et quelque part, il a raison.
+
+Mais il peut aussi entendre l'autre message : ce qui fonctionnait jusqu'à maintenant ne suffira peut-être plus pour l'étape suivante.
+
+Et je trouve qu'il y a quelque chose de très positif là-dedans.
+
+Parce que ça ne veut pas dire « je n'ai plus les capacités ».
+
+Ça veut dire : il est temps que j'apprenne à utiliser mes capacités autrement.
+
+Et c'est peut-être ça, au fond, le vrai sujet de la rentrée.
+
+Je peux avoir toujours réussi en faisant le minimum. Je peux comprendre vite. Je peux avoir une excellente mémoire quand quelque chose m'intéresse.
+
+Et puis arriver à un moment où, pour la première fois, ça ne suffit plus.
+
+Ce n'est pas forcément une mauvaise nouvelle. C'est peut-être simplement le moment d'apprendre quelque chose qu'on m'a rarement appris jusque-là : apprendre à apprendre.
+
+Parce que le talent peut me permettre de réussir quelque temps sans méthode.
+
+Mais tôt ou tard, il me faudra une méthode pour continuer à faire quelque chose de mon talent.
+
+*(temps)*
+
+Et s'il n'y avait qu'une seule chose à retenir de tout ça, ce serait celle-là.
+
+Je ne passe pas mon temps à retravailler ce que je sais déjà. Je cherche mes trous. Je me teste. J'essaie de produire l'information sans aide. Et je consacre mon énergie à ce qui résiste encore.
+
+Parce qu'avec les Mnemonautes, j'ai une règle.
 
 *(temps)*
 
@@ -264,25 +430,20 @@ Je ne travaille pas jusqu'à espérer avoir bon.
 
 Je travaille jusqu'à savoir que je ne peux plus me tromper.
 
-Ce n'est pas la même chose, et ça ne produit pas le même état d'esprit la veille d'un examen. L'un espère. L'autre sait.
-
-Louis n'a pas encore fait sa rentrée. Il va refaire cette première année, avec les mêmes cours, dans le même amphi. Je ne sais pas encore comment ça va se passer, et lui non plus.
-
-Je lui souhaite de réussir. Et je le souhaite à tous les étudiants qui regardent, quel que soit votre âge et quoi que vous prépariez.
-
 *(CTA)*
 
-Et si ma façon de faire vous plaît, et que vous voulez savoir comment j'ai vaincu mes peurs, ou comment fonctionnent les vôtres, j'ai un petit guide pour vous en description.
+Et si ma façon de faire te plaît, et que tu veux savoir comment j'ai vaincu mes peurs ou comment fonctionnent les tiennes, j'ai un petit guide pour toi en description.
 
 ---
 
 ## Notes de tournage
 
-- **Cartes en main dès la partie 7**, manipulation réelle : mélanger, tirer, retourner, faire les deux tas à l'écran.
-- **Silences à tenir** : après la phrase de Louis (partie 1), les trois temps de la démonstration australienne (partie 4), avant la phrase de chute (partie 8). Les silences de l'Australie doivent être longs — surtout celui qui suit « est-ce que vous l'aviez remarqué ». Si on enchaîne trop vite, la démonstration ne prend pas.
+- **Flashcards en main dès la partie 12**, manipulation réelle : tirer, lire, retourner, faire les deux piles à l'écran.
+- **Silences à tenir** : avant la phrase de Louis (partie 2), les trois temps de la démonstration australienne (partie 7) — surtout celui qui suit « est-ce que tu l'avais remarqué » —, et les deux temps de la chute avant la règle des Mnemonautes. Si on enchaîne trop vite sur l'Australie, la démonstration tombe à plat.
+- **Rythme** : le haché une-phrase-par-ligne est conservé aux endroits qui portent (parties 2, 4, 7, 12, 14) et regroupé ailleurs. Sur vingt minutes, du haché continu devient une mélopée.
 - **Bulles + liens en description** : Pomodoro vs Flowtime · Mind Mapping · Lecture rapide · Courbe de l'oubli · Flashcards. **Pas de Leitner.**
-- Le rappel de Canberra en fin de partie 7 referme la boucle ouverte en partie 4 — à ne pas couper au montage.
-- Découpage shorts naturel : le test des villes d'Australie, le premier cycle et l'ennui, la couleur des trous, la feuille blanche, les deux tas. Cinq formats courts autonomes, et celui de l'Australie est le meilleur candidat.
+- Le rappel de Canberra en fin de partie 13 referme la boucle ouverte en partie 7 — à ne pas couper au montage.
+- Découpage shorts : le piège australien, le mind map à feuille blanche et l'ennui, la couleur des angles morts, les deux piles, « deux heures de travail ne me disent rien ». Le piège australien est le meilleur candidat.
 
 ---
 
@@ -290,29 +451,34 @@ Et si ma façon de faire vous plaît, et que vous voulez savoir comment j'ai vai
 
 **Titre proposé** — à arbitrer :
 - *J'ai rencontré Louis, 19 ans. Il lui manquait deux dixièmes.*
-- *Il a raté son année à 0,2 point près — et ce n'était pas un problème de niveau*
-- *La méthode que j'ai donnée à un étudiant qui n'en avait aucune*
+- *Il a eu 9,8 sans rien faire — et c'est exactement le problème*
+- *Ton talent ne suffira pas éternellement*
 
 ---
 
-Louis a dix-neuf ans, il est en droit, et il vient de rater sa première année avec 9,80 de moyenne. Deux dixièmes de point.
+C'est la rentrée. Et il y a quelques jours, j'ai rencontré Louis.
 
-Ce n'est pas un étudiant en difficulté. C'est même le contraire : il est brillant, et c'est précisément ce qui l'a piégé. Quand je lui ai demandé ce qui s'était passé, il m'a dit une phrase que je n'ai pas oubliée — « je n'ai pas de méthode ; jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus ».
+Louis a 19 ans. Cette année, il a terminé avec 9,8 sur 20. Il lui fallait 10. Et il n'avait rien foutu — ce sont ses mots.
 
-Alors je lui ai construit une méthode, à partir de ce qu'il connaissait déjà. C'est celle que je vous donne dans cette vidéo, et elle tient en une matinée par notion.
+Ce n'est pas un étudiant en difficulté, c'est même l'inverse : dès qu'un sujet le passionne, il retient tout, il fait des liens, il en parle pendant des heures. Sa mémoire fonctionne très bien. Mais il m'a dit une phrase qui avait l'air de vraiment l'inquiéter : « je n'ai pas de méthode ; jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus ».
 
-Avant ça, une démonstration en dix secondes sur quelques villes d'Australie, qui vous montrera pourquoi relire son cours ne sert presque à rien — et surtout pourquoi vous ne voyez pas vos propres trous.
+Dans cette vidéo, je te donne exactement ce que je lui ai proposé. Une matinée par notion, et tu n'y reviens plus que pour l'entretenir.
 
-Ensuite, l'enchaînement complet : le mind map de ce que vous croyez savoir, la lecture rapide de confrontation, la couleur qui identifie vos vrais points aveugles, le mind map à feuille blanche qui vous dit exactement où vous en êtes, et les flashcards construites uniquement sur ce qui vous résiste. Le tout en cycles Pomodoro.
+Avant ça, une petite démonstration sur quelques villes d'Australie, qui va te montrer pourquoi relire son cours ne sert presque à rien — et surtout pourquoi tu ne vois pas tes propres trous.
+
+Ensuite l'enchaînement complet : le mind map à feuille blanche avant même d'ouvrir le cours, la confrontation au cours et la couleur qui révèle tes angles morts, le deuxième mind map de mémoire, et les flashcards construites uniquement sur ce qui résiste. Le tout en cycles Pomodoro.
 
 ⏱️ CHAPITRES
-00:00 Louis, 19 ans, 9,80 de moyenne
+00:00 C'est la rentrée — j'ai rencontré Louis
+0x:xx 9,8 sur 20 : les deux façons de regarder ça
 0x:xx « Du potentiel qui reste à démontrer »
-0x:xx Ce qu'il connaissait déjà : Pomodoro sans mode d'emploi
-0x:xx Le test des villes d'Australie : ce que vous croyez savoir
-0x:xx La promesse : une matinée, une notion, définitivement
-0x:xx Étape 1 — le mind map de ce que vous croyez savoir
-0x:xx Étape 2 — la lecture rapide et la couleur des trous
+0x:xx L'erreur : « je ne suis pas si intelligent que ça »
+0x:xx Pourquoi tu retiens tout sur ta passion et rien sur ton cours
+0x:xx Ce que Louis connaissait déjà : Pomodoro sans mode d'emploi
+0x:xx Le piège : quatre villes d'Australie
+0x:xx Le marché : une matinée, une notion, définitivement
+0x:xx Étape 1 — le mind map avant d'ouvrir le cours
+0x:xx Étape 2 — la couleur de tes angles morts
 0x:xx Étape 3 — la feuille blanche
 0x:xx Les flashcards : ne travailler que sur ce qui résiste
 0x:xx Je ne travaille pas jusqu'à espérer avoir bon
@@ -324,8 +490,8 @@ La lecture rapide → [lien]
 La courbe de l'oubli → [lien]
 Les flashcards → [lien]
 
-🎁 Si ma façon de faire vous plaît et que vous voulez savoir comment j'ai vaincu mes peurs, ou comment fonctionnent les vôtres, le petit guide est ici → [lien]
+🎁 Si ma façon de faire te plaît et que tu veux savoir comment j'ai vaincu mes peurs, ou comment fonctionnent les tiennes, le petit guide est ici → [lien]
 
-Dites-moi en commentaire à quelle étape vous bloquez. Je lis tout.
+Dis-moi en commentaire à quelle étape tu bloques. Je lis tout.
 
 #méthodedetravail #révisions #mémorisation #étudiant #mindmapping #flashcards
