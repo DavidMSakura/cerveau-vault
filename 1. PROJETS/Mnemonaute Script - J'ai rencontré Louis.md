@@ -442,6 +442,7 @@ Et si ma façon de faire te plaît, et que tu veux savoir comment j'ai vaincu me
 - **Silences à tenir** : avant la phrase de Louis (partie 2), les trois temps de la démonstration australienne (partie 7) — surtout celui qui suit « est-ce que tu l'avais remarqué » —, et les deux temps de la chute avant la règle des Mnemonautes. Si on enchaîne trop vite sur l'Australie, la démonstration tombe à plat.
 - **Rythme** : le haché une-phrase-par-ligne est conservé aux endroits qui portent (parties 2, 4, 7, 12, 14) et regroupé ailleurs. Sur vingt minutes, du haché continu devient une mélopée.
 - **Bulles + liens en description** : Pomodoro vs Flowtime · Mind Mapping · Lecture rapide · Courbe de l'oubli · Flashcards. **Pas de Leitner.**
+- **Notes du vault correspondantes** : [[Pomodoro et Flowtime]] · [[Mind Mapping]] · [[Lecture rapide]] · [[Réviser - courbe de l'oubli et répétition espacée]]. Pilotage complet dans [[Vidéo - J'ai rencontré Louis]].
 - Le rappel de Canberra en fin de partie 13 referme la boucle ouverte en partie 7 — à ne pas couper au montage.
 - Découpage shorts : le piège australien, le mind map à feuille blanche et l'ennui, la couleur des angles morts, les deux piles, « deux heures de travail ne me disent rien ». Le piège australien est le meilleur candidat.
 
