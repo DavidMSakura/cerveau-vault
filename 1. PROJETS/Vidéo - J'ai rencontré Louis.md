@@ -110,6 +110,73 @@ Cité en passant sans être développé : [[Le palais de mémoire]], [[Le Grand 
 
 **Le sujet de fond** — l'enchaînement des techniques plutôt qu'une technique isolée — se rattache à [[Choisir sa technique - l'arbre de décision]] et surtout à [[Code de la route et permis moto - enchaîner les techniques]], seul précédent du corpus où plusieurs méthodes sont réellement enchaînées. Le manque est documenté dans [[Corpus Mnemonaute - toutes les techniques]] et [[Catalogue des vidéos Mnemonaute]] : les 58 vidéos enseignent chacune une technique, aucune ne donne l'ordre.
 
+## Diffusion réseaux (29/08/2026)
+
+Vidéo publiée. 36 vues et 4 likes en 28 minutes sans promo.
+Remplacer `[LIEN]` par l'URL YouTube dans les trois premiers.
+
+### LinkedIn — angle formateur
+
+> Louis a 19 ans. Il vient de rater sa première année de droit à deux dixièmes de point.
+>
+> Il n'avait pas un problème de capacités. Il n'avait pas de méthode.
+>
+> En discutant avec lui, j'ai réalisé quelque chose d'inconfortable sur mon propre travail. J'ai près de soixante vidéos qui enseignent chacune une technique de mémorisation. Aucune n'explique dans quel ordre on les enchaîne.
+>
+> Et ce n'est pas un problème d'étudiant. C'est exactement ce que je vois en formation : des professionnels qui ont suivi cinq stages, qui connaissent les outils, et qui ne savent pas lesquels mobiliser ni dans quel ordre face à une situation réelle.
+>
+> On forme à des techniques. On ne forme presque jamais à leur enchaînement.
+>
+> J'ai filmé le protocole que j'ai donné à Louis : une matinée pour acquérir une notion, et ne plus jamais confondre « je reconnais ce cours » et « je suis capable de le restituer ».
+>
+> Le lien est en commentaire.
+>
+> #formation #apprentissage #montéeencompétences
+
+⚠️ **Lien en premier commentaire, pas dans le post** : LinkedIn diffuse nettement moins les publications qui sortent de la plateforme.
+
+### Facebook — page perso
+
+> Cet été, j'ai rencontré Louis. 19 ans, étudiant en droit, brillant. Il vient de rater son année à deux dixièmes de point.
+>
+> Il m'a dit une phrase que je n'ai pas réussi à m'enlever de la tête : « je n'ai pas de méthode ; jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus. »
+>
+> Je me suis reconnu. À son âge, on m'a répété que j'avais du potentiel. Personne ne m'a jamais dit comment on l'exploite.
+>
+> Alors je lui ai construit une méthode, et je l'ai filmée — parce qu'on est sans doute beaucoup dans ce cas.
+>
+> [LIEN]
+
+### Facebook — page Mnemonaute
+
+> 9,8/20. Il lui fallait 10.
+>
+> Louis n'est pas un mauvais étudiant. C'est un bon élève qui n'a jamais eu besoin d'apprendre à travailler, et qui vient de percuter le mur.
+>
+> Dans cette vidéo, je te donne le protocole que je lui ai proposé. Une matinée par notion, et tu n'y reviens plus que pour l'entretenir.
+>
+> Avant ça, une démonstration de dix secondes sur quelques villes d'Australie qui va te montrer pourquoi relire ton cours ne sert presque à rien — et surtout pourquoi tu ne vois pas tes propres trous.
+>
+> [LIEN]
+
+### Instagram
+
+> 9,8/20.
+> Il lui fallait 10.
+>
+> Louis a 19 ans. Il n'a pas raté son année par manque de capacités : il n'avait aucune méthode.
+>
+> Et le pire, c'est qu'il ne le savait pas.
+>
+> Réponds-moi honnêtement. Quand tu révises, tu relis ton cours ?
+> Si oui, cette vidéo est pour toi. Je te montre en dix secondes pourquoi ça ne fonctionne pas.
+>
+> 🔗 Lien en bio
+>
+> #révisions #méthodedetravail #mémorisation #étudiant #rentrée #apprendreàapprendre
+
+⚠️ Pas de lien cliquable en légende : mettre l'URL en bio, et doubler par une story avec sticker lien, qui est le seul endroit où le clic est direct.
+
 ## Où sont les fichiers
 
 **Hors du vault** — 2,8 Go de médias, volontairement laissés sur le disque :
