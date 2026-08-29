@@ -30,7 +30,7 @@ Trame complète pour briefer une rédaction de séquence email : nom du produit,
   - **R**ayonner dans l'action — dire non, sortir du triangle de Karpman, CNV/assertivité, plan d'action, état de flow
   - **A**ncrer sa puissance — auto-évaluation sans jugement, "Fighting Spirit", motivation durable
 - **Contenu livré** : 46 vidéos courtes, format audio disponible, quiz, 40 exercices, "fast coachings" illimités, agents IA, live mensuel + replays, communauté WhatsApp
-- **Lead magnet** : vidéo (histoire personnelle + 3 "secrets") ou PDF "Petit guide de nos peurs" (jamais encore utilisé)
+- **Lead magnet** : vidéo (histoire personnelle + 3 "secrets") ou PDF **"Petit guide de nos peurs"** → **https://www.davidmarsac.com/guide-offert** (URL confirmée par David le 29/08/2026). La mention "jamais encore utilisé" de ce questionnaire est fausse : deux vidéos du catalogue y renvoient déjà.
 - **Type de funnel** : capture → lead magnet vidéo → **Calendly (prise de RDV)** → vente (par appel) → paiement → remerciement — **différent du funnel webinaire** documenté dans [[3. RESSOURCES/Accompagnements marketing (Liberty Webi & Scaling Academy)]]
 
 ## ⚠️ Point à clarifier avec David
