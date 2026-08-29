@@ -113,69 +113,68 @@ Cité en passant sans être développé : [[Le palais de mémoire]], [[Le Grand 
 ## Diffusion réseaux (29/08/2026)
 
 Vidéo publiée. 36 vues et 4 likes en 28 minutes sans promo.
-Remplacer `[LIEN]` par l'URL YouTube dans les trois premiers.
-
-### LinkedIn — angle formateur
-
-> Louis a 19 ans. Il vient de rater sa première année de droit à deux dixièmes de point.
->
-> Il n'avait pas un problème de capacités. Il n'avait pas de méthode.
->
-> En discutant avec lui, j'ai réalisé quelque chose d'inconfortable sur mon propre travail. J'ai près de soixante vidéos qui enseignent chacune une technique de mémorisation. Aucune n'explique dans quel ordre on les enchaîne.
->
-> Et ce n'est pas un problème d'étudiant. C'est exactement ce que je vois en formation : des professionnels qui ont suivi cinq stages, qui connaissent les outils, et qui ne savent pas lesquels mobiliser ni dans quel ordre face à une situation réelle.
->
-> On forme à des techniques. On ne forme presque jamais à leur enchaînement.
->
-> J'ai filmé le protocole que j'ai donné à Louis : une matinée pour acquérir une notion, et ne plus jamais confondre « je reconnais ce cours » et « je suis capable de le restituer ».
->
-> Le lien est en commentaire.
->
-> #formation #apprentissage #montéeencompétences
-
-⚠️ **Lien en premier commentaire, pas dans le post** : LinkedIn diffuse nettement moins les publications qui sortent de la plateforme.
+Textes réécrits sur les directions de David. Remplacer `[LIEN]` par l'URL YouTube.
+**Ne pas publier les quatre le même jour** — étaler sur deux ou trois jours prolonge la fenêtre de test de YouTube.
 
 ### Facebook — page perso
 
-> Cet été, j'ai rencontré Louis. 19 ans, étudiant en droit, brillant. Il vient de rater son année à deux dixièmes de point.
+> Salut à tous,
 >
-> Il m'a dit une phrase que je n'ai pas réussi à m'enlever de la tête : « je n'ai pas de méthode ; jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus. »
+> Je vous partage ma dernière vidéo. Elle sera peut-être utile à vos grands qui rentrent bientôt, pour apprendre et réviser.
 >
-> Je me suis reconnu. À son âge, on m'a répété que j'avais du potentiel. Personne ne m'a jamais dit comment on l'exploite.
+> Elle part d'une rencontre faite cet été, avec un jeune de 19 ans qui venait de rater son année à deux dixièmes de point. Pas par manque de capacités : il n'avait simplement pas de méthode.
 >
-> Alors je lui ai construit une méthode, et je l'ai filmée — parce qu'on est sans doute beaucoup dans ce cas.
+> Ce qu'on s'est dit ce jour-là pourra servir à bien d'autres, je l'espère.
 >
 > [LIEN]
 
 ### Facebook — page Mnemonaute
 
-> 9,8/20. Il lui fallait 10.
+> Ma dernière vidéo part d'une rencontre faite cet été, avec un jeune de 19 ans qui venait de rater sa première année à deux dixièmes de point. Pas par manque de capacités : il n'avait pas de méthode.
 >
-> Louis n'est pas un mauvais étudiant. C'est un bon élève qui n'a jamais eu besoin d'apprendre à travailler, et qui vient de percuter le mur.
+> Quand ça vient du terrain, c'est plus vrai. Ça me touche, ça m'inspire, et surtout ça me remet en question.
 >
-> Dans cette vidéo, je te donne le protocole que je lui ai proposé. Une matinée par notion, et tu n'y reviens plus que pour l'entretenir.
+> Parce qu'en lui expliquant comment faire, j'ai réalisé quelque chose sur mon propre travail. Il y a près de soixante vidéos sur cette chaîne. Chacune enseigne une technique, et aucune ne dit dans quel ordre on les enchaîne. Je vous ai donné une boîte à outils complète, sans mode d'emploi.
 >
-> Avant ça, une démonstration de dix secondes sur quelques villes d'Australie qui va te montrer pourquoi relire ton cours ne sert presque à rien — et surtout pourquoi tu ne vois pas tes propres trous.
+> Cette vidéo est le mode d'emploi.
 >
 > [LIEN]
 
 ### Instagram
 
-> 9,8/20.
-> Il lui fallait 10.
+> Tu vas bientôt rentrer ?
 >
-> Louis a 19 ans. Il n'a pas raté son année par manque de capacités : il n'avait aucune méthode.
+> J'ai une question pour toi.
 >
-> Et le pire, c'est qu'il ne le savait pas.
+> Est-ce que tu sais vraiment comment travailler — ou est-ce que tu y vas au talent ?
 >
-> Réponds-moi honnêtement. Quand tu révises, tu relis ton cours ?
-> Si oui, cette vidéo est pour toi. Je te montre en dix secondes pourquoi ça ne fonctionne pas.
+> Accorde-moi quinze minutes. Tu ne vas pas être déçu(e).
 >
 > 🔗 Lien en bio
 >
 > #révisions #méthodedetravail #mémorisation #étudiant #rentrée #apprendreàapprendre
 
-⚠️ Pas de lien cliquable en légende : mettre l'URL en bio, et doubler par une story avec sticker lien, qui est le seul endroit où le clic est direct.
+⚠️ Pas de lien cliquable en légende : URL en bio, et doubler par une story avec sticker lien — seul clic direct disponible.
+
+### LinkedIn
+
+> Cette vidéo ne sort pas d'un prompt. Elle sort d'une conversation avec un garçon de 19 ans.
+>
+> Louis vient de rater sa première année de droit à deux dixièmes de point. Pas par manque de capacités : il n'avait pas de méthode. « Jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus. »
+>
+> C'est exactement comme ça que je travaille en salle. Pas de théorie qui impressionne : des méthodes utiles, pragmatiques, applicables dès le lundi matin. Le reste, c'est du contenu.
+>
+> Vous êtes des professionnels, et cette vidéo ne vous apprendra probablement rien sur votre métier. Mais vos grands, eux, entrent dans un monde où l'IA produit en trois secondes ce qu'ils mettaient trois heures à écrire. Ce qui fera la différence ne sera plus de savoir restituer. Ce sera de savoir apprendre — vite, seul, et pour de bon.
+>
+> C'est ce que j'ai donné à Louis. Une matinée par notion.
+>
+> Le lien est en commentaire.
+>
+> #formation #pédagogie #apprendreàapprendre
+
+⚠️ **Lien en premier commentaire, jamais dans le post** : LinkedIn diffuse nettement moins les publications qui font sortir de la plateforme.
+
+**Note sur l'en-tête** : David souhaitait ouvrir par « Article garanti sans IA ». Écarté — le post est co-rédigé, la mention serait fausse et LinkedIn est l'endroit où ça se retourne le plus vite contre son auteur. Remplacé par « Cette vidéo ne sort pas d'un prompt. Elle sort d'une conversation avec un garçon de 19 ans. » : même intention, porte sur le fond plutôt que sur la frappe, et c'est vrai.
 
 ## Où sont les fichiers
 
