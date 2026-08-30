@@ -4,71 +4,46 @@ tags:
   - mnemonaute
   - developpement-personnel
   - confiance-en-soi
-statut: V3 — cinq corrections de fond restent à appliquer
+statut: V4 — prêt à tourner, trois broutilles restantes
 formats: vidéo
 ajoute: 2026-08-30
 ---
 
 # Script — Gandhi vs le développement personnel
 
-**V3 de David, 30/08/2026.** C'est elle qui fait foi.
+**V4 de David, 30/08/2026.** Le script est bon. Ce qui reste tient en trois lignes.
 
 ---
 
-## Ce que la V3 gagne sur la V2
+## Les deux corrections majeures sont réglées — mieux que ce que je proposais
 
-- **La sortie de *Bref 2* est devenue meilleure que ce que je proposais.** Je disais de couper « c'est juste rester sur son cul » comme redite. Tu l'as gardée et tu l'as retournée : *« Le travail commence quand je me relève. »* Puis *« transformer une prise de conscience en mouvement »*. La redite est devenue l'enchaînement. C'est la bonne solution, pas la mienne.
-- **Les trois termes sont enfin distingués** : développement personnel / enrichissement personnel / développement solitaire, chacun avec sa définition. En V2 c'était un empilement, maintenant c'est un tri — et c'est ce qui rend le pavé dans la mare crédible.
-- **La boucle interne « sans disparaître ».** Elle apparaît dans la suradaptation (*« sans disparaître au passage »*) et revient dans le Cercle de Vérité (*« Sans disparaître. Sans jouer un rôle. »*). Personne ne la remarquera consciemment, tout le monde la sentira.
-- Resserrage général : l'écart en ouverture, la portion privilégiée, le décentrage. Tu as coupé sans rien perdre.
+**Sur Niney.** Ta formule *« aucun diplôme n'est obligatoire ne veut pas dire aucun diplôme n'existe »* est chirurgicale : tu lui donnes raison sur le fait et tort sur la conclusion, en une phrase, sans t'énerver. Et tes trois questions battent les miennes — *où t'es-tu formé, es-tu certifié, es-tu supervisé* : la **supervision** est un vrai marqueur de métier que je n'avais pas vu, et l'aveu qui suit (« ça ne garantit pas que ce soit un bon coach, mais ça donne des informations ») est ce qui te rend crédible. Un argument qui reconnaît ses limites convainc plus qu'un argument fermé.
+
+**Sur la chute.** Tu as trouvé le bouclage que je n'avais pas : *« pendant des années j'ai cru qu'il fallait choisir : travailler sur moi ou agir sur le monde. Alors que Gandhi écrivait déjà, en 1913, que les deux étaient liés. »* Ça referme **La fausse opposition** trente lignes plus haut, et ça fait tenir la vidéo entière d'un bloc. Et le dernier mouvement — « si ça produit un ricochet… alors peut-être qu'au fond, c'est exactement comme ça qu'on change le monde » — retourne le titre. Ma version s'arrêtait à « tu ne changeras pas le monde ». La tienne va au bout.
 
 ---
 
-## ⚠️ Cinq corrections de la passe précédente ne sont pas passées
+## ✅ Ta date est bonne
 
-Tu as appliqué les deux corrections d'écriture (la redite, le chiffre de l'IAE) et laissé les cinq de fond. Dis-moi si c'est un choix — je ne les réargumente pas, elles sont ci-dessous prêtes à coller.
+**9 août 1913**, *Indian Opinion* — vérifié. Le texte figure dans les *Collected Works of Mahatma Gandhi*, volume XII, page 158.
 
-**S'il n'y en a qu'une à faire, c'est la n°2.** C'est ta chute, et le texte est écrit.
+**Et il y a un détail que tu ne connais pas encore, qui vaut de l'or.** Ce passage n'est pas tiré d'un discours ni d'un texte politique. Il vient d'une chronique intitulée ***General Knowledge About Health***, et plus précisément d'une section sur les **accidents et les morsures de serpent**.
 
-### 1. Ta chute reste molle 🔴
+La phrase la plus citée du développement personnel mondial vient d'un article de vulgarisation sanitaire, entre deux conseils sur ce qu'il faut faire quand on se fait mordre par un serpent. Si tu veux une respiration comique juste avant ton passage le plus grave, elle est là.
 
-*« Gandhi ne l'a **probablement** jamais dite »*, *« **en substance**, quelque chose comme »*. Deux dérobades dans la conclusion — alors que tu as la date, la source et le texte exact. Le premier commentaire sera *« il dit probablement, donc il n'en sait rien »*.
+*(Précision si tu veux être irréprochable : Gandhi a écrit ce texte **en gujarati**. La version anglaise « We but mirror the world » est la traduction officielle de ses œuvres complètes. Tu peux le dire en trois mots, ou ne rien changer — personne ne te reprendra là-dessus.)*
 
-> Cette phrase qui m'a fait me sentir si petit pendant toutes ces années, Gandhi ne l'a jamais écrite.
->
-> Nulle part. On ne la trouve dans aucun de ses textes. Elle apparaît dans les années 70, plus de vingt ans après sa mort, et elle se répand parce qu'elle tient sur un mug.
->
-> Ce que Gandhi a réellement écrit, c'était en 1913, dans un journal sud-africain. Et c'est beaucoup plus beau :
->
-> « Nous ne faisons que refléter le monde. Si nous pouvions nous changer nous-mêmes, les tendances du monde changeraient aussi. À mesure qu'un homme change sa propre nature, l'attitude du monde envers lui change. »
->
-> Tu vois le problème ? Le raccourci n'a pas seulement abrégé la phrase. **Il en a inversé le sens.** L'original dit : commence par toi, le reste suivra. La version mug dit : sois responsable du monde entier.
->
-> Il m'a fallu des décennies pour comprendre tout seul une phrase que Gandhi n'avait jamais dite — et finir par tomber exactement sur ce qu'il avait vraiment écrit.
+---
 
-### 2. Tu as reculé face à Niney 🔴
+## Ce qui reste — trois broutilles et une alerte
 
-En V2 tu écrivais *« quelque chose qui est **en partie** vrai »*. En V3 c'est devenu *« Pierre Niney a aussi rappelé quelque chose **qui est vrai** »*. Tu as supprimé la nuance **et** tu ne réfutes toujours pas. Résultat : ta vidéo concède que Niney a raison, puis répond « mais il y a aussi des écoles sérieuses » — un spectateur qui a vu son interview n'a aucune raison de changer d'avis.
+### 🟡 1. « 17 ans » et « Instagram » (troisième passage)
 
-Tu as un fait dur, un retournement, et un outil pour le spectateur. Les trois manquent.
+1995 contre 2010. Un mot : *« Sur des mugs, des tee-shirts, dans des bouquins, **et aujourd'hui** sur Instagram. »*
 
-> Parce qu'un diplôme, il en existe un.
->
-> Il y a une certification de coach professionnel enregistrée au RNCP par France Compétences. Ce n'est pas une école qui s'auto-décerne un label : c'est un titre officiel, avec un référentiel, un jury, et un numéro que n'importe qui peut vérifier en ligne.
->
-> Et le plus drôle, c'est que le film le sait très bien. Dans *Gourou*, tout le scénario tient à ça : le gouvernement rend la certification obligatoire, et le personnage se retrouve devant le Sénat, sans diplôme, à devoir défendre son métier.
->
-> Le film raconte exactement ce que je suis en train de te dire.
->
-> Alors comment tu fais, toi, pour t'y retrouver ? Trois questions. Tu es certifié par qui ? Le titre est enregistré au RNCP ? C'est quel numéro de fiche ? Tu tapes le numéro sur francecompetences.fr, tu as ta réponse en trente secondes.
->
-> Et si la personne en face bafouille sur les trois, tu as ta réponse aussi.
+### 🟠 2. Le CTA, et ta signature toujours disparue
 
-⚠️ **Aucune équivalence de niveau.** « RNCP niveau II » n'est pas un master 2 (ancienne nomenclature : niveau II = bac+3/+4, master = niveau I ; le titre actuel est niveau 6).
-
-### 3. Le CTA est toujours à cinq appels 🟠
-
-Vidéo sur les peurs + guide + rendez-vous + « dis-moi ce que ça provoque » + merci + question signature. Le rendez-vous reste, tu l'as voulu. **Ce qui saute, c'est la vidéo sur les peurs** : doublon avec le guide, et elle envoie le spectateur ailleurs juste avant ton lien.
+Cinq appels. Le rendez-vous reste, tu l'as voulu. **Ce qui saute, c'est la vidéo sur les peurs** — doublon avec le guide, et elle envoie le spectateur ailleurs juste avant ton lien. Et « je t'embrasse très fort, à bientôt » manque depuis la V3 : tu finis maintenant sur ta question signature, sans au revoir.
 
 > Si ce que je viens de raconter te parle, j'ai écrit un petit guide sur nos peurs — sur ce qui nous empêche d'agir, même quand on a très bien compris ce qui se joue. Il est gratuit, il est juste en dessous. Commence par là.
 >
@@ -80,20 +55,20 @@ Vidéo sur les peurs + guide + rendez-vous + « dis-moi ce que ça provoque » +
 >
 > Je t'embrasse très fort. À bientôt.
 
-⚠️ **La V3 a perdu la signature de fin** — plus de « je t'embrasse très fort », plus de « à bientôt ». Volontaire, ou coupé par accident ?
+### 🟡 3. Le bloc Cercle de Vérité avant la chute
 
-### 4. « 17 ans » et « Instagram » ne peuvent pas coexister 🟡
+Ton *« Et maintenant, je peux enfin revenir à Gandhi »* atténue la rupture — c'est plus élégant qu'en V3. Mais la séquence de vente reste posée juste avant ta révélation. Déplacée dans le CTA, elle ne coûte rien ; laissée là, elle refroidit le moment où tu veux que le spectateur soit ému. Tu jugeras à la lecture à voix haute : si tu sens le virage commercial, c'est qu'il est là.
 
-1995 contre 2010. Un mot suffit : *« Sur des mugs, des tee-shirts, dans des bouquins, **et aujourd'hui** sur Instagram. »*
+### ⚠️ 4. Le juron du cold open peut te coûter la monétisation
 
-### 5. Le bloc Cercle de Vérité coupe l'élan avant la chute 🟡
+*« Elle m'a fait me sentir comme une merde »* arrive dans les dix premières secondes. YouTube applique une monétisation limitée aux jurons placés dans les toutes premières secondes d'une vidéo — c'est une règle sur le placement, pas sur la quantité. Tu en as trois autres plus loin (« rester sur son cul », « putain c'est exactement moi », « mais putain »), et ceux-là ne posent aucun problème.
 
-Tu poses une séquence de vente juste avant la révélation Gandhi. Le spectateur sent le virage commercial au moment où tu veux qu'il soit ému. Déplace-le dans le CTA, garde ici le « pourquoi je partage depuis dix ans ».
+Ça ne change ni ta portée ni ton référencement, uniquement les revenus publicitaires — qui ne sont pas ton modèle. **Donc : à toi de voir.** Si tu t'en fiches, garde-le, c'est ta meilleure accroche. Si tu veux les deux, *« elle m'a fait me sentir minable pendant des années »* passe partout — mais c'est moins bon, et je ne te le conseille pas.
 
 ---
 ---
 
-# LE SCRIPT — V3
+# LE SCRIPT — V4
 
 ## COLD OPEN
 
@@ -115,7 +90,7 @@ La phrase, c'est celle-là :
 
 Elle est partout.
 
-Sur des mugs, des tee-shirts, dans des bouquins, sur Instagram... ⚠️ *(correction 4 : « et aujourd'hui sur Instagram »)*
+Sur des mugs, des tee-shirts, dans des bouquins, sur Instagram... ⚠️ *(« et aujourd'hui sur Instagram »)*
 
 Et quand je l'ai découverte, j'avais à peu près 17 ans.
 
@@ -189,7 +164,7 @@ et ce qu'il faudrait que je sois.
 
 Et cet écart-là m'a accompagné pendant des années.
 
-> 🎬 *Point bas de la vidéo. Ralentis, et laisse un silence.*
+> 🎬 *Point bas de la vidéo. Ralentis, laisse un silence.*
 
 ---
 
@@ -381,17 +356,37 @@ Sur le développement personnel qui finit parfois par ressembler davantage à...
 
 **de l'enrichissement personnel.**
 
-Pierre Niney a aussi rappelé quelque chose qui est vrai : en France, n'importe qui peut aujourd'hui se déclarer coach. Le terme n'est pas protégé.
+Pierre Niney a aussi rappelé dans ses interviews qu'en France, on peut se déclarer coach sans diplôme obligatoire.
 
-Donc oui.
+Et là-dessus...
 
-Il y a une forme de Far West.
+**il a raison.**
 
-Mais ce n'est pas toute l'histoire.
+Le titre de coach n'est pas protégé.
 
-> 🔴 **CORRECTION 2 — le bloc « un diplôme, il en existe un » + l'ironie du Sénat + les trois questions se colle ICI.** C'est le seul endroit de la vidéo où tu réponds vraiment à l'accusation. Voir plus haut.
+Mais attention au raccourci :
 
-Parce qu'il existe aussi des écoles sérieuses, des certifications professionnelles, des formations exigeantes, des coachs formés et supervisés.
+**« aucun diplôme n'est obligatoire » ne veut pas dire « aucun diplôme n'existe ».**
+
+Il existe des certifications professionnelles de **Coach professionnel enregistrées au RNCP par France Compétences**, avec un référentiel de compétences et des épreuves de certification.
+
+Donc oui, n'importe qui peut écrire « coach » sur sa carte de visite.
+
+Mais non, tous les coachs ne se valent pas.
+
+Et ce qui est assez savoureux, c'est que dans *Gourou* lui-même, une partie de l'intrigue tourne justement autour de la volonté de l'État de réglementer la profession et d'imposer une certification.
+
+Alors plutôt que de conclure « les coachs, c'est le Far West », moi, il y a trois questions très simples que je poserais à quelqu'un qui veut m'accompagner :
+
+**Où est-ce que tu t'es formé ?**
+
+**Est-ce que tu es certifié ?**
+
+**Et est-ce que tu es supervisé ?**
+
+Ça ne garantit pas que ce soit un bon coach.
+
+Mais ça donne déjà quelques informations.
 
 Et moi, cette différence-là me tient particulièrement à cœur.
 
@@ -771,7 +766,7 @@ Parce que finalement, tout ça participe de la même question :
 
 **qu'est-ce que je peux faire avec la personne que je suis aujourd'hui pour devenir davantage celle que j'ai envie d'être demain ?**
 
-> 🟡 **CORRECTION 5 — le bloc Cercle de Vérité ci-dessous se déplace dans le CTA.** Tel quel, il pose une séquence de vente juste avant la révélation Gandhi.
+> 🟡 *Le bloc ci-dessous peut se déplacer dans le CTA. Juge-le à la lecture à voix haute.*
 
 C'est aussi pour ça que j'ai créé des formations autour de ces sujets.
 
@@ -799,29 +794,67 @@ Et ça aussi...
 
 ## ET GANDHI, DANS TOUT ÇA ?
 
-> 🔴 **CORRECTION 1 — remplace l'ouverture de cette section par le bloc renforcé.** « Probablement » et « en substance » sabordent ta propre chute. Voir plus haut.
+Et maintenant, je peux enfin revenir à Gandhi.
 
-Et il y a une dernière ironie dans cette histoire.
+Parce que la phrase :
 
-Cette phrase qui m'a fait me sentir si petit pendant toutes ces années...
+**« Be the change you want to see in the world. »**
 
-**Gandhi ne l'a probablement jamais dite.**
+Gandhi ne l'a pas dite.
 
-En tout cas, pas sous cette forme.
+Pas sous cette forme.
 
-Ce qu'il a réellement écrit était plus subtil.
+En revanche, le **9 août 1913**, dans le journal *Indian Opinion*, il écrit quelque chose de beaucoup plus intéressant.
 
-En substance :
+> 💡 *Option : « … dans une chronique sur la santé, entre deux conseils sur les morsures de serpent. » C'est authentique — et c'est ta respiration comique juste avant le passage le plus grave.*
 
-**si nous nous changeons nous-mêmes, les tendances du monde changent avec nous.**
+Il commence par cette phrase :
 
-Et quand j'ai découvert ça...
+**« We but mirror the world. »**
 
-je me suis dit que c'était quand même assez drôle.
+« Nous ne faisons que refléter le monde. »
 
-Il m'a fallu des décennies pour comprendre une phrase que Gandhi n'avait pas dite...
+Et il explique que les tendances que nous voyons dans le monde extérieur existent aussi en nous.
 
-pour finir par rejoindre ce qu'il avait réellement écrit.
+Puis il écrit :
+
+**« If we could change ourselves, the tendencies in the world would also change. »**
+
+« Si nous pouvions nous changer nous-mêmes, les tendances du monde changeraient elles aussi. »
+
+Et là...
+
+quand j'ai découvert le texte original...
+
+je me suis dit :
+
+**Mais putain.**
+
+Ce n'est pas :
+
+« David, va changer le monde. »
+
+C'est presque l'inverse.
+
+**Commence par l'endroit où tu peux agir.**
+
+Toi.
+
+Et là...
+
+toute cette histoire fait une boucle.
+
+Parce que pendant des années, j'ai cru qu'il fallait choisir :
+
+travailler sur moi...
+
+ou agir sur le monde.
+
+Alors que Gandhi écrivait déjà, en 1913, que les deux étaient liés.
+
+Il m'a fallu des décennies pour comprendre une citation qu'il n'avait jamais dite...
+
+**pour finir exactement à l'endroit où son texte original m'attendait.**
 
 Aujourd'hui...
 
@@ -833,47 +866,29 @@ Et je trouve que c'est important, l'ambition.
 
 **J'ai l'ambition de changer mon monde.**
 
-De devenir quelqu'un dont les décisions me rendent fier.
+De prendre soin de la partie du monde sur laquelle j'ai de l'influence.
 
-Quelqu'un de plus cohérent entre ce qu'il pense, ce qu'il ressent, ce qu'il dit et ce qu'il fait.
+Et de continuer à travailler sur la première partie sur laquelle j'ai réellement du pouvoir :
 
-Quelqu'un qui, autant que possible, fait du bien aux personnes qui entrent dans sa sphère.
+**moi.**
 
-Et peut-être...
+Et si, de temps en temps, ça produit un ricochet...
 
-de temps en temps...
+une phrase...
 
-de lancer un petit ricochet.
+une décision...
 
-Une phrase.
+une manière d'être qui donne envie à quelqu'un de bouger à son tour...
 
-Une décision.
+alors peut-être qu'au fond...
 
-Une manière d'être.
-
-Quelque chose que quelqu'un verra et qui lui fera penser :
-
-**« Tiens... peut-être que moi aussi. »**
-
-Je ne saurai peut-être jamais ce que ce ricochet produira.
-
-Et ce n'est pas grave.
-
-Parce qu'au fond...
-
-**je n'ai pas besoin de changer le monde.**
-
-J'ai envie de prendre soin de la partie du monde sur laquelle j'ai de l'influence.
-
-Et la première partie du monde sur laquelle j'ai réellement du pouvoir...
-
-**c'est moi.**
+**c'est exactement comme ça qu'on change le monde.**
 
 ---
 
 ## CTA / FIN
 
-> 🟠 **CORRECTION 3 — version resserrée plus haut.** Ce qui saute : la vidéo sur les peurs. Et **la signature de fin a disparu** dans cette passe : « Je t'embrasse très fort. À bientôt. » — volontaire ?
+> 🟠 *Version resserrée plus haut. Ce qui saute : la vidéo sur les peurs. Et la signature de fin manque toujours.*
 
 Si cette question de la peur, de ce qui m'empêche parfois d'agir même quand j'ai compris ce qui se joue, t'intéresse, j'ai fait une vidéo spécifiquement là-dessus.
 
@@ -911,9 +926,9 @@ Et je vais te laisser avec la question qui accompagne cette chaîne depuis longt
 
 | # | Titre | Pourquoi |
 |---|---|---|
-| 1 | **Gandhi vs le développement personnel** | Ton titre. Dans cette version il tient — la vidéo livre vraiment le débat. |
+| 1 | **Gandhi vs le développement personnel** | Ton titre. Dans la V4 il tient pleinement — la vidéo livre le débat *et* le réconcilie à la fin. |
 | 2 | **Gandhi n'a jamais dit ça (et la vraie phrase change tout)** | Le plus fort en clic, mais il promet une enquête là où tu livres un récit. |
-| 3 | **Cette phrase de Gandhi m'a fait me sentir comme une merde pendant 20 ans** | Ton cold open mot pour mot. Le plus honnête, le plus risqué. |
+| 3 | **Cette phrase de Gandhi m'a fait me sentir comme une merde pendant 20 ans** | Ton cold open mot pour mot. Le plus honnête, le plus risqué — et le juron en titre coupe la monétisation à coup sûr. |
 
 ## Description YouTube
 
@@ -921,10 +936,10 @@ Et je vais te laisser avec la question qui accompagne cette chaîne depuis longt
 
 ## Sources vérifiées
 
-- **La citation** : apocryphe. Texte réel de 1913, *Indian Opinion* — « We but mirror the world… If we could change ourselves, the tendencies in the world would also change. » La formule courte apparaît dans les années 70.
-- **Le film** : ***Gourou***, de **Yann Gozlan**, sorti le **28 janvier 2026**. Ressort du scénario : la certification rendue obligatoire, et la scène du Sénat.
+- **La citation** : apocryphe, apparue dans les années 70. Le texte réel date du **9 août 1913**, *Indian Opinion*, repris dans les *Collected Works of Mahatma Gandhi* vol. XII p. 158 — dans une chronique **« General Knowledge About Health »**, section sur les accidents et morsures de serpent. Écrit **en gujarati** ; la version anglaise est la traduction officielle des œuvres complètes.
+- **Le film** : ***Gourou***, de **Yann Gozlan**, sorti le **28 janvier 2026**.
 - **Niney** : « Tellement de gens s'improvisent coach, c'est tout le problème ; il n'y a pas de formation ni de diplôme. » — [blue News](https://www.bluewin.ch/fr/divertissement/tv-film/pierre-niney-joue-les-gourous-ca-a-fait-tout-de-suite-tilt-dans-ma-tete-2962737.html)
-- **Le titre RNCP** : *Coach professionnel*, [RNCP 40663](https://www.francecompetences.fr/recherche/rncp/40663/), **niveau 6**. Ne pas dire « équivalent master 2 ».
+- **Le titre RNCP** : *Coach professionnel*, [RNCP 40663](https://www.francecompetences.fr/recherche/rncp/40663/), niveau 6. Ne jamais dire « équivalent master 2 ».
 - **Orthographes** : **Kyan Khojandi** (*Bref 2*, 2025), **Franck** Lopvet.
 
 ---
