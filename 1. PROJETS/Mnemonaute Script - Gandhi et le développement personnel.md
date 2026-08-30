@@ -4,63 +4,37 @@ tags:
   - mnemonaute
   - developpement-personnel
   - confiance-en-soi
-statut: V2 de David — sept corrections à appliquer avant tournage
+statut: V3 — cinq corrections de fond restent à appliquer
 formats: vidéo
 ajoute: 2026-08-30
 ---
 
 # Script — Gandhi vs le développement personnel
 
-**V2 écrite par David le 30/08/2026.** C'est elle qui fait foi. Ma V1 (angle « mon monde » seul) est abandonnée — la V2 la contient et va plus loin.
-
-**Longueur mesurée** : 2 721 mots parlés → **18 min en lecture rapide, 22 à 25 min à ton débit posé**. Le script est écrit en phrases isolées avec beaucoup de silences : compte sur le haut de la fourchette. C'est au-dessus des 15-18 min visées, mais sur ce sujet je ne couperais pas — voir plus bas.
+**V3 de David, 30/08/2026.** C'est elle qui fait foi.
 
 ---
 
-## Ce que la V2 fait mieux que la mienne
+## Ce que la V3 gagne sur la V2
 
-Quatre choses que je n'avais pas trouvées, et qui changent la vidéo :
-
-1. **La suradaptation.** *« Le développement personnel peut lui-même devenir une nouvelle forme de suradaptation. »* C'est le meilleur bloc du script, et de loin. C'est neuf, c'est vrai, et personne ne le dit dans ce débat — les critiques attaquent le nombrilisme, toi tu montres que le piège est exactement inverse : continuer à se conformer, en croyant se trouver. Et c'est **le pont direct vers le [[Cercle de Vérité]]**, dont l'avatar est précisément l'homme qui se sur-adapte.
-2. **« Partir de moi » ≠ « ne penser qu'à moi ».** La réponse à l'accusation d'égoïsme en cinq mots, sans se défendre.
-3. **Le champion du monde comme preuve.** *« La taille que je me donne aujourd'hui n'est pas forcément celle que j'aurai demain. »* Le gamin qui se disait « je suis personne » est devenu champion du monde deux fois. C'est ton argument le plus court et le plus imparable, et il ne coûte rien.
-4. **Le twist en boucle.** Tu annonces « Gandhi ne l'a jamais dite » au cold open, tu tiens la promesse toute la vidéo, et tu refermes à la fin avec la vraie phrase. Ma V1 grillait le twist en partie 4. La tienne est mieux construite.
-
-**Sur la longueur** : 22-25 min sur un sujet de mindset pur, sur une chaîne où le mindset fait 1 % de l'audience historique, c'est un pari. Mais couper reviendrait à retirer un des blocs ci-dessus, et ils portent tous. Je ne couperais rien — je resserrerais seulement le CTA (correction 1) et les redites (correction 5). Tu récupères deux à trois minutes sans perdre une idée.
+- **La sortie de *Bref 2* est devenue meilleure que ce que je proposais.** Je disais de couper « c'est juste rester sur son cul » comme redite. Tu l'as gardée et tu l'as retournée : *« Le travail commence quand je me relève. »* Puis *« transformer une prise de conscience en mouvement »*. La redite est devenue l'enchaînement. C'est la bonne solution, pas la mienne.
+- **Les trois termes sont enfin distingués** : développement personnel / enrichissement personnel / développement solitaire, chacun avec sa définition. En V2 c'était un empilement, maintenant c'est un tri — et c'est ce qui rend le pavé dans la mare crédible.
+- **La boucle interne « sans disparaître ».** Elle apparaît dans la suradaptation (*« sans disparaître au passage »*) et revient dans le Cercle de Vérité (*« Sans disparaître. Sans jouer un rôle. »*). Personne ne la remarquera consciemment, tout le monde la sentira.
+- Resserrage général : l'écart en ouverture, la portion privilégiée, le décentrage. Tu as coupé sans rien perdre.
 
 ---
 
-# ⚠️ LES SEPT CORRECTIONS
+## ⚠️ Cinq corrections de la passe précédente ne sont pas passées
 
-## 1. Le CTA est reparti à cinq appels
+Tu as appliqué les deux corrections d'écriture (la redite, le chiffre de l'IAE) et laissé les cinq de fond. Dis-moi si c'est un choix — je ne les réargumente pas, elles sont ci-dessous prêtes à coller.
 
-Tu as : la vidéo sur les peurs, le guide, la prise de rendez-vous, « dis-moi ce que ça provoque », les remerciements, la question signature. Six sollicitations en deux minutes.
+**S'il n'y en a qu'une à faire, c'est la n°2.** C'est ta chute, et le texte est écrit.
 
-Je ne te redis pas de supprimer le rendez-vous : tu viens de me dire que tu veux ce chemin (lead magnet → calendrier → offres), donc il reste. Ce qui saute, c'est **la vidéo sur les peurs** — elle fait doublon avec le guide, qui traite le même sujet, et elle envoie le spectateur ailleurs juste avant ton lien. Un CTA principal, un secondaire, une question. Rien d'autre.
+### 1. Ta chute reste molle 🔴
 
-**Version resserrée à coller :**
+*« Gandhi ne l'a **probablement** jamais dite »*, *« **en substance**, quelque chose comme »*. Deux dérobades dans la conclusion — alors que tu as la date, la source et le texte exact. Le premier commentaire sera *« il dit probablement, donc il n'en sait rien »*.
 
-> Si ce que je viens de raconter te parle, j'ai écrit un petit guide sur nos peurs — sur ce qui nous empêche d'agir, même quand on a très bien compris ce qui se joue.
->
-> Il est gratuit, il est juste en dessous. Commence par là.
->
-> Et si tu veux aller plus loin, il y a aussi un lien pour prendre rendez-vous avec moi. Pas pour te vendre quelque chose à tout prix — pour regarder où tu en es, où tu veux aller, et voir si ce que je propose a du sens pour toi.
->
-> Dis-moi en commentaire ce que cette vidéo provoque chez toi. Je lis tout — je reçois encore des messages sur des vidéos qui ont dix ans. Le ricochet, il est aussi là. Merci pour ça.
->
-> Et toi, c'est quand la dernière fois que tu as fait quelque chose pour la première fois ?
->
-> Je t'embrasse très fort. À bientôt.
-
-*(Le « je t'embrasse » au tutoiement règle l'arbitrage qui traînait : la vidéo tient le « tu » de bout en bout, signature comprise.)*
-
-## 2. Ton twist final est trop mou pour un twist final
-
-Tu écris *« Gandhi ne l'a probablement jamais dite »* et *« en substance, il disait quelque chose comme »*. Deux fois tu te dérobes — alors que tu as la citation exacte, la date et la source. C'est la chute de ta vidéo : elle doit être en béton, sinon le premier commentaire sera « il dit *probablement*, donc il n'en sait rien ».
-
-**À coller à la place :**
-
-> Parce que cette phrase qui m'a fait me sentir si petit pendant toutes ces années, Gandhi ne l'a jamais écrite.
+> Cette phrase qui m'a fait me sentir si petit pendant toutes ces années, Gandhi ne l'a jamais écrite.
 >
 > Nulle part. On ne la trouve dans aucun de ses textes. Elle apparaît dans les années 70, plus de vingt ans après sa mort, et elle se répand parce qu'elle tient sur un mug.
 >
@@ -72,15 +46,11 @@ Tu écris *« Gandhi ne l'a probablement jamais dite »* et *« en substance, il
 >
 > Il m'a fallu des décennies pour comprendre tout seul une phrase que Gandhi n'avait jamais dite — et finir par tomber exactement sur ce qu'il avait vraiment écrit.
 
-## 3. Tu as perdu ton meilleur argument face à Niney
+### 2. Tu as reculé face à Niney 🔴
 
-Niney dit : *« il n'y a pas de formation ni de diplôme »*. Tu réponds : *« il existe des écoles sérieuses, des certifications professionnelles, des formations exigeantes »*. C'est vrai, mais c'est vague — et le vague ne réfute pas une affirmation nette. Tu as un fait dur : **il existe un titre de coach professionnel enregistré au RNCP par France Compétences.** C'est vérifiable, c'est officiel, ça clôt le débat.
+En V2 tu écrivais *« quelque chose qui est **en partie** vrai »*. En V3 c'est devenu *« Pierre Niney a aussi rappelé quelque chose **qui est vrai** »*. Tu as supprimé la nuance **et** tu ne réfutes toujours pas. Résultat : ta vidéo concède que Niney a raison, puis répond « mais il y a aussi des écoles sérieuses » — un spectateur qui a vu son interview n'a aucune raison de changer d'avis.
 
-Et tu as supprimé les trois questions à poser, qui étaient la seule partie de cette section qui serve le **spectateur** plutôt que toi.
-
-**Surtout, tu as laissé tomber le retournement le plus fort de tout le sujet** : dans *Gourou*, le ressort du scénario est que **le gouvernement rend la certification des coachs obligatoire**, et le personnage de Niney se retrouve devant le Sénat, sans diplôme, à devoir défendre son métier. Le film raconte exactement ton argument. Niney le dit à l'envers en interview.
-
-**À coller après « Il y a une forme de Far West. Mais ce n'est pas toute l'histoire. » :**
+Tu as un fait dur, un retournement, et un outil pour le spectateur. Les trois manquent.
 
 > Parce qu'un diplôme, il en existe un.
 >
@@ -94,38 +64,36 @@ Et tu as supprimé les trois questions à poser, qui étaient la seule partie de
 >
 > Et si la personne en face bafouille sur les trois, tu as ta réponse aussi.
 
-⚠️ **Ne donne aucune équivalence de niveau.** « RNCP niveau II » n'est pas un master 2 — dans l'ancienne nomenclature, niveau II = bac+3/+4 et master = niveau I. Le titre actuel est classé niveau 6. Sur une vidéo qui défend le sérieux de ta certification, te faire corriger là-dessus en commentaire ferait tomber toute la section.
+⚠️ **Aucune équivalence de niveau.** « RNCP niveau II » n'est pas un master 2 (ancienne nomenclature : niveau II = bac+3/+4, master = niveau I ; le titre actuel est niveau 6).
 
-## 4. « 17 ans » et « Instagram » ne peuvent pas coexister
+### 3. Le CTA est toujours à cinq appels 🟠
 
-Tu as 48 ans : 17 ans, c'est 1995. Instagram, c'est 2010. Et la citation ne circulait quasiment pas en France avant les années 2000 — elle explose avec les réseaux.
+Vidéo sur les peurs + guide + rendez-vous + « dis-moi ce que ça provoque » + merci + question signature. Le rendez-vous reste, tu l'as voulu. **Ce qui saute, c'est la vidéo sur les peurs** : doublon avec le guide, et elle envoie le spectateur ailleurs juste avant ton lien.
 
-Deux mots suffisent : dans le cold open, écris **« Elle est partout. Sur des mugs, des tee-shirts, dans des bouquins, et aujourd'hui sur Instagram. »** Le « aujourd'hui » sauve tout, et tu gardes tes 17 ans et toute la section qui en dépend.
+> Si ce que je viens de raconter te parle, j'ai écrit un petit guide sur nos peurs — sur ce qui nous empêche d'agir, même quand on a très bien compris ce qui se joue. Il est gratuit, il est juste en dessous. Commence par là.
+>
+> Et si tu veux aller plus loin, il y a aussi un lien pour prendre rendez-vous avec moi. Pas pour te vendre quelque chose à tout prix — pour regarder où tu en es, où tu veux aller, et voir si ce que je propose a du sens pour toi.
+>
+> Dis-moi en commentaire ce que cette vidéo provoque chez toi. Je lis tout — je reçois encore des messages sur des vidéos qui ont dix ans. Le ricochet, il est aussi là. Merci pour ça.
+>
+> Et toi, c'est quand la dernière fois que tu as fait quelque chose pour la première fois ?
+>
+> Je t'embrasse très fort. À bientôt.
 
-## 5. Une redite à couper
+⚠️ **La V3 a perdu la signature de fin** — plus de « je t'embrasse très fort », plus de « à bientôt ». Volontaire, ou coupé par accident ?
 
-Dans *Comprendre n'est pas changer*, tu as construit trois exemples magnifiques (la peur, dire oui, le masque), tu conclus par *« une prise de conscience qui ne change aucun comportement reste une prise de conscience »* — et là tu enchaînes *« Pourquoi ? Parce que regarder Bref 2 et comprendre, c'est juste rester sur son cul. »*
+### 4. « 17 ans » et « Instagram » ne peuvent pas coexister 🟡
 
-C'est un résidu du premier brouillon. Elle répète ce que tu viens de dire trois fois mieux, et elle casse le rythme juste après ta meilleure formule. **Coupe la phrase.** Enchaîne directement sur « Et pour moi, c'est précisément là que commence le travail. »
+1995 contre 2010. Un mot suffit : *« Sur des mugs, des tee-shirts, dans des bouquins, **et aujourd'hui** sur Instagram. »*
 
-## 6. Ton bloc promo coupe l'élan avant la chute
+### 5. Le bloc Cercle de Vérité coupe l'élan avant la chute 🟡
 
-Ordre actuel : le David de 17 ans → Mnémonaute → **le Cercle de Vérité** → et *ensuite* la révélation Gandhi → CTA.
-
-Tu places donc une séquence de promotion d'offre juste avant ta chute. Le spectateur sent le virage commercial, et il l'a en tête au moment où tu veux qu'il soit ému.
-
-**Déplace le passage sur le Cercle de Vérité dans le CTA**, à la suite du guide. Garde dans la section 17 ans uniquement le « pourquoi je partage depuis dix ans » — c'est du récit, pas de la vente, et ça enchaîne naturellement sur Gandhi.
-
-## 7. Un chiffre à vérifier
-
-*« Ça fait 3 ans que j'interviens à l'IAE de Lyon »* — vérifie avant de tourner. C'est exactement le genre de détail qu'un commentateur va chercher.
+Tu poses une séquence de vente juste avant la révélation Gandhi. Le spectateur sent le virage commercial au moment où tu veux qu'il soit ému. Déplace-le dans le CTA, garde ici le « pourquoi je partage depuis dix ans ».
 
 ---
 ---
 
-# LE SCRIPT
-
-*(V2 de David, intégrale. Les sept corrections ci-dessus sont signalées à leur place.)*
+# LE SCRIPT — V3
 
 ## COLD OPEN
 
@@ -147,11 +115,11 @@ La phrase, c'est celle-là :
 
 Elle est partout.
 
-Sur des mugs, des tee-shirts, dans des bouquins, **et aujourd'hui sur Instagram.** ⚠️ *(correction 4)*
+Sur des mugs, des tee-shirts, dans des bouquins, sur Instagram... ⚠️ *(correction 4 : « et aujourd'hui sur Instagram »)*
 
 Et quand je l'ai découverte, j'avais à peu près 17 ans.
 
-Et ma première réaction, ça n'a pas été :
+Ma première réaction, ça n'a pas été :
 
 « Waouh... quelle sagesse. »
 
@@ -183,11 +151,11 @@ il faut que je revienne au David de 17 ans.
 
 ## LE DAVID DE 17 ANS
 
-À 17 ans, donc, je lis :
+À 17 ans, quand je lis :
 
-« Sois le changement que tu veux voir dans le monde. »
+« Sois le changement que tu veux voir dans le monde »,
 
-Et moi, ce que j'entends, c'est :
+moi, ce que j'entends, c'est :
 
 **« Change le monde. »**
 
@@ -203,8 +171,6 @@ Je ne suis pas connu.
 
 Je ne suis pas visible.
 
-Je n'ai pas de talent particulier.
-
 Je n'ai rien d'exceptionnel.
 
 Je suis...
@@ -215,17 +181,15 @@ Et cette phrase censée être incroyablement inspirante...
 
 elle m'écrase.
 
-Parce qu'elle me met face à un idéal tellement grand, tellement loin de moi, que tout ce que je vois...
-
-c'est l'écart.
+Parce que tout ce que je vois, c'est l'écart.
 
 L'écart entre ce que je suis...
 
 et ce qu'il faudrait que je sois.
 
-Et pendant des années, cette idée-là m'a accompagné.
+Et cet écart-là m'a accompagné pendant des années.
 
-> 🎬 *Point bas de la vidéo. Ralentis, et laisse un silence avant d'enchaîner.*
+> 🎬 *Point bas de la vidéo. Ralentis, et laisse un silence.*
 
 ---
 
@@ -250,8 +214,6 @@ D'autres beaucoup moins.
 J'ai rencontré des gens.
 
 Je me suis formé.
-
-J'ai lu.
 
 J'ai été accompagné.
 
@@ -283,27 +245,25 @@ Les inconnus que je croise.
 
 C'est ma portion du monde.
 
-Moi, je ne suis pas exposé à la violence quotidienne de certains quartiers.
+Et je sais que c'est une portion privilégiée.
 
-Je n'ai jamais eu faim. Je n'ai jamais eu soif.
+Je n'ai jamais eu faim. Je n'ai jamais eu soif. Je ne suis pas confronté quotidiennement à la violence ou à la guerre.
 
-Mon quotidien est confortable, et je le sais, c'est une portion privilégiée du monde.
+Mon quotidien est confortable et j'en ai conscience.
 
-J'en ai parfaitement conscience.
+Mais cette portion du monde...
 
-Mais c'est celle sur laquelle je peux réellement agir.
+**c'est celle sur laquelle j'ai de l'influence.**
 
 Et si, dans cette portion-là, je fais de mon mieux pour prendre des décisions qui me rendent fier...
 
 si j'apprends à mieux gérer mes émotions...
 
-si je développe ma maturité...
+à poser mes limites sans écraser celles des autres...
 
-si j'apprends à poser mes limites sans écraser celles des autres...
+à être attentif à ce que mes comportements produisent autour de moi...
 
-si je suis plus attentif à ce que mes comportements produisent chez les gens autour de moi...
-
-si j'essaie d'être plus cohérent entre ce que je pense, ce que je ressens, ce que je dis et ce que je fais...
+à être plus cohérent entre ce que je pense, ce que je ressens, ce que je dis et ce que je fais...
 
 alors...
 
@@ -315,9 +275,9 @@ Parce que moi, j'ai changé.
 
 ## LE RICOCHET
 
-Et il se passe parfois quelque chose d'encore plus étonnant.
+Et parfois, il se passe quelque chose d'encore plus étonnant.
 
-Il m'arrive régulièrement que quelqu'un vienne me voir et me dise :
+Il m'arrive que quelqu'un vienne me voir et me dise :
 
 « David, un jour, tu as dit un truc... »
 
@@ -343,9 +303,7 @@ Elle lui a servi à prendre une décision.
 
 Et là, je me dis :
 
-**Ah oui.**
-
-C'est ça, le ricochet.
+**Ah oui. C'est ça, le ricochet.**
 
 Je n'ai pas changé **le** monde.
 
@@ -353,7 +311,7 @@ Mais peut-être que j'ai changé quelque chose...
 
 **dans le monde de quelqu'un.**
 
-Et cette personne changera peut-être quelque chose dans le monde de quelqu'un d'autre.
+Et cette personne changera peut-être à son tour quelque chose dans le monde de quelqu'un d'autre.
 
 Et moi...
 
@@ -369,7 +327,7 @@ est devenu champion du monde.
 
 Deux fois.
 
-Et attention : devenir champion du monde ne m'a évidemment pas donné le pouvoir de changer LE monde.
+Ça ne m'a évidemment pas donné le pouvoir de changer LE monde.
 
 Mais ça m'a appris quelque chose :
 
@@ -419,35 +377,23 @@ Sur le gourou.
 
 Sur le coach qui devient le centre de son propre système.
 
-Sur le développement personnel qui finit par ressembler davantage à...
+Sur le développement personnel qui finit parfois par ressembler davantage à...
 
 **de l'enrichissement personnel.**
 
-Et Pierre Niney a expliqué dans plusieurs interviews quelque chose qui est en partie vrai :
-
-aujourd'hui, en France, n'importe qui peut se déclarer coach.
-
-Le terme n'est pas protégé.
+Pierre Niney a aussi rappelé quelque chose qui est vrai : en France, n'importe qui peut aujourd'hui se déclarer coach. Le terme n'est pas protégé.
 
 Donc oui.
 
 Il y a une forme de Far West.
 
-Mais...
+Mais ce n'est pas toute l'histoire.
 
-**ce n'est pas toute l'histoire.**
+> 🔴 **CORRECTION 2 — le bloc « un diplôme, il en existe un » + l'ironie du Sénat + les trois questions se colle ICI.** C'est le seul endroit de la vidéo où tu réponds vraiment à l'accusation. Voir plus haut.
 
-> ⚠️ **CORRECTION 3 — c'est ici que se colle le bloc « un diplôme, il en existe un » + l'ironie du Sénat + les trois questions.** Voir plus haut. C'est le passage le plus important de toute la section.
+Parce qu'il existe aussi des écoles sérieuses, des certifications professionnelles, des formations exigeantes, des coachs formés et supervisés.
 
-Parce qu'il existe aussi des écoles sérieuses.
-
-Des certifications professionnelles.
-
-Des formations exigeantes.
-
-Des coachs qui se forment, qui travaillent leur posture, qui sont supervisés.
-
-Et moi, cette différence-là, elle me tient particulièrement à cœur.
+Et moi, cette différence-là me tient particulièrement à cœur.
 
 Parce que je l'ai vécue.
 
@@ -471,7 +417,7 @@ Et assez vite, on m'a posé une deuxième question :
 
 Non.
 
-Et là, je vais être complètement transparent sur ce qui s'est passé dans ma tête à l'époque.
+Et je vais être complètement transparent sur ce qui s'est passé dans ma tête à l'époque.
 
 Je me suis dit :
 
@@ -485,7 +431,7 @@ Donc...
 
 je vais aller chercher le tampon.
 
-Et puis comme je ne suis pas trop con, normalement, au passage, je vais récupérer deux-trois outils.
+Et puis comme je ne suis pas trop con, au passage, je vais récupérer deux-trois outils.
 
 Voilà avec quelle incroyable noblesse d'intention je suis entré en école de coaching.
 
@@ -505,7 +451,9 @@ Une manière différente d'écouter.
 
 De questionner.
 
-De ne pas chercher systématiquement à donner la réponse. Ni d'avoir raison.
+De ne pas chercher systématiquement à donner la réponse.
+
+**Ni à avoir raison.**
 
 De regarder l'autre.
 
@@ -515,15 +463,15 @@ de me regarder moi.
 
 Et ça a changé ma vie.
 
-> 🎬 *Sommet de la vidéo. Pose-la. N'enchaîne pas tout de suite.*
+> 🎬 *Sommet de la vidéo. Pose-la, n'enchaîne pas tout de suite.*
 
 Je me suis formé à Agora Coaching, à Lyon — Odile, si tu regardes cette vidéo, je t'embrasse très fort.
 
-Et aujourd'hui, ça fait 3 ans ⚠️ *(à vérifier — correction 7)* que j'interviens moi-même à l'IAE de Lyon auprès de futurs coachs qui suivent le Master II coaching, notamment pour les accompagner dans leur installation professionnelle.
+Et depuis trois ans, j'interviens moi-même à l'IAE de Lyon auprès de futurs coachs en Master 2 Coaching, notamment pour les accompagner dans leur installation professionnelle.
 
 Donc oui :
 
-je suis plutôt bien placé pour considérer que tout ça ne se résume pas à quelques gourous sur Instagram.
+je suis plutôt bien placé pour dire que le coaching ne se résume pas à quelques gourous sur Instagram.
 
 ---
 
@@ -531,7 +479,7 @@ je suis plutôt bien placé pour considérer que tout ça ne se résume pas à q
 
 Et c'est là que j'ai envie de jeter un petit pavé dans la mare.
 
-Parce que j'entends de plus en plus cette critique du développement personnel :
+Parce que j'entends de plus en plus cette critique :
 
 à force de travailler sur soi...
 
@@ -539,17 +487,19 @@ on finirait par ne penser qu'à soi.
 
 Et certaines critiques sont parfaitement justifiées.
 
-Même des gens que j'apprécie beaucoup, comme Franck Lopvet ou David Laroche, remettent en perspective certaines dérives du milieu.
+Même des gens que j'apprécie beaucoup, comme Franck Lopvet ou David Laroche, questionnent certaines dérives du développement personnel.
 
 Très bien.
 
-Mais je crois qu'il faut faire attention à ne pas confondre :
+Mais attention à ne pas tout mettre dans le même sac.
 
-**développement personnel...**
+Il y a le **développement personnel**.
 
-et
+Il peut y avoir l'**enrichissement personnel** : quand tout finit par tourner autour de ce que je possède, ce que je gagne, ce que j'affiche.
 
-**enrichissement personnel, ou développement solitaire.**
+Et il peut y avoir une forme de **développement solitaire** : quand je finis par tellement m'occuper de moi que j'oublie que je vis avec les autres.
+
+Ce ne sont pas les mêmes choses.
 
 Parce que « personnel » ne veut pas dire « égoïste ».
 
@@ -583,7 +533,7 @@ j'ai justement fait l'erreur inverse.
 
 ## QUAND LE DÉVELOPPEMENT PERSONNEL DEVIENT DE LA SURADAPTATION
 
-> 💎 *Le meilleur bloc du script. Ne le touche pas, et prends ton temps dessus.*
+> 💎 *Le meilleur bloc du script. Ne le touche pas, prends ton temps dessus.*
 
 Pendant longtemps, j'ai essayé de devenir meilleur.
 
@@ -599,7 +549,7 @@ Parce que ça faisait bien.
 
 Parce que ça pouvait rapporter de l'argent.
 
-Parce que ça pouvait me donner de la reconnaissance.
+Parce que ça pouvait m'apporter de la reconnaissance.
 
 Parce que je pensais que c'était ce que le monde attendait de moi.
 
@@ -607,7 +557,7 @@ Et à force de regarder à l'extérieur pour savoir quelle direction prendre...
 
 **je me suis décentré.**
 
-Je me suis parfois perdu en route.
+Je me suis perdu en route.
 
 Et c'est là qu'il y a un paradoxe que je trouve assez dingue :
 
@@ -625,7 +575,11 @@ uniquement pour devenir celui que je crois devoir être...
 
 je ne suis pas en train de me trouver.
 
-**Je suis encore en train d'essayer de correspondre, de rentrer dans un moule. De jouer un rôle.**
+**Je suis encore en train d'essayer de correspondre.**
+
+De rentrer dans un moule.
+
+De jouer un rôle.
 
 Et ça...
 
@@ -655,9 +609,9 @@ Et attention :
 
 Et ce n'est pas la même chose.
 
-Je peux faire énormément de choses pour quelqu'un d'autre...
+Je peux faire quelque chose pour quelqu'un d'autre...
 
-**sans les faire contre moi.**
+**sans le faire contre moi.**
 
 Je peux donner.
 
@@ -669,15 +623,15 @@ Aimer.
 
 Être présent.
 
-Sans disparaître au passage.
+**Sans disparaître au passage.**
 
-Et ça, pour moi, c'est même une partie essentielle du développement personnel.
+Et ça, pour moi, c'est une partie essentielle du développement personnel.
 
 ---
 
 ## LA FAUSSE OPPOSITION
 
-Parce qu'au fond, je crois que pendant très longtemps, j'ai imaginé qu'il fallait choisir.
+Parce qu'au fond, pendant très longtemps, j'ai imaginé qu'il fallait choisir.
 
 Soit je travaille sur moi.
 
@@ -687,11 +641,11 @@ Soit je me développe personnellement.
 
 Soit j'agis sur le monde.
 
-Et aujourd'hui...
+Aujourd'hui...
 
 **je pense que c'était une fausse opposition.**
 
-Parce que la première partie du monde sur laquelle j'ai du pouvoir...
+Parce que la première partie du monde sur laquelle j'ai réellement du pouvoir...
 
 **c'est moi.**
 
@@ -701,7 +655,7 @@ Et travailler sur moi, ce n'est pas me demander sans cesse :
 
 C'est me demander :
 
-**« Qui est-ce que j'ai envie d'être pour pouvoir prendre ma place dans ce monde ? »**
+**« Qui est-ce que j'ai envie d'être pour prendre ma place dans ce monde ? »**
 
 Et là...
 
@@ -753,13 +707,17 @@ Une prise de conscience qui ne change aucun comportement...
 
 **reste une prise de conscience.**
 
-> ⚠️ **CORRECTION 5 — coupe ici la phrase « Pourquoi ? Parce que regarder Bref 2 et comprendre, c'est juste rester sur son cul. »** Elle répète ce que tu viens de dire trois fois mieux, juste après ta meilleure formule.
+Parce que regarder *Bref 2* et comprendre...
 
-Et pour moi, c'est précisément là que commence le travail.
+**c'est juste rester sur son cul.**
 
-Le développement personnel, ce n'est pas comprendre davantage de choses sur moi.
+Le travail commence quand je me relève.
 
-**C'est faire quelque chose de ce que j'ai compris.**
+Quand je fais quelque chose de ce que j'ai compris.
+
+Pour moi, le développement personnel, c'est ça.
+
+**Ce n'est pas seulement comprendre. C'est transformer une prise de conscience en mouvement.**
 
 ---
 
@@ -793,19 +751,11 @@ Et surtout...
 
 il ne savait pas encore à quel point la personne qu'il était pouvait évoluer.
 
-Et c'est aussi pour ça que depuis plus de dix ans, à travers Mnémonaute, je partage gratuitement ce que j'apprends.
+Et c'est aussi pour ça que depuis plus de dix ans, à travers Mnémonaute, je partage ce que j'apprends.
 
 Au départ, énormément autour de la mémoire.
 
-Comment apprendre mieux.
-
-Comment retenir.
-
-Comment utiliser son cerveau différemment.
-
-Et puis progressivement, j'ai parlé d'autre chose.
-
-De confiance.
+Puis progressivement, j'ai parlé de confiance.
 
 De méditation.
 
@@ -817,26 +767,61 @@ D'émotions.
 
 D'affirmation de soi.
 
-Parce que finalement...
-
-tout ça participe de la même question :
+Parce que finalement, tout ça participe de la même question :
 
 **qu'est-ce que je peux faire avec la personne que je suis aujourd'hui pour devenir davantage celle que j'ai envie d'être demain ?**
 
-> ⚠️ **CORRECTION 6 — le passage sur le Cercle de Vérité se déplace ici vers le CTA.** Tel quel, tu poses une séquence de vente juste avant ta chute, et le spectateur sent le virage commercial au moment où tu veux qu'il soit ému. Enchaîne directement sur « Et Gandhi, dans tout ça ? ».
->
-> *Le texte déplacé, à replacer après le guide dans le CTA :*
-> « Et c'est aussi pour ça que j'ai créé des formations autour de ces sujets. Notamment le Cercle de Vérité. Parce qu'une partie importante de mon propre chemin a consisté à comprendre que l'authenticité, ce n'est pas tout dire à tout le monde. Tout le monde n'appartient pas à mon cercle de vérité. Mais lorsque je décide que quelqu'un y entre, je veux pouvoir arrêter de porter un masque. Je veux pouvoir être vrai avec les gens que j'aime. Et ça aussi, ça change mon monde. »
+> 🟡 **CORRECTION 5 — le bloc Cercle de Vérité ci-dessous se déplace dans le CTA.** Tel quel, il pose une séquence de vente juste avant la révélation Gandhi.
+
+C'est aussi pour ça que j'ai créé des formations autour de ces sujets.
+
+Notamment le Cercle de Vérité.
+
+Parce qu'une partie importante de mon propre chemin a consisté à comprendre que l'authenticité...
+
+ce n'est pas tout dire à tout le monde.
+
+Tout le monde n'appartient pas à mon cercle de vérité.
+
+Mais lorsque je décide que quelqu'un y entre...
+
+je veux pouvoir arrêter de porter un masque.
+
+Être vrai avec les gens que j'aime.
+
+**Sans disparaître. Sans jouer un rôle.**
+
+Et ça aussi...
+
+ça change mon monde.
 
 ---
 
 ## ET GANDHI, DANS TOUT ÇA ?
 
-> ⚠️ **CORRECTION 2 — remplace l'ouverture de cette section par le bloc renforcé (voir plus haut).** « Probablement » et « en substance quelque chose comme » sabordent ta propre chute. Tu as la date, la source et la citation exacte : sers-t'en.
+> 🔴 **CORRECTION 1 — remplace l'ouverture de cette section par le bloc renforcé.** « Probablement » et « en substance » sabordent ta propre chute. Voir plus haut.
 
 Et il y a une dernière ironie dans cette histoire.
 
-*[→ bloc corrigé : « Gandhi ne l'a jamais écrite. Nulle part… » jusqu'à « … ce qu'il avait vraiment écrit. »]*
+Cette phrase qui m'a fait me sentir si petit pendant toutes ces années...
+
+**Gandhi ne l'a probablement jamais dite.**
+
+En tout cas, pas sous cette forme.
+
+Ce qu'il a réellement écrit était plus subtil.
+
+En substance :
+
+**si nous nous changeons nous-mêmes, les tendances du monde changent avec nous.**
+
+Et quand j'ai découvert ça...
+
+je me suis dit que c'était quand même assez drôle.
+
+Il m'a fallu des décennies pour comprendre une phrase que Gandhi n'avait pas dite...
+
+pour finir par rejoindre ce qu'il avait réellement écrit.
 
 Aujourd'hui...
 
@@ -850,9 +835,9 @@ Et je trouve que c'est important, l'ambition.
 
 De devenir quelqu'un dont les décisions me rendent fier.
 
-Quelqu'un qui essaie d'être cohérent avec ce qu'il pense, ce qu'il ressent, ce qu'il dit et ce qu'il fait.
+Quelqu'un de plus cohérent entre ce qu'il pense, ce qu'il ressent, ce qu'il dit et ce qu'il fait.
 
-Quelqu'un qui fait du bien, autant que possible, aux personnes qui entrent dans sa sphère.
+Quelqu'un qui, autant que possible, fait du bien aux personnes qui entrent dans sa sphère.
 
 Et peut-être...
 
@@ -878,9 +863,9 @@ Parce qu'au fond...
 
 **je n'ai pas besoin de changer le monde.**
 
-J'ai besoin de prendre soin de la partie du monde sur laquelle j'ai réellement de l'influence.
+J'ai envie de prendre soin de la partie du monde sur laquelle j'ai de l'influence.
 
-Et la première partie du monde sur laquelle j'ai du pouvoir...
+Et la première partie du monde sur laquelle j'ai réellement du pouvoir...
 
 **c'est moi.**
 
@@ -888,32 +873,56 @@ Et la première partie du monde sur laquelle j'ai du pouvoir...
 
 ## CTA / FIN
 
-> ⚠️ **CORRECTION 1 — remplace toute cette section par la version resserrée (voir plus haut)**, avec le Cercle de Vérité rapatrié depuis la correction 6. Ce qui saute : la vidéo sur les peurs, qui fait doublon avec le guide et envoie le spectateur ailleurs juste avant ton lien.
+> 🟠 **CORRECTION 3 — version resserrée plus haut.** Ce qui saute : la vidéo sur les peurs. Et **la signature de fin a disparu** dans cette passe : « Je t'embrasse très fort. À bientôt. » — volontaire ?
+
+Si cette question de la peur, de ce qui m'empêche parfois d'agir même quand j'ai compris ce qui se joue, t'intéresse, j'ai fait une vidéo spécifiquement là-dessus.
+
+Et je mets gratuitement sous cette vidéo mon **Petit guide de nos peurs**.
+
+Tu peux commencer par là.
+
+Et si mon approche te parle et que tu as envie d'aller plus loin, je mets également un lien pour prendre rendez-vous avec moi, échanger, et voir simplement si ce que je propose peut avoir du sens pour toi.
+
+Et surtout...
+
+j'ai envie de savoir ce que cette vidéo provoque chez toi.
+
+Parce qu'après plus de dix ans sur Mnémonaute, je reçois encore des messages sur des vidéos parfois très anciennes.
+
+Alors peut-être que le ricochet dont je viens de parler...
+
+il est aussi là.
+
+Et pour ça...
+
+sincèrement...
+
+**merci.**
+
+Et je vais te laisser avec la question qui accompagne cette chaîne depuis longtemps :
+
+**Et toi, c'est quand la dernière fois que tu as fait quelque chose pour la première fois ?**
 
 ---
 
 ## Titres — à arbitrer
 
-⚠️ **Le visuel est déjà fait.** Vérifie que le titre retenu colle à la miniature.
+⚠️ **Le visuel est déjà fait.** Vérifie que le titre colle à la miniature.
 
 | # | Titre | Pourquoi |
 |---|---|---|
 | 1 | **Gandhi vs le développement personnel** | Ton titre. Dans cette version il tient — la vidéo livre vraiment le débat. |
-| 2 | **Gandhi n'a jamais dit ça (et la vraie phrase change tout)** | Curiosity gap. Le plus fort en clic, mais il promet une enquête alors que tu livres un récit. |
+| 2 | **Gandhi n'a jamais dit ça (et la vraie phrase change tout)** | Le plus fort en clic, mais il promet une enquête là où tu livres un récit. |
 | 3 | **Cette phrase de Gandhi m'a fait me sentir comme une merde pendant 20 ans** | Ton cold open mot pour mot. Le plus honnête, le plus risqué. |
-
----
 
 ## Description YouTube
 
-**À écrire une fois le titre arbitré.** Structure éprouvée sur [[Mnemonaute Script - J'ai rencontré Louis]] : situer la vidéo sans la paraphraser, **lien du guide en ligne 2**, chapitres, vidéos citées, question en commentaire, hashtags.
-
----
+À écrire une fois le titre arbitré. Structure éprouvée sur [[Mnemonaute Script - J'ai rencontré Louis]] : situer sans paraphraser, **guide en ligne 2**, chapitres, question en commentaire, hashtags.
 
 ## Sources vérifiées
 
-- **La citation** : apocryphe. Le texte réel est de 1913, dans *Indian Opinion* — « We but mirror the world… If we could change ourselves, the tendencies in the world would also change. » La formule courte apparaît dans les années 70.
-- **Le film** : ***Gourou***, de **Yann Gozlan**, sorti le **28 janvier 2026**. Niney y joue Matt, coach qui dérape. Ressort du scénario : la certification rendue obligatoire, et la scène du Sénat.
+- **La citation** : apocryphe. Texte réel de 1913, *Indian Opinion* — « We but mirror the world… If we could change ourselves, the tendencies in the world would also change. » La formule courte apparaît dans les années 70.
+- **Le film** : ***Gourou***, de **Yann Gozlan**, sorti le **28 janvier 2026**. Ressort du scénario : la certification rendue obligatoire, et la scène du Sénat.
 - **Niney** : « Tellement de gens s'improvisent coach, c'est tout le problème ; il n'y a pas de formation ni de diplôme. » — [blue News](https://www.bluewin.ch/fr/divertissement/tv-film/pierre-niney-joue-les-gourous-ca-a-fait-tout-de-suite-tilt-dans-ma-tete-2962737.html)
 - **Le titre RNCP** : *Coach professionnel*, [RNCP 40663](https://www.francecompetences.fr/recherche/rncp/40663/), **niveau 6**. Ne pas dire « équivalent master 2 ».
 - **Orthographes** : **Kyan Khojandi** (*Bref 2*, 2025), **Franck** Lopvet.
