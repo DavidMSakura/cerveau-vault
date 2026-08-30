@@ -3,12 +3,15 @@ tags:
   - idee-contenu
   - mnemonaute
   - apprentissage
-statut: à étoffer
+statut: transformée en vidéo, publiée le 29/08/2026
 formats: vidéo
 ajoute: 2026-08-25
 ---
 
 # Idée — « J'ai rencontré Louis »
+
+> ✅ **Idée consommée** : devenue [[Vidéo - J'ai rencontré Louis]], publiée le 29/08/2026.
+> Ce qu'elle a ouvert reste vivant : la **série « enchaîner les méthodes »**, dont la suite est *le protocole en 5 jours* → [[Idées de contenu Mnemonaute - backlog]].
 
 ## Le témoignage
 

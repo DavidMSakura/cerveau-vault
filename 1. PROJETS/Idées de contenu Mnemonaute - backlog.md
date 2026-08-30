@@ -37,7 +37,7 @@ Blocages déclarés par David : **le temps et les idées**. Ce document attaque 
 
 **L'origine, et elle a un nom** : **Louis, 19 ans, étudiant en droit**, brillant, qui vient de rater sa première année à deux dixièmes (**9,80**) faute de méthode — « jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus ». Il connaît Pomodoro mais ne sait pas l'appliquer. En lui détaillant un processus, David réalise que **personne n'enseigne l'enchaînement**.
 
-Son témoignage fait la vidéo d'ouverture de la série → [[Idée - Réviser sans méthode, le cas de Louis]].
+Son témoignage **fait la vidéo d'ouverture de la série, publiée le 29/08/2026** → [[Vidéo - J'ai rencontré Louis]] (archivée). La série, elle, reste ouverte : la suite est **le protocole en 5 jours**.
 
 **Le manque, vérifié dans le corpus** : les 58 vidéos enseignent chacune une technique isolée. La seule qui parle d'articulation est *Quelle technique choisir* (2018, 7 400 vues) — et elle aide à **choisir une** technique, pas à **en enchaîner plusieurs dans le temps**. Un étudiant qui a tout regardé possède un arsenal et aucun mode d'emploi.
 

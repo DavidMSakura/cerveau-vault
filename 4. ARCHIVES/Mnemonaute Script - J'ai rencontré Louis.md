@@ -3,12 +3,14 @@ tags:
   - idee-contenu
   - mnemonaute
   - apprentissage
-statut: script fusionné, à lire à voix haute
+statut: tourné et publié le 29/08/2026 — archivé
 formats: vidéo
 ajoute: 2026-08-28
 ---
 
 # Script — « J'ai rencontré Louis »
+
+> ✅ **Vidéo publiée le 29/08/2026.** Script conservé : c'est la source du `.srt` restant à générer, et le modèle de format pour les scripts suivants.
 
 **Version fusionnée du 28/08/2026.** Base : le brouillon de David (trame, voix, posture « je »). Réinjectés depuis la version Doc : la formule des bulletins, la promesse d'une matinée, Pomodoro sans mode d'emploi + les soixante vidéos, la citation complète de Louis, le bonjour et le CTA.
 

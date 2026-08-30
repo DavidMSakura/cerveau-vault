@@ -6,7 +6,7 @@ tags:
   - apprentissage
   - memoire
   - contenu
-statut: tournée, montage à faire
+statut: publié le 29/08/2026
 casquette: Contenu & Médias
 ajoute: 2026-08-29
 ---
@@ -15,8 +15,13 @@ ajoute: 2026-08-29
 
 > **Entrée unique du sujet.** Tout le pilotage est ici. Le texte du prompteur vit à part dans [[Mnemonaute Script - J'ai rencontré Louis]], parce qu'on l'ouvre seul en plein écran pendant le tournage.
 
-**Statut** : tournée le 28/08/2026. Reste le B-roll, le montage, la publication.
-**Fenêtre de publication** : ⚠️ le script s'ouvre sur « dans quelques jours, vous rentrez ». **L'accroche est périmée mi-septembre.** Viser lundi ou mardi.
+**Statut** : ✅ tournée le 28/08, **publiée le 29/08/2026**. Archivée le 30/08.
+
+> ⚠️ **Deux choses n'étaient pas faites au moment de l'archivage** — elles ne meurent pas ici :
+> - le **`.srt`** à générer depuis le script (meilleur levier SEO de la vidéo)
+> - les **quatre posts réseaux** ci-dessous, rédigés et prêts, `[LIEN]` à remplacer — à étaler sur deux ou trois jours
+>
+> Tant qu'elles ne sont pas faites, la ligne reste dans `Etat actuel.md`.
 
 ---
 
@@ -187,20 +192,12 @@ Textes réécrits sur les directions de David. Remplacer `[LIEN]` par l'URL YouT
 - `image-removebg-preview.png` — portrait détouré
 - `carte-mentale-mindmapper.*` — visuels mind map
 
-## Checklist de publication
-
-- [ ] B-roll au smartphone, en plongée sur la table : mind map qui se construit, feutre de couleur sur les trous, cartes retournées en deux piles
-- [ ] Montage dans Final Cut
-- [ ] Minuter les chapitres (YouTube en exige trois minimum, le premier à 00:00)
-- [ ] Uploader `Rentree_tn_YouTube.jpg`
-- [ ] Coller titre + description
-- [ ] Lancer le test A/B
-- [ ] Découper les shorts dans Opus Clip, **en imposant les timecodes** : le piège australien, l'ennui des 25 minutes, la couleur des trous, la feuille blanche, les deux piles
-
 ## Décisions prises
 
+*(La checklist de publication a été retirée à l'archivage : entièrement consommée. Les shorts Opus Clip aux timecodes imposés — piège australien, ennui des 25 minutes, couleur des trous, feuille blanche, deux piles — restent une piste si tu veux ré-exploiter le master.)*
+
 - **28/08** — Script fusionné à partir du brouillon de David et de la version Doc. Australie placée avant la méthode. « Il n'a rien foutu » conservé. Pas de Leitner. Bonjour à Louis en partie 1. Prénom seul, aucun accord nécessaire.
-- **29/08** — Miniature A retenue. Titre en version longue. Lien du guide remonté en ligne 2 de la description pour supprimer la friction. Description réécrite pour situer la vidéo et non la paraphraser — **ne pas y réintroduire le déroulé de la méthode**, les chapitres le donnent déjà.
+- **29/08** — **Publiée.** 36 vues et 4 likes en 28 minutes sans promo. Miniature A retenue. Titre en version longue. Lien du guide remonté en ligne 2 de la description pour supprimer la friction. Description réécrite pour situer la vidéo et non la paraphraser — **ne pas y réintroduire le déroulé de la méthode**, les chapitres le donnent déjà.
 
 ## Liens
 
