@@ -32,7 +32,13 @@ L'audience a été acquise sur « apprends un truc concret et impressionnant ».
 
 Et : **une seule vidéo sur 58 renvoie vers un lead magnet du funnel actuel.**
 
-**Question ouverte depuis le repositionnement d'Instagram (30/08/2026)** : le funnel décrit dans CLAUDE.md est « organique YouTube + Instagram → low-ticket ». Si Instagram devient une vitrine d'offres alimentée par autre chose, par quoi YouTube rejoint-il le funnel ? Non tranché — à poser à David, pas à décider.
+**Chantier ouvert — Instagram comme vitrine (30/08/2026).** David valide le principe du CTA vers le lead magnet, et pose le besoin : concevoir du **contenu organique Instagram** qui envoie vers trois destinations — le **lead magnet gratuit**, le **calendrier de prise de rendez-vous**, les **offres**. Rien n'est conçu, rien n'est planifié : c'est à voir.
+
+- Compte : https://www.instagram.com/david_marsac/ — 460 abonnés, 4 publications
+- Bio actuelle : « 🧠 Formateur impactant et Coach optimiste · 🏆 Champion du monde d'arts martiaux · ✨ Je vous aide à OSER et avoir CONFIANCE »
+- Lien en bio : **linktr.ee/dmarsac** — **feedback demandé par David, à faire plus tard** (capture reçue le 30/08, non analysée)
+
+Reste non tranché : le funnel de CLAUDE.md est « organique YouTube + Instagram → low-ticket ». Si Instagram bascule côté conversion, par quoi YouTube rejoint-il le funnel ? À poser à David.
 
 ## Notes & réflexions
 
