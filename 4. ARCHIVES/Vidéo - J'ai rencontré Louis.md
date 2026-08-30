@@ -15,11 +15,12 @@ ajoute: 2026-08-29
 
 > **Entrée unique du sujet.** Tout le pilotage est ici. Le texte du prompteur vit à part dans [[Mnemonaute Script - J'ai rencontré Louis]], parce qu'on l'ouvre seul en plein écran pendant le tournage.
 
-**Statut** : ✅ tournée le 28/08, **publiée le 29/08/2026**. Archivée le 30/08.
+**Statut** : ✅ tournée le 28/08, **publiée le 29/08/2026** → https://youtu.be/5Rs-CYZYEVg
+**Performance** : **1 600 vues en 17 h** — plus que les deux vidéos précédentes cumulées sur quatre mois. Archivée le 30/08.
 
 > ⚠️ **Deux choses n'étaient pas faites au moment de l'archivage** — elles ne meurent pas ici :
 > - le **`.srt`** à générer depuis le script (meilleur levier SEO de la vidéo)
-> - les **quatre posts réseaux** ci-dessous, rédigés et prêts, `[LIEN]` à remplacer — à étaler sur deux ou trois jours
+> - les **quatre posts réseaux** ci-dessous, rédigés et prêts, `https://youtu.be/5Rs-CYZYEVg` à remplacer — à étaler sur deux ou trois jours
 >
 > Tant qu'elles ne sont pas faites, la ligne reste dans `Etat actuel.md`.
 
@@ -118,7 +119,7 @@ Cité en passant sans être développé : [[Le palais de mémoire]], [[Le Grand 
 ## Diffusion réseaux (29/08/2026)
 
 Vidéo publiée. 36 vues et 4 likes en 28 minutes sans promo.
-Textes réécrits sur les directions de David. Remplacer `[LIEN]` par l'URL YouTube.
+Textes réécrits sur les directions de David. **Lien à coller : https://youtu.be/5Rs-CYZYEVg**
 **Ne pas publier les quatre le même jour** — étaler sur deux ou trois jours prolonge la fenêtre de test de YouTube.
 
 ### Facebook — page perso
@@ -131,7 +132,7 @@ Textes réécrits sur les directions de David. Remplacer `[LIEN]` par l'URL YouT
 >
 > Ce qu'on s'est dit ce jour-là pourra servir à bien d'autres, je l'espère.
 >
-> [LIEN]
+> https://youtu.be/5Rs-CYZYEVg
 
 ### Facebook — page Mnemonaute
 
@@ -143,7 +144,7 @@ Textes réécrits sur les directions de David. Remplacer `[LIEN]` par l'URL YouT
 >
 > Cette vidéo est le mode d'emploi.
 >
-> [LIEN]
+> https://youtu.be/5Rs-CYZYEVg
 
 ### Instagram
 

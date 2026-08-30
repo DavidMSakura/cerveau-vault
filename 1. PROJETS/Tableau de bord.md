@@ -30,7 +30,6 @@ kanban-plugin: board
 ## 💡 Backlog
 
 - [ ] **Ajouter le CTA du lead magnet aux 5 vidéos les plus vues** — 1,18 M de vues cumulées, une après-midi de travail #mnemonaute
-- [ ] **Série « enchaîner les méthodes »** — la vidéo Code de la route 2018 est déjà la démonstration complète, il y a un cas à remonter #mnemonaute
 - [x] **Note ADMIN** — migrer les secrets vers un gestionnaire de mots de passe, régénérer les deux tokens #securite
 
 

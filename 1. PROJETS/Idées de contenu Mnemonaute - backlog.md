@@ -33,18 +33,21 @@ Blocages déclarés par David : **le temps et les idées**. Ce document attaque 
 
 ---
 
-## A. La série « enchaîner les méthodes » — priorité 1
+## A. Enchaîner les méthodes — propositions de Doc, non validées
+
+> ⛔️ **Statut réel, arrêté le 30/08/2026.** David : *« il n'y a pas de série. J'ai pas parlé de protocole en cinq jours. »*
+> Ce qui suit n'a **jamais été validé** : ni la série, ni sa priorité, ni les quatre formats A1 à A4. Ce sont des propositions écrites par Doc.
+> Ce qui est vrai et vérifié, en revanche, c'est le **manque dans le corpus** décrit ci-dessous. Le constat tient ; ce qu'on en fait n'est pas décidé.
 
 **L'origine, et elle a un nom** : **Louis, 19 ans, étudiant en droit**, brillant, qui vient de rater sa première année à deux dixièmes (**9,80**) faute de méthode — « jusqu'à présent ça fonctionnait, maintenant ça ne fonctionne plus ». Il connaît Pomodoro mais ne sait pas l'appliquer. En lui détaillant un processus, David réalise que **personne n'enseigne l'enchaînement**.
 
-Son témoignage **fait la vidéo d'ouverture de la série, publiée le 29/08/2026** → [[Vidéo - J'ai rencontré Louis]] (archivée). La série, elle, reste ouverte : la suite est **le protocole en 5 jours**.
+Son témoignage est devenu la vidéo **publiée le 29/08/2026** → [[Vidéo - J'ai rencontré Louis]] (archivée) — https://youtu.be/5Rs-CYZYEVg, **1 600 vues en 17 h**. Elle se suffit à elle-même. Aucune suite n'est engagée.
 
 **Le manque, vérifié dans le corpus** : les 58 vidéos enseignent chacune une technique isolée. La seule qui parle d'articulation est *Quelle technique choisir* (2018, 7 400 vues) — et elle aide à **choisir une** technique, pas à **en enchaîner plusieurs dans le temps**. Un étudiant qui a tout regardé possède un arsenal et aucun mode d'emploi.
 
 **Et le plan existe déjà**, écrit par David lui-même : le **chapitre 9 du chemin de fer de [[Livre - Libérez votre mémoire]]** décrit exactement ça — « association de 3 méthodes : écrire puis synthétiser + mindmap + palais mental ». Il n'a jamais été filmé.
 
-### A1. « Réviser un partiel en 5 jours : le protocole complet »
-Le format long-métrage de la chaîne, le contenu pilier.
+### A1. « Réviser un partiel en 5 jours » — *idée Doc, non validée*
 
 - **J-5** : [[Lecture rapide]] sur tout le cours — double balayage, repérage des mots-clés, structure.
 - **J-4** : un [[Mind Mapping|mind map]] par chapitre, à partir de la prise de notes.
@@ -55,13 +58,13 @@ Le format long-métrage de la chaîne, le contenu pilier.
 **Cible** : lycéens, étudiants, candidats à concours. C'est le public naturel de la chaîne, et celui que David dit vouloir toucher (« tellement de public que je veux toucher sur les révisions »).
 **Funnel** : notoriété + lead magnet « le planning de révision » (PDF).
 
-### A2. « J'ai 20 minutes par jour pour apprendre : que faire ? »
+### A2. « J'ai 20 minutes par jour pour apprendre » — *idée Doc, non validée*
 Version courte, contrainte de temps, plus partageable.
 
-### A3. « Le protocole d'un adulte qui reprend ses études »
+### A3. « Le protocole d'un adulte qui reprend ses études » — *idée Doc, non validée*
 Même méthode, cible différente : reconversion, VAE, concours internes. Public plus solvable, plus proche des offres.
 
-### A4. La série de shorts « une technique, un cas »
+### A4. Shorts « une technique, un cas » — *idée Doc, non validée*
 Découpage des points de la vidéo pilier. Le format que David alimente déjà sur Instagram.
 
 ---

@@ -22,7 +22,8 @@ Le verbatim de chaque épisode est dans `~/Documents/Mnemonaute/Scripts/` (hors 
 | Période | 2016-04-04 → 2026-04-15 |
 
 > ⚠️ **Le relevé date du 16/08/2026 et n'inclut pas les publications postérieures.**
-> Depuis : **29/08/2026 — *Tu n'as pas un problème de mémoire. Tu as un problème de méthode.*** (59ᵉ vidéo) → [[Vidéo - J'ai rencontré Louis]]. URL, vues et durée à intégrer au prochain relevé.
+> Depuis : **29/08/2026 — [Tu n'as pas un problème de mémoire. Tu as un problème de méthode.](https://youtu.be/5Rs-CYZYEVg)** (59ᵉ vidéo) → [[Vidéo - J'ai rencontré Louis]].
+> **1 600 vues en 17 h**, sans promo — à ce rythme, le meilleur démarrage récent de la chaîne, et plus que les deux vidéos précédentes cumulées sur quatre mois.
 
 **Qualité des transcriptions** : ⚠️ = ancien moteur YouTube, sans ponctuation et avec des erreurs de reconnaissance (tout ce qui est ≤ 2022). ✅ = moteur récent, texte propre. ✖️ = aucun sous-titre disponible.
 

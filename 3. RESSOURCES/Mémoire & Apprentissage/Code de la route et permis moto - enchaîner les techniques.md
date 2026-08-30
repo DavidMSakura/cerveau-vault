@@ -11,7 +11,7 @@ tags:
 
 # Code de la route et permis moto — enchaîner les techniques
 
-**La démonstration la plus complète du catalogue.** Sur un seul examen, David utilise quatre techniques différentes selon la nature de ce qu'il a à retenir — mind map, table de rappel, palais de mémoire et une table de rappel improvisée. C'est exactement l'idée d'**enchaîner les méthodes** portée en priorité 1 dans [[Idées de contenu Mnemonaute - backlog]] et annoncée au chapitre 9 de [[Livre - Libérez votre mémoire]] : **elle a déjà été filmée en 2018, sans être nommée comme telle.**
+**La démonstration la plus complète du catalogue.** Sur un seul examen, David utilise quatre techniques différentes selon la nature de ce qu'il a à retenir — mind map, table de rappel, palais de mémoire et une table de rappel improvisée. C'est exactement l'idée d'**enchaîner les méthodes**, évoquée dans [[Idées de contenu Mnemonaute - backlog]] (section A, propositions non validées) et annoncée au chapitre 9 de [[Livre - Libérez votre mémoire]] : **elle a déjà été filmée en 2018, sans être nommée comme telle.**
 
 Source : *Code de la route et Permis moto faciles ?* (2018, 19:20, 23 102 vues) — https://youtu.be/5-DX6O6y5Zw
 

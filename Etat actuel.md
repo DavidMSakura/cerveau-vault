@@ -19,9 +19,12 @@
 
 ## 🔨 Chantiers actifs
 
-**Mnemonaute.** *Louis* est publiée et **archivée** (30/08) — il n'en reste que deux miettes, dans [[Vidéo - J'ai rencontré Louis]] : le `.srt` à générer depuis le script (meilleur levier SEO) et les **4 posts réseaux, prêts, à étaler sur 2-3 jours**.
+**Mnemonaute.** *Louis* est publiée et **archivée** (30/08) — il n'en reste que deux miettes, dans [[Vidéo - J'ai rencontré Louis]] : le `.srt` à générer depuis le script (meilleur levier SEO) et les **4 posts réseaux, prêts, à étaler sur 2-3 jours** (lien à coller : https://youtu.be/5Rs-CYZYEVg).
+**Perf : 1 600 vues en 17 h — plus que les deux vidéos précédentes cumulées sur quatre mois.**
 **Vidéo suivante : Gandhi.** Script restructuré et sourcé → [[Mnemonaute Script - Gandhi et le développement personnel]]. Découpé en deux vidéos (A = Gandhi et « mon monde », écrite ; B = le dev perso n'est pas égoïste, plan seul). ⚠️ Trois arbitrages attendent David : le titre face à la miniature déjà faite, le « tu » contre le « je vous embrasse », et **la correction du niveau RNCP**.
-👉 **Sujet de la prochaine session : les écrans de fin et Motion.** Suite de la série : le protocole en 5 jours.
+👉 **Sujet de la prochaine session : les écrans de fin et Motion.**
+
+> ⛔️ **Tranché le 30/08 : il n'y a pas de « série enchaîner les méthodes », et pas de « protocole en 5 jours ».** C'était une construction de Doc, jamais validée. Toute mention de cet ordre dans le backlog est une **proposition**, pas un engagement.
 
 **Cercle de Vérité.** Douze créas Meta chez **Anthony** — retours au RDV du 01/09. Le test Meta 200 € vient après : **ne pas le relancer**. Ouvert depuis le 08/08 : par quoi remplacer les 3 besoins que la sur-adaptation satisfait ? Upsell 1 **tranché** : prise neutre.
 

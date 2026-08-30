@@ -11,7 +11,8 @@ ajoute: 2026-08-25
 # Idée — « J'ai rencontré Louis »
 
 > ✅ **Idée consommée** : devenue [[Vidéo - J'ai rencontré Louis]], publiée le 29/08/2026.
-> Ce qu'elle a ouvert reste vivant : la **série « enchaîner les méthodes »**, dont la suite est *le protocole en 5 jours* → [[Idées de contenu Mnemonaute - backlog]].
+> **1 600 vues en 17 h** — plus que les deux vidéos précédentes cumulées sur quatre mois.
+> ⛔️ Aucune suite n'est engagée : la « série enchaîner les méthodes » n'a jamais été validée par David (tranché le 30/08/2026).
 
 ## Le témoignage
 
@@ -37,7 +38,7 @@ Sa phrase, à garder telle quelle :
 
 ## Ce que ça ouvre
 
-Cette vidéo est **la porte d'entrée de la série « enchaîner les méthodes »**, priorité 1 du [[Idées de contenu Mnemonaute - backlog|backlog]] — et c'est cohérent, puisque **c'est la rencontre avec Louis qui a fait naître cette série**. En lui détaillant un processus, David a réalisé que personne n'enseigne l'enchaînement des méthodes.
+En détaillant un processus à Louis, David a constaté que **personne n'enseigne l'enchaînement des méthodes** — les 58 vidéos de la chaîne en enseignent chacune une, isolément. Le constat est vérifié et il tient. Il n'engage aucune suite : voir [[Idées de contenu Mnemonaute - backlog]], section A, dont le statut a été corrigé le 30/08/2026.
 
 Le témoignage pose le problème ; **« Réviser un partiel en 5 jours : le protocole complet »** y répond. Les deux se suivent naturellement.
 
