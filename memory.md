@@ -741,3 +741,95 @@ Trois pièges rencontrés, réglés dans les scripts : imaplib encode les recher
 - **Journal du cron notes iOS + Kanban** à vérifier le 01/09.
 - **L'installation de Steph n'a toujours pas commencé.**
 - **Sakura** : contenu différencié des deux niveaux.
+
+---
+
+## 2026-08-30 — Louis publiée, deux routines mail au lieu d'une, et les audios manquants du Cercle
+
+Session longue étalée sur le 28, le 29 et le 30 août.
+
+### La vidéo « J'ai rencontré Louis » — de l'idée à la publication
+
+**Note de pilotage unique** : `1. PROJETS/Vidéo - J'ai rencontré Louis.md` ([[Vidéo - J'ai rencontré Louis]]). Elle centralise titre, miniature, description, posts réseaux, checklist et décisions. Le texte du prompteur reste séparé dans [[Mnemonaute Script - J'ai rencontré Louis]] — décision de conception : c'est le document qu'on ouvre seul en plein écran pendant le tournage.
+
+**Les 2,8 Go de médias restent hors du vault**, dans `~/Documents/Mnemonaute/Rentree - Louis pas de methode/`. La note pointe vers le dossier. Ne jamais faire entrer de rushes dans Obsidian.
+
+**Décisions tranchées :**
+- **Le test des villes d'Australie est placé AVANT la méthode.** Argument de David : « ils se rendront compte qu'ils sont en difficulté, donc ils seront preneurs de la solution qui arrive ensuite. Sinon on retombe dans le biais de confirmation. » Sa construction en trois temps (affirmer la liste → demander de la produire → révéler que Canberra en était absente) est meilleure que les deux versions que j'avais proposées : elle ajoute un troisième niveau, on ne voit pas ses propres trous.
+- **« Il n'a rien foutu » conservé**, ce sont les mots de Louis. David y tient : « c'est du langage courant, j'y suis très attaché. »
+- **L'inquiétude de Louis est nommée explicitement** — « il ne sait pas où chercher ». Point d'identification du spectateur.
+- **Pas de mention de la boîte de Leitner.**
+- **Prénom seul, aucun accord nécessaire** : pas de nom de famille, pas de lieu. Bonjour à Louis dès la partie 1.
+- **Titre retenu : « Tu n'as pas un problème de mémoire. Tu as un problème de méthode. »** — David a préféré sa version longue (65 caractères) à ma variante courte, malgré le risque de troncature sur mobile.
+- **Miniature : piste A** — « 9,8/20 » + « Le talent ne suffit plus », visage à gauche, doigt pointé. Fichier conforme : `Rentree_tn_YouTube.jpg`, 1920×1080, 702 Ko. L'original PNG faisait 2,4 Mo et **dépassait la limite YouTube de 2 Mo**.
+- **La description situe la vidéo, elle ne la raconte pas.** Correction de David : « je voudrais une description qui soit une description, et pas une paraphrase de la vidéo. » Le déroulé de la méthode en a été retiré — ne pas le réintroduire, les chapitres le donnent déjà.
+- **Lien du guide en ligne 2 de la description**, pour supprimer la friction. URL confirmée : **https://www.davidmarsac.com/guide-offert** (consignée aussi dans [[Systeme.io - templates lead magnet et tunnel de vente]], où la mention « jamais encore utilisé » était fausse).
+
+**Mon erreur, et David a été net : « c'est in-ter-dit ça. Interdit. »** J'ai écrit 1 900 mots de script après seulement deux questions fermées portant sur des options que j'avais moi-même définies, alors qu'il venait d'annoncer avoir un feedback à donner. [[feedback_questions_avant_production]] a été durci en conséquence : aucun livrable créatif avant que David ait parlé, et son feedback annoncé se recueille en premier.
+
+**Le script final est une fusion**, et son brouillon était meilleur que le mien sur l'essentiel : il montrait les capacités de Louis au lieu de les affirmer, faisait la double lecture du 9,8, nommait l'erreur « je ne suis pas si intelligent que ça », et surtout tenait le passage passion-contre-cours — « si je retiens des centaines d'infos sur un jeu vidéo, le problème n'est pas ma mémoire ». J'ai réinjecté cinq blocs manquants : la formule des bulletins, la promesse d'une matinée, Pomodoro sans mode d'emploi et les soixante vidéos, la citation complète, le CTA.
+
+**Publiée.** 36 vues et 4 likes en 28 minutes sans promo.
+
+**Posts réseaux rédigés sur ses directions**, dans la note hub. Une formule est de lui et vaut d'être gardée : « je vous ai donné une boîte à outils complète, sans mode d'emploi. Cette vidéo est le mode d'emploi. »
+
+**Écarté** : son idée d'ouvrir le post LinkedIn par « Article garanti sans IA ». Le post étant co-rédigé, la mention serait fausse. Remplacée par « Cette vidéo ne sort pas d'un prompt. Elle sort d'une conversation avec un garçon de 19 ans. » — même intention, porte sur le fond, et c'est vrai.
+
+**Reste à faire sur cette vidéo** : générer le fichier `.srt` à partir du script (meilleur levier de référencement disponible, la matière existe déjà), et poser les écrans de fin sur le lot « méthode » du catalogue — pas sur les soixante vidéos, la pertinence thématique prime sur le volume.
+
+### Deux routines mail tournaient en parallèle
+
+La cause des brouillons en double n'était pas un défaut de prompt : **il y avait deux routines cloud**. « Veille boîte mail — Doc » (`trig_01PHwoiyAPmAaQmr6HUxfDDJ`, 8h/12h/17h, créée le 27/08) et **« Tri email + brouillons » (`trig_01UAHKD2jySUGKEVmdfef333`, créée le 03/08/2026, 8h/14h)**, oubliée. Le 28/08 elles ont tiré à 47 secondes d'écart : chacune a bien vérifié les brouillons existants, mais l'autre n'avait pas encore écrit.
+
+**« Tri email + brouillons » a été désactivée** (`enabled: false`). Pas supprimée — impossible depuis l'API, ça se fait sur claude.ai/code/routines. Choisie parce qu'elle n'avait pas le connecteur Agenda, que ses `allowed_tools` incluaient Write, WebFetch, WebSearch et l'exécution de code pour un travail de lecture de mails, et qu'elle s'interdisait tout classement — politique contradictoire avec l'autre sur la même boîte.
+
+**Prompt de la routine survivante réécrit** : compte rendu envoyé par mail à david.marsac1@gmail.com, objet `[Doc] Récap veille mail — JJ/MM HHhMM`, seule exception à l'interdiction d'envoyer ; elle ignore ses propres récaps ; anti-doublon renforcé ; « Nathalie Durieux » corrigé en **Näns Durieux** ; Elisabeth Roche Cornillon, Pascaline Zabardi, Stéphie Rakoto et Anthony Lascostes ajoutés aux interlocuteurs. **Premier récap reçu le 28/08 à 10h15.**
+
+**David valide les classements automatiques**, à condition d'en être informé. Le mail d'Elisabeth classé sous `Formation/Olivier Clovis` est cohérent : il l'a rencontrée par Olivier Clovis.
+
+### Cercle de Vérité — l'état de production du bump et des upsells
+
+⚠️ **Aucun audio n'a jamais été enregistré**, confirmé par David : « les seules audios que j'ai sont les mp3 des vidéos Sakura que j'ai mises à disposition en audio. » Les trois audios prévus à la to-do du tunnel sont donc tous à produire. Détail dans [[Cercle de Vérité]].
+
+- **Upsell 1 — tranché.** Aucune vidéo à 39 €, les prises existent à 17, 27, 47 et 57 €. **On diffuse `Upsell1 neutre 0 prix.mp4`**, le prix n'apparaissant que sur la page. Pas de retournage. Question close.
+- **Order bump (15 Scripts Anti-Craquage) — le maillon faible.** Seul le PDF existe. Manquent l'audio de 15 min, la vidéo de 20 min, et **un mockup produit** : les deux upsells ont le leur, pas lui. Ne pas confondre avec `Mockups 10 scripts.png`, qui est le cadeau 1 du front-end.
+- **Upsell 2 — le plus complet.** Reste l'audio de l'exercice guidé, dont le script est déjà écrit.
+- **Vérification à faire** : passer une commande test dans le tunnel pour voir ce qu'un acheteur reçoit réellement, avant tout budget Meta.
+
+### Sinistre dégât des eaux — LMNP vendu
+
+Dossier **Cardif IARD n° 267 K 15422 J**. Réponse préparée dans `~/Documents/Immo/Vente LMNP/Reponse Cardif - sinistre 267K15422J.md`.
+
+- Assureur du LMNP : **Cardif IARD (BNP Paribas)**, contrat Propriétaire Non Occupant n° 196000012428L81. Pas Allianz — Allianz, c'est l'auto.
+- Syndic : **Lamy Lyon Syndic Vaise II**, copropriété « Henry Bertrand », lot 399, 56/1000es. Gestionnaire **David Juquel**, DJUQUEL@lamy-immobilier.fr, 04 72 74 50 20.
+- **Assurance de la copropriété : ALLIANZ, courtier BÉLIER ASSURANCES**, police « MRI / 9B » — trouvée dans le carnet d'entretien Lamy, section « Assurance du syndicat ». Numéro non transmis à Cardif car anormalement court.
+- David a choisi de renvoyer Cardif vers le syndic pour les données d'assurance manquantes plutôt que de les chercher lui-même.
+- ⚠️ **Deux anomalies au constat amiable**, signalées et non résolues : la date du dégât porte **04/2021** alors que le constat est signé le 25/08/2026 (risque de prescription biennale, art. L114-1), et la case « avez-vous subi des dommages ? » est cochée **non** sur les trois exemplaires. David : cette date lui servait à tracer un historique auprès du notaire.
+- **Mon erreur** : j'ai affirmé que Cardif imposait de répondre par l'Espace Client. Le pied de page le recommande, mais `gestion-sinistres@gestion-cardif-iard.fr` est une vraie boîte.
+
+### Veille crypto ajoutée à la veille placements
+
+Bloc ajouté à [[Veille hebdomadaire portefeuille Trade Republic]]. **David est intégralement cash sur les cryptos**, après avoir réalisé un **x10 sur un cycle précédent — 10 000 € devenus 100 000 €**. Ce n'est donc pas un suivi de position mais une veille de fenêtre d'entrée.
+
+Univers nominatif : **BTC · ETH · BNB · XRP · SOL · ADA · AVAX · ZEC · CRO**. Le top 10 CoinMarketCap ne définit pas l'univers, il sert de détecteur — ZEC et CRO en sont absents.
+
+Ce qu'il attend : **la lecture de phase, pas le relevé de cours**. Taxonomie fixe de six états, et un garde-fou : l'*hyper climax run* doit être nommé comme un signal de sortie, jamais comme une entrée. Source suivie : **Cédric Froment sur YouTube, qui publie le samedi** — le briefing du lundi peut l'intégrer frais. Son analyse doit toujours être attribuée, et la lecture chiffrée indépendante maintenue même quand elle le contredit.
+
+Comme le bloc ETF, **c'est une spécification à implémenter côté serveur** dans `briefing.js`, hors périmètre de l'instance Mac.
+
+### Divers
+
+- **Architecture des boîtes mail** clarifiée, consignée en mémoire longue. Seules `mnemonaute1@gmail.com` et `dmarsac@sherpa-consulting.com` sont candidates à une connexion ; les deux Hotmail sortent. Demandé « no rush », rien n'a été configuré.
+- **Arnaque déjouée** : faux partenariat Maono reçu le 08/07 sur la chaîne, expéditeur réel `adrian.yarlow560@wp.pl` — webmail gratuit polonais. Schéma classique de vol de compte YouTube. A donné une idée de contenu, ajoutée au tableau : « On m'a flatté pour entrer chez moi ».
+- **Cadrage Radiance** : vendredi **4 septembre 11h15–11h45**, Teams, organisé par Näns Durieux avec quatre personnes de Radiance. Aucune collision avec la tripartite CFF de 14h. David a répondu à Maori le 28/08 à 10h17.
+- **Vols Canaries, 12→19 décembre** : ces deux dates sont des **samedis**, et le direct Lyon–Ténérife (easyJet) ne vole pas ce jour-là. Décaler au **vendredi 11 → vendredi 18** évite aussi la vague tarifaire de Noël. Volotea facture le bagage cabine 9–10 € contre 50 € chez easyJet ; une soute unique partagée fait gagner 60 €. David a déjà fait Ténérife l'an dernier — **Gran Canaria** est la piste retenue à explorer, le Roque Nublo (1 950 m) étant accessible en décembre contrairement au Teide.
+
+### Réglé juste après la clôture (30/08)
+
+- **Feuilles d'émargement CFF envoyées** — les quatre manquantes (Khom ×2, Laila séance 2, Christelle) sont parties.
+- **Nathalie Feugeas a eu sa réponse** sur le distanciel/présentiel des séances.
+- **Réponse envoyée à Cardif** sur le sinistre 267 K 15422 J. Les deux anomalies du constat — date 04/2021 et case « dommages » cochée non — n'ont pas été corrigées ; David a choisi de ne pas y toucher. Si l'assureur les soulève plus tard, l'historique est ici.
+- **Vol Canaries réservé** (île et dates non communiquées).
+- **Vidéo Louis en ligne.**
+
+**Reporté à la session suivante** : les **écrans de fin** YouTube et **Motion**.
