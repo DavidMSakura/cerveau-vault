@@ -116,11 +116,14 @@ Cité en passant sans être développé : [[Le palais de mémoire]], [[Le Grand 
 
 **Le sujet de fond** — l'enchaînement des techniques plutôt qu'une technique isolée — se rattache à [[Choisir sa technique - l'arbre de décision]] et surtout à [[Code de la route et permis moto - enchaîner les techniques]], seul précédent du corpus où plusieurs méthodes sont réellement enchaînées. Le manque est documenté dans [[Corpus Mnemonaute - toutes les techniques]] et [[Catalogue des vidéos Mnemonaute]] : les 58 vidéos enseignent chacune une technique, aucune ne donne l'ordre.
 
-## Diffusion réseaux (29/08/2026)
+## Diffusion réseaux — ✅ faite le 30/08/2026
 
-Vidéo publiée. 36 vues et 4 likes en 28 minutes sans promo.
+**Publiés le 30/08** : Facebook perso, Facebook Mnemonaute, LinkedIn.
+**Instagram : volontairement écarté.** Le compte est désormais la **vitrine Sakura / Cercle de Vérité**, plus le relais de la chaîne. Le texte reste ci-dessous pour mémoire, il ne sera pas publié.
+
+*(À la publication : 36 vues et 4 likes en 28 minutes sans promo. Puis 1 600 vues en 17 h.)*
 Textes réécrits sur les directions de David. **Lien à coller : https://youtu.be/5Rs-CYZYEVg**
-**Ne pas publier les quatre le même jour** — étaler sur deux ou trois jours prolonge la fenêtre de test de YouTube.
+*(La consigne initiale disait d'étaler sur deux ou trois jours. Elle ne s'applique pas à une vidéo qui décolle : le trafic externe des 48 premières heures est ce que la plateforme regarde. Les trois sont partis le 30/08.)*
 
 ### Facebook — page perso
 
@@ -146,7 +149,7 @@ Textes réécrits sur les directions de David. **Lien à coller : https://youtu.
 >
 > https://youtu.be/5Rs-CYZYEVg
 
-### Instagram
+### Instagram — ❌ non publié (vitrine Sakura / CdV)
 
 > Tu vas bientôt rentrer ?
 >

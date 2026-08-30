@@ -65,7 +65,7 @@ Version courte, contrainte de temps, plus partageable.
 Même méthode, cible différente : reconversion, VAE, concours internes. Public plus solvable, plus proche des offres.
 
 ### A4. Shorts « une technique, un cas » — *idée Doc, non validée*
-Découpage des points de la vidéo pilier. Le format que David alimente déjà sur Instagram.
+Découpage des points de la vidéo pilier. ⚠️ Depuis le 30/08/2026, Instagram est la vitrine Sakura / CdV — ces découpages n'y ont plus leur place par défaut.
 
 ---
 

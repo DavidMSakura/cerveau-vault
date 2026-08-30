@@ -13,7 +13,7 @@
 
 ## Plateformes actives
 - **YouTube** — *David Marsac - Mnemonaute : la chaîne de la mémoire* — ~50 000 abonnés, **58 vidéos**, **1,89 M de vues cumulées** (2016 → 2026). Catalogue complet : [[Catalogue des vidéos Mnemonaute]]
-- **Instagram** — découpages YouTube + vidéos indépendantes
+- **Instagram** — ⚠️ **repositionné le 30/08/2026 : c'est désormais la vitrine [[Sakura]] / [[Cercle de Vérité]]**, plus le relais de la chaîne. Les découpages YouTube n'y vont plus par défaut. *(CLAUDE.md décrit encore l'ancien usage — à corriger.)*
 - **Lives** — ateliers gratuits, souvent le dimanche à 18 h, avec redirection vers un groupe WhatsApp privé
 - Piste évoquée en 2025, non tranchée : TikTok
 
@@ -31,6 +31,8 @@ Les 5 vidéos les plus vues (1,18 M de vues sur 1,89 M) sont toutes des **applic
 L'audience a été acquise sur « apprends un truc concret et impressionnant ». Le pivot vers la confiance ne passe pas en abandonnant la promesse concrète — il passe en la gardant en surface (titre, miniature, 8 premières secondes) et en plaçant le mindset dedans.
 
 Et : **une seule vidéo sur 58 renvoie vers un lead magnet du funnel actuel.**
+
+**Question ouverte depuis le repositionnement d'Instagram (30/08/2026)** : le funnel décrit dans CLAUDE.md est « organique YouTube + Instagram → low-ticket ». Si Instagram devient une vitrine d'offres alimentée par autre chose, par quoi YouTube rejoint-il le funnel ? Non tranché — à poser à David, pas à décider.
 
 ## Notes & réflexions
 

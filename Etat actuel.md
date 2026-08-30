@@ -19,8 +19,7 @@
 
 ## 🔨 Chantiers actifs
 
-**Mnemonaute.** *Louis* est publiée et **archivée** (30/08) — il n'en reste que deux miettes, dans [[Vidéo - J'ai rencontré Louis]] : le `.srt` à générer depuis le script (meilleur levier SEO) et les **4 posts réseaux, prêts, à étaler sur 2-3 jours** (lien à coller : https://youtu.be/5Rs-CYZYEVg).
-**Perf : 1 600 vues en 17 h — plus que les deux vidéos précédentes cumulées sur quatre mois.**
+**Mnemonaute.** *Louis* est **publiée, diffusée et archivée** → https://youtu.be/5Rs-CYZYEVg — **1 600 vues en 17 h**, plus que les deux vidéos précédentes cumulées sur quatre mois. Posts partis sur Facebook perso, Facebook Mnemonaute et LinkedIn. **Instagram écarté volontairement.** `.srt` refusé — sous-titres laissés à YouTube ou générés dans Final Cut, à trancher.
 **Vidéo suivante : Gandhi.** Script restructuré et sourcé → [[Mnemonaute Script - Gandhi et le développement personnel]]. Découpé en deux vidéos (A = Gandhi et « mon monde », écrite ; B = le dev perso n'est pas égoïste, plan seul). ⚠️ Trois arbitrages attendent David : le titre face à la miniature déjà faite, le « tu » contre le « je vous embrasse », et **la correction du niveau RNCP**.
 👉 **Sujet de la prochaine session : les écrans de fin et Motion.**
 
