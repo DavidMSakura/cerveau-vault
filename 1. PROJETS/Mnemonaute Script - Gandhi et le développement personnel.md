@@ -816,6 +816,19 @@ Et je vais te laisser avec la question qui accompagne cette chaîne depuis longt
 | 2 | **Gandhi n'a jamais dit ça (et la vraie phrase change tout)** | Le plus fort en clic, mais il promet une enquête là où tu livres un récit. |
 | 3 | **Cette phrase de Gandhi m'a fait me sentir comme une merde pendant 20 ans** | Ton cold open. Le plus honnête, le plus risqué — et le juron en titre coupe la monétisation à coup sûr. |
 
+## B-roll — constitué le 30/08
+
+**Hors vault** : `~/Documents/Mnemonaute/Gandhi vs. Dev perso/B-roll/` — 51 fichiers, 54 Mo.
+Le plan complet, section par section, est dans `00 - LISEZ-MOI - plan de B-roll.md` à la racine du dossier.
+
+- **26 cartons texte 1920×1080 fabriqués sur mesure** (anthracite/crème, accent jaune) — les citations, les trois questions, les trois dérives, l'inversion du sens, la date. Aucun droit, ils sont à toi.
+- **15 photos de Gandhi** dont la série sud-africaine de **1913**, l'année exacte du texte cité, et Gandhi étudiant à Londres.
+- La une d'*Indian Opinion* et une publicité du journal de 1910.
+- **Gourou** : affiche, 5 portraits de Niney, bande-annonce, teaser et l'interview Niney/Gozlan/Barbeau — **360p seulement**, YouTube bloque le HD. Liens HD dans le LISEZ-MOI.
+- Huit prompts IA prêts pour ce qui manque (mug, tee-shirt, rayon librairie, le moule, le ricochet…).
+
+⚠️ **Rien n'a été filtré côté droits** : c'est un dossier de repérage. Seuls les Gandhi sont libres.
+
 ## Description YouTube
 
 À écrire une fois le titre arbitré. Structure éprouvée sur [[Mnemonaute Script - J'ai rencontré Louis]] : situer sans paraphraser, **guide en ligne 2**, chapitres, question en commentaire, hashtags.
