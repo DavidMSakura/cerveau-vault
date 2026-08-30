@@ -49,15 +49,17 @@ Tu as aussi supprimé le « depuis trois ans » à l'IAE : plus de chiffre à v�
 
 ## ⚠️ Deux choses traînent depuis quatre passes
 
+*(La signature de fin est tranchée : voir plus bas.)*
+
 ### 1. « 17 ans » et « Instagram »
 
 1995 contre 2010. Un mot : *« … dans des bouquins, **et aujourd'hui** sur Instagram. »*
 
-### 2. Le CTA, et ta signature qui n'est jamais revenue
+### 2. Le CTA
 
-Le CTA n'a pas bougé depuis la V2 : cinq appels, dont la vidéo sur les peurs qui fait doublon avec le guide et envoie le spectateur ailleurs juste avant ton lien. Et depuis la V3, tu finis sur ta question signature sans dire au revoir — plus de « je t'embrasse très fort, à bientôt ».
+Inchangé depuis la V2 : cinq appels, dont la vidéo sur les peurs qui fait doublon avec le guide et envoie le spectateur ailleurs juste avant ton lien.
 
-Si c'est un choix, dis-le et je n'en reparle plus.
+> ✅ **Tranché le 30/08 : la vidéo se termine sur la catchphrase historique, point.** *« Et toi, c'est quand la dernière fois que tu as fait quelque chose pour la première fois ? »* Pas de « je t'embrasse », pas d'au revoir — ce n'est pas la signature de la chaîne. Sujet clos.
 
 > Si ce que je viens de raconter te parle, j'ai écrit un petit guide sur nos peurs — sur ce qui nous empêche d'agir, même quand on a très bien compris ce qui se joue. Il est gratuit, il est juste en dessous. Commence par là.
 >
@@ -66,8 +68,6 @@ Si c'est un choix, dis-le et je n'en reparle plus.
 > Dis-moi en commentaire ce que cette vidéo provoque chez toi. Je lis tout — je reçois encore des messages sur des vidéos qui ont dix ans. Le ricochet, il est aussi là. Merci pour ça.
 >
 > Et toi, c'est quand la dernière fois que tu as fait quelque chose pour la première fois ?
->
-> Je t'embrasse très fort. À bientôt.
 
 ### Et une décision qui reste ouverte
 
@@ -774,7 +774,7 @@ alors peut-être qu'au fond...
 
 ## CTA / FIN
 
-> 🟠 *Version resserrée plus haut. Ce qui saute : la vidéo sur les peurs. Et la signature de fin manque depuis la V3.*
+> 🟠 *Version resserrée plus haut. Ce qui saute : la vidéo sur les peurs. La fin sur la catchphrase est la bonne — ne rien ajouter derrière.*
 
 Si cette question de la peur, de ce qui m'empêche parfois d'agir même quand j'ai compris ce qui se joue, t'intéresse, j'ai fait une vidéo spécifiquement là-dessus.
 
