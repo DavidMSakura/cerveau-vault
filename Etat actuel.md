@@ -20,7 +20,7 @@
 ## 🔨 Chantiers actifs
 
 **Mnemonaute.** *Louis* est **publiée, diffusée et archivée** → https://youtu.be/5Rs-CYZYEVg — **1 600 vues en 17 h**, plus que les deux vidéos précédentes cumulées sur quatre mois. Posts partis sur Facebook perso, Facebook Mnemonaute et LinkedIn. **Instagram écarté volontairement.** `.srt` refusé — sous-titres laissés à YouTube ou générés dans Final Cut, à trancher.
-**Vidéo suivante : Gandhi.** Script restructuré et sourcé → [[Mnemonaute Script - Gandhi et le développement personnel]]. Découpé en deux vidéos (A = Gandhi et « mon monde », écrite ; B = le dev perso n'est pas égoïste, plan seul). ⚠️ Trois arbitrages attendent David : le titre face à la miniature déjà faite, le « tu » contre le « je vous embrasse », et **la correction du niveau RNCP**.
+**Vidéo suivante : Gandhi.** Script **complet, prêt à lire** → [[Mnemonaute Script - Gandhi et le développement personnel]]. Tranché le 30/08 : angle « le monde, c'est mon monde », **une seule vidéo** de 14-16 min, tout dedans (Gandhi + la défense du dev perso et du métier de coach). ⚠️ Avant de tourner : **corriger le niveau RNCP** (« niveau II » n'est pas un master 2 — ne pas donner d'équivalence), arbitrer le **titre** face à la miniature déjà faite, et trancher le **« tu » contre le « je vous embrasse »**.
 👉 **Sujet de la prochaine session : les écrans de fin et Motion.**
 
 > ⛔️ **Tranché le 30/08 : il n'y a pas de « série enchaîner les méthodes », et pas de « protocole en 5 jours ».** C'était une construction de Doc, jamais validée. Toute mention de cet ordre dans le backlog est une **proposition**, pas un engagement.
