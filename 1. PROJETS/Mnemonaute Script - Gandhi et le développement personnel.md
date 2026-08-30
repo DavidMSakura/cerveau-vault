@@ -4,46 +4,60 @@ tags:
   - mnemonaute
   - developpement-personnel
   - confiance-en-soi
-statut: V4 — prêt à tourner, trois broutilles restantes
+statut: V5 — prêt à tourner, deux broutilles restantes
 formats: vidéo
 ajoute: 2026-08-30
 ---
 
 # Script — Gandhi vs le développement personnel
 
-**V4 de David, 30/08/2026.** Le script est bon. Ce qui reste tient en trois lignes.
+**V5 de David, 30/08/2026.** Version de tournage.
 
 ---
 
-## Les deux corrections majeures sont réglées — mieux que ce que je proposais
+## Le remaniement central : les trois dérives
 
-**Sur Niney.** Ta formule *« aucun diplôme n'est obligatoire ne veut pas dire aucun diplôme n'existe »* est chirurgicale : tu lui donnes raison sur le fait et tort sur la conclusion, en une phrase, sans t'énerver. Et tes trois questions battent les miennes — *où t'es-tu formé, es-tu certifié, es-tu supervisé* : la **supervision** est un vrai marqueur de métier que je n'avais pas vu, et l'aveu qui suit (« ça ne garantit pas que ce soit un bon coach, mais ça donne des informations ») est ce qui te rend crédible. Un argument qui reconnaît ses limites convainc plus qu'un argument fermé.
+Tu as fondu **Personnel ne veut pas dire égoïste** + **La suradaptation** + **La fausse opposition** en une seule section, et tu as trouvé l'architecture qui manquait :
 
-**Sur la chute.** Tu as trouvé le bouclage que je n'avais pas : *« pendant des années j'ai cru qu'il fallait choisir : travailler sur moi ou agir sur le monde. Alors que Gandhi écrivait déjà, en 1913, que les deux étaient liés. »* Ça referme **La fausse opposition** trente lignes plus haut, et ça fait tenir la vidéo entière d'un bloc. Et le dernier mouvement — « si ça produit un ricochet… alors peut-être qu'au fond, c'est exactement comme ça qu'on change le monde » — retourne le titre. Ma version s'arrêtait à « tu ne changeras pas le monde ». La tienne va au bout.
+1. l'**enrichissement personnel** — tout tourne autour de ce que je gagne, possède, affiche
+2. le **développement solitaire** — je m'occupe tellement de moi que j'oublie que je vis avec les autres
+3. **la troisième, dont on parle beaucoup moins** — la suradaptation. *« Et celle-là, je suis tombé dedans à pieds joints. »*
+
+En V4, la suradaptation arrivait comme une idée isolée. Ici elle est la troisième d'une liste, celle que personne ne cite, et tu t'y mets dedans toi-même. Une idée neuve présentée en troisième position derrière deux idées connues, c'est le meilleur emplacement possible — le spectateur a validé les deux premières, il te suit sur la troisième.
+
+**Deux autres remaniements réussis :**
+
+- **La transition vers le tampon** : *« Et je le sais d'autant mieux que moi-même, je suis entré en école de coaching pour de très mauvaises raisons. »* Tu passes d'un argument d'autorité à un aveu — c'est un hameçon, plus une charnière.
+- **La chute de la section coach** : *« entre le type qui s'est autoproclamé coach hier et quelqu'un qui a travaillé sa posture pendant des années, il y a peut-être deux-trois nuances »* remplace « je suis plutôt bien placé pour dire… ». Plus drôle, moins auto-glorifiant, et ça dit exactement la même chose.
+
+Tu as aussi supprimé le « depuis trois ans » à l'IAE : plus de chiffre à vérifier. Bien vu.
 
 ---
 
-## ✅ Ta date est bonne
+## Sur les coupes
 
-**9 août 1913**, *Indian Opinion* — vérifié. Le texte figure dans les *Collected Works of Mahatma Gandhi*, volume XII, page 158.
+**Le bloc Cercle de Vérité a disparu — et c'est défendable.** Je te proposais de le déplacer, tu l'as supprimé. Ta chute arrive maintenant sans aucun virage commercial, et elle y gagne. Le chemin vers l'offre existe toujours : il passe par le guide, qui est l'entrée du funnel. Tu as arbitré l'émotion contre la mention d'offre. C'est le bon arbitrage sur cette vidéo-là.
 
-**Et il y a un détail que tu ne connais pas encore, qui vaut de l'or.** Ce passage n'est pas tiré d'un discours ni d'un texte politique. Il vient d'une chronique intitulée ***General Knowledge About Health***, et plus précisément d'une section sur les **accidents et les morsures de serpent**.
+**Deux pertes, dont une que je récupérerais :**
 
-La phrase la plus citée du développement personnel mondial vient d'un article de vulgarisation sanitaire, entre deux conseils sur ce qu'il faut faire quand on se fait mordre par un serpent. Si tu veux une respiration comique juste avant ton passage le plus grave, elle est là.
+- 🔴 **Franck Lopvet et David Laroche ont sauté.** Tu écris maintenant « on reproche parfois ». C'est vague, et ça te fait perdre ton meilleur signal d'honnêteté : citer nommément des gens que tu apprécies et qui critiquent le milieu, c'est ce qui prouve que tu n'es pas en train de défendre ta boutique. Une ligne suffit à la récupérer : *« Et certaines critiques sont justifiées — même des gens que j'apprécie beaucoup, comme Franck Lopvet ou David Laroche, questionnent certaines dérives. »*
+- 🟡 *« Si mon développement n'est pas personnel, il est quoi ? »* est parti aussi. Bonne formule, mais elle faisait doublon avec « partir de moi ≠ ne penser qu'à moi », qui est plus forte. Coupe justifiée.
 
-*(Précision si tu veux être irréprochable : Gandhi a écrit ce texte **en gujarati**. La version anglaise « We but mirror the world » est la traduction officielle de ses œuvres complètes. Tu peux le dire en trois mots, ou ne rien changer — personne ne te reprendra là-dessus.)*
+**Ce que tu as raccourci sans rien perdre** : l'écart en ouverture, la portion privilégiée (une phrase au lieu de quatre), le bloc « pourquoi je fais Mnémonaute » — repris de toute façon dans le CTA.
 
 ---
 
-## Ce qui reste — trois broutilles et une alerte
+## ⚠️ Deux choses traînent depuis quatre passes
 
-### 🟡 1. « 17 ans » et « Instagram » (troisième passage)
+### 1. « 17 ans » et « Instagram »
 
-1995 contre 2010. Un mot : *« Sur des mugs, des tee-shirts, dans des bouquins, **et aujourd'hui** sur Instagram. »*
+1995 contre 2010. Un mot : *« … dans des bouquins, **et aujourd'hui** sur Instagram. »*
 
-### 🟠 2. Le CTA, et ta signature toujours disparue
+### 2. Le CTA, et ta signature qui n'est jamais revenue
 
-Cinq appels. Le rendez-vous reste, tu l'as voulu. **Ce qui saute, c'est la vidéo sur les peurs** — doublon avec le guide, et elle envoie le spectateur ailleurs juste avant ton lien. Et « je t'embrasse très fort, à bientôt » manque depuis la V3 : tu finis maintenant sur ta question signature, sans au revoir.
+Le CTA n'a pas bougé depuis la V2 : cinq appels, dont la vidéo sur les peurs qui fait doublon avec le guide et envoie le spectateur ailleurs juste avant ton lien. Et depuis la V3, tu finis sur ta question signature sans dire au revoir — plus de « je t'embrasse très fort, à bientôt ».
+
+Si c'est un choix, dis-le et je n'en reparle plus.
 
 > Si ce que je viens de raconter te parle, j'ai écrit un petit guide sur nos peurs — sur ce qui nous empêche d'agir, même quand on a très bien compris ce qui se joue. Il est gratuit, il est juste en dessous. Commence par là.
 >
@@ -55,20 +69,18 @@ Cinq appels. Le rendez-vous reste, tu l'as voulu. **Ce qui saute, c'est la vidé
 >
 > Je t'embrasse très fort. À bientôt.
 
-### 🟡 3. Le bloc Cercle de Vérité avant la chute
+### Et une décision qui reste ouverte
 
-Ton *« Et maintenant, je peux enfin revenir à Gandhi »* atténue la rupture — c'est plus élégant qu'en V3. Mais la séquence de vente reste posée juste avant ta révélation. Déplacée dans le CTA, elle ne coûte rien ; laissée là, elle refroidit le moment où tu veux que le spectateur soit ému. Tu jugeras à la lecture à voix haute : si tu sens le virage commercial, c'est qu'il est là.
+*« Comme une merde »* dans les dix premières secondes = monétisation limitée. Aucun effet sur la portée ni le référencement, uniquement sur les revenus pub. C'est ta meilleure accroche : si tu te fiches des revenus pub, garde-la.
 
-### ⚠️ 4. Le juron du cold open peut te coûter la monétisation
+### Un cadeau non utilisé
 
-*« Elle m'a fait me sentir comme une merde »* arrive dans les dix premières secondes. YouTube applique une monétisation limitée aux jurons placés dans les toutes premières secondes d'une vidéo — c'est une règle sur le placement, pas sur la quantité. Tu en as trois autres plus loin (« rester sur son cul », « putain c'est exactement moi », « mais putain »), et ceux-là ne posent aucun problème.
-
-Ça ne change ni ta portée ni ton référencement, uniquement les revenus publicitaires — qui ne sont pas ton modèle. **Donc : à toi de voir.** Si tu t'en fiches, garde-le, c'est ta meilleure accroche. Si tu veux les deux, *« elle m'a fait me sentir minable pendant des années »* passe partout — mais c'est moins bon, et je ne te le conseille pas.
+Le passage du 9 août 1913 vient d'une chronique **« General Knowledge About Health »**, section **accidents et morsures de serpent**. La phrase la plus citée du développement personnel mondial sort d'un article sur quoi faire quand on se fait mordre par un serpent. Une respiration comique gratuite juste avant ton passage le plus grave — tu ne l'as pas prise, elle reste disponible.
 
 ---
 ---
 
-# LE SCRIPT — V4
+# LE SCRIPT — V5
 
 ## COLD OPEN
 
@@ -136,15 +148,11 @@ moi, ce que j'entends, c'est :
 
 Rien que ça.
 
-Et immédiatement, je regarde l'écart entre ce qu'on me demande...
+Et immédiatement, je regarde l'écart entre cette injonction...
 
 et ce que je pense être.
 
-Je n'ai pas les épaules.
-
 Je ne suis pas connu.
-
-Je ne suis pas visible.
 
 Je n'ai rien d'exceptionnel.
 
@@ -152,13 +160,11 @@ Je suis...
 
 **un grain de poussière dans l'univers.**
 
-Et cette phrase censée être incroyablement inspirante...
+Et cette phrase censée être inspirante...
 
-elle m'écrase.
+**elle m'écrase.**
 
-Parce que tout ce que je vois, c'est l'écart.
-
-L'écart entre ce que je suis...
+Parce que tout ce que je vois, c'est l'écart entre ce que je suis...
 
 et ce qu'il faudrait que je sois.
 
@@ -180,29 +186,17 @@ J'ai appris.
 
 Je me suis planté.
 
-J'ai changé d'avis.
-
-J'ai pris des décisions dont je suis fier.
-
-D'autres beaucoup moins.
-
-J'ai rencontré des gens.
-
-Je me suis formé.
-
 J'ai été accompagné.
 
-Et puis j'ai accompagné à mon tour.
+J'ai accompagné à mon tour.
 
-Et surtout, j'ai fini par comprendre quelque chose d'assez simple :
+Et surtout, j'ai compris quelque chose :
 
-**je n'ai jamais accès au monde.**
+**je n'ai pas accès au monde.**
 
 J'ai accès à...
 
 **mon monde.**
-
-Le monde que je perçois à travers mes yeux.
 
 Mes enfants.
 
@@ -220,19 +214,15 @@ Les inconnus que je croise.
 
 C'est ma portion du monde.
 
-Et je sais que c'est une portion privilégiée.
+Et j'ai conscience que c'est une portion privilégiée.
 
-Je n'ai jamais eu faim. Je n'ai jamais eu soif. Je ne suis pas confronté quotidiennement à la violence ou à la guerre.
+Je n'ai jamais eu faim, je vis dans un quotidien confortable, je ne suis pas confronté à certaines violences que d'autres vivent chaque jour.
 
-Mon quotidien est confortable et j'en ai conscience.
+**Mais c'est ma portion du monde.**
 
-Mais cette portion du monde...
+Et c'est celle sur laquelle j'ai de l'influence.
 
-**c'est celle sur laquelle j'ai de l'influence.**
-
-Et si, dans cette portion-là, je fais de mon mieux pour prendre des décisions qui me rendent fier...
-
-si j'apprends à mieux gérer mes émotions...
+Si, dans cette portion-là, j'apprends à mieux gérer mes émotions...
 
 à poser mes limites sans écraser celles des autres...
 
@@ -356,55 +346,49 @@ Sur le développement personnel qui finit parfois par ressembler davantage à...
 
 **de l'enrichissement personnel.**
 
-Pierre Niney a aussi rappelé dans ses interviews qu'en France, on peut se déclarer coach sans diplôme obligatoire.
+Pierre Niney rappelle dans ses interviews qu'en France, on peut se déclarer coach sans diplôme obligatoire.
 
-Et là-dessus...
-
-**il a raison.**
+**Et là-dessus, il a raison.**
 
 Le titre de coach n'est pas protégé.
 
 Mais attention au raccourci :
 
-**« aucun diplôme n'est obligatoire » ne veut pas dire « aucun diplôme n'existe ».**
+**« Aucun diplôme n'est obligatoire » ne veut pas dire « aucun diplôme n'existe ».**
 
-Il existe des certifications professionnelles de **Coach professionnel enregistrées au RNCP par France Compétences**, avec un référentiel de compétences et des épreuves de certification.
+Il existe des certifications professionnelles de coach enregistrées au RNCP.
 
-Donc oui, n'importe qui peut écrire « coach » sur sa carte de visite.
+Et ce qui est assez savoureux, c'est que dans *Gourou* lui-même, une partie de l'intrigue repose justement sur la volonté de réglementer la profession.
 
-Mais non, tous les coachs ne se valent pas.
-
-Et ce qui est assez savoureux, c'est que dans *Gourou* lui-même, une partie de l'intrigue tourne justement autour de la volonté de l'État de réglementer la profession et d'imposer une certification.
-
-Alors plutôt que de conclure « les coachs, c'est le Far West », moi, il y a trois questions très simples que je poserais à quelqu'un qui veut m'accompagner :
+Alors moi, avant de choisir un coach, je poserais trois questions :
 
 **Où est-ce que tu t'es formé ?**
 
 **Est-ce que tu es certifié ?**
 
-**Et est-ce que tu es supervisé ?**
+**Est-ce que tu es supervisé ?**
 
 Ça ne garantit pas que ce soit un bon coach.
 
-Mais ça donne déjà quelques informations.
+**Mais ses réponses vont déjà m'apprendre beaucoup de choses.**
 
-Et moi, cette différence-là me tient particulièrement à cœur.
+Et je le sais d'autant mieux que moi-même...
 
-Parce que je l'ai vécue.
+**je suis entré en école de coaching pour de très mauvaises raisons.**
 
 ---
 
 ## JE SUIS ALLÉ CHERCHER UN TAMPON
 
-Quand j'ai commencé à faire de la formation, assez rapidement, on m'a demandé :
+Quand j'ai commencé à faire de la formation, on m'a assez rapidement demandé :
 
-« David, en plus des formations en groupe, tu fais de l'accompagnement individuel ? »
+« David, tu fais aussi de l'accompagnement individuel ? »
 
 Et moi :
 
 « Oui, bien sûr ! »
 
-Et assez vite, on m'a posé une deuxième question :
+Puis on m'a posé une autre question :
 
 « Et tu es coach certifié ? »
 
@@ -412,7 +396,7 @@ Et assez vite, on m'a posé une deuxième question :
 
 Non.
 
-Et je vais être complètement transparent sur ce qui s'est passé dans ma tête à l'époque.
+Et je vais être complètement transparent sur ce qui s'est passé dans ma tête.
 
 Je me suis dit :
 
@@ -462,73 +446,37 @@ Et ça a changé ma vie.
 
 Je me suis formé à Agora Coaching, à Lyon — Odile, si tu regardes cette vidéo, je t'embrasse très fort.
 
-Et depuis trois ans, j'interviens moi-même à l'IAE de Lyon auprès de futurs coachs en Master 2 Coaching, notamment pour les accompagner dans leur installation professionnelle.
+Et aujourd'hui, j'interviens moi-même auprès de futurs coachs en Master 2 à l'IAE de Lyon.
 
 Donc oui :
 
-je suis plutôt bien placé pour dire que le coaching ne se résume pas à quelques gourous sur Instagram.
+**entre le type qui s'est autoproclamé coach hier et quelqu'un qui a travaillé sa posture pendant des années, il y a peut-être deux-trois nuances.**
 
 ---
 
-## PERSONNEL NE VEUT PAS DIRE ÉGOÏSTE
+## QUAND LE DÉVELOPPEMENT PERSONNEL DÉRAILLE
 
 Et c'est là que j'ai envie de jeter un petit pavé dans la mare.
 
-Parce que j'entends de plus en plus cette critique :
+Parce qu'on reproche parfois au développement personnel de nous rendre égoïstes.
 
-à force de travailler sur soi...
+> 🔴 *Ici se replace la ligne coupée : « Et certaines critiques sont justifiées — même des gens que j'apprécie beaucoup, comme Franck Lopvet ou David Laroche, questionnent certaines dérives. » C'est ce qui prouve que tu ne défends pas ta boutique.*
 
-on finirait par ne penser qu'à soi.
+Et oui, il peut y avoir des dérives.
 
-Et certaines critiques sont parfaitement justifiées.
+Il peut y avoir de l'**enrichissement personnel** :
 
-Même des gens que j'apprécie beaucoup, comme Franck Lopvet ou David Laroche, questionnent certaines dérives du développement personnel.
+tout finit par tourner autour de ce que je gagne, ce que je possède, ce que j'affiche.
 
-Très bien.
+Il peut y avoir du **développement solitaire** :
 
-Mais attention à ne pas tout mettre dans le même sac.
+je m'occupe tellement de moi que j'oublie que je vis avec les autres.
 
-Il y a le **développement personnel**.
+Mais il y a une troisième dérive dont on parle beaucoup moins.
 
-Il peut y avoir l'**enrichissement personnel** : quand tout finit par tourner autour de ce que je possède, ce que je gagne, ce que j'affiche.
+Et celle-là...
 
-Et il peut y avoir une forme de **développement solitaire** : quand je finis par tellement m'occuper de moi que j'oublie que je vis avec les autres.
-
-Ce ne sont pas les mêmes choses.
-
-Parce que « personnel » ne veut pas dire « égoïste ».
-
-Et surtout...
-
-si mon développement n'est pas personnel...
-
-il est quoi ?
-
-Je ne peux faire l'expérience du monde qu'à partir de moi.
-
-Je n'ai que mes yeux.
-
-Mon histoire.
-
-Mes peurs.
-
-Mes croyances.
-
-Mes comportements.
-
-Mes décisions.
-
-Alors travailler sur moi, ce n'est pas nécessairement passer ma vie à contempler mon nombril.
-
-Et pendant longtemps...
-
-j'ai justement fait l'erreur inverse.
-
----
-
-## QUAND LE DÉVELOPPEMENT PERSONNEL DEVIENT DE LA SURADAPTATION
-
-> 💎 *Le meilleur bloc du script. Ne le touche pas, prends ton temps dessus.*
+**je suis tombé dedans à pieds joints.**
 
 Pendant longtemps, j'ai essayé de devenir meilleur.
 
@@ -620,21 +568,11 @@ Aimer.
 
 **Sans disparaître au passage.**
 
-Et ça, pour moi, c'est une partie essentielle du développement personnel.
+Pendant longtemps, j'ai cru qu'il fallait choisir :
 
----
+travailler sur moi...
 
-## LA FAUSSE OPPOSITION
-
-Parce qu'au fond, pendant très longtemps, j'ai imaginé qu'il fallait choisir.
-
-Soit je travaille sur moi.
-
-Soit je m'intéresse aux autres.
-
-Soit je me développe personnellement.
-
-Soit j'agis sur le monde.
+ou agir sur le monde.
 
 Aujourd'hui...
 
@@ -644,7 +582,7 @@ Parce que la première partie du monde sur laquelle j'ai réellement du pouvoir.
 
 **c'est moi.**
 
-Et travailler sur moi, ce n'est pas me demander sans cesse :
+Et travailler sur moi, ce n'est pas me demander :
 
 **« Qu'est-ce que je dois devenir pour être à la hauteur du monde ? »**
 
@@ -656,11 +594,15 @@ Et là...
 
 ça change énormément de choses.
 
+Et tu vas voir que c'est précisément là que la vraie phrase de Gandhi devient intéressante.
+
+Mais avant...
+
+il manque encore un truc.
+
 ---
 
 ## COMPRENDRE N'EST PAS CHANGER
-
-Et il y a une autre confusion que je trouve intéressante.
 
 Quand *Bref 2* est sorti, plusieurs personnes m'ont dit :
 
@@ -710,25 +652,17 @@ Le travail commence quand je me relève.
 
 Quand je fais quelque chose de ce que j'ai compris.
 
-Pour moi, le développement personnel, c'est ça.
+Pour moi, le développement personnel, c'est ça :
 
-**Ce n'est pas seulement comprendre. C'est transformer une prise de conscience en mouvement.**
+**transformer une prise de conscience en mouvement.**
 
----
-
-## POURQUOI LE DAVID DE 17 ANS NE POUVAIT PAS COMPRENDRE
-
-Et voilà pourquoi le David de 17 ans ne pouvait pas comprendre tout ça.
+Et évidemment, le David de 17 ans ne pouvait pas encore comprendre tout ça.
 
 Il n'était pas plus bête.
 
-Il n'était pas moins profond.
+Il n'avait simplement pas encore vécu certaines choses.
 
-Il n'avait simplement pas encore traversé certaines choses.
-
-Il n'avait pas encore rencontré certaines personnes.
-
-Il n'avait pas encore essayé.
+Essayé.
 
 Échoué.
 
@@ -740,61 +674,15 @@ Perdu.
 
 Recommencé.
 
-Il n'avait pas encore eu besoin de remettre en question sa propre perspective.
+Il ne savait surtout pas encore à quel point...
 
-Et surtout...
+**il pouvait changer.**
 
-il ne savait pas encore à quel point la personne qu'il était pouvait évoluer.
-
-Et c'est aussi pour ça que depuis plus de dix ans, à travers Mnémonaute, je partage ce que j'apprends.
-
-Au départ, énormément autour de la mémoire.
-
-Puis progressivement, j'ai parlé de confiance.
-
-De méditation.
-
-De peur.
-
-De prise de décision.
-
-D'émotions.
-
-D'affirmation de soi.
-
-Parce que finalement, tout ça participe de la même question :
-
-**qu'est-ce que je peux faire avec la personne que je suis aujourd'hui pour devenir davantage celle que j'ai envie d'être demain ?**
-
-> 🟡 *Le bloc ci-dessous peut se déplacer dans le CTA. Juge-le à la lecture à voix haute.*
-
-C'est aussi pour ça que j'ai créé des formations autour de ces sujets.
-
-Notamment le Cercle de Vérité.
-
-Parce qu'une partie importante de mon propre chemin a consisté à comprendre que l'authenticité...
-
-ce n'est pas tout dire à tout le monde.
-
-Tout le monde n'appartient pas à mon cercle de vérité.
-
-Mais lorsque je décide que quelqu'un y entre...
-
-je veux pouvoir arrêter de porter un masque.
-
-Être vrai avec les gens que j'aime.
-
-**Sans disparaître. Sans jouer un rôle.**
-
-Et ça aussi...
-
-ça change mon monde.
+Et c'est précisément ce qui me ramène à Gandhi.
 
 ---
 
 ## ET GANDHI, DANS TOUT ÇA ?
-
-Et maintenant, je peux enfin revenir à Gandhi.
 
 Parce que la phrase :
 
@@ -806,9 +694,9 @@ Pas sous cette forme.
 
 En revanche, le **9 août 1913**, dans le journal *Indian Opinion*, il écrit quelque chose de beaucoup plus intéressant.
 
-> 💡 *Option : « … dans une chronique sur la santé, entre deux conseils sur les morsures de serpent. » C'est authentique — et c'est ta respiration comique juste avant le passage le plus grave.*
+> 💡 *Option jamais prise : « … dans une chronique sur la santé, entre deux conseils sur les morsures de serpent. » Authentique. Respiration comique juste avant le passage le plus grave.*
 
-Il commence par cette phrase :
+Il commence par :
 
 **« We but mirror the world. »**
 
@@ -862,8 +750,6 @@ je n'ai plus la prétention de changer **le** monde.
 
 Mais j'ai une ambition.
 
-Et je trouve que c'est important, l'ambition.
-
 **J'ai l'ambition de changer mon monde.**
 
 De prendre soin de la partie du monde sur laquelle j'ai de l'influence.
@@ -888,7 +774,7 @@ alors peut-être qu'au fond...
 
 ## CTA / FIN
 
-> 🟠 *Version resserrée plus haut. Ce qui saute : la vidéo sur les peurs. Et la signature de fin manque toujours.*
+> 🟠 *Version resserrée plus haut. Ce qui saute : la vidéo sur les peurs. Et la signature de fin manque depuis la V3.*
 
 Si cette question de la peur, de ce qui m'empêche parfois d'agir même quand j'ai compris ce qui se joue, t'intéresse, j'ai fait une vidéo spécifiquement là-dessus.
 
@@ -906,7 +792,7 @@ Parce qu'après plus de dix ans sur Mnémonaute, je reçois encore des messages 
 
 Alors peut-être que le ricochet dont je viens de parler...
 
-il est aussi là.
+**il est aussi là.**
 
 Et pour ça...
 
@@ -926,9 +812,9 @@ Et je vais te laisser avec la question qui accompagne cette chaîne depuis longt
 
 | # | Titre | Pourquoi |
 |---|---|---|
-| 1 | **Gandhi vs le développement personnel** | Ton titre. Dans la V4 il tient pleinement — la vidéo livre le débat *et* le réconcilie à la fin. |
+| 1 | **Gandhi vs le développement personnel** | Ton titre. Il tient pleinement — la vidéo livre le débat *et* le réconcilie. |
 | 2 | **Gandhi n'a jamais dit ça (et la vraie phrase change tout)** | Le plus fort en clic, mais il promet une enquête là où tu livres un récit. |
-| 3 | **Cette phrase de Gandhi m'a fait me sentir comme une merde pendant 20 ans** | Ton cold open mot pour mot. Le plus honnête, le plus risqué — et le juron en titre coupe la monétisation à coup sûr. |
+| 3 | **Cette phrase de Gandhi m'a fait me sentir comme une merde pendant 20 ans** | Ton cold open. Le plus honnête, le plus risqué — et le juron en titre coupe la monétisation à coup sûr. |
 
 ## Description YouTube
 
@@ -936,7 +822,7 @@ Et je vais te laisser avec la question qui accompagne cette chaîne depuis longt
 
 ## Sources vérifiées
 
-- **La citation** : apocryphe, apparue dans les années 70. Le texte réel date du **9 août 1913**, *Indian Opinion*, repris dans les *Collected Works of Mahatma Gandhi* vol. XII p. 158 — dans une chronique **« General Knowledge About Health »**, section sur les accidents et morsures de serpent. Écrit **en gujarati** ; la version anglaise est la traduction officielle des œuvres complètes.
+- **La citation** : apocryphe, apparue dans les années 70. Texte réel du **9 août 1913**, *Indian Opinion*, repris dans les *Collected Works of Mahatma Gandhi* vol. XII p. 158 — chronique **« General Knowledge About Health »**, section accidents et morsures de serpent. Écrit **en gujarati** ; la version anglaise est la traduction officielle des œuvres complètes.
 - **Le film** : ***Gourou***, de **Yann Gozlan**, sorti le **28 janvier 2026**.
 - **Niney** : « Tellement de gens s'improvisent coach, c'est tout le problème ; il n'y a pas de formation ni de diplôme. » — [blue News](https://www.bluewin.ch/fr/divertissement/tv-film/pierre-niney-joue-les-gourous-ca-a-fait-tout-de-suite-tilt-dans-ma-tete-2962737.html)
 - **Le titre RNCP** : *Coach professionnel*, [RNCP 40663](https://www.francecompetences.fr/recherche/rncp/40663/), niveau 6. Ne jamais dire « équivalent master 2 ».
