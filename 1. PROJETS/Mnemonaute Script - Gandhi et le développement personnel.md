@@ -826,6 +826,7 @@ Le plan complet, section par section, est dans `00 - LISEZ-MOI - plan de B-roll.
 - La une d'*Indian Opinion* et une publicité du journal de 1910.
 - **Gourou** : affiche, 5 portraits de Niney, bande-annonce, teaser et l'interview Niney/Gozlan/Barbeau — **360p seulement**, YouTube bloque le HD. Liens HD dans le LISEZ-MOI.
 - Huit prompts IA prêts pour ce qui manque (mug, tee-shirt, rayon librairie, le moule, le ricochet…).
+- **`07 - Miniatures/Retenues/`** : les **4 miniatures retenues en 1280×720**, découpées de la planche IA de David — dont la faute « DÉVELOPEMENT » corrigée sur la n°2 et le recadrage des tampons sur la n°3. Plus `Prompts IA/` (fiche personnage + 7 prompts) pour régénérer en pleine résolution.
 
 ⚠️ **Rien n'a été filtré côté droits** : c'est un dossier de repérage. Seuls les Gandhi sont libres.
 
