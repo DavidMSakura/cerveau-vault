@@ -6,10 +6,11 @@
 
 | Quand | Quoi |
 |---|---|
-| **lun. 31/08** | Coaching **Elisabeth** 10h · cron notes iOS 1ère exécution 18h (journal à vérifier le 01/09) |
+| **lun. 31/08** | ~~Coaching **Elisabeth** 10h~~ **faite** · cron notes iOS 1ère exécution 18h (journal à vérifier le 01/09) |
 | **mar. 01/09** | **Anthony** 10h30 — retours créas Meta · Rachid 14h · prérentrée Emilie 15h30 |
 | **mer. 02/09** | Véronique 9h · Dragan 11h |
 | **jeu. 03/09** | Banque 9h30 · Mastermind Clovis 14h |
+| **lun. 07/09** | Coaching **Elisabeth** — **2 h**, format questions-réponses inversé. **5 à 8 questions à préparer** |
 | **ven. 04/09** | **Cadrage Radiance 11h15–11h45** (Teams) · **tripartite CFF 14h** — pas de collision |
 | **09 → 11/09** | IGECOM : Toulon, Clermont, Naves — aucune prépa |
 | **14-15/09** | Prise de parole CFF — rien à préparer |
@@ -34,6 +35,8 @@
 **Second cerveau de Steph.** Guide fini. **L'installation n'a toujours pas commencé** (chapitres 0 à 3, non délégables).
 
 **Radiance.** Deux trous à poser au cadrage du 04/09 : la formule au minimum sur un deux-roues, la répartition des six informations dues. 30 min à sept : envoyer les questions en amont.
+
+**Coaching Elisabeth.** Séance du 31/08 faite et versée dans [[Coaching Elisabeth Roche - suivi des séances]]. Deux acquis : le **système de soutien** est une case fermée (Codev, magiciens, maman, communauté Jean & Jody), et la **légèreté** est débloquée — David l'a déjà en formation, il se la refuse en coaching par peur d'induire. Réponse d'Elisabeth : « tu n'as que le pouvoir de révélation ». Deux points ouverts : le cadrage « spiritualité intégrée » qu'il n'a pas tranché, et les **5 à 8 questions à apporter le 07/09**. Perso : **le mariage avec Steph est rouvert**, blocage identifié = le financement.
 
 **Sakura.** Format arrêté. Reste le **contenu différencié** des deux niveaux, les pages, la mécanique de passage.
 
