@@ -30,7 +30,7 @@
 
 **Crédit Foncier.** Le plus rentable. **Steph en lead sur Sophie Pons.** Neuf séances, pas six ([[Contrat Crédit Foncier]]). Feuilles d'émargement et question de Nathalie Feugeas réglées le 30/08. Prochaine échéance : la clôture du 08/12.
 
-**Veille boîte mail.** Routine unique `trig_01PHwoiy…`, 8h/12h/17h ; l'ancienne doublon est désactivée. Elle envoie un **récap par mail**. **GitHub pas connecté au cloud** (`/web-setup`) → elle travaille sans le vault.
+**Veille boîte mail.** Routine unique `trig_01PHwoiy…`, 8h/12h/17h ; l'ancienne doublon est désactivée. **Réécrite le 31/08 : un seul mail par jour, le matin.** Midi et 17h tournent en silence — lecture, brouillons, rangement, aucun envoi. Le mail du matin ne contient que les **points de vigilance** (ou « rien d'important »), les brouillons prêts, et une ligne de comptage. Plus d'inventaire des rangements. Brouillons resserrés : uniquement quand une réponse est réellement attendue. **GitHub pas connecté au cloud** (`/web-setup`) → elle travaille sans le vault.
 
 **Second cerveau de Steph.** Guide fini. **L'installation n'a toujours pas commencé** (chapitres 0 à 3, non délégables).
 
