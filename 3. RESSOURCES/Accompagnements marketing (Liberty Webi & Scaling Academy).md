@@ -22,6 +22,8 @@ Deux formations/accompagnements suivis par David pour construire ses offres digi
 
 **Méthode** : tunnel low-ticket (Meta ads → page de vente → order bump → upsells), pensé comme porte d'entrée qualifiante avant une offre mid/high-ticket. A servi à construire [[1. PROJETS/Cercle de Vérité]] (27€ + bump + 2 upsells) comme repositionnement stratégique après l'échec du webinaire Sakura à froid.
 
+**Les sessions collectives** sont suivies dans [[Scaling Academy - coaching stratégique (Olivier Clovis)]].
+
 **Matériel local** : `~/Documents/Formation/Olivier Clovis Scaling Academy/` (structure du tunnel, scripts ads, séquences email, closing scripts, assets vidéo/image Ads & Insta).
 
 ## Logique d'ensemble
