@@ -231,8 +231,8 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > Dans son couple, il évitait tout. « Ok. » « Pas de souci. » « Comme tu veux. » Jamais un conflit, jamais un désaccord.
 > Il avait un avis. Il le savait avant même qu'on lui pose la question, et il ne le disait pas. Alors elle choisissait. Et le soir il était sec, absent, sans savoir pourquoi. Il croyait protéger la relation.
 > Un jour, elle lui a dit : « Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »
-> Il ne protégeait pas la relation. Il la rendait floue. Et si tu t'es reconnu, c'est pareil chez toi : « comme tu veux », ça a l'air d'un cadeau, mais en vrai tu refiles la décision et tu gardes le droit d'être déçu. L'autre joue sans les informations. Elle ne peut pas gagner, et elle finit par le sentir.
-> On t'a appris que ne pas imposer, c'était être respectueux. Personne ne t'a dit qu'en cachant ce que tu veux, tu enlèves à l'autre sa seule chance de te faire plaisir.
+> Il ne protégeait pas la relation. Il la rendait floue. Et si tu t'es reconnu, c'est pareil chez toi : « comme tu veux », ça a l'air d'un cadeau, mais en vrai tu refiles la décision et tu gardes le droit d'être déçu. L'autre choisit à l'aveugle. Il n'y a donc aucun bon choix, et un jour, elle arrête d'essayer.
+> On t'a appris que ne pas imposer, c'était être respectueux. Personne ne t'a dit qu'en cachant ce que tu veux, tu enlèves à l'autre sa seule chance de te connaître.
 > Sept jours pour redire « j'ai envie ». 27 €.
 
 **Visuel** — Scène de couple reconstituée en amorce, très courte, puis toi face caméra à partir de la phrase de la compagne. Elle doit s'afficher à l'écran en même temps qu'elle est dite : c'est le pivot de la créa.
