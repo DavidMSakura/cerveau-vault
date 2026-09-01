@@ -92,7 +92,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > Tu vois de quoi je parle. Tu as déjà tenu tête à un client difficile. Tu as déjà géré une urgence dont personne ne voulait. Et le même soir, tu t'es tu sur un truc qui te pèse depuis des mois.
 > Le courage, tu l'as. Il s'arrête à la porte de chez toi.
 > Et voilà ce que personne ne m'avait dit : ce silence-là n'est pas de la patience. Il laisse croire à l'autre que ça te va. Tu ravales, il continue — parce qu'il n'a aucune raison de s'arrêter — et un jour tu lui présentes une facture qu'il n'a jamais vue arriver. J'ai fait exploser un mariage comme ça, sans jamais élever la voix.
-> Le courage physique ne garantit pas le courage relationnel. Deux muscles différents, et le second, personne ne nous l'a fait travailler.
+> Le courage physique ne garantit pas le courage relationnel. Deux "muscles" différents, et le second, personne ne nous l'a fait travailler.
 > Sept jours pour le muscler. Le lien est en dessous.
 
 **Visuel** — Plan serré, fond neutre. Insert de 1,5 s sur la vraie photo de podium à « champion du monde », puis retour visage. Aucune musique sur les trois premières secondes : le silence fait ralentir le scroll.
