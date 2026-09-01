@@ -330,6 +330,55 @@ Mention en petit, sous le bloc : **Roman Frayssinet**. Le sourçage est un gain,
 
 **CTA sur ces deux visuels** — il ne s'écrit pas dans l'image, qui doit rester nue pour se partager. Il va dans le texte de l'annonce et sur le bouton : « Sept jours pour ton premier vrai NON. 27 €. »
 
+
+## Le gabarit « papier déchiré » — établi le 01/09/2026
+
+Format **1080 × 1350** (4:5). Bloc bleu `#00296b` en haut, bloc jaune `#ffd500` en bas, séparés par une **déchirure de papier** avec liseré de fibres `#f4f1ea` (7 à 22 px, épaisseur variable, tracé indépendant de celui du bord jaune — c'est ce décalage qui fait lire du papier plutôt qu'un motif).
+
+**Le bleu porte le problème, le jaune porte la sortie.** La déchirure dit la rupture : c'est littéralement ce que vend le produit.
+
+**Les quatre zones de texte :**
+1. La réplique citée — **en jaune `#ffd500`, en gras**. C'est la prémisse : sans elle le reste flotte. Elle ne doit jamais être le plus discret élément de la carte, et le jaune la désigne comme parole rapportée tout en reliant le haut au bloc du bas.
+2. *(optionnel)* La question qui ouvre le doute — `#d3dff0`, intermédiaire.
+3. Le verdict — blanc, énorme. C'est le seul mot qu'on lit à distance dans un fil.
+4. Sur le jaune : la promesse en sept jours, puis « 27 € » — en bleu `#00296b` sur le jaune, seul couple à fort contraste de la palette.
+
+**Les règles qui ne se discutent plus :**
+- **Le corps de la typo s'adapte à la longueur du texte**, jamais l'inverse. Une taille fixe donne des cartes courtes qui flottent dans le vide.
+- **Jamais de blanc sur le jaune** : 1,6:1 de contraste, illisible. Sur le jaune, le texte est bleu foncé.
+- **Jamais « clique »**, ni flèche vers le bouton. L'annonce a déjà son bouton et son texte ; répéter l'appel est un signal de mauvaise qualité chez Meta.
+- **Le prix reste sur les créas payantes** — à 27 €, le prix *est* l'argument, il tue l'objection avant le clic. Il disparaît en revanche des cartes organiques : un visuel avec un prix ne se partage pas.
+- **Typographie française** : espace avant `? ! ; :`, guillemets français, et `white-space:nowrap` pour éviter le point d'interrogation orphelin.
+
+**L'effet de dissolution** — sur « Tu disparais. », dégradé de gauche à droite de 100 % à **6 %** d'opacité, choix de David du 01/09. À taille de fil (210 px) la fin du mot s'efface et on lit « Tu dispa… » — c'est assumé : le cerveau complète, et le sens *est* la disparition. Deux replis existent si le test montre une perte : 13 % (`S-E-fade-F3`) et 24 % (`S-E-fade-F1`), tous deux entièrement lisibles. Le « Tu » reste plein, seul le verbe se dissout : ce n'est pas lui qui s'efface, c'est ce qu'il montre de lui. **À n'employer que quand le verbe décrit un mouvement.** Si toutes les cartes ont un effet, ce n'est plus un effet.
+
+### Les deux cartes écrites, à soumettre à Anthony
+
+Elles couvrent **deux registres opposés**, et c'est ce qui manquait au lot : sur quatorze angles, aucun n'était compatissant.
+
+**La dure** — angle 12, désigne et tranche, pour qui pressent déjà le problème.
+
+> « Comme tu veux. »
+> Tu crois faire plaisir ?
+> **Tu disparais.** *(en dissolution)*
+> ⎯
+> Sept jours pour redire « j'ai envie ». · 27 €
+
+**La douce** — interroge sans accuser, pour qui n'a jamais nommé la chose. Le « 15 ans » cible implicitement un homme de 35-50 ans, soit l'avatar.
+
+> Tu dis oui à tout depuis 15 ans.
+> **Sais-tu encore ce que tu veux ?**
+> ⎯
+> Sept jours pour reprendre ta place. · 27 €
+
+⚠️ **« Te retrouver » a été écarté** au profit de « reprendre ta place ». C'est la promesse la plus usée du marché, et elle contredit la vidéo Gandhi en cours, qui dit que le développement personnel devient une nouvelle forme de sur-adaptation. « Reprendre ta place » est spatial et social, et sous-entend que quelqu'un l'a prise — c'est le mécanisme de l'offre.
+
+**Fichiers rendus** : `~/Documents/Mnemonaute/Cercle de Verite - Visuels/` — `S-E-fade-F1.png` (la dure, à retenir), `S-F-15-ans.png` (la douce), plus les variantes de comparaison.
+
+**Reste à écrire** : les triplets réplique / question / verdict pour les douze autres angles. À faire avec Anthony, pas seul.
+
+---
+
 # Preuve sociale — la matière
 
 Relevée sur l'ancienne page de vente et dans le tunnel écrit avec Anthony. Ce sont des transformations nommées et concrètes, ce qui manquait totalement au lot.
