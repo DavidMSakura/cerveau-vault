@@ -239,6 +239,25 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
+## 14 — Le développement personnel comme suradaptation
+**Hook Clovis n°7 — Question → Réflexion** · ⚠️ **Audience tiède**, pas froide : elle vise celui qui consomme déjà du développement personnel · *Ajouté le 01/09/2026, né du script Gandhi*
+
+> **[ACCROCHE]** Tu as lu quarante bouquins de développement personnel. Et tu n'as toujours pas su dire non à personne.
+> **[SITUATION]** Les podcasts le matin, les formations le week-end, la méditation, le journal du soir. Tu bosses sur toi depuis des années, sérieusement, sans tricher.
+> **[ÉCHELLE]** Tu connais tes biais. Tu sais nommer tes émotions. Tu as compris d'où ça vient, ton enfance, tes schémas. Tu pourrais l'expliquer à quelqu'un mieux que ton thérapeute.
+> **[SON OUI]** Et pourtant hier, quand on t'a demandé un service qui ne t'arrangeait pas, tu as dit oui. Exactement comme avant.
+> **[RÉVÉLATION]** J'ai fait ça pendant quinze ans. Je croyais que je travaillais sur moi — en fait je travaillais à devenir celui que je croyais devoir être. Chaque livre était une nouvelle norme, chaque formation une nouvelle bonne version de moi à atteindre. Le développement personnel était devenu ma façon la plus noble de me sur-adapter. Je n'étais pas en train de me trouver. J'étais encore en train d'essayer de correspondre.
+> **[PAS TA FAUTE]** Personne ne t'a dit que travailler sur soi pouvait devenir un moule de plus. C'est même le seul moule dont on te félicite. Et ça se change — pas en lisant un livre de plus, en disant un non.
+> **[CTA]** Sept jours pour ton premier vrai NON. Sinon je te rembourse.
+
+**Visuel** — Face caméra, sobre, sans décor. La pile de livres visible dans le cadre, et tu la repousses au temps 5. La bascule est dans le geste, pas dans le montage.
+
+**Ce qui la distingue du lot.** Les treize autres partent d'une scène du quotidien ; celle-ci part d'une identité. C'est la seule qui parle à quelqu'un qui se croit déjà avancé — donc la seule qui puisse convertir un lecteur de développement personnel plutôt qu'un homme qui ne sait pas encore qu'il a un problème. **Point à poser à Anthony** : est-ce qu'on garde une créa d'audience tiède dans un lot conçu pour du froid, ou est-ce qu'elle part en retargeting ?
+
+**L'angle que personne ne tient.** Les critiques du développement personnel attaquent toutes le nombrilisme. Celle-ci dit l'inverse : le piège n'est pas de trop penser à soi, c'est de continuer à se conformer en croyant se libérer. La chute de la vidéo longue le formule ainsi — *« partir de moi, ce n'est pas ne penser qu'à moi »*.
+
+---
+
 # LES IMAGES
 
 **Audience différente** : ici on parle à des hommes qui savent déjà que leur situation est malsaine. Donc pas de pédagogie, pas de petit texte.

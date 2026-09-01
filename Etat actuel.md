@@ -7,7 +7,7 @@
 | Quand | Quoi |
 |---|---|
 | **lun. 31/08** | ~~Coaching **Elisabeth** 10h~~ **faite** · cron notes iOS 1ère exécution 18h (journal à vérifier le 01/09) |
-| **mar. 01/09** | **Anthony** 10h30–11h (Meet) — retours créas Meta · **Rachid 13h** (déblocage stratégique, Launch funnel) · prérentrée Emilie 15h30 |
+| **mar. 01/09** | **Anthony** 10h30–11h (Meet) — retours créas Meta · **Olivier Clovis 13h en direct** — pragmatique et mindset, cas d'études collectifs (ce n'est plus Rachid) · prérentrée Emilie 15h30 |
 | **mer. 02/09** | Véronique 9h · Dragan 11h |
 | **jeu. 03/09** | Banque 9h30 · Mastermind Clovis 14h |
 | **lun. 07/09** | Coaching **Elisabeth** — **2 h**, format questions-réponses inversé. **5 à 8 questions à préparer** |
@@ -45,7 +45,6 @@
 ## ⏸️ En attente d'une décision de David
 
 - **Les deux livres.** *Libérez votre mémoire* en jachère depuis le 16/08, *Le Triangle Dramatique* en rédaction. Aucun n'avance.
-- **La tension marketing.** Elisabeth dit « sois toi-même », la stratégie dit ads Meta → funnel.
 - **Scaling Academy.** *« je ne suis pas encore pleinement committed »* — plein tarif, quart de la valeur.
 - **Marina et Dominique** : plus aucun coaching planifié d'ici juin 2027.
 - **Boîtes mail** : mnemonaute1 et Sherpa restent à connecter. « No rush ».
