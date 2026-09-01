@@ -208,15 +208,17 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 11 — Qui ne dit mot consent
 **Hook Clovis n°7 — Question → Réflexion** · Le seul angle qui part d'un proverbe, donc l'entrée la plus large du lot
 
-> « Qui ne dit mot consent. » Tout le monde connaît. Sauf que toi, tu n'as jamais consenti à rien.
+> « Qui ne dit mot consent. » Tout le monde connaît. Et toi, tu t'es tu combien de fois cette semaine ?
 > Une réunion, une table de famille, un salon un dimanche. Quelqu'un dit un truc qui ne te va pas. Une décision, une blague, une remarque sur toi.
 > Tu ne réponds pas. Tu te dis que ce n'est pas le moment, que tu en reparleras plus tard. Tu n'en reparles jamais. Et en repartant, tu refais la conversation dans ta tête avec les phrases que tu n'as pas dites.
 > Eux, ils ont noté que tu étais d'accord. C'est la règle : qui ne dit mot consent.
-> Sauf que tu n'as pas consenti. Tu t'es écrasé. Et personne dans la pièce n'a de moyen de faire la différence : ton silence, ils l'ont compté comme un accord, et ils vont continuer sur cette base. Tu ne leur as pas donné la paix. Tu leur as donné une information fausse.
+> Sauf que tu n'as pas consenti. Tu t'es écrasé. Et personne dans la pièce n'a de moyen de faire la différence : ton silence, ils l'ont compté comme un accord, et ils vont continuer sur cette base. Tu ne leur as pas donné ton consentement. Tu leur as donné une information fausse.
 > On t'a appris qu'un homme qui ne fait pas d'histoires est un homme bien. Personne ne t'a dit qu'un silence, ça s'interprète toujours en ta défaveur.
 > Sept jours pour reprendre la parole. 27 €.
 
-**Visuel** — Le proverbe seul à l'écran sur les trois premières secondes, sans toi, sans voix. Puis coupe franche sur ton visage pour « sauf que toi, tu n'as jamais consenti à rien ». C'est le seul angle du lot où le hook est typographique.
+**Visuel** — Le proverbe seul à l'écran sur les trois premières secondes, sans toi, sans voix. Puis coupe franche sur ton visage pour « et toi, tu t'es tu combien de fois cette semaine ? ». C'est le seul angle du lot où le hook est typographique.
+
+**L'écho des sept jours** — « cette semaine », c'est la durée exacte du protocole. Il compte ses silences sur sept jours, puis on lui en demande sept. À ne pas souligner dans la chute : l'écho porte mieux implicite.
 
 **Pourquoi il est à part** — « Qui ne dit mot consent » est une maxime de consentement. Le second positionnement du produit est **le consentement masculin**. Cet angle fait le pont entre les deux sans avoir à l'expliquer, ce qu'aucun autre script ne réussit.
 
@@ -227,13 +229,15 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 > Arrête de dire « comme tu veux ». Guillaume l'a dit pendant des années, jusqu'à la phrase que sa compagne lui a sortie.
 > Dans son couple, il évitait tout. « Ok. » « Pas de souci. » « Comme tu veux. » Jamais un conflit, jamais un désaccord.
-> Tu vois le tableau. Tu as un avis, tu le sais avant même qu'on te pose la question, et tu ne le dis pas. Alors elle choisit. Et le soir, tu es sec, absent, sans savoir pourquoi.
+> Il avait un avis. Il le savait avant même qu'on lui pose la question, et il ne le disait pas. Alors elle choisissait. Et le soir il était sec, absent, sans savoir pourquoi. Il croyait protéger la relation.
 > Un jour, elle lui a dit : « Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »
-> Il ne protégeait pas la relation. Il la rendait floue. « Comme tu veux », ça a l'air d'un cadeau — en vrai tu refiles la décision et tu gardes le droit d'être déçu. Elle joue sans les informations. Elle ne peut pas gagner, et elle finit par le sentir.
+> Il ne protégeait pas la relation. Il la rendait floue. Et si tu t'es reconnu, c'est pareil chez toi : « comme tu veux », ça a l'air d'un cadeau, mais en vrai tu refiles la décision et tu gardes le droit d'être déçu. L'autre joue sans les informations. Elle ne peut pas gagner, et elle finit par le sentir.
 > On t'a appris que ne pas imposer, c'était être respectueux. Personne ne t'a dit qu'en cachant ce que tu veux, tu enlèves à l'autre sa seule chance de te faire plaisir.
 > Sept jours pour redire « j'ai envie ». 27 €.
 
 **Visuel** — Scène de couple reconstituée en amorce, très courte, puis toi face caméra à partir de la phrase de la compagne. Elle doit s'afficher à l'écran en même temps qu'elle est dite : c'est le pivot de la créa.
+
+**Une seule traversée, au temps 5.** Les temps 1 à 4 restent entièrement sur Guillaume ; le basculement vers « tu » se fait une fois, sur « et si tu t'es reconnu », et on n'y revient plus. C'est la bascule qui fait l'effet : on regardait quelqu'un d'autre, et d'un coup c'est soi. Le va-et-vient entre les deux tuait la scène et rendait « elle » ambigu.
 
 **Variante à tester — la question qui cache l'envie.** Même angle, autre symptôme : « ça te dirait d'aller là-bas ? » au lieu de « j'ai envie d'aller là-bas, qu'est-ce que t'en penses ? ». Tu planques ton désir dans une question pour qu'un refus ne t'atteigne pas. Sauf qu'en le planquant, tu retires à l'autre toute possibilité de te faire plaisir — il ne peut pas accepter quelque chose que tu n'as jamais demandé.
 
