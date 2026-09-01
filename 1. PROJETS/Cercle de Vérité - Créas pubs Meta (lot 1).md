@@ -12,7 +12,7 @@ tags:
 
 # Cercle de Vérité — Créas Meta, matière pour Anthony
 
-Dix scripts vidéo et dix visuels, un angle par créa. Matière brute destinée à Anthony : il corrige, puis il étoffe.
+Treize scripts vidéo et les visuels associés, un angle par créa. Matière brute destinée à Anthony : il corrige, puis il étoffe.
 
 **Sources croisées** : les 15 angles du 08/08 (`Creas Ads Meta - 15 angles, hooks, scripts, CTA.docx`, dont toutes les formulations sortent des scripts du programme), la structure de script donnée par Anthony, et les sept types de hooks retenus chez Clovis.
 
@@ -38,9 +38,9 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 **Deux règles qui ne bougent pas.** Tu portes l'accusation sur toi avant de la retourner : « je manipulais » avant « tu manipules ». Et on ne promet pas la guérison, on promet un premier NON.
 
-**Le silence compte comme un oui — tranché le 27/08.** Le mécanisme ne se limite pas au faux OUI prononcé : le silence qui passe pour un accord en fait partie, et il est probablement plus fréquent chez l'avatar. C'est ce qui rend l'angle 3 légitime sous sa forme corrigée, et ce qui a produit l'angle 12.
+**Le silence compte comme un oui — tranché le 27/08.** Le mécanisme ne se limite pas au faux OUI prononcé : le silence qui passe pour un accord en fait partie, et il est probablement plus fréquent chez l'avatar. C'est ce qui rend l'angle 3 légitime sous sa forme corrigée, et ce qui a produit l'angle 11.
 
-**L'angle 8, « le faux merci », est retiré du lot — décision de David, 27/08.** La numérotation ne bouge pas : les identifiants 1 à 13 servent de références de travail avec Anthony, et le 8 reste vacant plutôt que de tout décaler.
+**L'angle « le faux merci » a été retiré du lot — décision de David, 27/08.** Il n'est conservé nulle part. Le lot a été renuméroté le 01/09 pour combler le trou : une idée écartée ne garde pas sa place pour son fantôme. Les identifiants vont donc de **1 à 13, sans saut**, et servent de références de travail avec Anthony.
 
 **Un angle a disparu au passage** : « l'aveu de manipulation », qui était l'angle 2 du document du 08/08. Il n'existe plus comme angle, parce qu'il est devenu la mécanique des dix. Sa matière est répartie dans les temps 5.
 
@@ -160,14 +160,14 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ---
 
 
-## 9 — Le corps qui demande pardon
+## 8 — Le corps qui demande pardon
 **Hook Clovis n°3 — Un secret** · Le seul angle que personne d'autre ne peut faire
 
 > Tu as déjà dit non. Et ça n'a pas marché. Ça n'a rien à voir avec tes mots.
 > Tu avais préparé ta phrase. Tu l'as dite calmement, au bon moment. Et l'autre a insisté comme si tu n'avais rien dit.
 > Repasse la scène. Tes épaules sont rentrées. Ta voix est montée dans les aigus à la fin. Tu as souri en le disant. Et tu as ajouté « enfin, si ça t'embête pas trop ».
 > Ta bouche disait non. Ton corps disait : « mais ça se négocie. Insiste un peu, et je craque. »
-> Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires, et tu l'as laissé choisir celui qui l'arrangeait. Il a insisté, et il a eu raison d'insister : tu venais de le lui demander. Un non qui se négocie n'est pas un non. C'est une première offre.
+> Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires, et tu l'as laissé choisir celui qui l'arrangeait. Il a insisté, et il a eu raison d'insister : tu venais de  lui donner l'autorisation. Un non qui se négocie n'est pas un non. C'est une première offre.
 > La fermeté ne vient pas du volume. Elle vient de la stabilité. Ce sont les arts martiaux qui me l'ont appris, pas le développement personnel.
 > La technique du Bushido, c'est le jour 6.
 
@@ -175,7 +175,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-## 10 — Dans cinq ans
+## 9 — Dans cinq ans
 **Hook Clovis n°2 — Confrontation** · Projection de conséquence, excellent en retargeting
 
 > Continue à dire « oui, pas de problème » alors qu'il y a un problème. Tant que tu n'auras pas dit un seul vrai non, rien ne bougera.
@@ -190,7 +190,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-## 11 — Christophe et l'associé
+## 10 — Christophe et l'associé
 **Hook Clovis n°6 — Défi et preuve sociale** · Le seul angle du lot porté par un client, pas par toi
 
 > Christophe a failli perdre son argent et son meilleur ami la même année. Parce qu'il n'a pas su dire non au départ.
@@ -205,7 +205,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-## 12 — Qui ne dit mot consent
+## 11 — Qui ne dit mot consent
 **Hook Clovis n°7 — Question → Réflexion** · Le seul angle qui part d'un proverbe, donc l'entrée la plus large du lot
 
 > « Qui ne dit mot consent. » Tout le monde connaît. Sauf que toi, tu n'as jamais consenti à rien.
@@ -222,7 +222,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-## 13 — « Comme tu veux »
+## 12 — « Comme tu veux »
 **Hook Clovis n°5 — Arrête de… (paradoxal)** · Le seul angle où la révélation est prononcée par quelqu'un d'autre que toi
 
 > Arrête de dire « comme tu veux ». Guillaume l'a dit pendant des années, jusqu'à la phrase que sa compagne lui a sortie.
@@ -241,7 +241,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 ---
 
-## 14 — Le développement personnel comme suradaptation
+## 13 — Le développement personnel comme suradaptation
 **Hook Clovis n°7 — Question → Réflexion** · ⚠️ **Audience tiède**, pas froide : elle vise celui qui consomme déjà du développement personnel · *Ajouté le 01/09/2026, né du script Gandhi*
 
 > Tu as lu quarante bouquins de développement personnel. Et tu n'as toujours pas su dire non à personne.
@@ -295,11 +295,11 @@ Relevée sur l'ancienne page de vente et dans le tunnel écrit avec Anthony. Ce 
 
 **Fabrice**, 48 ans, cadre. Faisait passer tous les désirs de sa compagne avant les siens, frustration permanente et manque de reconnaissance. Il ose désormais dire et faire ce qu'il veut, aménage son temps et vit ses passions — pour mieux prendre soin de lui, de sa compagne et de sa fille. Son verbatim : *« Aujourd'hui, je n'assume pas qui je suis, je ne suis pas heureux. Je sens que j'ai des chaînes qui me retiennent et je veux m'en libérer. Je veux pouvoir dire ce que je veux à qui je veux, quand je veux. »*
 
-**Christophe.** Empêtré dans un partenariat bancal avec un ami sur un projet économique important. Il a osé dire non, il est sorti du deal, il a évité de se mettre en risque, et il mène depuis un projet rentable qu'il conduit seul. → **c'est l'angle 11.**
+**Christophe.** Empêtré dans un partenariat bancal avec un ami sur un projet économique important. Il a osé dire non, il est sorti du deal, il a évité de se mettre en risque, et il mène depuis un projet rentable qu'il conduit seul. → **c'est l'angle 10.**
 
 **Pierre.** Se laissait marcher sur les pieds au travail et acceptait de se surcharger en faisant passer les autres avant lui. Il sait maintenant refuser de nouvelles tâches, prioriser sa propre organisation, et dire non — même à ses chefs. → **candidat évident pour un douzième angle, sur le terrain professionnel**, absent du lot actuel alors que c'est le quotidien de l'avatar.
 
-**Guillaume.** Dans son couple, il évitait le conflit à coups de « ok », « pas de souci », « comme tu veux » — et derrière il devenait sec, absent, passif-agressif. Jusqu'au jour où sa compagne lui a dit : *« Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »* Il ne protégeait pas la relation, il la rendait floue. → **c'est l'angle 13.**
+**Guillaume.** Dans son couple, il évitait le conflit à coups de « ok », « pas de souci », « comme tu veux » — et derrière il devenait sec, absent, passif-agressif. Jusqu'au jour où sa compagne lui a dit : *« Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »* Il ne protégeait pas la relation, il la rendait floue. → **c'est l'angle 12.**
 
 > C'est la meilleure phrase de tout le corpus, et elle n'était nulle part dans les créas. Elle énonce le mécanisme unique **dans la bouche de la victime**, donc sans que tu aies à accuser qui que ce soit. Elle vient du mail 3 du tunnel, « Ta nouvelle phrase à bannir : comme tu veux » — l'angle était déjà validé dans la séquence, il ne manquait qu'à le sortir en publicité.
 
