@@ -8,7 +8,6 @@ kanban-plugin: board
 
 - [ ] **« C'est pas la confiance qui m'a rendu champion »** #video #pub #mnemonaute<br>Titre retenu. La confiance amène à 100 % de tes moyens, elle n'en crée pas. Preuve : la finale de Yokohama 2007.<br>Deux étages de confiance : celle qui porte, celle qui ouvre. Chute : « elle donne le courage d'aller la chercher ». Appel vers [[Sakura]].<br>→ [[Idée - Confiance vs compétence]]
 - [ ] **« Je me suis trompé » — avatar femme / homme** #pub<br>Notée en séance de coaching le 24/08/2026. Angle non défriché.
-- [x] ✅ **« J'ai rencontré Louis »** #video — **publiée le 29/08/2026**, archivée. Témoignage réel : Louis, 19 ans, raté sa première année de droit à deux dixièmes (9,80), faute de méthode.<br>https://youtu.be/5Rs-CYZYEVg — **1 600 vues en 17 h**, plus que les deux vidéos précédentes cumulées en quatre mois.<br>→ [[Vidéo - J'ai rencontré Louis]] · [[Mnemonaute Script - J'ai rencontré Louis]]
 - [ ] **Gandhi vs. Dev Perso** #video<br>**Script écrit le 30/08/2026** → [[Mnemonaute Script - Gandhi et le développement personnel]]. Angle tranché : la citation est apocryphe, **et le raccourci a inversé le sens** — la vraie phrase de 1913 dit « si nous pouvions nous changer nous-mêmes… », soit exactement ce que David a mis vingt ans à comprendre seul. <br>**Une seule vidéo** (tranché par David le 30/08), ~22 min : Gandhi et « mon monde », puis le développement personnel n'est pas égoïste, *Gourou* / Niney / *Bref 2*. **Script validé, prêt à tourner.**
 - [ ] **Le dev perso comme suradaptation** #pub #video<br>Née du script Gandhi (V2, 30/08). La formule : **« Le développement personnel peut lui-même devenir une nouvelle forme de suradaptation. »**<br>Le mécanisme : lire tous les bouquins, faire toutes les formations, méditer — *uniquement pour devenir celui que je crois devoir être*. « Je ne suis pas en train de me trouver. Je suis encore en train d'essayer de correspondre. De rentrer dans un moule. De jouer un rôle. »<br>**C'est mot pour mot l'avatar du [[Cercle de Vérité]]** — l'homme qui se sur-adapte et ne sait pas dire non. Et c'est un angle que personne ne tient dans le débat actuel : les critiques attaquent le nombrilisme, celui-ci dit que le piège est inverse.<br>👉 **Piste d'accroche pub Meta** — à comparer aux douze créas parties chez Anthony. La chute est déjà écrite : « partir de moi, ce n'est pas ne penser qu'à moi ».
 
@@ -23,6 +22,8 @@ kanban-plugin: board
 ## ✅ Publiées
 
 **Complete**
+
+- [x] ✅ **« J'ai rencontré Louis »** #video — **publiée le 29/08/2026**, archivée. Témoignage réel : Louis, 19 ans, raté sa première année de droit à deux dixièmes (9,80), faute de méthode.<br>https://youtu.be/5Rs-CYZYEVg — **1 600 vues en 17 h**, plus que les deux vidéos précédentes cumulées en quatre mois.<br>→ [[Vidéo - J'ai rencontré Louis]] · [[Mnemonaute Script - J'ai rencontré Louis]]
 
 ## 🗄 Écartées
 

@@ -331,51 +331,174 @@ Mention en petit, sous le bloc : **Roman Frayssinet**. Le sourçage est un gain,
 **CTA sur ces deux visuels** — il ne s'écrit pas dans l'image, qui doit rester nue pour se partager. Il va dans le texte de l'annonce et sur le bouton : « Sept jours pour ton premier vrai NON. 27 €. »
 
 
-## Le gabarit « papier déchiré » — établi le 01/09/2026
+## Le gabarit « papier déchiré » — 01/09/2026
 
-Format **1080 × 1350** (4:5). Bloc bleu `#00296b` en haut, bloc jaune `#ffd500` en bas, séparés par une **déchirure de papier** avec liseré de fibres `#f4f1ea` (7 à 22 px, épaisseur variable, tracé indépendant de celui du bord jaune — c'est ce décalage qui fait lire du papier plutôt qu'un motif).
+Format **1080 × 1350** (4:5), celui qui prend le plus de hauteur dans le fil Meta. Bloc bleu `#00296b` en haut, bloc jaune `#ffd500` en bas, séparés par une **déchirure de papier** avec liseré de fibres `#f4f1ea` de 7 à 22 px.
 
-**Le bleu porte le problème, le jaune porte la sortie.** La déchirure dit la rupture : c'est littéralement ce que vend le produit.
+Deux détails font que ça se lit comme du papier et non comme un motif : le liseré a une **épaisseur variable**, et son tracé est **indépendant** de celui du bord jaune. Deux courbes identiques décalées donnent une bordure, deux courbes différentes donnent une déchirure.
 
-**Les quatre zones de texte :**
-1. La réplique citée — **en jaune `#ffd500`, en gras**. C'est la prémisse : sans elle le reste flotte. Elle ne doit jamais être le plus discret élément de la carte, et le jaune la désigne comme parole rapportée tout en reliant le haut au bloc du bas.
-2. *(optionnel)* La question qui ouvre le doute — `#d3dff0`, intermédiaire.
-3. Le verdict — blanc, énorme. C'est le seul mot qu'on lit à distance dans un fil.
-4. Sur le jaune : la promesse en sept jours, puis « 27 € » — en bleu `#00296b` sur le jaune, seul couple à fort contraste de la palette.
+**Le bleu porte le problème, le jaune porte la sortie.** La déchirure dit la rupture, qui est littéralement ce que vend le produit.
 
-**Les règles qui ne se discutent plus :**
-- **Le corps de la typo s'adapte à la longueur du texte**, jamais l'inverse. Une taille fixe donne des cartes courtes qui flottent dans le vide.
-- **Jamais de blanc sur le jaune** : 1,6:1 de contraste, illisible. Sur le jaune, le texte est bleu foncé.
-- **Jamais « clique »**, ni flèche vers le bouton. L'annonce a déjà son bouton et son texte ; répéter l'appel est un signal de mauvaise qualité chez Meta.
-- **Le prix reste sur les créas payantes** — à 27 €, le prix *est* l'argument, il tue l'objection avant le clic. Il disparaît en revanche des cartes organiques : un visuel avec un prix ne se partage pas.
+### Les zones de texte
+
+1. **La réplique citée** — jaune `#ffd500`, gras. C'est la prémisse : sans elle le reste flotte. Elle ne doit jamais être l'élément le plus discret de la carte, et le jaune la désigne comme parole rapportée tout en reliant le haut au bloc du bas.
+2. **La question qui ouvre le doute** *(optionnelle)* — `#c5d5ea`, intermédiaire. Elle crée un demi-temps avant le verdict, et c'est ce demi-temps qui fait la chute.
+3. **Le verdict** — blanc, énorme. C'est le seul mot qu'on lit à distance dans un fil.
+4. **Sur le jaune** : la promesse en sept jours, puis le prix. En bleu foncé — seul couple à fort contraste avec le jaune.
+
+### Les règles de mise en forme
+
+- **Le corps de la typo s'adapte à la longueur du texte**, jamais l'inverse. Le bloc doit occuper la même proportion du cadre sur toutes les cartes ; une taille fixe donne des cartes courtes qui flottent.
+- **Une seule marque d'effacement sur la ligne de mise en situation** : la taille. Pas la taille *et* un gris sombre.
+- **Jamais de blanc sur le jaune** — 1,6:1, illisible. *(Exception constatée : deux ou trois lettres en gros et en gras, dans un espace dégagé, tiennent. Le seuil vaut pour du texte, pas pour une marque.)*
 - **Typographie française** : espace avant `? ! ; :`, guillemets français, et `white-space:nowrap` pour éviter le point d'interrogation orphelin.
 
-**L'effet de dissolution** — sur « Tu disparais. », dégradé de gauche à droite de 100 % à **6 %** d'opacité, choix de David du 01/09. À taille de fil (210 px) la fin du mot s'efface et on lit « Tu dispa… » — c'est assumé : le cerveau complète, et le sens *est* la disparition. Deux replis existent si le test montre une perte : 13 % (`S-E-fade-F3`) et 24 % (`S-E-fade-F1`), tous deux entièrement lisibles. Le « Tu » reste plein, seul le verbe se dissout : ce n'est pas lui qui s'efface, c'est ce qu'il montre de lui. **À n'employer que quand le verbe décrit un mouvement.** Si toutes les cartes ont un effet, ce n'est plus un effet.
+### Les règles de chute
 
-### Les deux cartes écrites, à soumettre à Anthony
+- **Jamais « clique »**, ni flèche vers le bouton. L'annonce a déjà son bouton et son texte ; répéter l'appel est un signal de mauvaise qualité chez Meta.
+- **Le prix reste sur les créas payantes.** À 27 €, le prix *est* l'argument : il tue l'objection avant le clic. Le cacher fait payer des clics de gens qui n'achèteraient jamais.
+- **Le prix disparaît des cartes organiques.** Un visuel avec un prix est une publicité, et une publicité ne se partage pas. Sans prix, c'est une pensée, et ça se capture d'écran.
+- Sur le gabarit en deux blocs, **le bandeau du bas joue déjà le rôle du bouton** : il dit qu'il y a une action sans avoir à l'écrire.
 
-Elles couvrent **deux registres opposés**, et c'est ce qui manquait au lot : sur quatorze angles, aucun n'était compatissant.
+---
 
-**La dure** — angle 12, désigne et tranche, pour qui pressent déjà le problème.
+## Les trois procédés typographiques
 
+**La déchirure n'est pas un procédé, c'est le gabarit** — elle est sur toutes les cartes et c'est ce qui les fait reconnaître entre elles. Les deux autres sont des effets, et un effet obéit à une règle :
+
+> **Un effet seulement quand le mot fait quelque chose.** Un verbe de mouvement, un mot manquant, un silence. Si rien ne le justifie, la carte reste nue.
+
+Deux raisons. La répétition tue la surprise — à la troisième carte le lecteur attend l'effet, et un effet attendu n'en est plus un. Et si on décide que chaque carte doit en porter un, on en pose là où rien ne l'appelle : ça devient de la décoration, et la décoration coûte de l'attention sans rien acheter. En pratique, trois ou quatre cartes sur quatorze.
+
+*C'est un parti pris, pas une loi. Si un A/B montre que les cartes à effet gagnent toujours, la règle a tort et elle se jette.*
+
+### 1. La dissolution — « Tu disparais. »
+
+Dégradé de gauche à droite, 100 % → **6 %** d'opacité *(choix de David)*. Le « Tu » reste plein, seul le verbe se dissout : ce n'est pas lui qui s'efface, c'est ce qu'il montre de lui.
+
+À 210 px la fin du mot part et on lit « Tu dispa… ». Assumé — le cerveau complète, et le sens *est* la disparition. Deux replis existent si le test montre une perte : **13 %** (`S-E-fade-F3`) et **24 %** (`S-E-fade-F1`), tous deux entièrement lisibles.
+
+### 2. L'insertion — le mot qui reprend sa place
+
+Le signe de correction du typographe : le mot écrit au-dessus de la ligne, un **V** en dessous qui le fait redescendre. Le procédé n'illustre pas la promesse, **il l'exécute** — le lecteur voit quelque chose reprendre sa place sous ses yeux.
+
+Cinq réglages, tous trouvés en tâtonnant, tous nécessaires :
+
+- **Le V pointe vers le bas.** Le signe classique du typographe pointe vers le haut, mais le lecteur n'est pas correcteur d'imprimerie : pointe en bas, il lit une flèche vers la destination. L'immédiateté prime sur la règle de métier.
+- **L'espace entre les deux mots reste une espace mot normale**, comme si le mot inséré n'avait jamais été prévu. Un écart élargi trahit la mise en scène.
+- **Le mot inséré est à la taille du texte**, pas plus petit. Plus petit, il se lit comme une note de bas de page.
+- **Le V est collé au mot**, et le mot a besoin de ciel libre — d'où la coupe de ligne qui lui dégage le dessus. Sinon il percute la ligne précédente.
+- **Même main pour le mot et pour le V.** Le V composé dans la fonte manuscrite, pas dessiné à part.
+
+**La fonte : « Are You Okay »** (installée dans `~/Library/Fonts/`), **en noir `#141414`.** Trois mains ont été comparées sur la même carte : Bradley Hand est une écriture neutre, Apple Chancery est de la calligraphie — belle, mais elle dit « soigné » là où il faut « corrigé ». AYO dit le marqueur : trait rapide, pleins de brosse, geste d'urgence. C'est ce que fait quelqu'un qui rétablit un mot, pas quelqu'un qui calligraphie.
+
+Le noir l'emporte sur le blanc : à 210 px le blanc s'estompe sur le jaune. Et **l'encre noire, étrangère à la palette, est précisément ce qui signale « ajouté par une autre main, après coup »**.
+
+### 3. Le blanc — le silence rendu visible
+
+Un trait vide à l'endroit où la réponse aurait dû être. Le lecteur bute dessus, et c'est le sujet. Se lit de deux façons — silence ou censure — et les deux servent.
+
+### Deux autres pistes non construites
+
+- **Le mot dont la forme contredit le sens** : « non » en graisse cheveu, minuscule, face à « peut-être » en massif. Le mot dit une chose, sa forme en dit une autre — exactement ce que fait le corps. Construit dans `H2`.
+- **L'inversion d'échelle** sur l'angle 3 : « champion du monde » en tout petit, « incapable de dire non » en énorme.
+
+---
+
+## Les six cartes écrites
+
+Elles couvrent **trois registres**, et c'est ce qui manquait au lot : sur quatorze angles, aucun n'était compatissant.
+
+### Registre 1 — l'accusation. Pour qui pressent déjà le problème.
+
+**`S-E-fade-F2`** *(angle 12)*
 > « Comme tu veux. »
 > Tu crois faire plaisir ?
 > **Tu disparais.** *(en dissolution)*
-> ⎯
-> Sept jours pour redire « j'ai envie ». · 27 €
+> ⎯ Sept jours pour redire « j'ai envie ». · 27 €
 
-**La douce** — interroge sans accuser, pour qui n'a jamais nommé la chose. Le « 15 ans » cible implicitement un homme de 35-50 ans, soit l'avatar.
+**`H1-oui-mais`** *(angle 4)* — c'est ici que l'insertion appartient le plus : le sujet entier de la créa **est** un mot manquant.
+> « Oui ⌄ » *(avec « mais » inséré)*
+> Lui a dit : « oui, mais à 20h30 ».
+> **Toi, tu rentres à 23 h.**
+> ⎯ Sept jours pour apprendre le mot qui manque. · 27 €
 
+**`H2-non-filiforme`** *(angle 8)* — la plus économique du lot : le procédé remplace trois lignes de script.
+> Tu as dit non.
+> Enfin… tu crois.
+> *non* *(graisse cheveu)* / **Il a entendu : peut-être.**
+> ⎯ Sept jours pour que ton corps cesse de trahir tes décisions. · 27 €
+
+**`H3-le-blanc`** *(angle 11)*
+> « Qui ne dit mot consent. »
+> Ils ont demandé ton avis. Tu as répondu :
+> **⎯⎯⎯⎯⎯** *(un vide)*
+> Ils ont noté : d'accord.
+> ⎯ Sept jours pour reprendre la parole. · 27 €
+
+### Registre 2 — la compassion. Pour qui n'a jamais nommé la chose.
+
+**`S-G-ayo-1`** — le « 15 ans » cible implicitement un homme de 35-50 ans, soit l'avatar. C'est un gain de ciblage, pas une restriction.
 > Tu dis oui à tout depuis 15 ans.
 > **Sais-tu encore ce que tu veux ?**
-> ⎯
-> Sept jours pour reprendre ta place. · 27 €
+> ⎯ Sept jours pour reprendre ⌄ place. *(« ta » inséré au marqueur)* · 27 €
 
 ⚠️ **« Te retrouver » a été écarté** au profit de « reprendre ta place ». C'est la promesse la plus usée du marché, et elle contredit la vidéo Gandhi en cours, qui dit que le développement personnel devient une nouvelle forme de sur-adaptation. « Reprendre ta place » est spatial et social, et sous-entend que quelqu'un l'a prise — c'est le mécanisme de l'offre.
 
-**Fichiers rendus** : `~/Documents/Mnemonaute/Cercle de Verite - Visuels/` — `S-E-fade-F1.png` (la dure, à retenir), `S-F-15-ans.png` (la douce), plus les variantes de comparaison.
+### Registre 3 — le praticien. **À écrire.**
 
-**Reste à écrire** : les triplets réplique / question / verdict pour les douze autres angles. À faire avec Anthony, pas seul.
+L'autorité vient de l'observation, pas de la promesse, et ça utilise un actif que personne ne peut copier : David a réellement des gens en face de lui. Ça normalise aussi, ce qui retire la honte.
+
+> La plupart des hommes que j'accompagne ne savent pas dire non.
+> Si c'est ton cas, je peux faire quelque chose pour toi.
+
+⚠️ **Ne pas écrire « 50 % de mes coachés » sans avoir compté.** Une statistique inventée, la semaine où David publie une vidéo sur une citation faussement attribuée, c'est exactement la faute qu'il dénonce — et Meta refuse régulièrement les chiffres non étayés. Soit il compte pour de vrai (ses dossiers le permettent, et un chiffre réel serait redoutable), soit il reste sur la formulation d'expérience, qui ne se réfute pas.
+
+Deux réglages : « les hommes que j'accompagne » plutôt que « mes coachés » — ça nomme l'avatar et évite l'étiquette de coach, que la vidéo Gandhi rend inconfortable. Et garder « je peux faire quelque chose pour toi » plutôt qu'un « je sais quoi faire » plus assuré : face à un homme qui se méfie des coachs, la modestie convertit mieux que l'autorité.
+
+**Ce texte appelle le visage plutôt qu'un aplat.** Il est à la première personne : bon candidat pour une créa vidéo face caméra, ou pour le texte de l'annonce. En carte typographique, on perd ce qui fait sa force — que ce soit David qui le dise.
+
+---
+
+## La carte Frayssinet — en réserve
+
+Chronique de **Roman Frayssinet** dans *La Clique*, dans le registre : *« je croyais que dire non, c'était malpoli. En fait, c'est dire oui quand on n'a pas envie qui est malpoli. »*
+
+⚠️ **Texte reconstitué de mémoire par David — à vérifier avant tout usage.** Publier une citation approximative la semaine d'une vidéo sur une citation apocryphe serait une ironie coûteuse.
+
+**Trois règles si elle sort :**
+- **Toujours sourcer.** L'idée d'utiliser la phrase sans l'attribuer a été écartée : le sourçage est un gain, pas une concession. Non signée, c'est l'avis de David ; signée d'un humoriste qui n'a rien à vendre, c'est la preuve que le sujet existe en dehors de lui.
+- **Jamais l'extrait vidéo.** Les images appartiennent à Canal+ et à la production ; une publicité payante avec du contenu tiers est refusée ou réclamée. David peut dire la phrase lui-même en citant.
+- **Retargeting seulement.** Elle traite une objection (« dire non, c'est malpoli »), donc elle suppose une audience qui a déjà croisé le sujet — même raison qui a fait ranger « le oui qui a de la valeur » hors du lot froid.
+
+---
+
+## Une question de fond restée ouverte
+
+Ce format lit parfaitement mais **n'arrête pas le pouce**, et il ressemble à ce que publie chaque coach. La contrainte de départ — « aucune illustration, l'image parasite la lecture » — supposait que l'image et le texte se disputent le même espace. Ce n'est pas obligé : **une photo qui arrête le scroll, un bandeau plein qui garantit la lecture.**
+
+Et David a un actif que personne d'autre n'a : son visage, plus une méthode qui marche depuis le 31/08 — sa photo réelle en image de référence, celle qui a transformé les miniatures Gandhi.
+
+**La direction à explorer** : les scènes sont déjà écrites dans les scripts. L'homme à 23 h au milieu des cartons. Le téléphone qui sonne un jeudi soir. Les trois postures du non. Ce n'est pas de la banque d'images, c'est le matériau du lot mis en scène. **À poser à Anthony — c'est son métier de trancher.**
+
+---
+
+## Fichiers
+
+`~/Documents/Mnemonaute/Cercle de Verite - Visuels/` — **hors du vault.**
+
+| Fichier | Contenu |
+|---|---|
+| `S-G-ayo-1.png` | **La compassion, marqueur noir — à retenir** |
+| `S-G-ayo-2.png` | La même, marqueur blanc |
+| `S-G-biseau-1` / `-2` | La même, Apple Chancery noir et blanc |
+| `S-G-insertion-1` / `-2` | La même, Bradley Hand |
+| `S-E-fade-F2` | **« Tu disparais » — dissolution à 6 %, à retenir** |
+| `S-E-fade-F3` / `F1` | Dissolution à 13 % et 24 % |
+| `H1-oui-mais` · `H2-non-filiforme` · `H3-le-blanc` | Les trois procédés motivés |
+| `S-A` / `S-B` / `S-C` / `S-D` | Étapes de mise au point du gabarit |
+
+**Reste à écrire** : les triplets réplique / question / verdict pour les angles restants, et la carte du registre praticien. À faire avec Anthony, pas seul.
 
 ---
 
