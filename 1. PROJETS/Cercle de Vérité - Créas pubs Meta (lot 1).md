@@ -105,10 +105,10 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > Il y a deux types d'hommes qui aident un ami à déménager. Le soir, ils ne dorment pas pareil.
 > Samedi, huit heures du matin. Même cartons, même étage, même ami.
 > Le premier a répondu : « oui, mais à 20h30 je dois être rentré. » Le second a répondu : « oui. » Juste oui. Toi tu sais lequel tu es. Tu le sais depuis le début de cette vidéo.
-> Le soir, le premier est fatigué et content. Le second est encore là à 23h, et il attend un merci qui ne vient pas.
+> Le soir, le premier est fatigué et content. Le second est encore là à 23h parce que ça a pris plus longtemps que prévu, et il attend un merci qui ne vient pas. Quand il voit l'autre partir à 20h30 il se dit qu'il ne peut pas faire pareil, ça ne se fait pas, il s'est engagé.
 > Parce que le second n'a pas offert sa journée. Il a signé un chèque en blanc, puis il en a fixé le montant tout seul, dans sa tête, sans rien dire. Son ami croit avoir reçu un cadeau — il ne sait pas qu'il vient de contracter une dette. C'est ça, un oui inconditionnel : tu fais décider l'autre sur une information fausse.
 > La différence entre les deux, ce n'est pas le caractère. C'est trois mots. « Oui, mais. »
-> Sept jours pour apprendre à les dire. 27 €.
+> Sept jours pour apprendre à les dire simplement.
 
 **Visuel** — Deux plans successifs de la même scène, l'un lumineux, l'autre plus froid et désaturé. Cartons en B-roll.
 
