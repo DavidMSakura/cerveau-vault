@@ -30,6 +30,8 @@ Dix scripts vidéo et dix visuels, un angle par créa. Matière brute destinée 
 6. **Ce n'est pas ta faute**, ça se change, et tu seras plus heureux après.
 7. **CTA.**
 
+**Dans les scripts qui suivent, chaque ligne du bloc citation correspond à un temps, dans cet ordre.** Les étiquettes ont été retirées : la structure est ici, les scripts se lisent d'une traite.
+
 On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un malaise. L'effet Wow vient du **regard des autres sur ses oui** — c'est ce qui fait basculer, pas la théorie.
 
 **Confirmé le 27/08 : le jour 5 enseigne bien de ne pas se justifier.** La promesse de l'angle 1 — « un non n'a pas besoin de raison, une raison ça se démonte » — est donc adossée au produit, et pas seulement à une belle formule. C'est le seul enseignement du protocole qui soit à la fois applicable le soir même, vérifiable dans le corps, et absent du discours des concurrents. **À considérer comme candidat au positionnement principal**, au-delà de la seule créa.
@@ -49,13 +51,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 1 — La fausse excuse
 **Hook Clovis n°7 — Question → Réflexion** · Audience froide, l'angle le plus léger donc le plus large
 
-> **[ACCROCHE]** T'es dehors, tu fumes. Un type s'approche. Et tu sais déjà que tu vas mentir.
-> **[SITUATION]** « T'aurais pas une cigarette ? » Tu réponds : « Ah désolé, c'est ma dernière. »
-> **[ÉCHELLE]** Ce n'était pas ta dernière. Tu le sais, il ne le sait pas, et jusque-là tout va bien. Tu as évité le truc pénible, tu t'apprêtes à repartir.
-> **[SON OUI]** Sauf qu'il enchaîne : « Y'a un tabac juste là, tu vas en racheter de toute façon, non ? » Et là, tu sens la gêne monter.
-> **[RÉVÉLATION]** Cette gêne, c'est la preuve. La dernière cigarette n'était pas la vraie raison. La vraie raison, c'est que tu n'avais pas envie de lui en donner une — et ça, tu n'as pas osé le dire. Alors il insiste, et il a raison d'insister : tu lui as fait croire que c'était une question de circonstances. Tu l'as mis dans le rôle du lourd, alors que c'est toi qui as menti.
-> **[PAS TA FAUTE]** Une raison, ça se démonte. Un non, non. Personne ne nous a appris ça — on nous a appris à trouver de bonnes excuses.
-> **[CTA]** Sept jours pour ton premier vrai NON. Sinon je te rembourse.
+> T'es dehors, tu fumes. Un type s'approche. Et tu sais déjà que tu vas mentir.
+> « T'aurais pas une cigarette ? » Tu réponds : « Ah désolé, c'est ma dernière. »
+> Ce n'était pas ta dernière. Tu le sais, il ne le sait pas, et jusque-là tout va bien. Tu as évité le truc pénible, tu t'apprêtes à repartir.
+> Sauf qu'il enchaîne : « Y'a un tabac juste là, tu vas en racheter de toute façon, non ? » Et là, tu sens la gêne monter.
+> Cette gêne, c'est la preuve. La dernière cigarette n'était pas la vraie raison. La vraie raison, c'est que tu n'avais pas envie de lui en donner une — et ça, tu n'as pas osé le dire. Alors il insiste, et il a raison d'insister : tu lui as fait croire que c'était une question de circonstances. Tu l'as mis dans le rôle du lourd, alors que c'est toi qui as menti.
+> Une raison, ça se démonte. Un non, non. Personne ne nous a appris ça — on nous a appris à trouver de bonnes excuses.
+> Sept jours pour ton premier vrai NON. Sinon je te rembourse.
 
 **Visuel** — Sketch joué en une prise, ton léger, presque comique. La bascule sérieuse arrive au temps 5, où tu reviens face caméra.
 
@@ -66,13 +68,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 2 — Les 50 euros
 **Hook Clovis n°6 — Défi et preuve sociale** · La démonstration la plus spectaculaire
 
-> **[ACCROCHE]** Je peux te faire sortir 50 euros de ta poche avec quatre mots.
-> **[SITUATION]** Je le fais en formation. Je demande à quelqu'un de me donner 50 euros. Il hésite, il rigole, il regarde les autres.
-> **[ÉCHELLE]** Alors j'ajoute quatre mots : « ça me ferait plaisir. » Et il les sort. À chaque fois. Toi aussi tu les sortirais — refuser devant vingt personnes coûte plus cher que 50 euros. Ça, tu le sais.
-> **[SON OUI]** Il donne. Et souvent, dans les minutes qui suivent, il pleure.
-> **[RÉVÉLATION]** Pas pour l'argent. Parce qu'il vient de compter combien de fois il a fait ça dans sa vie. Et parce qu'il réalise qu'à chaque fois, l'autre est reparti convaincu qu'il avait donné de bon cœur. C'est ça le vrai coût : les gens autour de toi ne savent pas ce que tu leur donnes vraiment.
-> **[PAS TA FAUTE]** Quatre mots suffisent à te faire craquer. Ce n'est pas de la faiblesse, c'est un réflexe. Un réflexe, ça se reprogramme.
-> **[CTA]** Sept jours, 27 €. Moins qu'un resto.
+> Je peux te faire sortir 50 euros de ta poche avec quatre mots.
+> Je le fais en formation atelier consentement. Je demande à quelqu'un de me donner 50 euros. La personne hésite, rigole, regarde les autres.
+> Alors j'ajoute quatre mots : « ça me ferait plaisir. » Et il les sort. À chaque fois. Toi aussi tu les sortirais — refuser devant vingt personnes coûte plus cher que 50 euros. Ça, tu le sais.
+> Il donne. Et parfois, dans les secondes qui suivent, il y a des larmes.
+> Pas pour l'argent. Parce que cette personne vient de compter combien de fois elle a fait ça dans sa vie. Et parce qu'elle réalise qu'à chaque fois, l'autre est reparti convaincu qu'elle avait donné de bon cœur. C'est ça le vrai coût : les gens autour de toi ne savent pas ce que tu leur donnes vraiment.
+> Quatre mots suffisent à te faire craquer. Ce n'est pas de la faiblesse, c'est un réflexe. Un réflexe, ça se reprogramme.
+> Sept jours, 27 €. Moins qu'un resto.
 
 **Visuel** — Séquence filmée en salle si tu en as une, sinon un billet en gros plan qui passe d'une main à l'autre. Le billet est le personnage principal.
 
@@ -85,13 +87,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 3 — L'autorité retournée
 **Hook Clovis n°4 — Story perso** · Le meilleur ouvreur du lot, il installe la crédibilité
 
-> **[ACCROCHE]** J'ai été deux fois champion du monde de sabre japonais. Et le soir, chez moi, je ravalais.
-> **[SITUATION]** Devant un adversaire armé, je ne tremblais pas. Le soir, face à des situations qui ne me convenaient pas, je ne disais rien. Je ravalais et je supportais.
-> **[ÉCHELLE]** Tu vois de quoi je parle. Tu as déjà tenu tête à un client difficile. Tu as déjà géré une urgence dont personne ne voulait. Et le même soir, tu t'es tu sur un truc qui te pèse depuis des mois.
-> **[SON OUI]** Le courage, tu l'as. Il s'arrête à la porte de chez toi.
-> **[RÉVÉLATION]** Et voilà ce que personne ne m'avait dit : ce silence-là n'est pas de la patience. Il laisse croire à l'autre que ça te va. Tu ravales, il continue — parce qu'il n'a aucune raison de s'arrêter — et un jour tu lui présentes une facture qu'il n'a jamais vue arriver. J'ai fait exploser un mariage comme ça, sans jamais élever la voix.
-> **[PAS TA FAUTE]** Le courage physique ne garantit pas le courage relationnel. Deux muscles différents, et le second, personne ne nous l'a fait travailler.
-> **[CTA]** Sept jours pour le muscler. Le lien est en dessous.
+> J'ai été deux fois champion du monde de sabre japonais. Et le soir, chez moi, je ravalais.
+> Devant un adversaire armé, je ne tremblais pas. Le soir, face à des situations qui ne me convenaient pas, je ne disais rien. Je ravalais et je supportais.
+> Tu vois de quoi je parle. Tu as déjà tenu tête à un client difficile. Tu as déjà géré une urgence dont personne ne voulait. Et le même soir, tu t'es tu sur un truc qui te pèse depuis des mois.
+> Le courage, tu l'as. Il s'arrête à la porte de chez toi.
+> Et voilà ce que personne ne m'avait dit : ce silence-là n'est pas de la patience. Il laisse croire à l'autre que ça te va. Tu ravales, il continue — parce qu'il n'a aucune raison de s'arrêter — et un jour tu lui présentes une facture qu'il n'a jamais vue arriver. J'ai fait exploser un mariage comme ça, sans jamais élever la voix.
+> Le courage physique ne garantit pas le courage relationnel. Deux muscles différents, et le second, personne ne nous l'a fait travailler.
+> Sept jours pour le muscler. Le lien est en dessous.
 
 **Visuel** — Plan serré, fond neutre. Insert de 1,5 s sur la vraie photo de podium à « champion du monde », puis retour visage. Aucune musique sur les trois premières secondes : le silence fait ralentir le scroll.
 
@@ -100,13 +102,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 4 — L'ami qui déménage
 **Hook Clovis n°1 — Il y a deux types de…** · Montre le mécanisme sans une once de théorie
 
-> **[ACCROCHE]** Il y a deux types d'hommes qui aident un ami à déménager. Le soir, ils ne dorment pas pareil.
-> **[SITUATION]** Samedi, huit heures du matin. Même cartons, même étage, même ami.
-> **[ÉCHELLE]** Le premier a répondu : « oui, mais à 20h30 je dois être rentré. » Le second a répondu : « oui. » Juste oui. Toi tu sais lequel tu es. Tu le sais depuis le début de cette vidéo.
-> **[SON OUI]** Le soir, le premier est fatigué et content. Le second est encore là à 23h, et il attend un merci qui ne vient pas.
-> **[RÉVÉLATION]** Parce que le second n'a pas offert sa journée. Il a signé un chèque en blanc, puis il en a fixé le montant tout seul, dans sa tête, sans rien dire. Son ami croit avoir reçu un cadeau — il ne sait pas qu'il vient de contracter une dette. C'est ça, un oui inconditionnel : tu fais décider l'autre sur une information fausse.
-> **[PAS TA FAUTE]** La différence entre les deux, ce n'est pas le caractère. C'est trois mots. « Oui, mais. »
-> **[CTA]** Sept jours pour apprendre à les dire. 27 €.
+> Il y a deux types d'hommes qui aident un ami à déménager. Le soir, ils ne dorment pas pareil.
+> Samedi, huit heures du matin. Même cartons, même étage, même ami.
+> Le premier a répondu : « oui, mais à 20h30 je dois être rentré. » Le second a répondu : « oui. » Juste oui. Toi tu sais lequel tu es. Tu le sais depuis le début de cette vidéo.
+> Le soir, le premier est fatigué et content. Le second est encore là à 23h, et il attend un merci qui ne vient pas.
+> Parce que le second n'a pas offert sa journée. Il a signé un chèque en blanc, puis il en a fixé le montant tout seul, dans sa tête, sans rien dire. Son ami croit avoir reçu un cadeau — il ne sait pas qu'il vient de contracter une dette. C'est ça, un oui inconditionnel : tu fais décider l'autre sur une information fausse.
+> La différence entre les deux, ce n'est pas le caractère. C'est trois mots. « Oui, mais. »
+> Sept jours pour apprendre à les dire. 27 €.
 
 **Visuel** — Deux plans successifs de la même scène, l'un lumineux, l'autre plus froid et désaturé. Cartons en B-roll.
 
@@ -115,13 +117,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 5 — Le parent et le dimanche
 **Hook Clovis n°3 — Un secret** · Le plus chargé émotionnellement, à manier avec précaution
 
-> **[ACCROCHE]** Il y a une phrase que ta mère ne t'a jamais dite, et que tu entends à chaque fois.
-> **[SITUATION]** Le téléphone sonne un jeudi soir. « Est-ce que tu peux passer dimanche ? » Six mots. Aucun reproche, aucune pression.
-> **[ÉCHELLE]** Et pourtant ton ventre s'est serré. Tu as déjà calculé ce que ça coûte à ton week-end. Tu as déjà cherché une excuse. Et tu as déjà renoncé à la chercher.
-> **[SON OUI]** Parce que ce que tu as entendu, c'est : « après tout ce que j'ai fait pour toi. » Personne n'a prononcé cette phrase. Elle est dans ta tête.
-> **[RÉVÉLATION]** Alors tu ne réponds pas à une demande : tu rembourses une facture que personne ne t'a présentée. Et dimanche, tu es là physiquement, absent complètement. Ta mère croit passer un moment avec son fils. Elle le passe avec un débiteur. Elle non plus n'a pas signé pour ça.
-> **[PAS TA FAUTE]** La gratitude n'est pas une dette illimitée. Le jour où j'ai compris ça, j'ai recommencé à voir mon père avec plaisir.
-> **[CTA]** Ton créancier émotionnel, c'est le jour 2.
+> Il y a une phrase que ta mère ne t'a jamais dite, et que tu entends à chaque fois.
+> Le téléphone sonne un jeudi soir. « Est-ce que tu peux passer dimanche ? » Six mots. Aucun reproche, aucune pression.
+> Et pourtant ton ventre s'est serré. Tu as déjà calculé ce que ça coûte à ton week-end. Tu as déjà cherché une excuse. Et tu as déjà renoncé à la chercher.
+> Parce que ce que tu as entendu, c'est : « après tout ce que j'ai fait pour toi. » Personne n'a prononcé cette phrase. Elle est dans ta tête.
+> Alors tu ne réponds pas à une demande : tu rembourses une facture que personne ne t'a présentée. Et dimanche, tu es là physiquement, absent complètement. Ta mère croit passer un moment avec son fils. Elle le passe avec un débiteur. Elle non plus n'a pas signé pour ça.
+> La gratitude n'est pas une dette illimitée. Le jour où j'ai compris ça, j'ai recommencé à voir mon père avec plaisir.
+> Ton créancier émotionnel, c'est le jour 2.
 
 **Visuel** — Plan calme, assis, lumière douce. Ton posé, presque tendre. Cet angle ne supporte pas la provocation : il touche trop juste.
 
@@ -130,13 +132,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 6 — Le distributeur automatique
 **Hook Clovis n°5 — Arrête de… (paradoxal)** · La phrase la plus mémorisable du lot
 
-> **[ACCROCHE]** Arrête de dire oui pour qu'on t'apprécie. Tu obtiens l'inverse, et je vais te montrer pourquoi.
-> **[SITUATION]** Tu es celui sur qui on peut compter. Le collègue arrangeant, le pote fiable, le fils présent. Jamais un problème.
-> **[ÉCHELLE]** Tu as remarqué qu'on te demande plus qu'aux autres. Qu'on ne te remercie plus vraiment. Et qu'on ne te demande jamais ton avis — on te demande ta disponibilité.
-> **[SON OUI]** À force de dire oui, tu n'es pas devenu indispensable. Tu es devenu prévisible.
-> **[RÉVÉLATION]** Tu es devenu un distributeur automatique de oui. Et personne n'aime un distributeur — on s'en sert, ce n'est pas la même chose. Le pire, c'est que tu l'as construit toi-même : à chaque oui automatique, tu leur as appris que ton avis n'existait pas.
-> **[PAS TA FAUTE]** On t'a fait croire que ta valeur, c'était ton utilité. C'est faux, et ça se répare.
-> **[CTA]** Redeviens quelqu'un dont le oui a de la valeur. Sept jours.
+> Arrête de dire oui pour qu'on t'apprécie. Tu obtiens l'inverse, et je vais te montrer pourquoi.
+> Tu es celui sur qui on peut compter. Le collègue arrangeant, le pote fiable, le fils présent. Jamais un problème.
+> Tu as remarqué qu'on te demande plus qu'aux autres. Qu'on ne te remercie plus vraiment. Et qu'on ne te demande jamais ton avis — on te demande ta disponibilité.
+> À force de dire oui, tu n'es pas devenu indispensable. Tu es devenu prévisible.
+> Tu es devenu un distributeur automatique de oui. Et personne n'aime un distributeur — on s'en sert, ce n'est pas la même chose. Le pire, c'est que tu l'as construit toi-même : à chaque oui automatique, tu leur as appris que ton avis n'existait pas.
+> On t'a fait croire que ta valeur, c'était ton utilité. C'est faux, et ça se répare.
+> Redeviens quelqu'un dont le oui a de la valeur. Sept jours.
 
 **Visuel** — Métaphore assumée : un distributeur, une main qui appuie, un produit qui tombe. Fonctionne aussi en version texte plein écran, voix off.
 
@@ -145,13 +147,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 7 — L'astreinte émotionnelle
 **Hook Clovis n°1 — Il y a deux types de…** · Parle directement aux hypersensibles
 
-> **[ACCROCHE]** Il y a deux types d'hommes fatigués. Ceux qui ont trop travaillé, et ceux qui ont passé la journée à surveiller l'humeur des autres.
-> **[SITUATION]** Tu rentres vidé, et tu n'as rien porté de lourd. Tu n'as pas couru. Tu n'as pas fait de nuit blanche.
-> **[ÉCHELLE]** Mais tu as scanné le ton du mail de ton patron. Le visage de ta compagne en passant la porte. Le silence de ton ado à table. Et à chaque fois, tu as ajusté.
-> **[SON OUI]** Tu n'es plus en relation avec eux. Tu es en astreinte.
-> **[RÉVÉLATION]** Et l'astreinte n'est pas gratuite pour eux non plus. Ils vivent avec un homme qui ne dit jamais ce qu'il pense, qui sourit quand ça ne va pas, et qui explose un jour sans prévenir. Ils croient te connaître. Tu ne leur en as jamais donné les moyens.
-> **[PAS TA FAUTE]** Une vie entière en astreinte, ce n'est pas de l'amour. C'est de l'épuisement organisé. Et ça se désorganise.
-> **[CTA]** Sors de l'astreinte. Sept jours, 27 €.
+> Il y a deux types d'hommes fatigués. Ceux qui ont trop travaillé, et ceux qui ont passé la journée à surveiller l'humeur des autres.
+> Tu rentres vidé, et tu n'as rien porté de lourd. Tu n'as pas couru. Tu n'as pas fait de nuit blanche.
+> Mais tu as scanné le ton du mail de ton patron. Le visage de ta compagne en passant la porte. Le silence de ton ado à table. Et à chaque fois, tu as ajusté.
+> Tu n'es plus en relation avec eux. Tu es en astreinte.
+> Et l'astreinte n'est pas gratuite pour eux non plus. Ils vivent avec un homme qui ne dit jamais ce qu'il pense, qui sourit quand ça ne va pas, et qui explose un jour sans prévenir. Ils croient te connaître. Tu ne leur en as jamais donné les moyens.
+> Une vie entière en astreinte, ce n'est pas de l'amour. C'est de l'épuisement organisé. Et ça se désorganise.
+> Sors de l'astreinte. Sept jours, 27 €.
 
 **Visuel** — Plan fixe, toi immobile, le regard qui balaie hors champ comme si tu surveillais quelque chose. Notifications discrètes qui s'accumulent, puis silence total sur la dernière phrase.
 
@@ -161,13 +163,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 9 — Le corps qui demande pardon
 **Hook Clovis n°3 — Un secret** · Le seul angle que personne d'autre ne peut faire
 
-> **[ACCROCHE]** Tu as déjà dit non. Et ça n'a pas marché. Ça n'a rien à voir avec tes mots.
-> **[SITUATION]** Tu avais préparé ta phrase. Tu l'as dite calmement, au bon moment. Et l'autre a insisté comme si tu n'avais rien dit.
-> **[ÉCHELLE]** Repasse la scène. Tes épaules sont rentrées. Ta voix est montée dans les aigus à la fin. Tu as souri en le disant. Et tu as ajouté « enfin, si ça t'embête pas trop ».
-> **[SON OUI]** Ta bouche disait non. Ton corps disait : « mais ça se négocie. Insiste un peu, et je craque. »
-> **[RÉVÉLATION]** Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires, et tu l'as laissé choisir celui qui l'arrangeait. Il a insisté, et il a eu raison d'insister : tu venais de le lui demander. Un non qui se négocie n'est pas un non. C'est une première offre.
-> **[PAS TA FAUTE]** La fermeté ne vient pas du volume. Elle vient de la stabilité. Ce sont les arts martiaux qui me l'ont appris, pas le développement personnel.
-> **[CTA]** La technique du Bushido, c'est le jour 6.
+> Tu as déjà dit non. Et ça n'a pas marché. Ça n'a rien à voir avec tes mots.
+> Tu avais préparé ta phrase. Tu l'as dite calmement, au bon moment. Et l'autre a insisté comme si tu n'avais rien dit.
+> Repasse la scène. Tes épaules sont rentrées. Ta voix est montée dans les aigus à la fin. Tu as souri en le disant. Et tu as ajouté « enfin, si ça t'embête pas trop ».
+> Ta bouche disait non. Ton corps disait : « mais ça se négocie. Insiste un peu, et je craque. »
+> Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires, et tu l'as laissé choisir celui qui l'arrangeait. Il a insisté, et il a eu raison d'insister : tu venais de le lui demander. Un non qui se négocie n'est pas un non. C'est une première offre.
+> La fermeté ne vient pas du volume. Elle vient de la stabilité. Ce sont les arts martiaux qui me l'ont appris, pas le développement personnel.
+> La technique du Bushido, c'est le jour 6.
 
 **Visuel** — Démonstration physique : le non effacé, le non agressif, le non aligné. Trois postures, un seul plan large fixe. Le seul angle où l'on doit voir ton corps en entier.
 
@@ -176,13 +178,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 10 — Dans cinq ans
 **Hook Clovis n°2 — Confrontation** · Projection de conséquence, excellent en retargeting
 
-> **[ACCROCHE]** Continue à dire « oui, pas de problème » alors qu'il y a un problème. Tant que tu n'auras pas dit un seul vrai non, rien ne bougera.
-> **[SITUATION]** Un faux oui, ce n'est rien. Trois heures de ton samedi. Un service rendu. Une soirée sacrifiée.
-> **[ÉCHELLE]** Deux, ce n'est rien non plus. Dix, tu ne les as même pas comptés. Tu ne te souviens d'aucun individuellement — tu te souviens juste d'être fatigué en permanence sans savoir de quoi.
-> **[SON OUI]** Tu as évité l'inconfort immédiat à chaque fois. Tu ne l'as pas supprimé. Tu l'as déplacé à l'intérieur de toi.
-> **[RÉVÉLATION]** Et ça s'accumule. Chaque oui non choisi ajoute une ligne à une ardoise que personne autour de toi ne voit — jusqu'au jour où elle sort d'un coup, sur les mauvaises personnes, pour une broutille. Ce jour-là, ils ne comprendront pas. Ils n'ont jamais vu l'ardoise.
-> **[PAS TA FAUTE]** Dans cinq ans, si rien ne change, tu seras au même endroit. Simplement plus fatigué. Et vingt ans plus tard, ce sera juste ta vie que tu auras sacrifiée — sans que personne ne vienne te donner une médaille.
-> **[CTA]** Sept jours contre cinq ans. Ton premier NON ou remboursé.
+> Continue à dire « oui, pas de problème » alors qu'il y a un problème. Tant que tu n'auras pas dit un seul vrai non, rien ne bougera.
+> Un faux oui, ce n'est rien. Trois heures de ton samedi. Un service rendu. Une soirée sacrifiée.
+> Deux, ce n'est rien non plus. Dix, tu ne les as même pas comptés. Tu ne te souviens d'aucun individuellement — tu te souviens juste d'être fatigué en permanence sans savoir de quoi.
+> Tu as évité l'inconfort immédiat à chaque fois. Tu ne l'as pas supprimé. Tu l'as déplacé à l'intérieur de toi.
+> Et ça s'accumule. Chaque oui non choisi ajoute une ligne à une ardoise que personne autour de toi ne voit — jusqu'au jour où elle sort d'un coup, sur les mauvaises personnes, pour une broutille. Ce jour-là, ils ne comprendront pas. Ils n'ont jamais vu l'ardoise.
+> Dans cinq ans, si rien ne change, tu seras au même endroit. Simplement plus fatigué. Et vingt ans plus tard, ce sera juste ta vie que tu auras sacrifiée — sans que personne ne vienne te donner une médaille.
+> Sept jours contre cinq ans. Ton premier NON ou remboursé.
 
 **Visuel** — Plan sobre, ton calme et grave, aucune provocation. Idéal en retargeting sur ceux qui ont vu la page sans acheter.
 
@@ -191,13 +193,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 11 — Christophe et l'associé
 **Hook Clovis n°6 — Défi et preuve sociale** · Le seul angle du lot porté par un client, pas par toi
 
-> **[ACCROCHE]** Christophe a failli perdre son argent et son meilleur ami la même année. Parce qu'il n'a pas su dire non au départ.
-> **[SITUATION]** Un ami lui propose de monter un projet ensemble. Vrai projet, vrai argent. Dès la première réunion, il sent que le montage est bancal.
-> **[ÉCHELLE]** Tu vois très bien ce moment. Tu as senti quelque chose. Tu n'as rien dit parce que c'était un ami. Tu t'es dit que tu verrais plus tard, et que tu ne pouvais pas lui faire ça maintenant.
-> **[SON OUI]** Christophe a dit oui. Puis il a passé des mois à espérer que quelqu'un d'autre arrête le projet à sa place.
-> **[RÉVÉLATION]** Sauf que son ami, lui, avançait. Il engageait de l'argent, du temps, sa réputation — sur la foi d'un associé qui n'était pas d'accord et qui ne le disait pas. Ce n'est pas de la loyauté. C'est laisser quelqu'un décider avec une information fausse. Le vrai risque, ce n'était pas le non. C'était le oui.
-> **[PAS TA FAUTE]** Il a fini par le dire. Il est sorti du deal, il a gardé l'ami, et il mène aujourd'hui un projet rentable, seul.
-> **[CTA]** Ton premier NON en sept jours, ou je te rembourse.
+> Christophe a failli perdre son argent et son meilleur ami la même année. Parce qu'il n'a pas su dire non au départ.
+> Un ami lui propose de monter un projet ensemble. Vrai projet, vrai argent. Dès la première réunion, il sent que le montage est bancal.
+> Tu vois très bien ce moment. Tu as senti quelque chose. Tu n'as rien dit parce que c'était un ami. Tu t'es dit que tu verrais plus tard, et que tu ne pouvais pas lui faire ça maintenant.
+> Christophe a dit oui. Puis il a passé des mois à espérer que quelqu'un d'autre arrête le projet à sa place.
+> Sauf que son ami, lui, avançait. Il engageait de l'argent, du temps, sa réputation — sur la foi d'un associé qui n'était pas d'accord et qui ne le disait pas. Ce n'est pas de la loyauté. C'est laisser quelqu'un décider avec une information fausse. Le vrai risque, ce n'était pas le non. C'était le oui.
+> Il a fini par le dire. Il est sorti du deal, il a gardé l'ami, et il mène aujourd'hui un projet rentable, seul.
+> Ton premier NON en sept jours, ou je te rembourse.
 
 **Visuel** — Face caméra, ton posé de celui qui raconte quelqu'un d'autre. Aucune incrustation avant la dernière phrase.
 
@@ -206,13 +208,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 12 — Qui ne dit mot consent
 **Hook Clovis n°7 — Question → Réflexion** · Le seul angle qui part d'un proverbe, donc l'entrée la plus large du lot
 
-> **[ACCROCHE]** « Qui ne dit mot consent. » Tout le monde connaît. Sauf que toi, tu n'as jamais consenti à rien.
-> **[SITUATION]** Une réunion, une table de famille, un salon un dimanche. Quelqu'un dit un truc qui ne te va pas. Une décision, une blague, une remarque sur toi.
-> **[ÉCHELLE]** Tu ne réponds pas. Tu te dis que ce n'est pas le moment, que tu en reparleras plus tard. Tu n'en reparles jamais. Et en repartant, tu refais la conversation dans ta tête avec les phrases que tu n'as pas dites.
-> **[SON OUI]** Eux, ils ont noté que tu étais d'accord. C'est la règle : qui ne dit mot consent.
-> **[RÉVÉLATION]** Sauf que tu n'as pas consenti. Tu t'es écrasé. Et personne dans la pièce n'a de moyen de faire la différence : ton silence, ils l'ont compté comme un accord, et ils vont continuer sur cette base. Tu ne leur as pas donné la paix. Tu leur as donné une information fausse.
-> **[PAS TA FAUTE]** On t'a appris qu'un homme qui ne fait pas d'histoires est un homme bien. Personne ne t'a dit qu'un silence, ça s'interprète toujours en ta défaveur.
-> **[CTA]** Sept jours pour reprendre la parole. 27 €.
+> « Qui ne dit mot consent. » Tout le monde connaît. Sauf que toi, tu n'as jamais consenti à rien.
+> Une réunion, une table de famille, un salon un dimanche. Quelqu'un dit un truc qui ne te va pas. Une décision, une blague, une remarque sur toi.
+> Tu ne réponds pas. Tu te dis que ce n'est pas le moment, que tu en reparleras plus tard. Tu n'en reparles jamais. Et en repartant, tu refais la conversation dans ta tête avec les phrases que tu n'as pas dites.
+> Eux, ils ont noté que tu étais d'accord. C'est la règle : qui ne dit mot consent.
+> Sauf que tu n'as pas consenti. Tu t'es écrasé. Et personne dans la pièce n'a de moyen de faire la différence : ton silence, ils l'ont compté comme un accord, et ils vont continuer sur cette base. Tu ne leur as pas donné la paix. Tu leur as donné une information fausse.
+> On t'a appris qu'un homme qui ne fait pas d'histoires est un homme bien. Personne ne t'a dit qu'un silence, ça s'interprète toujours en ta défaveur.
+> Sept jours pour reprendre la parole. 27 €.
 
 **Visuel** — Le proverbe seul à l'écran sur les trois premières secondes, sans toi, sans voix. Puis coupe franche sur ton visage pour « sauf que toi, tu n'as jamais consenti à rien ». C'est le seul angle du lot où le hook est typographique.
 
@@ -223,13 +225,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 13 — « Comme tu veux »
 **Hook Clovis n°5 — Arrête de… (paradoxal)** · Le seul angle où la révélation est prononcée par quelqu'un d'autre que toi
 
-> **[ACCROCHE]** Arrête de dire « comme tu veux ». Guillaume l'a dit pendant des années, jusqu'à la phrase que sa compagne lui a sortie.
-> **[SITUATION]** Dans son couple, il évitait tout. « Ok. » « Pas de souci. » « Comme tu veux. » Jamais un conflit, jamais un désaccord.
-> **[ÉCHELLE]** Tu vois le tableau. Tu as un avis, tu le sais avant même qu'on te pose la question, et tu ne le dis pas. Alors elle choisit. Et le soir, tu es sec, absent, sans savoir pourquoi.
-> **[SON OUI]** Un jour, elle lui a dit : « Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »
-> **[RÉVÉLATION]** Il ne protégeait pas la relation. Il la rendait floue. « Comme tu veux », ça a l'air d'un cadeau — en vrai tu refiles la décision et tu gardes le droit d'être déçu. Elle joue sans les informations. Elle ne peut pas gagner, et elle finit par le sentir.
-> **[PAS TA FAUTE]** On t'a appris que ne pas imposer, c'était être respectueux. Personne ne t'a dit qu'en cachant ce que tu veux, tu enlèves à l'autre sa seule chance de te faire plaisir.
-> **[CTA]** Sept jours pour redire « j'ai envie ». 27 €.
+> Arrête de dire « comme tu veux ». Guillaume l'a dit pendant des années, jusqu'à la phrase que sa compagne lui a sortie.
+> Dans son couple, il évitait tout. « Ok. » « Pas de souci. » « Comme tu veux. » Jamais un conflit, jamais un désaccord.
+> Tu vois le tableau. Tu as un avis, tu le sais avant même qu'on te pose la question, et tu ne le dis pas. Alors elle choisit. Et le soir, tu es sec, absent, sans savoir pourquoi.
+> Un jour, elle lui a dit : « Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »
+> Il ne protégeait pas la relation. Il la rendait floue. « Comme tu veux », ça a l'air d'un cadeau — en vrai tu refiles la décision et tu gardes le droit d'être déçu. Elle joue sans les informations. Elle ne peut pas gagner, et elle finit par le sentir.
+> On t'a appris que ne pas imposer, c'était être respectueux. Personne ne t'a dit qu'en cachant ce que tu veux, tu enlèves à l'autre sa seule chance de te faire plaisir.
+> Sept jours pour redire « j'ai envie ». 27 €.
 
 **Visuel** — Scène de couple reconstituée en amorce, très courte, puis toi face caméra à partir de la phrase de la compagne. Elle doit s'afficher à l'écran en même temps qu'elle est dite : c'est le pivot de la créa.
 
@@ -242,13 +244,13 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 ## 14 — Le développement personnel comme suradaptation
 **Hook Clovis n°7 — Question → Réflexion** · ⚠️ **Audience tiède**, pas froide : elle vise celui qui consomme déjà du développement personnel · *Ajouté le 01/09/2026, né du script Gandhi*
 
-> **[ACCROCHE]** Tu as lu quarante bouquins de développement personnel. Et tu n'as toujours pas su dire non à personne.
-> **[SITUATION]** Les podcasts le matin, les formations le week-end, la méditation, le journal du soir. Tu bosses sur toi depuis des années, sérieusement, sans tricher.
-> **[ÉCHELLE]** Tu connais tes biais. Tu sais nommer tes émotions. Tu as compris d'où ça vient, ton enfance, tes schémas. Tu pourrais l'expliquer à quelqu'un mieux que ton thérapeute.
-> **[SON OUI]** Et pourtant hier, quand on t'a demandé un service qui ne t'arrangeait pas, tu as dit oui. Exactement comme avant.
-> **[RÉVÉLATION]** J'ai fait ça pendant quinze ans. Je croyais que je travaillais sur moi — en fait je travaillais à devenir celui que je croyais devoir être. Chaque livre était une nouvelle norme, chaque formation une nouvelle bonne version de moi à atteindre. Le développement personnel était devenu ma façon la plus noble de me sur-adapter. Je n'étais pas en train de me trouver. J'étais encore en train d'essayer de correspondre.
-> **[PAS TA FAUTE]** Personne ne t'a dit que travailler sur soi pouvait devenir un moule de plus. C'est même le seul moule dont on te félicite. Et ça se change — pas en lisant un livre de plus, en disant un non.
-> **[CTA]** Sept jours pour ton premier vrai NON. Sinon je te rembourse.
+> Tu as lu quarante bouquins de développement personnel. Et tu n'as toujours pas su dire non à personne.
+> Les podcasts le matin, les formations le week-end, la méditation, le journal du soir. Tu bosses sur toi depuis des années, sérieusement, sans tricher.
+> Tu connais tes biais. Tu sais nommer tes émotions. Tu as compris d'où ça vient, ton enfance, tes schémas. Tu pourrais l'expliquer à quelqu'un mieux que ton thérapeute.
+> Et pourtant hier, quand on t'a demandé un service qui ne t'arrangeait pas, tu as dit oui. Exactement comme avant.
+> J'ai fait ça pendant quinze ans. Je croyais que je travaillais sur moi — en fait je travaillais à devenir celui que je croyais devoir être. Chaque livre était une nouvelle norme, chaque formation une nouvelle bonne version de moi à atteindre. Le développement personnel était devenu ma façon la plus noble de me sur-adapter. Je n'étais pas en train de me trouver. J'étais encore en train d'essayer de correspondre.
+> Personne ne t'a dit que travailler sur soi pouvait devenir un moule de plus. C'est même le seul moule dont on te félicite. Et ça se change — pas en lisant un livre de plus, en disant un non.
+> Sept jours pour ton premier vrai NON. Sinon je te rembourse.
 
 **Visuel** — Face caméra, sobre, sans décor. La pile de livres visible dans le cadre, et tu la repousses au temps 5. La bascule est dans le geste, pas dans le montage.
 
