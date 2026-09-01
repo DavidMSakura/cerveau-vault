@@ -281,17 +281,42 @@ Le format qui tient tout seul, c'est **une réplique reconnaissable, puis le ret
 | 5 | Le parent | « Tu peux passer dimanche ? » | Ce que tu entends : « après tout ce que j'ai fait pour toi ». |
 | 6 | Le distributeur | On ne te demande plus ton avis. | On te demande ta disponibilité. |
 | 7 | L'astreinte | Rentrer épuisé sans avoir rien porté de lourd. | Tu n'as pas travaillé. Tu as surveillé. |
-| 9 | Le corps | Ta bouche dit non. | Ton corps dit : insiste un peu. |
-| 10 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. | Tu l'as déplacé à l'intérieur de toi. |
-| 11 | Christophe | Il a dit oui à son associé. | Puis il a espéré des mois qu'un autre arrête le projet. |
-| 12 | Qui ne dit mot consent | « Qui ne dit mot consent. » | Sauf que toi, tu ne consens pas. Tu t'écrases. |
-| 13 | « Comme tu veux » | « Comme tu veux. » | Tu lui refiles la décision. Tu gardes le droit d'être déçu. |
-| 13b | La question qui cache | « Ça te dirait d'aller là-bas ? » | Ce que tu voulais dire : « j'ai envie d'y aller. » |
+| 8 | Le corps | Ta bouche dit non. | Ton corps dit : insiste un peu. |
+| 9 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. | Tu l'as déplacé à l'intérieur de toi. |
+| 10 | Christophe | Il a dit oui à son associé. | Puis il a espéré des mois qu'un autre arrête le projet. |
+| 11 | Qui ne dit mot consent | « Qui ne dit mot consent. » | Sauf que toi, tu ne consens pas. Tu t'écrases. |
+| 12 | « Comme tu veux » | « Comme tu veux. » | Tu lui refiles la décision. Tu gardes le droit d'être déçu. |
+| 12b | La question qui cache | « Ça te dirait d'aller là-bas ? » | Ce que tu voulais dire : « j'ai envie d'y aller. » |
 
 **Direction artistique** — fond sombre uni, typo lourde, ligne 1 en gris moyen, ligne 2 en blanc. Aucune illustration : sur ce format, l'image parasite la lecture, et la lecture est tout. Les 11 images Gemini du dossier `Ads/Images/` ne servent pas cet usage.
 
 
 ---
+
+
+## Deux visuels hors angle
+
+Ils ne dérivent d'aucun script : la formule fait tout le travail, donc ils tiennent seuls et se partagent en capture d'écran. Même direction artistique que le tableau.
+
+**A — La formule.** Candidate au positionnement principal du produit, au-delà de la seule image.
+
+| Ligne 1 (gris) | Ligne 2 (blanc) |
+|---|---|
+| Si tu ne sais pas dire non | ton oui ne vaut rien. |
+
+Retourne la honte en perte de pouvoir : elle n'accuse de rien, elle dit qu'on lui a pris quelque chose. C'est la porte la plus facile à pousser de tout le lot, et elle règle l'objection de fond de l'offre — le non est au service du oui, pas contre lui.
+
+**B — Frayssinet.** ⚠️ **Vérifier le texte exact de la chronique (*La Clique*) avant tout usage.** La formulation ci-dessous est reconstituée de mémoire par David, et la construction logique demande à être confirmée.
+
+| Ligne 1 (gris) | Ligne 2 (blanc) |
+|---|---|
+| « Je croyais que dire non, c'était malpoli. » | « En fait, c'est dire oui quand on n'a pas envie qui est malpoli. » |
+
+Mention en petit, sous le bloc : **Roman Frayssinet**. Le sourçage est un gain, pas une concession — la même phrase non signée n'est que l'avis de David ; signée d'un humoriste qui n'a rien à vendre, c'est la preuve que le sujet existe en dehors de lui.
+
+**Deux règles sur ce visuel.** Ne jamais utiliser l'extrait vidéo : les images appartiennent à Canal+ et à la production, et une publicité payante avec du contenu tiers est refusée ou réclamée. Et le réserver au **retargeting** : il traite une objection (« dire non, c'est malpoli »), donc il suppose une audience qui a déjà croisé le sujet — même raison qui a fait ranger « le oui qui a de la valeur » hors du lot froid.
+
+**CTA sur ces deux visuels** — il ne s'écrit pas dans l'image, qui doit rester nue pour se partager. Il va dans le texte de l'annonce et sur le bouton : « Sept jours pour ton premier vrai NON. 27 €. »
 
 # Preuve sociale — la matière
 
