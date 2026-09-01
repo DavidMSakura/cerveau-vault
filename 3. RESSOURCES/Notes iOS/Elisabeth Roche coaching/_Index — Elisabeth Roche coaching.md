@@ -17,6 +17,7 @@ Verbatims des séances de coaching individuel, pris en séance.
 - [[17 août - session 3 - moi et les autres]]
 - [[24 août - le travail]]
 - [[3 AOUT - LE COUPLE]]
+- [[31 août]]
 
 ---
 

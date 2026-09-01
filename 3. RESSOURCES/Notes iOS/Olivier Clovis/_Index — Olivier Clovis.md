@@ -19,6 +19,7 @@ Notes des coachings et ateliers de la Scaling Academy.
 - [[Anthony 25 mai - sequence emails]]
 - [[Coaching Anthony - stratège copywriter]]
 - [[Coaching Olivier - 12 février]]
+- [[Déblocage 1er septembre - Baptiste]]
 
 ---
 
