@@ -123,7 +123,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > Parce que ce que tu as entendu, c'est : « après tout ce que j'ai fait pour toi. » Personne n'a prononcé cette phrase. Elle est dans ta tête.
 > Alors tu ne réponds pas à une demande : tu rembourses une facture que personne ne t'a présentée. Et dimanche, tu es là physiquement, absent complètement. Ta mère croit passer un moment avec son fils. Elle le passe avec un débiteur. Elle non plus n'a pas signé pour ça.
 > La gratitude n'est pas une dette illimitée. Le jour où j'ai compris ça, j'ai recommencé à voir mon père avec plaisir.
-> Ton créancier émotionnel, c'est le jour 2.
+> Sept jours pour choisir ton dimanche, au lieu de le subir.
 
 **Visuel** — Plan calme, assis, lumière douce. Ton posé, presque tendre. Cet angle ne supporte pas la provocation : il touche trop juste.
 
@@ -138,7 +138,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > À force de dire oui, tu n'es pas devenu indispensable. Tu es devenu prévisible.
 > Tu es devenu un distributeur automatique de oui. Et personne n'aime un distributeur — on s'en sert, ce n'est pas la même chose. Le pire, c'est que tu l'as construit toi-même : à chaque oui automatique, tu leur as appris que ton avis n'existait pas.
 > On t'a fait croire que ta valeur, c'était ton utilité. C'est faux, et ça se répare.
-> Redeviens quelqu'un dont le oui a de la valeur. Sept jours.
+> Redeviens quelqu'un dont le oui a de la valeur. Sept jours. Un clic. 
 
 **Visuel** — Métaphore assumée : un distributeur, une main qui appuie, un produit qui tombe. Fonctionne aussi en version texte plein écran, voix off.
 
@@ -149,7 +149,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 
 > Il y a deux types d'hommes fatigués. Ceux qui ont trop travaillé, et ceux qui ont passé la journée à surveiller l'humeur des autres.
 > Tu rentres vidé, et tu n'as rien porté de lourd. Tu n'as pas couru. Tu n'as pas fait de nuit blanche.
-> Mais tu as scanné le ton du mail de ton patron. Le visage de ta compagne en passant la porte. Le silence de ton ado à table. Et à chaque fois, tu as ajusté.
+> Mais tu as scanné le ton du mail de ton patron. Le visage de ta compagne en passant la porte. Le silence de ton ado à table. Et à chaque fois, tu t'es ajusté.
 > Tu n'es plus en relation avec eux. Tu es en astreinte.
 > Et l'astreinte n'est pas gratuite pour eux non plus. Ils vivent avec un homme qui ne dit jamais ce qu'il pense, qui sourit quand ça ne va pas, et qui explose un jour sans prévenir. Ils croient te connaître. Tu ne leur en as jamais donné les moyens.
 > Une vie entière en astreinte, ce n'est pas de l'amour. C'est de l'épuisement organisé. Et ça se désorganise.
