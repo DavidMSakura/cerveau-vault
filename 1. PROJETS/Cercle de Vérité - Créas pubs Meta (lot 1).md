@@ -182,9 +182,9 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > Un faux oui, ce n'est rien. Trois heures de ton samedi. Un service rendu. Une soirée sacrifiée.
 > Deux, ce n'est rien non plus. Dix, tu ne les as même pas comptés. Tu ne te souviens d'aucun individuellement — tu te souviens juste d'être fatigué en permanence sans savoir de quoi.
 > Tu as évité l'inconfort immédiat à chaque fois. Tu ne l'as pas supprimé. Tu l'as déplacé à l'intérieur de toi.
-> Et ça s'accumule. Chaque oui non choisi ajoute une ligne à une ardoise que personne autour de toi ne voit — jusqu'au jour où elle sort d'un coup, sur les mauvaises personnes, pour une broutille. Ce jour-là, ils ne comprendront pas. Ils n'ont jamais vu l'ardoise.
+> Et ça s'accumule. Chaque oui que tu n'as pas décidé ajoute une ligne à une ardoise que personne autour de toi ne voit — jusqu'au jour où elle sort d'un coup, sur les mauvaises personnes, pour une broutille. Ce jour-là, ils ne comprendront pas. Ils n'ont jamais vu l'ardoise.
 > Dans cinq ans, si rien ne change, tu seras au même endroit. Simplement plus fatigué. Et vingt ans plus tard, ce sera juste ta vie que tu auras sacrifiée — sans que personne ne vienne te donner une médaille.
-> Sept jours contre cinq ans. Ton premier NON ou remboursé.
+> Sept jours contre cinq ans. Ton premier NON qui te respecte ou je te rembourse.
 
 **Visuel** — Plan sobre, ton calme et grave, aucune provocation. Idéal en retargeting sur ceux qui ont vu la page sans acheter.
 
