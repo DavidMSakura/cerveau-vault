@@ -169,7 +169,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > Ta bouche disait non. Ton corps disait : « mais ça se négocie. Insiste un peu, et je craque. »
 > Et c'est le corps qu'on écoute. Tu lui as envoyé deux messages contradictoires, et tu l'as laissé choisir celui qui l'arrangeait. Il a insisté, et il a eu raison d'insister : tu venais de  lui donner l'autorisation. Un non qui se négocie n'est pas un non. C'est une première offre.
 > La fermeté ne vient pas du volume. Elle vient de la stabilité. Ce sont les arts martiaux qui me l'ont appris, pas le développement personnel.
-> La technique du Bushido, c'est le jour 6.
+> Sept jours pour que ton corps cesse de trahir tes décisions.
 
 **Visuel** — Démonstration physique : le non effacé, le non agressif, le non aligné. Trois postures, un seul plan large fixe. Le seul angle où l'on doit voir ton corps en entier.
 
