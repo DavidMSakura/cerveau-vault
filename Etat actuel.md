@@ -8,7 +8,7 @@
 |---|---|
 | **lun. 31/08** | ~~Coaching **Elisabeth** 10h~~ **faite** · cron notes iOS 1ère exécution 18h (journal à vérifier le 01/09) |
 | **mar. 01/09** | **Anthony** 10h30–11h (Meet) — retours créas Meta · **Olivier Clovis 13h en direct** — pragmatique et mindset, cas d'études collectifs (ce n'est plus Rachid) · prérentrée Emilie 15h30 |
-| **mer. 02/09** | Véronique 9h · Dragan 11h |
+| **mer. 02/09** | **Anthony 10h30–11h** (2e RDV, invitation du 31/08) · Véronique 9h · Dragan 11h — **vérifier la collision** |
 | **jeu. 03/09** | Banque 9h30 · Mastermind Clovis 14h |
 | **lun. 07/09** | Coaching **Elisabeth** — **2 h**, format questions-réponses inversé. **5 à 8 questions à préparer** |
 | **ven. 04/09** | **Cadrage Radiance 11h15–11h45** (Teams) · **tripartite CFF 14h** — pas de collision |
@@ -34,7 +34,7 @@
 
 **Second cerveau de Steph.** Guide fini. **L'installation n'a toujours pas commencé** (chapitres 0 à 3, non délégables).
 
-**Radiance.** Deux trous à poser au cadrage du 04/09 : la formule au minimum sur un deux-roues, la répartition des six informations dues. 30 min à sept : envoyer les questions en amont.
+**Radiance.** Réponse de **Simon Chatelain le 01/09** : la **charte graphique est une question close** — le support est en refonte, il n'y a rien à attendre, et le design de David est validé (« ce que tu as fait est très bien »). Le **déroulé est validé** aussi, sur l'alternance théorie/pratique. En revanche **Simon n'a pas les réponses aux deux questions de fond** — la formule au minimum sur un deux-roues, la répartition des six informations dues : c'est le client qui les a, au cadrage du 04/09. ⚠️ **30 min à sept personnes : les envoyer en amont, sinon elles ne seront pas traitées.** Les trois questions sont rédigées et prêtes à envoyer → [[Radiance - questions pour le cadrage du 4 septembre]]. À signaler à Simon au passage : Maori a bien répondu le 25/08, il l'ignore.
 
 **Coaching Elisabeth.** Séance du 31/08 faite et versée dans [[Coaching Elisabeth Roche - suivi des séances]]. Deux acquis : le **système de soutien** est une case fermée (Codev, magiciens, maman, communauté Jean & Jody), et la **légèreté** est débloquée — David l'a déjà en formation, il se la refuse en coaching par peur d'induire. Réponse d'Elisabeth : « tu n'as que le pouvoir de révélation ». Deux points ouverts : le cadrage « spiritualité intégrée » qu'il n'a pas tranché, et les **5 à 8 questions à apporter le 07/09**. Perso : **le mariage avec Steph est rouvert**, blocage identifié = le financement.
 
