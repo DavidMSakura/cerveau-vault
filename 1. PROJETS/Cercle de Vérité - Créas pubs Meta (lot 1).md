@@ -288,7 +288,19 @@ Le format qui tient tout seul, c'est **une réplique reconnaissable, puis le ret
 | 12 | « Comme tu veux » | « Comme tu veux. » | Tu lui refiles la décision. Tu gardes le droit d'être déçu. |
 | 12b | La question qui cache | « Ça te dirait d'aller là-bas ? » | Ce que tu voulais dire : « j'ai envie d'y aller. » |
 
-**Direction artistique** — fond sombre uni, typo lourde, ligne 1 en gris moyen, ligne 2 en blanc. Aucune illustration : sur ce format, l'image parasite la lecture, et la lecture est tout. Les 11 images Gemini du dossier `Ads/Images/` ne servent pas cet usage.
+**Direction artistique — palette arrêtée le 01/09/2026.** Bleus profonds et jaunes, [choisie par David sur Coolors](https://coolors.co/palette/00296b-003f88-00509d-fdc500-ffd500) : `#00296b` `#003f88` `#00509d` `#fdc500` `#ffd500`. Le jaune n'est pas neuf — c'est déjà le bandeau de la miniature 9,8/20, donc un code de chaîne existant.
+
+- Fond `#00296b`, ligne 1 en bleu clair `#8fa9d4`, filet `#ffd500`, ligne 2 en blanc.
+- **Le jaune reste un accent, jamais un aplat de texte** — sauf sur la carte de positionnement (« ton oui ne vaut rien »), qui a le droit de crier. Si toutes les cartes crient en jaune, il ne reste plus rien pour marquer le CTA.
+- **Le corps de la typo s'adapte à la longueur du texte**, pas l'inverse : le bloc doit occuper la même proportion du cadre sur toutes les cartes. Une taille fixe donne des cartes courtes qui flottent.
+- **Une seule marque d'effacement sur la ligne 1** : la taille. Pas la taille *et* un gris sombre — la ligne 1 est la prémisse, pas de la décoration ; illisible, elle fait tomber la chute sur du vide.
+- Format **1080 × 1350** (4:5), celui qui prend le plus de hauteur dans le fil Meta.
+
+⚠️ Marine + jaune est un couple très employé (sport, institutionnel). **La différenciation devra venir de la composition, pas de la couleur** — voir la piste photo + bandeau ouverte le 01/09.
+
+Fichiers rendus : `~/Documents/Mnemonaute/Cercle de Verite - Visuels/`.
+
+**Ancienne DA, remplacée** — fond sombre uni, typo lourde, ligne 1 en gris moyen, ligne 2 en blanc. Aucune illustration : sur ce format, l'image parasite la lecture, et la lecture est tout. Les 11 images Gemini du dossier `Ads/Images/` ne servent pas cet usage.
 
 
 ---
