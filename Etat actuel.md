@@ -7,7 +7,7 @@
 | Quand | Quoi |
 |---|---|
 | **lun. 31/08** | ~~Coaching **Elisabeth** 10h~~ **faite** · cron notes iOS 1ère exécution 18h (journal à vérifier le 01/09) |
-| **mar. 01/09** | **Anthony** 10h30 — retours créas Meta · Rachid 14h · prérentrée Emilie 15h30 |
+| **mar. 01/09** | **Anthony** 10h30–11h (Meet) — retours créas Meta · **Rachid 13h** (déblocage stratégique, Launch funnel) · prérentrée Emilie 15h30 |
 | **mer. 02/09** | Véronique 9h · Dragan 11h |
 | **jeu. 03/09** | Banque 9h30 · Mastermind Clovis 14h |
 | **lun. 07/09** | Coaching **Elisabeth** — **2 h**, format questions-réponses inversé. **5 à 8 questions à préparer** |
@@ -30,7 +30,7 @@
 
 **Crédit Foncier.** Le plus rentable. **Steph en lead sur Sophie Pons.** Neuf séances, pas six ([[Contrat Crédit Foncier]]). Feuilles d'émargement et question de Nathalie Feugeas réglées le 30/08. Prochaine échéance : la clôture du 08/12.
 
-**Veille boîte mail.** Routine unique `trig_01PHwoiy…`, 8h/12h/17h ; l'ancienne doublon est désactivée. **Réécrite le 31/08 : un seul mail par jour, le matin.** Midi et 17h tournent en silence — lecture, brouillons, rangement, aucun envoi. Le mail du matin ne contient que les **points de vigilance** (ou « rien d'important »), les brouillons prêts, et une ligne de comptage. Plus d'inventaire des rangements. Brouillons resserrés : uniquement quand une réponse est réellement attendue. **GitHub pas connecté au cloud** (`/web-setup`) → elle travaille sans le vault.
+**Veille boîte mail.** Routine unique `trig_01PHwoiy…`, 8h/12h/17h ; l'ancienne doublon est désactivée. **Réduite le 31/08 : elle ne fait plus que des brouillons.** Aucun envoi, aucun rangement, aucun libellé — tri automatique et récaps abandonnés. C'est **Doc qui signale les brouillons en ouverture de session**. Premier passage en nouvelle version le 01/09 à 8h08 : zéro brouillon produit, boîte vide, tous les anciens traités par David. **GitHub pas connecté au cloud** (`/web-setup`) → elle travaille sans le vault.
 
 **Second cerveau de Steph.** Guide fini. **L'installation n'a toujours pas commencé** (chapitres 0 à 3, non délégables).
 
