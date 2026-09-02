@@ -969,3 +969,94 @@ Le plus actionnable : un **projet Claude « media buyer 20 ans d'expérience »*
 **`/web-setup` réglerait deux choses d'un coup** : les sessions cloud verraient le vault, et la routine mail aussi. Le vault est déjà sur GitHub en dépôt privé, donc pas d'exposition supplémentaire.
 
 **Bruno Pellen a envoyé des supports par WeTransfer le 01/09 à 9h30** — « Supports formation Prise de Parole en Public », 76 Mo, **lien expirant le 4 septembre**. David gère lui-même.
+
+---
+
+## 2026-09-02 — L'app Matrice codée de bout en bout, et trois ressources versées au vault
+
+### Coaching Véronique — premier verbatim réel du dossier
+
+Séance du 02/09 versée dans [[Coaching Véronique (Banque Savoie) - suivi des séances]], fiche créée : les séances de janvier et février n'existaient qu'en photos de notes manuscrites, inexploitables.
+
+⚠️ **Position à surveiller** : Véronique prépare son départ, seuls le CoDir et son chef Angelo le savent. **Dominique et Marina, que David coache aussi, l'ignorent.** Rien à faire tant qu'elle n'a pas annoncé, mais à anticiper si l'une d'elles aborde son avenir dans l'équipe.
+
+**Le contraste qu'elle ne voit pas** : avec sa collaboratrice à 120 km elle n'a **pas laissé le choix** du point hebdo — résultat, 100 % de l'effectif renouvelé en un an. Avec ses sept directeurs de groupe elle a laissé le choix : quatre ont pris, et les trois qui ne se manifestent jamais sont ceux dont elle dit « il y a du job ». **Elle a laissé le choix à ceux qui en avaient le moins la capacité.**
+
+**Deux ouvertures commerciales nommées par elle** : coaching de la relève, et formation management pour les N-1 qui ne sont pas à l'attendu en posture. À faire remonter, mais pas par David en séance.
+
+### Les trois blueprints de Baptiste, versés intégralement
+
+Dans `3. RESSOURCES/Outils & Frameworks/` : [[Blueprint Instagram - optimiser son profil (Baptiste Noel)]] · [[Blueprint VSL - produire une vidéo de vente (Baptiste Noel)]] · [[Séquences de stories Instagram - les 7 frameworks (Baptiste Noel)]]. Reliés entre eux et à [[Scaling Academy - coaching stratégique (Olivier Clovis)]].
+
+**Trois choses qui en sortent** : le Linktree tombe sous la règle du lien unique — une seule page, vers le Cercle · la rubrique « Ils l'ont fait » est le trou, et les six questions de témoignage sont prêtes · la méthode de tournage par blocs, avec claquement de mains pour repérer les ratés au montage, vaut pour toutes ses vidéos.
+
+⚠️ **La séquence 1 de Baptiste ne transfère pas** : elle est écrite pour une niche où la preuve est monétaire (« client 1 a fait X € »). La transformation du Cercle n'est pas chiffrable en euros. L'appliquer à la lettre pousserait à inventer des chiffres.
+
+### Correction de David : le guide qui devient barrière
+
+*« Les recommandations ne sont pas des règles absolues, ce sont des guides, mais parfois les guides deviennent des barrières. »*
+
+J'avais écrit « le blueprint tranche le retour que tu me demandais ». **Un blueprint ne tranche rien.** Deuxième fois de la journée qu'il me reprend sur ce registre, après les « jamais ». Cas concret : la règle du lien unique suppose une seule offre d'entrée ; David en a deux, plus une audience YouTube qui vient pour la mémoire. Le principe tient — *comprendre en trois secondes* — la règle non.
+
+### Obsidian — un vrai trou trouvé, et un plugin refusé
+
+⚠️ **« Toujours mettre à jour les liens internes » est désactivé.** Son `app.json` ne contient que `promptDelete`. Renommer une note casse silencieusement tous les `[[liens]]` qui pointent dessus. **À cocher dans Paramètres → Fichiers et liens.** Deux vidéos indépendantes le signalent comme le réglage critique.
+
+**Dossier `_Modèles` créé** à la racine, le template du journal déplacé dedans. Deux réglages à repointer par David : le dossier des modèles, et l'emplacement du modèle des notes quotidiennes.
+
+**Calendar refusé, et c'est la bonne décision** : le journal est configuré depuis le 24/08 et compte **zéro note quotidienne**. Calendar afficherait une grille vide. Installer un plugin pour encourager une habitude est le piège classique.
+
+**Le journal n'a pas de fonction** — événements, réflexions, idées, décisions, priorités : tout est déjà capté ailleurs et mieux. **La seule chose que rien ne capte, c'est son état** — énergie, et si l'un des cinq signaux d'alerte s'est déclenché. **Décision en attente : un seul travail, ou suppression.**
+
+### L'app Matrice — spécifiée, codée, compilée, lancée
+
+`~/Documents/Apps/Matrice/` — **douze fichiers Swift**, compile sans erreur ni avertissement. Spécification dans [[App Matrice Eisenhower - spécification]].
+
+**Pourquoi construire plutôt qu'utiliser Focus Matrix** : ses données sont enfermées (CloudKit privé, aucun conteneur dans iCloud Drive), et son seul pont est le Calendrier — or **un événement de calendrier n'a pas de champ pour le quadrant**. Même en datant tout, l'information qui compte ne passerait pas.
+
+**Ce qui a été construit** : grille 2×2 avec axes étiquetés et aplats pastel · tap pour ouvrir un quadrant, **double tap pour ouvrir en saisie** · glisser-déposer entre cases · case à cocher qui archive · catégories colorées (Mnemonaute, Offres digitales, Clients, Perso, Magie) · échéance facultative · archives avec la durée de séjour · seuils réglables à la roulette.
+
+**Seuils par quadrant, décidés par David** : urgent-et-important **2 j**, urgent-non-important **5 j**, important-non-urgent **15 j**, ni-l'un-ni-l'autre **30 j** — et ce dernier ne change pas de teinte, **il pose la question** de conserver ou non. Stockés dans le fichier JSON, pas dans les réglages iOS, pour que Doc les voie.
+
+⚠️ **Aucun déplacement automatique vers l'urgent** quand une échéance approche — c'est le réglage que Focus Matrix a, et il dégrade la matrice en liste de tâches. **L'urgence est un jugement.**
+
+**Reste à la charge de David** : créer le conteneur iCloud dans le portail développeur. Tant qu'il n'existe pas, l'app stocke en local, marche parfaitement pour lui, mais **Doc ne voit rien**.
+
+### Quatre erreurs de ma part, toutes corrigées par David
+
+**J'ai résisté à coder l'app** sur trois hypothèses qu'il a démontées : que ce serait long, que ça créerait une habitude nouvelle, que le jeu n'en valait pas la chandelle. *« Pourquoi résistes-tu à coder une application qui me semble très simple ? »*
+
+**Je lui ai dit de donner la spécification à Antigravity** alors que je pouvais écrire le code moi-même. *« Il me semble que tu fais son taff. »* Il avait raison.
+
+**Je n'ai posé aucune question avant d'écrire la spécification.** *« M'as-tu posé assez de questions sur l'UI, les fonctionnalités ? »* Non. Reproche déjà consigné dans `feedback_questions_avant_production`, et refait.
+
+**La première interface était « très très vilaine »** — quatre cartes flottantes avec des titres minuscules, un tableau de bord au lieu d'une matrice. Refaite sur le modèle de ses captures d'écran.
+
+**Et j'ai signalé deux fois comme un défaut** un popup « DIMANCHE À 18H » sur sa page de vente : c'est un composant partagé entre plusieurs tunnels, avec une automatisation qui met la bonne date du dimanche suivant. Une bonne idée d'implémentation, pas un reliquat.
+
+### Le dossier Apps remonté
+
+`~/Documents/Magie/Apps/` → **`~/Documents/Apps/`**. Neuf projets vérifiés, aucun chemin absolu, cinq dépôts git intacts. Une coquille vide supprimée sur demande : `Weather/MeteoMagic.xcodeproj`, sans `project.pbxproj` depuis le 4 mars 2026.
+
+### Ce que trois vidéos apportent
+
+**Nick Milo et le MindMappeur** convergent sur le même réglage — les liens internes. Milo recommande les **Maps of Content** plutôt que les tags : David en a déjà sans le nom (`_Index — Banque Savoie`, `Projets - ce qui a une fin`). Milo met aussi en garde contre le sur-dossierisage — *« la structure doit se mériter »* — ce qui frotte avec le PARA monté d'emblée. Et il garde **une séparation nette entre ses notes et celles générées par l'IA** ; dans le vault de David, rien ne distingue ce qu'il a pensé de ce que j'ai rédigé. Piste sérieuse pour son sentiment de ne pas s'approprier le vault.
+
+**Julien Sanson** reprend l'architecture d'**André Karpathy** : `CLAUDE.md`, `index.md`, `log.md`, `raw/`, `wiki/`. David a l'équivalent de tout **sauf l'index** — aucune carte de l'ensemble du vault. ⚠️ **Ne pas reprendre son « pas de dossiers pour économiser les jetons »** : sa contrainte est que son agent parcourt l'arborescence, alors que Doc cherche avec `grep`. Le PARA ne coûte rien.
+
+**Dave Jeltema — douze choses à faire après avoir publié.** Son arithmétique (« 362 fois plus de vues ») est un argument de vente, la liste est bonne. Six points applicables : **programmer 24 h à l'avance** pour que YouTube transcrive avant la mise en ligne · **chapitres écrits à la main** (le script de Gandhi les contient déjà) · **renommer le fichier vidéo** avec le titre — celui de Louis s'appelle `Rentre-eC'est-la-rentre-e-20260828-160450.MP4` · **mots-clés de chaîne** dans Studio, une fois pour toutes · **commentaire épinglé** écrit d'avance, la catchphrase est faite pour ça · **onglet Communauté**, cinquante mille abonnés et zéro usage.
+⚠️ Il déconseille l'A/B de miniatures au lancement — mais sa mise en garde vise les chaînes à quelques centaines de vues. **1 600 vues en 17 h met David au-dessus du seuil**, la recommandation d'A/B tient.
+
+### Deux limites techniques établies
+
+**Google Docs** : lecture possible via l'export `.docx`, qui contient le texte, les couleurs **et les commentaires**. Mais **aucun connecteur Drive** — impossible d'écrire en retour. Le chemin sûr : Fichier → Télécharger → Word, puis donner le chemin.
+
+**Notion** : `WebFetch` ne récupère que la coquille, c'est une application. Il faut coller le contenu ou l'exporter.
+
+### Ce qui reste à faire
+
+- [ ] **Trancher le sort du journal** : un seul travail (l'état, deux lignes par jour), ou suppression.
+- [ ] **Créer l'`index.md`** du vault — carte de l'ensemble, utile à Doc autant qu'à David.
+- [ ] **Créer le conteneur iCloud** de l'app dans le portail développeur.
+- [ ] Cocher « toujours mettre à jour les liens internes » et repointer les deux réglages de modèles.
+- [ ] Fiche dédiée pour la liste de contrôle Jeltema — **proposée, pas encore validée**.
