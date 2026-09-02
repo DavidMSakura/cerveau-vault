@@ -833,3 +833,139 @@ Comme le bloc ETF, **c'est une spécification à implémenter côté serveur** d
 - **Vidéo Louis en ligne.**
 
 **Reporté à la session suivante** : les **écrans de fin** YouTube et **Motion**.
+
+---
+
+## 2026-08-31 — Miniatures Gandhi, séance Elisabeth, et la routine mail réduite aux brouillons
+
+### Higgsfield : installé, inutile, abandonné
+
+MCP branché (`https://mcp.higgsfield.ai/mcp`, scope user), visible après redémarrage de session. **Compte à zéro crédit, plan gratuit, aucune génération possible.** Et surtout : **David n'en a pas besoin** — il a déjà un générateur d'images qui rend mieux. C'était mon idée, elle partait du principe qu'il n'avait pas d'outil. **Ne pas relancer.** Voir [[reference_higgsfield_mcp]].
+
+⚠️ **La configuration d'un MCP ajouté en cours de session n'apparaît qu'après redémarrage** (`/exit` puis `claude --continue`). J'avais aussi affirmé l'URL du endpoint sans l'avoir vérifiée — elle s'est trouvée juste, mais c'était de la chance.
+
+### Miniatures — trois candidates pour la vidéo Gandhi
+
+Dans `~/Documents/Mnemonaute/Gandhi vs. Dev perso/B-roll/07 - Miniatures/Retenues/` :
+
+- **`A-il-na-jamais-dit-ca.png`** — la meilleure. Seule à dire ce que la vidéo raconte, seule à respecter la charte jaune/blanc de la miniature 9,8/20. Défaut assumé : c'est un upscale 1280×720, molle en plein écran. **David a tranché : elle part telle quelle.**
+- `E - Gandhi ecrase - FINAL.jpg` et `F - Dev perso toxique - FINAL.jpg`, en 1920×1080.
+
+⚠️ **Les PNG faisaient 2,9 Mo, la limite YouTube est de 2 Mo** — les trois auraient été refusées à l'upload. Exportées en JPEG qualité 95.
+
+**Découverte de David, meilleure que ma proposition** : utiliser sa **vraie photo** (celle de la miniature 9,8/20) en image de référence, plutôt qu'une génération IA. Référencer une IA, c'est photocopier une photocopie — son visage dérivait vers plus rouge, plus buriné, plus vieux. Le crop propre est dans `07 - Miniatures/Prompts IA/REF - visage David (photo reelle, sans texte).jpg`. **C'est ce réglage qui a transformé la créa « toxique »**, pas le prompt.
+
+**Test & Compare accepte trois miniatures au maximum** — il en a exactement trois. Mais **il ne teste que les miniatures, pas les titres** : un seul titre pour les trois variantes.
+
+### Séance Elisabeth du 31/08 — versée dans [[Coaching Elisabeth Roche - suivi des séances]]
+
+Récupérée par **Wispr Flow** (transcript intégral, 1 h 02) — la note iOS n'était pas encore synchronisée.
+
+- **Recadrage tenu** : ce que David appelle discipline (préparer ses affaires la veille) est de l'**engagement** et de la **motivation**. La discipline est en amont, non réfléchie. Il complète seul : il l'a apprise dans les arts martiaux, par le sensei, à la place du père.
+- **Le système de soutien est une case fermée** — Codev mensuel avec Steph, groupe des magiciens, sa mère, communauté Jean & Jody. « Par rapport à la moyenne, tu en as pas mal. »
+- **Le vrai déblocage : la légèreté.** Il l'a déjà en formation (posture Jim Carrey), il se la refuse en coaching **par peur d'induire**. Réponse d'Elisabeth : *« ne pense pas que tu as un grand pouvoir. Tu as juste le pouvoir de révélation. »*
+- **Perso : le mariage avec Steph est rouvert.** Blocage identifié = le financement, pas le sentiment.
+- ⚠️ **Séance du 07/09 : format questions-réponses inversé, 2 h, 5 à 8 questions à préparer.** Point de vigilance signalé : Elisabeth vient d'expliquer que le coach n'enseigne pas, et propose une séance où elle « a la réponse ». C'est du conseil, pas du coaching — à aborder en le sachant.
+
+### La routine mail, réduite trois fois de suite
+
+Routine `trig_01PHwoiyAPmAaQmr6HUxfDDJ`, modifiable par l'outil **RemoteTrigger** depuis Claude Code.
+
+Trois versions successives dans la même session : mail unique le matin → Telegram à 8h et 12h → **plus rien du tout**.
+
+**État final, tranché** : *« oublions les revues email et triages automatiques. J'attends que sur ma boîte tu prépares des brouillons pour les emails qui te paraissent importants et ce sera déjà bien. »* Elle lit à 8h, 12h et 17h, prépare des brouillons pour les seuls messages importants, **n'envoie rien et ne range rien**. Le tri par libellés est abandonné.
+
+**C'est Doc qui signale les brouillons en ouverture de session** — une routine cloud ne peut pas pousser de message dans une session Claude Code. Règle écrite dans [[feedback_brouillons_mail_annonce_en_session]].
+
+**WhatsApp : écarté, et c'est tranché.** La voie officielle impose des templates Meta pré-approuvés et payants pour tout message automatique hors fenêtre de 24 h ; la voie officieuse (whatsapp-web.js, Baileys) fait bannir les numéros. Telegram faisait la même chose gratuitement — et a été abandonné avec le reste.
+
+⚠️ **Le token du bot Telegram est passé dans la conversation** (`8940003285:AAH…`). À régénérer via BotFather avant tout partage de transcription. Il traîne aussi en clair dans la note iCloud « ADMIN ».
+
+### Deux corrections de David
+
+**Sur les absolus** : *« attention aux "jamais". Toute règle est faite pour être enfreinte un jour. »* J'avais brandi le « jamais une thèse » de son propre document comme une règle opposable. C'est un réglage par défaut, pas une loi — et le document des créas est plein d'absolus qui mériteraient d'être requalifiés en partis pris.
+
+**Sur la charrue et les bœufs** : j'ai lancé un rendu alors qu'il avait rejeté un texte sans en valider un autre. *« Tu refais l'image alors qu'on n'a pas encore calé le texte ? »* Cinq rendus de la même carte, dont trois pour rien. **Ne produire qu'une fois le texte arrêté.**
+
+---
+
+## 2026-09-01 — Le système visuel du Cercle de Vérité, et le lot de créas remis d'aplomb
+
+### Le lot de créas, repris angle par angle
+
+Dans [[Cercle de Vérité - Créas pubs Meta (lot 1)]].
+
+**Un quatorzième angle ajouté** : « Le développement personnel comme suradaptation », né du script Gandhi. ⚠️ **Audience tiède, pas froide** — il parle à quelqu'un qui consomme déjà du développement personnel. À trancher avec Anthony : dans le lot froid, ou en retargeting ?
+
+**Renumérotation, tranchée** : *« on comble les trous, une idée dégagée, on ne garde pas une place vacante pour son fantôme : pragmatisme. »* Le 8 vacant (« le faux merci », retiré le 27/08) disparaît, les angles vont de **1 à 13 sans saut**. Trois renvois internes et le tableau des images suivis.
+
+**Les étiquettes de structure retirées** des treize scripts — 91 marqueurs `[ACCROCHE]`, `[SITUATION]`… La structure reste énoncée en tête du document, les scripts se lisent d'une traite.
+
+**Cinq chutes réécrites**, toutes pour la même raison : elles renvoyaient à un numéro de jour du protocole, ce qui ne veut rien dire pour une audience froide.
+
+- **Angle 5** (le dimanche) : *« Sept jours pour choisir ton dimanche, au lieu de le subir. »* — formulation de David, son « ton » vaut mieux que ma version.
+- **Angle 8** (le corps) : *« Sept jours pour que ton corps cesse de trahir tes décisions. »* — sa version, meilleure que la mienne : elle boucle avec la première ligne du script.
+- **Angle 11** : le hook devient une question — *« et toi, tu t'es tu combien de fois cette semaine ? »* L'ancienne accroche grillait la révélation du temps 5. **« Cette semaine » est la durée exacte du protocole : l'écho est volontaire et volontairement non souligné.**
+- **Angle 12** entièrement réécrit : cinq changements de personne en sept lignes, dont un « elle » ambigu au moment clé. Désormais **une seule traversée vers « tu », au temps 5, sans retour**.
+
+**Trois refus de David qui disent sa grille** :
+
+- **« Gagner » dans une relation** : *« comme si on pouvait gagner dans une relation. »* Le mot venait de « joue » — toute la métaphore du jeu a sauté.
+- **La déception** : *« on ne peut être déçu que par soi-même et ses attentes. »* Juste pour une image nue ; dans le script, la phrase est ironique et tient.
+- **« Aligné tête-cœur-corps »** : contredisait la ligne juste au-dessus — *« les arts martiaux, pas le développement personnel »*.
+
+**Et un remplacement qui vaut d'être retenu** : « te faire plaisir » devient **« te connaître »**. Transactionnel contre existentiel — la vraie douleur n'est pas de mal dîner, c'est d'être seul au milieu des siens.
+
+### Le système visuel — construit de zéro, consigné dans le document
+
+**Palette choisie par David** sur Coolors : `#00296b` `#003f88` `#00509d` `#fdc500` `#ffd500`. Le jaune n'est pas neuf — c'est déjà le bandeau de la miniature 9,8/20, donc un code de chaîne existant.
+
+**Gabarit « papier déchiré »**, 1080 × 1350 : bleu en haut (le problème), jaune en bas (la sortie), déchirure avec liseré de fibres `#f4f1ea`. Le liseré doit avoir une **épaisseur variable** et un **tracé indépendant** du bord jaune — deux courbes identiques donnent une bordure, deux courbes différentes donnent du papier.
+
+**Trois procédés typographiques**, et la règle qui les gouverne : **un effet seulement quand le mot fait quelque chose.**
+
+1. **La dissolution** sur « Tu disparais » — dégradé jusqu'à **6 %** (choix de David ; à 210 px la fin du mot part, c'est assumé). Le « Tu » reste plein : ce n'est pas lui qui s'efface, c'est ce qu'il montre de lui.
+2. **L'insertion** — le mot manquant rendu à la phrase, en **« Are You Okay » noir**, avec un **V pointe en bas**. Cinq réglages trouvés en tâtonnant, tous dans le document.
+3. **Le blanc** — un trait vide à l'endroit de la réponse absente.
+
+**Six mains comparées** sur la même carte : Bradley Hand est une écriture neutre, Apple Chancery de la calligraphie (« soigné » là où il faut « corrigé »), **AYO dit le marqueur**. Le noir l'emporte : à 210 px le blanc s'estompe sur le jaune, et **l'encre étrangère à la palette est précisément ce qui signale « ajouté après coup »**.
+
+**Six cartes rendues** dans `~/Documents/Mnemonaute/Cercle de Verite - Visuels/` — hors du vault. À retenir : `S-G-ayo-1.png` et `S-E-fade-F2.png`.
+
+**Trois registres**, et c'est ce qui manquait : l'accusation, la compassion (*« Sais-tu encore ce que tu veux ? »*), et **le praticien — reste à écrire**.
+
+⚠️ **Ne pas écrire « 50 % de mes coachés » sans avoir compté.** Une statistique inventée, la semaine d'une vidéo sur une citation apocryphe, c'est la faute que David dénonce.
+
+⚠️ **Citation Roman Frayssinet (*La Clique*) : reconstituée de mémoire, à vérifier avant tout usage.** Et **toujours la sourcer** — l'idée de la reprendre sans attribution a été écartée : signée d'un humoriste qui n'a rien à vendre, elle prouve que le sujet existe en dehors de David. Jamais l'extrait vidéo (Canal+). Retargeting seulement.
+
+**Question de fond restée ouverte** : ce format lit parfaitement mais **n'arrête pas le pouce**, et ressemble à ce que publie chaque coach. Piste à explorer — photo qui arrête le scroll plus bandeau plein qui garantit la lecture, avec les scènes déjà écrites dans les scripts. **À poser à Anthony.**
+
+### Coaching stratégique Clovis — [[Scaling Academy - coaching stratégique (Olivier Clovis)]]
+
+Fiche créée dans `3. RESSOURCES/`, **pas** dans le dossier des notes iOS, qui est régénéré à chaque synchronisation.
+
+Session du 01/09 animée par **Baptiste** : douleur ou cible en premier, épurer au maximum, **pas de prix**. ⚠️ **Contradiction directe avec ce que j'ai consigné dans le document des créas** (garder le prix sur les créas payantes, à 27 € il tue l'objection). **À arbitrer avec Anthony.**
+
+Le plus actionnable : un **projet Claude « media buyer 20 ans d'expérience »** qui analyse des captures du Meta manager. Et la **Facebook Ad Library** pour voir ce qui tourne chez les concurrents — le conseil qui précède tous les autres.
+
+**Accroche de David née en séance**, de la question *« à qui je m'adresse, et quelle est la souffrance ? »* : « Tu es un homme hypersensible, tu te suradaptes et tu t'es perdu en route ? »
+
+⚠️ **Bug trouvé : la synchronisation des notes iOS ne tournait que le dimanche.** Le fichier `~/Library/LaunchAgents/com.davidmarsac.vault-notes-sync.plist` a `Weekday: 0`. Lancée à la main. **Décision à prendre : passer en quotidien ?**
+
+### Radiance — réponse de Simon Chatelain
+
+**Charte graphique : question close** — leur support est en refonte, le design de David est validé. **Déroulé validé** aussi. Mais **Simon n'a pas les réponses aux questions de fond, c'est le client qui les a**, au cadrage du **jeudi 4 septembre 11h15–11h45**.
+
+⚠️ **Trente minutes à sept personnes : les questions doivent partir en amont.** Les trois sont rédigées → [[Radiance - questions pour le cadrage du 4 septembre]]. À dire à Simon au passage : **Maori a bien répondu le 25/08**, il l'ignore.
+
+⚠️ Le mail de Simon **n'est pas dans la boîte `david.marsac1`** — la routine ne couvre donc pas ce canal.
+
+### Deux découvertes techniques
+
+**Claude Code a rattrapé une partie de ce que David et Stéphane ont monté** : `/schedule` pour les routines cloud, **Remote Control** (`/remote-control` publie la session sur claude.ai et le téléphone), et la messagerie entre sessions. Le changelog complet est en local : `~/.claude/cache/changelog.md`. ⚠️ **Les MCP configurés dans Claude Code ne peuvent pas être attachés aux routines cloud.**
+
+**Ce que Remote Control ne remplace pas** : le bot Telegram tourne sur un serveur indépendamment du Mac. Remote Control exige la machine allumée et la session ouverte.
+
+**`/web-setup` réglerait deux choses d'un coup** : les sessions cloud verraient le vault, et la routine mail aussi. Le vault est déjà sur GitHub en dépôt privé, donc pas d'exposition supplémentaire.
+
+**Bruno Pellen a envoyé des supports par WeTransfer le 01/09 à 9h30** — « Supports formation Prise de Parole en Public », 76 Mo, **lien expirant le 4 septembre**. David gère lui-même.
