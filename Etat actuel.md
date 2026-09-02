@@ -1,62 +1,55 @@
 # État actuel
 
-> Le présent vivant ; le résolu part dans `memory.md`. Mise à jour : **30/08/2026**
+> Le présent vivant ; le résolu part dans `memory.md`. Mise à jour : **02/09/2026**
 
 ## ⏰ Échéances
 
 | Quand | Quoi |
 |---|---|
-| **lun. 31/08** | ~~Coaching **Elisabeth** 10h~~ **faite** · cron notes iOS 1ère exécution 18h (journal à vérifier le 01/09) |
-| **mar. 01/09** | **Anthony** 10h30–11h (Meet) — retours créas Meta · **Olivier Clovis 13h en direct** — pragmatique et mindset, cas d'études collectifs (ce n'est plus Rachid) · prérentrée Emilie 15h30 |
-| **mer. 02/09** | **Anthony 10h30–11h** (2e RDV, invitation du 31/08) · Véronique 9h · Dragan 11h — **vérifier la collision** |
+| **mer. 02/09** | **Anthony 10h30–11h** · Véronique 9h · Dragan 11h — ⚠️ **zéro battement entre Anthony et Dragan** |
 | **jeu. 03/09** | Banque 9h30 · Mastermind Clovis 14h |
-| **lun. 07/09** | Coaching **Elisabeth** — **2 h**, format questions-réponses inversé. **5 à 8 questions à préparer** |
-| **ven. 04/09** | **Cadrage Radiance 11h15–11h45** (Teams) · **tripartite CFF 14h** — pas de collision |
+| **ven. 04/09** | **Cadrage Radiance 11h15–11h45** (Teams) · **tripartite CFF 14h** · ⚠️ **lien WeTransfer de Bruno Pellen expire** |
+| **lun. 07/09** | Coaching **Elisabeth** — 2 h, format questions-réponses. **5 à 8 questions à préparer** |
 | **09 → 11/09** | IGECOM : Toulon, Clermont, Naves — aucune prépa |
 | **14-15/09** | Prise de parole CFF — rien à préparer |
-| **16-17/09** | DDA Radiance, Dijon — supports envoyés |
+| **16-17/09** | DDA Radiance, Dijon — supports envoyés et validés |
 | **fin oct.** | Heure d'hiver : décaler le cron mail, sinon 7h/11h/16h |
 | **08/12** | Clôture CFF — reconduction = ressort de **Steph** |
 
 ## 🔨 Chantiers actifs
 
-**Mnemonaute.** *Louis* est **publiée, diffusée et archivée** → https://youtu.be/5Rs-CYZYEVg — **1 600 vues en 17 h**, plus que les deux vidéos précédentes cumulées sur quatre mois. Posts partis sur Facebook perso, Facebook Mnemonaute et LinkedIn. **Instagram écarté volontairement.** `.srt` refusé — sous-titres laissés à YouTube ou générés dans Final Cut, à trancher.
-**Vidéo suivante : Gandhi.** **V4 de David — prête à tourner** → [[Mnemonaute Script - Gandhi et le développement personnel]]. Une seule vidéo, ~22 min. **Miniatures — trois candidates qui passent le test 210 px** → `~/Documents/Mnemonaute/Gandhi vs. Dev perso/B-roll/07 - Miniatures/Retenues/`. **Tranché le 31/08 : les trois partent telles quelles en A/B Test & Compare** (A = « Il n'a jamais dit ça », E = l'écrasé, F = « toxique ? »). Régénération native de A écartée — A reste un upscale 1280×720, un peu molle en plein écran, assumé. Higgsfield est connecté mais **le compte est à 0 crédit** : David génère avec son propre outil, la photo réelle en référence (`REF - visage David (photo reelle, sans texte).jpg`). Reste à choisir **un** titre : Test & Compare ne teste que les miniatures. Restent deux broutilles de script : « et aujourd'hui sur Instagram » (cohérence avec les 17 ans) et le CTA à resserrer. Décision à prendre : le juron du cold open coûte la monétisation — sans effet sur la portée.
-👉 **Sujet de la prochaine session : les écrans de fin et Motion.**
+**Cercle de Vérité — le lot de créas.** Treize angles renumérotés sans trou, chutes réécrites, **système visuel complet** (palette bleu/jaune, gabarit papier déchiré, trois procédés typographiques) → [[Cercle de Vérité - Créas pubs Meta (lot 1)]] · rendus dans `~/Documents/Mnemonaute/Cercle de Verite - Visuels/`.
+👉 **À trancher avec Anthony le 02/09** : le prix affiché ou non (Baptiste dit non, le document dit oui) · l'angle 13 « suradaptation », froid ou retargeting · la piste photo contre typo — le format lit bien mais n'arrête pas le pouce.
+**Restent à écrire** : les douze triplets réplique/question/verdict, et la carte du registre « praticien ».
 
-> ⛔️ **Tranché le 30/08 : il n'y a pas de « série enchaîner les méthodes », et pas de « protocole en 5 jours ».** C'était une construction de Doc, jamais validée. Toute mention de cet ordre dans le backlog est une **proposition**, pas un engagement.
+**Mnemonaute — Gandhi.** Script validé, **trois miniatures prêtes** (`07 - Miniatures/Retenues/`). Test & Compare prend trois miniatures mais **ne teste pas les titres** : un seul pour les trois. Restent « et aujourd'hui sur Instagram » et le CTA à resserrer. En suspens : le juron du cold open coûte la monétisation, sans effet sur la portée.
 
-**Cercle de Vérité.** Douze créas Meta chez **Anthony** — retours au RDV du 01/09. Le test Meta 200 € vient après : **ne pas le relancer**. Ouvert depuis le 08/08 : par quoi remplacer les 3 besoins que la sur-adaptation satisfait ? Upsell 1 **tranché** : prise neutre.
+**Crédit Foncier.** Le plus rentable. **Steph en lead sur Sophie Pons.** Prochaine échéance : clôture du 08/12.
 
-**Crédit Foncier.** Le plus rentable. **Steph en lead sur Sophie Pons.** Neuf séances, pas six ([[Contrat Crédit Foncier]]). Feuilles d'émargement et question de Nathalie Feugeas réglées le 30/08. Prochaine échéance : la clôture du 08/12.
+**Radiance.** Charte et déroulé **validés par Simon**. Les trois questions sont prêtes → [[Radiance - questions pour le cadrage du 4 septembre]] — ⚠️ **à envoyer avant jeudi**, 30 min à sept personnes.
 
-**Veille boîte mail.** Routine unique `trig_01PHwoiy…`, 8h/12h/17h ; l'ancienne doublon est désactivée. **Réduite le 31/08 : elle ne fait plus que des brouillons.** Aucun envoi, aucun rangement, aucun libellé — tri automatique et récaps abandonnés. C'est **Doc qui signale les brouillons en ouverture de session**. Premier passage en nouvelle version le 01/09 à 8h08 : zéro brouillon produit, boîte vide, tous les anciens traités par David. **GitHub pas connecté au cloud** (`/web-setup`) → elle travaille sans le vault.
+**Veille boîte mail.** Réduite aux **brouillons seuls** : aucun envoi, aucun rangement. C'est Doc qui les signale en ouverture de session. **GitHub pas connecté au cloud** (`/web-setup`) → elle travaille sans le vault.
 
-**Second cerveau de Steph.** Guide fini. **L'installation n'a toujours pas commencé** (chapitres 0 à 3, non délégables).
+**Second cerveau de Steph.** Guide fini, **installation jamais commencée** (chapitres 0 à 3, non délégables).
 
-**Radiance.** Réponse de **Simon Chatelain le 01/09** : la **charte graphique est une question close** — le support est en refonte, il n'y a rien à attendre, et le design de David est validé (« ce que tu as fait est très bien »). Le **déroulé est validé** aussi, sur l'alternance théorie/pratique. En revanche **Simon n'a pas les réponses aux deux questions de fond** — la formule au minimum sur un deux-roues, la répartition des six informations dues : c'est le client qui les a, au cadrage du 04/09. ⚠️ **30 min à sept personnes : les envoyer en amont, sinon elles ne seront pas traitées.** Les trois questions sont rédigées et prêtes à envoyer → [[Radiance - questions pour le cadrage du 4 septembre]]. À signaler à Simon au passage : Maori a bien répondu le 25/08, il l'ignore.
-
-**Coaching Elisabeth.** Séance du 31/08 faite et versée dans [[Coaching Elisabeth Roche - suivi des séances]]. Deux acquis : le **système de soutien** est une case fermée (Codev, magiciens, maman, communauté Jean & Jody), et la **légèreté** est débloquée — David l'a déjà en formation, il se la refuse en coaching par peur d'induire. Réponse d'Elisabeth : « tu n'as que le pouvoir de révélation ». Deux points ouverts : le cadrage « spiritualité intégrée » qu'il n'a pas tranché, et les **5 à 8 questions à apporter le 07/09**. Perso : **le mariage avec Steph est rouvert**, blocage identifié = le financement.
-
-**Sakura.** Format arrêté. Reste le **contenu différencié** des deux niveaux, les pages, la mécanique de passage.
-
-**Veille placements.** Blocs ETF et **crypto** dans [[Veille hebdomadaire portefeuille Trade Republic]] — **specs à implémenter côté serveur**, hors périmètre du Mac.
+**Sakura.** Format arrêté. Restent le **contenu différencié** des deux niveaux, les pages, la mécanique de passage. **Placements** : ETF et crypto → [[Veille hebdomadaire portefeuille Trade Republic]], côté serveur.
 
 ## ⏸️ En attente d'une décision de David
 
-- **Les deux livres.** *Libérez votre mémoire* en jachère depuis le 16/08, *Le Triangle Dramatique* en rédaction. Aucun n'avance.
+- **La synchronisation des notes iOS ne tourne que le dimanche** (`Weekday: 0` dans le launchd). La passer en quotidien ?
+- **`/web-setup`** — donnerait le vault aux sessions cloud *et* à la routine mail. Le dépôt est déjà privé sur GitHub.
+- **Les deux livres.** *Libérez votre mémoire* en jachère depuis le 16/08, *Le Triangle Dramatique* en rédaction.
 - **Scaling Academy.** *« je ne suis pas encore pleinement committed »* — plein tarif, quart de la valeur.
-- **Marina et Dominique** : plus aucun coaching planifié d'ici juin 2027.
-- **Boîtes mail** : mnemonaute1 et Sherpa restent à connecter. « No rush ».
+- **Boîtes mail** : mnemonaute1 et Sherpa restent à connecter. « No rush ». ⚠️ Le mail de Simon Chatelain du 01/09 n'est arrivé dans aucune boîte lisible.
 
 ## ⚠️ Points de vigilance
 
-- **Mot de passe d'application Gmail** tapé le 27/08 : **toujours pas révoqué**.
+- **Deux secrets à régénérer** : le mot de passe d'application Gmail (tapé le 27/08) et le **token du bot Telegram** (passé dans la conversation le 31/08). Tous deux traînent aussi en clair dans la note iCloud « ADMIN », avec l'IBAN Qonto.
 - **Cercle de Vérité : trois audios jamais enregistrés.** L'**order bump** est le plus dégarni — PDF seul, sans audio, sans vidéo, **sans mockup**.
-- **Épingle de partage** : la redéplacer après chaque modification du guide de Steph.
+- **Citation Frayssinet à vérifier** avant tout usage, et toujours la sourcer.
 - **Administratif MyConnecting** (URSSAF, RIB, Qualiopi), en pause volontaire depuis le 08/08. **Ne pas relancer.**
 - **Signaux comportementaux** : les cinq de CLAUDE.md.
 
 ## 🧠 Mémoire
 
-`Etat actuel.md` = le présent · `memory.md` = 24 sessions · `/fin` met le tout à jour.
+`Etat actuel.md` = le présent · `memory.md` = l'historique · `/fin` met le tout à jour.

@@ -840,7 +840,7 @@ Comme le bloc ETF, **c'est une spécification à implémenter côté serveur** d
 
 ### Higgsfield : installé, inutile, abandonné
 
-MCP branché (`https://mcp.higgsfield.ai/mcp`, scope user), visible après redémarrage de session. **Compte à zéro crédit, plan gratuit, aucune génération possible.** Et surtout : **David n'en a pas besoin** — il a déjà un générateur d'images qui rend mieux. C'était mon idée, elle partait du principe qu'il n'avait pas d'outil. **Ne pas relancer.** Voir [[reference_higgsfield_mcp]].
+MCP branché (`https://mcp.higgsfield.ai/mcp`, scope user), visible après redémarrage de session. **Compte à zéro crédit, plan gratuit, aucune génération possible.** Et surtout : **David n'en a pas besoin** — il a déjà un générateur d'images qui rend mieux. C'était mon idée, elle partait du principe qu'il n'avait pas d'outil. **Ne pas relancer.** Mémoire auto : `reference_higgsfield_mcp`.
 
 ⚠️ **La configuration d'un MCP ajouté en cours de session n'apparaît qu'après redémarrage** (`/exit` puis `claude --continue`). J'avais aussi affirmé l'URL du endpoint sans l'avoir vérifiée — elle s'est trouvée juste, mais c'était de la chance.
 
@@ -875,7 +875,7 @@ Trois versions successives dans la même session : mail unique le matin → Tele
 
 **État final, tranché** : *« oublions les revues email et triages automatiques. J'attends que sur ma boîte tu prépares des brouillons pour les emails qui te paraissent importants et ce sera déjà bien. »* Elle lit à 8h, 12h et 17h, prépare des brouillons pour les seuls messages importants, **n'envoie rien et ne range rien**. Le tri par libellés est abandonné.
 
-**C'est Doc qui signale les brouillons en ouverture de session** — une routine cloud ne peut pas pousser de message dans une session Claude Code. Règle écrite dans [[feedback_brouillons_mail_annonce_en_session]].
+**C'est Doc qui signale les brouillons en ouverture de session** — une routine cloud ne peut pas pousser de message dans une session Claude Code. Règle écrite en mémoire auto : `feedback_brouillons_mail_annonce_en_session`.
 
 **WhatsApp : écarté, et c'est tranché.** La voie officielle impose des templates Meta pré-approuvés et payants pour tout message automatique hors fenêtre de 24 h ; la voie officieuse (whatsapp-web.js, Baileys) fait bannir les numéros. Telegram faisait la même chose gratuitement — et a été abandonné avec le reste.
 
