@@ -51,7 +51,16 @@ Une matrice d'Eisenhower sur iPhone, dont le contenu vit dans un fichier iCloud 
 
 **Une tâche marquée faite disparaît de la grille** mais reste dans le fichier, avec sa date. C'est ce qui permettra plus tard de regarder ce qui a réellement avancé.
 
-**Signalement de l'âge** : une tâche présente depuis plus de 30 jours s'affiche avec un point ou une teinte différente. Rien d'autre — pas de notification, pas de culpabilisation.
+**Signalement de l'âge — un seuil par quadrant.** Une tâche qui dépasse le seuil de sa case change de teinte. Pas de notification, pas de rappel : l'information est sous les yeux, c'est tout.
+
+| Quadrant | Seuil | Ce que le dépassement veut dire |
+|---|---|---|
+| Urgent et important | **2 jours** | Soit ce n'était pas urgent, soit tu es bloqué dessus. Les deux méritent d'être vus. |
+| Urgent, non important | **5 jours** | Ça aurait dû être délégué ou refusé. C'est le quadrant du non. |
+| Important, non urgent | **15 jours** | Le quadrant où tout meurt lentement. Quinze jours sans mouvement est le premier signal. |
+| Ni l'un ni l'autre | **30 jours** | Au lieu d'une teinte, l'app **pose la question** : « tu conserves, ou c'est devenu obsolète ? » avec deux boutons. |
+
+Les seuils sont propres à chaque case parce que le sens du temps n'y est pas le même : deux jours sont énormes dans l'urgent, dérisoires dans l'important.
 
 ## 3. Le fichier
 
