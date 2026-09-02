@@ -19,6 +19,7 @@ Notes de mission — coachings et tripartites.
 - [[Coaching Veronique 12 janvier]]
 - [[Tripartite Dominique 13 février]]
 - [[Tripartite Veronique 24 février]]
+- [[Veronique 2 septembre]]
 
 ---
 
