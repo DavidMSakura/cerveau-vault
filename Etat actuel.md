@@ -32,6 +32,8 @@
 
 **Second cerveau de Steph.** Guide fini, **installation jamais commencée** (chapitres 0 à 3, non délégables).
 
+**Coaching Véronique (Banque Savoie).** Séance du 02/09 versée dans [[Coaching Véronique (Banque Savoie) - suivi des séances]]. ⚠️ **Elle prépare son départ, Dominique et Marina — que David coache aussi — l'ignorent.** Rien à faire tant qu'elle n'a pas annoncé, mais à anticiper. Deux ouvertures commerciales nommées par elle : coaching de la relève, formation management des N-1.
+
 **Sakura.** Format arrêté. Restent le **contenu différencié** des deux niveaux, les pages, la mécanique de passage. **Placements** : ETF et crypto → [[Veille hebdomadaire portefeuille Trade Republic]], côté serveur.
 
 ## ⏸️ En attente d'une décision de David

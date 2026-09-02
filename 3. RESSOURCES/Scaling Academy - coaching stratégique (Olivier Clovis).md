@@ -73,8 +73,8 @@ Directement montable. **Le plus actionnable de la session.**
 
 | Ressource | Lien |
 |---|---|
-| Blueprint Instagram | https://blueprint-instagram.vercel.app |
-| Blueprint VSL | https://blueprint-vsl.vercel.app/ |
+| Blueprint Instagram | **Versé dans le vault** → [[Blueprint Instagram - optimiser son profil (Baptiste Noel)]] |
+| Blueprint VSL | **Versé dans le vault** → [[Blueprint VSL - produire une vidéo de vente (Baptiste Noel)]] |
 | Séquence de Story (Baptiste Noel) | https://baptistenoel.notion.site/Sequence-de-Story-2e9cd5862bb681a5b105e4955f97eaeb |
 | Higgsfield | https://higgsfield.ai — *déjà installé en MCP, compte à zéro crédit* |
 
