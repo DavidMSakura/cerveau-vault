@@ -7,7 +7,6 @@ kanban-plugin: board
 ## 🔥 Cette semaine
 
 
-
 ## ⏳ En attente d'un tiers
 
 - [ ] **Conséquence factuelle d'une formule au minimum sur un deux-roues** — seul Radiance peut répondre #myconnecting
@@ -17,10 +16,8 @@ kanban-plugin: board
 
 ## 🚧 En cours
 
-- [x] **CFF — préparer les 2 journées Prise de parole** des 14 et 15/09, depuis `Prise de parole _ V2.pptx` #formation @{2026-09-11}
 - [ ] **Funnel — la sortie est fermée** : `/cercle-de-verite` pointe vers `/sakura` qui renvoie une 404 (ancien webinaire à timers). À régler **avant** le test Meta #cercle-de-verite #sakura
 - [ ] **Cercle de Vérité — lancer le test Meta à 200 €**. Test d'apprentissage, pas un lancement. #cercle-de-verite
-- [x] **Sakura — recalculer le taux d'upgrade** nécessaire depuis le Cercle de Vérité, une fois les niveaux définis #sakura
 
 
 ## 💡 Backlog
@@ -31,7 +28,6 @@ kanban-plugin: board
 ## 🤔 À trancher
 
 - [ ] **Lequel des deux livres passe devant ?** *Libérez votre mémoire* (chemin de fer complet, préface Olicard) ou *Le Triangle Dramatique*. Aucun n'avance. #livre
-- [x] **La tension marketing** — Elisabeth dit « le marketing, on s'en fout, sois toi-même » ; la stratégie dit ads Meta puis funnel. À choisir, pas à subir. #strategie
 
 
 ## ❄️ En jachère
@@ -42,6 +38,10 @@ kanban-plugin: board
 ## ✅ Fait
 
 **Complete**
+
+- [x] **CFF — préparer les 2 journées Prise de parole** des 14 et 15/09, depuis `Prise de parole _ V2.pptx` #formation @{2026-09-11}
+- [x] **Sakura — recalculer le taux d'upgrade** nécessaire depuis le Cercle de Vérité, une fois les niveaux définis #sakura
+- [x] **La tension marketing** — Elisabeth dit « le marketing, on s'en fout, sois toi-même » ; la stratégie dit ads Meta puis funnel. À choisir, pas à subir. #strategie
 - [x] **CFF — faire signer et envoyer les 6 feuilles de présence** — le dossier « À envoyer » est prêt #formation
 - [x] **Date du point de cadrage** — trois créneaux proposés le 13/08, aucune réponse #myconnecting
 - [x] **CFF — poser la reconduction 2027 avec Sophie** avant la clôture du 8 décembre #formation
@@ -73,9 +73,6 @@ kanban-plugin: board
 - [ ] [[Idées de contenu Mnemonaute - backlog]]
 - [ ] [[Veille hebdomadaire portefeuille Trade Republic]]
 - [ ] [[Coaching Elisabeth Roche - suivi des séances]]
-
-
-
 
 %% kanban:settings
 ```
