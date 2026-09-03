@@ -17,9 +17,11 @@ Notes des coachings et ateliers de la Scaling Academy.
 - [[10 décembre atelier closing]]
 - [[11 décembre - Olivier Clovis]]
 - [[Anthony 25 mai - sequence emails]]
+- [[Anthony copywriting 2 septembre]]
 - [[Coaching Anthony - stratège copywriter]]
 - [[Coaching Olivier - 12 février]]
 - [[Déblocage 1er septembre - Baptiste]]
+- [[Olivier 3 septembre]]
 
 ---
 

@@ -2,7 +2,7 @@
 tags:
   - note-ios
 source: Notes.app / Banque Savoie
-modifiee: mercredi 2 septembre 2026 à 10:17:02
+modifiee: mercredi 2 septembre 2026 à 10:26:01
 ---
 
 # Veronique 2 septembre
@@ -59,4 +59,6 @@ Je dis à Vérone : si ce sont des managers entrepreneurs, pose les questions : 
 Avec ce qu’on se dit, ça s’éclaire d’un coup. Je suis trop dans l’opérationnel.
  Il faut que je me focus sur le management. 
 
-Je demande à Vérone de réfléchir à son plan d’accompagnement.  3 DG qui vont accueillir leurs adjoints. Acte de management fort pour poser le cadre.
+Je demande à Vérone de réfléchir à son plan d’accompagnement.  3 DG qui vont accueillir leurs adjoints. Acte de management fort pour poser le cadre. 
+
+Ce que tu dis me conforte, car je n’y étais pas vraiment.
