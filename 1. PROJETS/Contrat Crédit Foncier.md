@@ -35,26 +35,63 @@ Parcours d'accompagnement de **13 femmes sur 9 mois**, animé avec Steph. **Le c
 - **La charge mentale** — 12 juin 2026, 9h-12h30, distanciel Teams
 - Alter Horse · B Boost
 
-### Coachings individuels
+### Coachings individuels — les neuf accompagnements
 
-Chaque participante bénéficie d'un **Test EQ.i 2.0 + coaching, 4h30**. Séances en visio, 1h30 chacune.
+> Source de référence : **le tableau de Sophie Pons du 13/07/2026**. Neuf accompagnements attribués à David — six du parcours femmes, trois issus de demandes métier. *(Sophie écrit « dont 5 parcours femmes », mais son propre tableau en compte six.)*
 
-| Participante | Séance 1 | Séance 2 | Feuille de présence |
+Chaque parcours femmes vaut **Test EQ-i 2.0 + 4h30 de coaching**. Toutes les séances observées durent 1h30, ce qui donne **trois séances par personne**. ⚠️ C'est une déduction, pas une donnée écrite : **à confirmer avec Sophie**, parce que c'est le volume à facturer.
+
+#### Parcours femmes — état au 03/09/2026
+
+| Participante | N+1 | Séances faites | Reste | Programmé | Émargement |
+|---|---|---|---|---|---|
+| **Isabelle CHEN** | Iris TUIL | 21/05 · 9h-10h30 | **2** | rien | ✅ signée |
+| **Laila EDDAMIRI** | Manuel CHALARD | 19/05 · 14h-15h30<br>29/06 · 10h-11h30 | 1 | rien | s1 ✅ · **s2 jamais demandée** |
+| **Khom RIVIERE** | Sophie GOASDOUE | 18/05 · 14h-15h30<br>29/06 · 14h-15h30 | 1 | **21/09 · 14h30** | s2 ✅ mais **mal numérotée**<br>**s1 jamais demandée** |
+| **Christelle ERHARD** | Frédérique OPPLERT | 26/06 · 10h30-12h | **2** | rien | ✅ signée |
+| **Pascaline ZABARDI** | Sophie PONS | 02/06 · 15h-16h30<br>27/07 · 15h30-17h | 1 | rien | ✅ les deux |
+| **Sandra VIEIRA** | Gabrielle MEUNIER | 20/05 · 11h-12h30 | **2** | rien | ✅ signée |
+
+⚠️ **Neuf séances restent à caler et aucune n'est posée.** Vérifié sur l'agenda jusqu'au 31/12/2026 : la seule séance CFF programmée d'ici la fin de l'année est celle de Khom le 21 septembre. Le parcours se clôt le **8 décembre**.
+
+> La séance 1 de Pascaline a été **reportée du 21/05 au 02/06**. Toutes les séances ont eu lieu **en visio** — tranché par David le 03/09/2026, y compris celle du 18/05 où Khom était dans une salle à Braudel mais David à distance.
+
+#### Demandes métier — les trois dossiers hors parcours
+
+| Coaché | N+1 | Objet | État |
 |---|---|---|---|
-| Isabelle CHEN | 21/05, 9h-10h30 | — | ✅ **signée** |
-| Laila EDDAMIRI | 19/05, 14h-15h30 | — | à signer |
-| Sandra VIEIRA | 20/05, 11h-12h30 | — | à signer |
-| Pascaline ZABARDI | 02/06, 15h-16h30 | 27/07, 15h30-17h | à signer (2 fiches) |
-| Christelle ERHARD | 26/06, 10h30-12h | — | à signer |
-| Khom RIVIERE | 29/06, 14h-15h30 | — | à signer |
+| **Jilani BEN-YAHMED** | François NANTHAVISOUK | Posture managériale, relations avec les pairs | **Tripartite le 04/09 à 14h**, visio Teams. Feuille prête |
+| **Jelena STOJANOVIC** | Hamid BELRADJAA | Prise de fonction managériale | ⚠️ **Bloqué.** Rencontrée le 08/06, choix confirmé par Sophie le 01/07, créneaux envoyés le 16/07 → **aucune réponse depuis sept semaines**. Démarrage souhaité en septembre |
+| **Steve AMARANTHE** | Caroline HALFON | Confiance en soi, s'affirmer, clarifier sa pensée | **Démarrage convenu en octobre.** Il l'a écrit le 22/07 : *« Oui, je serai disponible au mois d'octobre. »* Rien n'est encore posé → **créneaux à caler** |
 
-> La séance 1 de Pascaline a été **reportée du 21/05 au 02/06** — l'ancienne date traîne encore dans le fichier de suivi.
->
-> **Pascaline est la seule à avoir eu une seconde séance** à ce jour (confirmé par David le 25/08/2026).
+> **C'est David qui organise les tripartites.** Sophie l'a écrit le 01/07 : *« qui prend en charge l'organisation des réunions tripartites ? Le coach en principe, donc toi. »* Elle parle de **quadripartite** — coaché, manager, RH, coach — ce que confirme celle de Jilani, qui réunit bien quatre personnes.
 
-**Six feuilles de présence prêtes à signer** dans `Formation/CFF - Sophie Pons/Coachings/À envoyer/`. La seule déjà signée est dans `Coachings/Signés/`.
+#### ⚠️ Aucune convention signée pour les neuf
 
-⚠️ Le fichier `Coachings/Suivi coachings DM.xlsx` **n'est pas à jour** : mauvaise date pour Pascaline, et sa séance 2 n'y figure pas.
+Sophie l'a demandé le 13/07 : *« Je ne crois pas avoir reçu de convention pour ces accompagnements ? »* Le dossier `Coachings/Conventions/` ne contient qu'une convention Franck Bailly et un modèle vierge. **Rien pour les neuf accompagnements.** La question est restée sans réponse dans le fil.
+
+#### Les feuilles de présence
+
+**Signées et classées** dans `Coachings/Signés/` : Isabelle CHEN (21/05), Laila séance 1 (19/05), Pascaline séances 1 et 2, Sandra VIEIRA (20/05), Khom séance 2 (29/06), Christelle ERHARD (26/06).
+
+**Prêtes à faire signer** dans `Coachings/À envoyer/` : Khom séance 1 (18/05), Khom séance 2 corrigée, Laila séance 2 (29/06), et la tripartite de Jilani du 04/09.
+
+⚠️ **La feuille signée par Khom le 02/09 porte « Séance coaching : 1 » alors qu'elle date du 29 juin, sa deuxième séance.** Envoi groupé décidé le 03/09 : les deux feuilles ensemble, avec la mention que la précédente était mal numérotée.
+
+⚠️ `Coachings/Suivi coachings DM.xlsx` **ne doit plus servir de référence**. Ce tableau-ci le remplace.
+
+#### Ce qui reste à faire, et par qui
+
+| Quoi | Qui | Échéance |
+|---|---|---|
+| Envoi groupé à Khom — feuilles s1 et s2, mention de l'erreur de numérotation | David | cette semaine |
+| Demander à Laila sa feuille de séance 2 du 29/06 | David | cette semaine |
+| Envoyer à Nathalie Feugeas les feuilles de Khom et Christelle | David | après retour de Khom |
+| **Relancer Jelena** sur la quadripartite, Hamid et Sophie en copie | David | **immédiat** |
+| **Caler les séances de Steve en octobre** — accord acquis depuis le 22/07 | David | cette semaine |
+| Caler les **neuf séances manquantes** avant le 08/12 | David | septembre |
+| Répondre à Sophie sur les **conventions** | David | cette semaine |
+| Confirmer avec Sophie : 4h30 = trois séances de 1h30 ? | David | cette semaine |
 
 ---
 
