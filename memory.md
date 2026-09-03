@@ -1060,3 +1060,79 @@ J'avais écrit « le blueprint tranche le retour que tu me demandais ». **Un bl
 - [ ] **Créer le conteneur iCloud** de l'app dans le portail développeur.
 - [ ] Cocher « toujours mettre à jour les liens internes » et repointer les deux réglages de modèles.
 - [ ] Fiche dédiée pour la liste de contrôle Jeltema — **proposée, pas encore validée**.
+
+---
+
+## 2026-09-03 — La doctrine d'Anthony, et le pont iCloud ouvert
+
+### Le document d'Anthony, lu en entier
+
+`~/Downloads/Tunnel De Vente David Marsac.docx`, exporté par David depuis Google Docs. **Méthode : le `.docx` contient le texte, les couleurs et surtout `word/comments.xml`** — les douze commentaires d'**Anthony Lascostes** du 02/09. Aucune couleur dans l'export ; le repérage passe par les commentaires seuls.
+
+⚠️ **Aucun connecteur Google Drive** : lecture possible via l'export `.docx`, **écriture impossible**. Le chemin sûr reste Fichier → Télécharger → Word.
+
+### La doctrine, tranchée et validée par David
+
+> **« Parler de toi de bout en bout, sans inclure l'avatar. Il doit juste se reconnaître dans des situations que tu décris. L'inclure à la fin pour le CTA. »**
+
+Répétée sur un second script. Et deux fois : **« trop violent pour l'avatar »**.
+
+**Le gabarit de l'idée 1 « Les 50 euros »** — la seule sans commentaire, donc le modèle : une capacité annoncée à la première personne · la scène entière racontée par David · la raison énoncée froidement · l'escalade émotionnelle dans la scène · puis la bascule *moi aussi… je pensais être gentil, jusqu'à comprendre que c'était de la manipulation… aujourd'hui j'aide ceux qui sont comme moi… si tu te reconnais là-dedans → bénéfices → CTA*.
+
+**Trois règles fermes** : **jamais de prix** · le CTA est le même partout et **amène à la masterclass** · l'avatar n'est jamais désigné avant la dernière ligne.
+
+⚠️ **Ça invalide la voix des treize angles de [[Cercle de Vérité - Créas pubs Meta (lot 1)]]** — tous en « tu » et accusatoires. Les scènes et les mécanismes tiennent ; **la voix est à refaire**. C'est le sujet à poser à Anthony.
+
+**Et ça tranche l'arbitrage du prix** que j'avais laissé ouvert : pas de prix. Baptiste disait pareil le 01/09. J'avais argumenté le contraire.
+
+### Les sept scripts réécrits
+
+[[Cercle de Vérité - Créas réécrites à la voix de David (retours Anthony)]] — tout en « je », avec les bénéfices par pub en fin de document.
+
+**Les bénéfices sortent du contenu réel du produit**, trouvé dans `~/Documents/Formation/Olivier Clovis Scaling Academy/LOW TICKET 1.docx` et `Structure Low Ticket Marsac.docx` — **pas du script de la VSL, qui n'existe plus sur le Mac** (il ne reste que le verrou Word de `Script Mini VSL.docx`). La VSL vidéo, elle, existe : `Video/VSL Cercle de verite low ticket.mp4`.
+
+**Ce que le produit promet, mot pour mot** : *« Dans 7 jours, tu auras dit ton premier NON clair, assumé, sans culpabilité — et tu sentiras enfin ce que ça fait d'être un homme libre. »* Mécanisme : **le consentement masculin**. Sept jours : diagnostic des trois zones · la dette émotionnelle et les trois peurs (rejet, déception, conflit) · le triangle de Karpman · le NON sacré et son script *« je comprends que… ET en même temps, je choisis de… »* · l'ancrage corporel, le NON du Samouraï · la culpabilité d'après · le passage à l'action.
+
+### Deux corrections de David
+
+**« Refiler » — deuxième fois qu'il me le dit.** Sorti des quatre endroits où il traînait, y compris deux que je n'avais pas nettoyés dans le lot 1. Remplacé par **« faire porter la décision à l'autre »**, qui est plus juste : « refiler » décrit un geste désinvolte, alors qu'il s'agit d'un transfert de charge.
+
+**Le bénéfice 7 était trop négatif** — trois menaces à la suite. Réécrit vers ce qu'on gagne, avec **« sans rien avoir ravalé »**, qui reprend son propre mot du script du champion du monde.
+
+**Et une erreur d'attribution de ma part** : j'avais mis le « pas ouf » d'Anthony sur l'angle du champion du monde. Il porte sur **l'astreinte émotionnelle**.
+
+### Le pont iCloud est ouvert
+
+`~/Library/Mobile Documents/iCloud~com~davidmarsac~matrice/Documents/matrice.json` — **Doc lit la matrice.**
+
+**Le blocage était une case non cochée** : le fichier d'autorisations déclarait `icloud-services: CloudDocuments` mais les tableaux de conteneurs étaient **vides**. L'app disait « je veux iCloud » sans dire lequel.
+
+⚠️ **`com.davidmarsac.matrice` n'existait pas dans les Identifiers** — Xcode signait avec le profil générique `XC Wildcard *` tant que l'app n'avait aucune capacité. C'est en ajoutant iCloud que Xcode a créé l'App ID tout seul.
+
+Marche à suivre complète et corrigée : `~/Documents/Apps/Matrice/Activer iCloud - marche à suivre.md`.
+
+**Première lecture, le 03/09 à 9h43** : six tâches en urgent-et-important, une seule en important-non-urgent, zéro en urgent-non-important, deux en ni-l'un-ni-l'autre. **Six sur neuf dans la case rouge : le profil de quelqu'un qui subit.** Et le quadrant 2 quasi vide, alors que c'est là que dorment les deux livres, l'installation du second cerveau de Steph et les trois audios du Cercle.
+
+### L'app, cinq ajouts
+
+- **Bandeau** : la couleur ne remonte plus derrière la barre d'état.
+- **Double tap réparé.** SwiftUI ne sait pas le distinguer d'un simple à travers une zone défilante ; fait à la main, le simple attend 0,35 s et le double l'annule.
+- **Glissements** : vers la droite *Fait*, vers la gauche *Retirer*. Nouveau champ `abandonnee` — **rien ne s'efface**, mais les archives distinguent ce qui a été accompli de ce qui a été abandonné.
+- **Rappel local** le matin de l'échéance à 9 h, annulé quand la tâche sort. **Il ne déplace jamais la tâche** — l'urgence reste un jugement.
+- **« Ajouter à mon agenda »** via **EventKit**, avec choix du calendrier de destination dans les réglages. ⚠️ **Écarté : l'OAuth Google dans l'app** — plus de travail que tout le reste réuni. EventKit écrit sur l'iPhone, Google synchronise, et Doc lit avec le connecteur Agenda qu'il a déjà.
+
+**Icône** : quatre quadrants, cible blanche, flèche bleu marine — l'esprit de Focus Matrix, les couleurs de l'app. Quatre pistes dans `~/Documents/Apps/Matrice/_icones/`, retenue : `F-cible-ambre`. ⚠️ **Le quatrième quadrant est ambre dans l'icône, gris dans l'app** — délibéré : le gris signifie « inerte » dans la matrice, mais tire une icône vers le bas.
+
+### Un bug que j'ai créé et corrigé
+
+⚠️ **L'équipe de signature sautait à chaque fois.** Mon générateur réécrivait `project.pbxproj` de zéro à chaque ajout de fichier, avec `CODE_SIGN_STYLE = Automatic` mais **sans `DEVELOPMENT_TEAM`**. Identifiant d'équipe de David : **`A9V535MUQ8`**.
+
+**Règle à tenir** : ne plus jamais régénérer le fichier projet de zéro. Y insérer les nouveaux fichiers, comme fait pour le catalogue d'icônes.
+
+### Ce qui reste à faire
+
+- [ ] **Refaire la voix des treize angles du lot 1** selon la doctrine. À poser à Anthony : vaut-elle pour tout le lot ?
+- [ ] **Valider le bloc `[bénéfices]`** — bénéfices de la vidéo ou du programme ? un jeu par pub ou un seul ?
+- [ ] Tester le nouveau build : glissements, rappels, bouton agenda, icône.
+- [ ] **Créer un calendrier « Matrice »** dédié, et le désigner dans les réglages de l'app.
+- [ ] Toujours ouvert depuis le 02/09 : le sort du journal, et l'`index.md` du vault.
