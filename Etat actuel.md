@@ -12,7 +12,8 @@
 | **14-15/09** | Prise de parole CFF — rien à préparer |
 | **16-17/09** | DDA Radiance, Dijon — supports envoyés et validés |
 | **fin oct.** | Heure d'hiver : décaler le cron mail, sinon 7h/11h/16h |
-| **08/12** | Clôture CFF — reconduction = ressort de **Steph** |
+| **fin sept.** | ⚠️ Vérifier que les **séances d'octobre de Steve Amaranthe** sont posées — accord acquis depuis le 22/07, rien dans l'agenda |
+| **08/12** | Clôture CFF — reconduction = ressort de **Steph** · **9 séances de coaching à donner d'ici là** |
 
 ## 🔨 Chantiers actifs
 
@@ -27,7 +28,7 @@
 
 **Radiance.** Charte et déroulé validés. **Tranché le 03/09 : les questions ne sont pas envoyées en amont**, David les pose en direct — *« si MyConnecting est à l'aise de m'envoyer ainsi, je me fais confiance pour être à propos »*. Garder [[Radiance - questions pour le cadrage du 4 septembre]] ouvert pendant l'appel et les poser tôt : 30 min à sept, ça se remplit vite. Dire à Simon que Maori a répondu le 25/08.
 
-**Crédit Foncier.** Le plus rentable. **Steph en lead sur Sophie Pons.** Clôture le 08/12.
+**Crédit Foncier.** Le plus rentable. **Steph en lead sur Sophie Pons.** Suivi complet des **neuf accompagnements** dans [[Contrat Crédit Foncier]] — séances faites, restantes, émargements, actions ouvertes. ⚠️ **Neuf séances à caler avant le 08/12 et aucune n'est posée** ; seule celle de Khom du 21/09 existe. Jelena relancée après sept semaines de silence. Cinq brouillons Gmail prêts — **Khom et Laila attendent leurs pièces jointes**.
 
 **Coaching Véronique.** ⚠️ Elle prépare son départ ; **Dominique et Marina, que David coache aussi, l'ignorent** → [[Coaching Véronique (Banque Savoie) - suivi des séances]].
 

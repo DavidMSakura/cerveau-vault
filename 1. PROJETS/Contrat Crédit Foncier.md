@@ -66,9 +66,13 @@ Chaque parcours femmes vaut **Test EQ-i 2.0 + 4h30 de coaching**. Toutes les sé
 
 > **C'est David qui organise les tripartites.** Sophie l'a écrit le 01/07 : *« qui prend en charge l'organisation des réunions tripartites ? Le coach en principe, donc toi. »* Elle parle de **quadripartite** — coaché, manager, RH, coach — ce que confirme celle de Jilani, qui réunit bien quatre personnes.
 
-#### ⚠️ Aucune convention signée pour les neuf
+#### Les conventions
 
-Sophie l'a demandé le 13/07 : *« Je ne crois pas avoir reçu de convention pour ces accompagnements ? »* Le dossier `Coachings/Conventions/` ne contient qu'une convention Franck Bailly et un modèle vierge. **Rien pour les neuf accompagnements.** La question est restée sans réponse dans le fil.
+**Tranché par David le 03/09/2026** : les conventions ne concernent **que les trois coachings de managers** — Jilani, Jelena, Steve — et elles se rédigent **après la tripartite de démarrage**, une fois les objectifs posés. **Il n'y a pas de convention pour le parcours Leadership au féminin**, couvert par le contrat du parcours.
+
+C'est la réponse à la question de Sophie du 13/07 (*« Je ne crois pas avoir reçu de convention pour ces accompagnements ? »*) : aucune n'était due, faute de tripartite tenue. La première à produire est **celle de Jilani, après le 04/09**.
+
+Le modèle est dans `Coachings/Conventions/Convention accompagnement manager modele .docx`.
 
 #### Les feuilles de présence
 
@@ -90,7 +94,7 @@ Sophie l'a demandé le 13/07 : *« Je ne crois pas avoir reçu de convention pou
 | **Relancer Jelena** sur la quadripartite, Hamid et Sophie en copie | David | **immédiat** |
 | **Caler les séances de Steve en octobre** — accord acquis depuis le 22/07 | David | cette semaine |
 | Caler les **neuf séances manquantes** avant le 08/12 | David | septembre |
-| Répondre à Sophie sur les **conventions** | David | cette semaine |
+| **Rédiger la convention de Jilani** à partir du modèle, une fois la tripartite tenue | David | après le 04/09 |
 | Confirmer avec Sophie : 4h30 = trois séances de 1h30 ? | David | cette semaine |
 
 ---
