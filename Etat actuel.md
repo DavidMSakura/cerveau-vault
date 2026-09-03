@@ -24,6 +24,8 @@
 **App Matrice.** Le pont iCloud est **ouvert** : Doc lit `matrice.json`. Glissements, rappels, bouton agenda et icône sont codés → **à tester sur l'iPhone**. Reste à créer un **calendrier « Matrice » dédié** et à le désigner dans les réglages.
 ⚠️ Ne plus jamais régénérer `project.pbxproj` de zéro : ça efface l'équipe de signature. Y insérer les fichiers.
 
+**App Matrice — icône.** Le blocage des builds venait de la **framework CoreSimulator corrompue** (dix fichiers hors signature), réparée le 03/09 par `sudo installer -pkg /Applications/Xcode.app/Contents/Resources/Packages/XcodeSystemResources.pkg -target /`. Le runtime **iOS 26.5 (23F77)** est téléchargé et `Ready` mais **son volume n'est pas monté** — un doublon supprimé l'a détaché, et `scan-and-mount` n'y suffit pas. 👉 **Après redémarrage** : vérifier `ls /Library/Developer/CoreSimulator/Volumes/`, tester `actool --app-icon`, puis restaurer `ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon` depuis `Matrice.xcodeproj/project.pbxproj.avant-icone`. En attendant l'app compile **sans icône**, le réglage est vidé.
+
 **Mnemonaute — Gandhi.** Script validé, trois miniatures prêtes. **Avant de publier** : renommer le fichier vidéo, écrire les chapitres à la main, programmer 24 h à l'avance, préparer le commentaire épinglé.
 
 **Radiance.** Charte et déroulé validés. **Tranché le 03/09 : les questions ne sont pas envoyées en amont**, David les pose en direct — *« si MyConnecting est à l'aise de m'envoyer ainsi, je me fais confiance pour être à propos »*. Garder [[Radiance - questions pour le cadrage du 4 septembre]] ouvert pendant l'appel et les poser tôt : 30 min à sept, ça se remplit vite. Dire à Simon que Maori a répondu le 25/08.
