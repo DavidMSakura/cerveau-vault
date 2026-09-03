@@ -191,7 +191,7 @@ Chacun est accroché à la scène de sa propre pub : c'est ce qui empêche le CT
 > pourquoi se taire n'a jamais protégé personne · la phrase qui permet de refuser sans casser la relation — « je comprends que… et en même temps, je choisis de… » · et comment tenir la position quand l'autre insiste
 
 ## 7 · Qui ne dit mot consent
-> ce que ton silence dit à ta place, et pourquoi il s'interprète toujours en ta défaveur · la phrase courte à poser sur le moment, sans te justifier · et comment tenir les quarante-huit heures qui suivent, quand la culpabilité revient
+> comment ta parole peut arriver au moment où tu la penses, plutôt que trois heures plus tard dans ta tête · la phrase courte qui suffit à dire ce que tu penses, sans avoir à te justifier · et ce que ça fait de repartir d'une pièce sans rien avoir ravalé
 
 ## 8 · « Comme tu veux »
 > pourquoi « comme tu veux » fait porter la décision à l'autre au lieu de la prendre · comment dire ce que tu veux sans que ça devienne un conflit · et ce qui change dans un couple quand l'autre sait enfin à quoi s'en tenir
