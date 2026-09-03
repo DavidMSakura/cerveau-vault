@@ -21,7 +21,7 @@ Répétée sur un second script : *« ne pas inclure l'avatar, juste à la fin �
 
 ⚠️ **Conséquence sur [[Cercle de Vérité - Créas pubs Meta (lot 1)|le lot de treize angles]]** : ils sont tous en « tu » et accusatoires. Les scènes et les mécanismes restent bons, **c'est la voix qui change**.
 
-`[bénéfices]` est laissé en blanc partout : Anthony l'a laissé en blanc aussi, c'est à David de le remplir une fois pour toutes.
+**Les bénéfices sont écrits, un jeu par pub** — voir la section en fin de document. Ils sortent du contenu réel du produit (`LOW TICKET 1.docx`, `Structure Low Ticket Marsac.docx`), pas du script de la VSL, qui n'existe plus sur le Mac.
 
 ---
 
@@ -161,3 +161,45 @@ Répétée sur un second script : *« ne pas inclure l'avatar, juste à la fin �
 > On nous a appris que ne pas imposer, c'était être respectueux. Personne ne nous a dit qu'en cachant ce qu'on veut, on enlève à l'autre sa seule chance de nous connaître.
 >
 > Si tu te reconnais là-dedans, je t'invite à regarder la vidéo où je te montre [bénéfices]. [CTA]
+
+---
+
+# Les bénéfices, pub par pub
+
+Ils remplacent `[bénéfices]` dans chaque CTA. Formulés comme **ce que la vidéo montre**, pas comme ce que le programme fait — c'est la vidéo qu'on va regarder.
+
+Chacun est accroché à la scène de sa propre pub : c'est ce qui empêche le CTA de sonner plaqué, tout en gardant la structure identique qu'Anthony demande.
+
+**Source** : la promesse et les sept jours du produit — *« dans 7 jours, tu auras dit ton premier NON clair, assumé, sans culpabilité »*, mécanisme du **consentement masculin**.
+
+## 1 · Les 50 euros
+> pourquoi un oui de politesse coûte toujours plus cher qu'un refus · les trois zones de ta vie où tu trahis ton consentement sans t'en rendre compte · et comment dire non sans avoir à te justifier
+
+## 2 · L'autorité retournée
+> pourquoi le courage physique ne sert à rien à la porte de chez soi · ce que les arts martiaux enseignent que le développement personnel ignore · comment ancrer un refus dans le corps au lieu de le poser dans les mots
+
+## 3 · Le distributeur automatique
+> ce qui fait qu'on cesse de te demander ton avis pour ne plus te demander que ta disponibilité · comment sortir du rôle de Sauveur sans devenir cassant · et ce qui se passe le jour où ton oui redevient une décision
+
+## 4 · L'astreinte émotionnelle
+> les trois peurs qui te font surveiller l'humeur des autres — le rejet, la déception, le conflit · comment repérer celui à qui tu paies une dette qu'il ne t'a jamais réclamée · et ce que ça change de ne plus t'ajuster en permanence
+
+## 5 · Le corps qui demande pardon
+> la différence exacte entre un non mou et un non aligné · pourquoi ta posture parle plus fort que ta phrase · et la technique du bushido pour que ton corps arrête de te contredire
+
+## 6 · Christophe et l'associé
+> pourquoi se taire n'a jamais protégé personne · la phrase qui permet de refuser sans casser la relation — « je comprends que… et en même temps, je choisis de… » · et comment tenir la position quand l'autre insiste
+
+## 7 · Qui ne dit mot consent
+> ce que ton silence dit à ta place, et pourquoi il s'interprète toujours en ta défaveur · la phrase courte à poser sur le moment, sans te justifier · et comment tenir les quarante-huit heures qui suivent, quand la culpabilité revient
+
+## 8 · « Comme tu veux »
+> pourquoi « comme tu veux » n'est pas un cadeau mais une décision refilée · comment dire ce que tu veux sans que ça devienne un conflit · et ce qui change dans un couple quand l'autre sait enfin à quoi s'en tenir
+
+---
+
+## Ce qui reste à vérifier avec Anthony
+
+**Bénéfices de la vidéo ou du programme ?** Son gabarit dit « la vidéo où je te montre (1 à 3 bénéfices de la vidéo) ». Les formulations ci-dessus décrivent donc ce qu'on comprend en la regardant. Si la VSL vend surtout le programme, il faudra les basculer côté résultat.
+
+**Un jeu par pub, ou un seul pour les huit ?** Anthony demande « quasi le même CTA » partout. J'ai gardé la structure identique et fait varier les trois bénéfices selon l'angle. S'il veut une uniformité totale, le jeu de la pub 1 sert de référence pour toutes.
