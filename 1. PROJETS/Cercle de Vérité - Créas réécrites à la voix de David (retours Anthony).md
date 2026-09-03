@@ -156,7 +156,7 @@ Répétée sur un second script : *« ne pas inclure l'avatar, juste à la fin �
 >
 > Un jour, elle lui a dit : « Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »
 >
-> Il ne protégeait pas la relation. Il la rendait floue. « Comme tu veux », ça a l'air d'un cadeau — en réalité on refile la décision et on garde le droit d'être déçu. L'autre choisit à l'aveugle : il n'y a donc aucun bon choix, et un jour, elle arrête d'essayer.
+> Il ne protégeait pas la relation. Il la rendait floue. « Comme tu veux », ça a l'air d'un cadeau — en réalité on fait porter la décision à l'autre, tout en gardant le droit d'être déçu. L'autre choisit à l'aveugle : il n'y a donc aucun bon choix, et un jour, elle arrête d'essayer.
 >
 > On nous a appris que ne pas imposer, c'était être respectueux. Personne ne nous a dit qu'en cachant ce qu'on veut, on enlève à l'autre sa seule chance de nous connaître.
 >
@@ -194,7 +194,7 @@ Chacun est accroché à la scène de sa propre pub : c'est ce qui empêche le CT
 > ce que ton silence dit à ta place, et pourquoi il s'interprète toujours en ta défaveur · la phrase courte à poser sur le moment, sans te justifier · et comment tenir les quarante-huit heures qui suivent, quand la culpabilité revient
 
 ## 8 · « Comme tu veux »
-> pourquoi « comme tu veux » n'est pas un cadeau mais une décision refilée · comment dire ce que tu veux sans que ça devienne un conflit · et ce qui change dans un couple quand l'autre sait enfin à quoi s'en tenir
+> pourquoi « comme tu veux » fait porter la décision à l'autre au lieu de la prendre · comment dire ce que tu veux sans que ça devienne un conflit · et ce qui change dans un couple quand l'autre sait enfin à quoi s'en tenir
 
 ---
 

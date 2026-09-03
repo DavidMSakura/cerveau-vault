@@ -231,7 +231,7 @@ On s'adresse à un homme qui ne voit pas encore le problème mais qui ressent un
 > Dans son couple, il évitait tout. « Ok. » « Pas de souci. » « Comme tu veux. » Jamais un conflit, jamais un désaccord.
 > Il avait un avis. Il le savait avant même qu'on lui pose la question, et il ne le disait pas. Alors elle choisissait. Et le soir il était sec, absent, sans savoir pourquoi. Il croyait protéger la relation.
 > Un jour, elle lui a dit : « Avec toi, je ne sais jamais si tu es vraiment d'accord, ou si tu me dis oui pour ensuite me faire payer quelque chose. »
-> Il ne protégeait pas la relation. Il la rendait floue. Et si tu t'es reconnu, c'est pareil chez toi : « comme tu veux », ça a l'air d'un cadeau, mais en vrai tu refiles la décision et tu gardes le droit d'être déçu. L'autre choisit à l'aveugle. Il n'y a donc aucun bon choix, et un jour, elle arrête d'essayer.
+> Il ne protégeait pas la relation. Il la rendait floue. Et si tu t'es reconnu, c'est pareil chez toi : « comme tu veux », ça a l'air d'un cadeau, mais en vrai tu fais porter la décision à l'autre, et tu gardes le droit d'être déçu. L'autre choisit à l'aveugle. Il n'y a donc aucun bon choix, et un jour, elle arrête d'essayer.
 > On t'a appris que ne pas imposer, c'était être respectueux. Personne ne t'a dit qu'en cachant ce que tu veux, tu enlèves à l'autre sa seule chance de te connaître.
 > Sept jours pour redire « j'ai envie ». 27 €.
 
@@ -285,7 +285,7 @@ Le format qui tient tout seul, c'est **une réplique reconnaissable, puis le ret
 | 9 | Dans cinq ans | Tu n'as pas supprimé l'inconfort. | Tu l'as déplacé à l'intérieur de toi. |
 | 10 | Christophe | Il a dit oui à son associé. | Puis il a espéré des mois qu'un autre arrête le projet. |
 | 11 | Qui ne dit mot consent | « Qui ne dit mot consent. » | Sauf que toi, tu ne consens pas. Tu t'écrases. |
-| 12 | « Comme tu veux » | « Comme tu veux. » | Tu lui refiles la décision. Tu gardes le droit d'être déçu. |
+| 12 | « Comme tu veux » | « Comme tu veux. » | Tu fais porter la décision à l'autre. Tu gardes le droit d'être déçu. |
 | 12b | La question qui cache | « Ça te dirait d'aller là-bas ? » | Ce que tu voulais dire : « j'ai envie d'y aller. » |
 
 **Direction artistique — palette arrêtée le 01/09/2026.** Bleus profonds et jaunes, [choisie par David sur Coolors](https://coolors.co/palette/00296b-003f88-00509d-fdc500-ffd500) : `#00296b` `#003f88` `#00509d` `#fdc500` `#ffd500`. Le jaune n'est pas neuf — c'est déjà le bandeau de la miniature 9,8/20, donc un code de chaîne existant.
