@@ -86,6 +86,57 @@ Directement montable. **Le plus actionnable de la session.**
 
 ---
 
+## 3 septembre 2026 — storytelling et niveau de conscience de l'avatar
+
+Note brute : [[Olivier 3 septembre]] · transcription intégrale dans Wispr Flow (1 h 08, animée par Olivier).
+
+### Le point qui change tout
+
+> **Meta pénalise le marketing frontal sur la douleur. Il faut cibler la douleur de manière détournée.**
+
+Ce n'est pas une question de goût, c'est une contrainte de plateforme. Et **elle converge avec le « trop violent pour l'avatar » d'Anthony**, écrit la veille sur le même corpus. Deux sources indépendantes, l'une éditoriale, l'autre algorithmique, disent la même chose.
+
+⚠️ **Les treize angles de [[Cercle de Vérité - Créas pubs Meta (lot 1)]] sont construits sur la douleur frontale.** C'est le second motif, après la voix en « tu », qui impose de les reprendre.
+
+### Le niveau de conscience détermine qui l'on attire
+
+> *« Si on ne parle que des problèmes, on attire les gens de niveau 1 ou 2. »*
+
+Pour parler à des clients plus avancés, il faut parler de **l'offre, de l'expertise, des solutions, entrer dans les détails, montrer la finesse de sa vision et le pourquoi on fait les choses**.
+
+En séance, Sylvie a fait ses **premières ventes high ticket après dix mois infructueux, uniquement grâce au reciblage de l'avatar** — en retirant la partie difficulté de son storytelling, ce qui filtre les profils déjà compétents.
+
+### Les visuels statiques
+
+Utiles **en retargeting**, sous deux formes seulement : **visage + accroche**, ou **détail de la méthode**. Et une consigne explicite : **éviter les clics de curiosité**.
+
+> *« Au plus avancé dans la description de la méthode, mieux c'est. »*
+> Exemple donné : **« Arrête de travailler sur ton mental si tu te sens mal, travaille sur ton corps. »**
+
+⚠️ Cet exemple est **exactement le mécanisme de l'angle du corps qui demande pardon** — David a déjà la matière. Et il valide la piste photo contre typo restée ouverte : les cartes purement typographiques disent la douleur, pas la méthode.
+
+**Bon format d'annonce** : comparer des méthodes alternatives, puis dérouler les étapes de la sienne.
+
+### Les trois épinglés Instagram
+
+Qui je suis · Méthode · Témoignages. **Identique à ce que prescrit** [[Blueprint Instagram - optimiser son profil (Baptiste Noel)]] — deux sources, même structure.
+
+### Recueillir les témoignages
+
+Demander **en tête-à-tête, sur un pic émotionnel**. Une **interview naturelle plutôt qu'un script**, structurée avant / pendant / après. **Vidéo mieux qu'audio, audio mieux qu'écrit.** Flouter et anonymiser si la niche est sensible. Et **ranger les témoignages par profil et par situation de départ**, pour envoyer le bon à chaque prospect hésitant.
+
+*Nuance avec Baptiste, qui donne six questions écrites à envoyer. Clovis préfère l'entretien libre. Les deux se tiennent : les questions cadrent, l'entretien capte l'émotion.*
+
+### Qualification financière en appel — pour plus tard
+
+Ne pas disqualifier par une fourchette de prix frontale : poser une question fermée sur *le moment d'investir*. **Valider les finances dans les vingt premières minutes, avant la stratégie.** Disqualifier par la situation professionnelle ou personnelle — arrêt maladie, réorientation — et rediriger vers l'offre basse. *Concerne [[Sakura]], pas le Cercle.*
+
+### Noté en passant — pas de David
+
+Repère de marché donné en séance : **Nadège a fait redescendre son coût par prospect à 2,60 €.** Et la formation closing de **Dragan** est citée comme référence.
+
+---
+
 ## Ce qui reste à faire
 
 - [ ] **Arbitrer le prix sur les créas** avec Anthony — affiché ou non.

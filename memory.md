@@ -1129,6 +1129,22 @@ Marche à suivre complète et corrigée : `~/Documents/Apps/Matrice/Activer iClo
 
 **Règle à tenir** : ne plus jamais régénérer le fichier projet de zéro. Y insérer les nouveaux fichiers, comme fait pour le catalogue d'icônes.
 
+### Coaching collectif Clovis du 03/09 — et ça alourdit la reprise du lot
+
+Note [[Olivier 3 septembre]], transcription Wispr d'1 h 08, versée dans [[Scaling Academy - coaching stratégique (Olivier Clovis)]].
+
+⚠️ **« Meta pénalise le marketing frontal sur la douleur. »** Contrainte de plateforme, pas question de goût — et **elle converge avec le « trop violent » d'Anthony écrit la veille sur le même corpus**. Deux sources indépendantes, l'une éditoriale, l'autre algorithmique.
+
+**Les treize angles sont donc à reprendre pour deux motifs, pas un** : la voix en « tu », et la douleur frontale.
+
+**Le niveau de conscience détermine qui l'on attire** : *« si on ne parle que des problèmes, on attire les gens de niveau 1 ou 2 »*. Pour viser plus haut — l'offre, l'expertise, les solutions, le détail de la méthode, le pourquoi. En séance, **Sylvie a fait ses premières ventes high ticket après dix mois infructueux, uniquement en retirant la difficulté de son storytelling.**
+
+**Sur les visuels statiques** : utiles en retargeting seulement, sous deux formes — **visage + accroche**, ou **détail de la méthode**. Et *« éviter les clics de curiosité »*. L'exemple donné, *« arrête de travailler sur ton mental si tu te sens mal, travaille sur ton corps »*, **est exactement le mécanisme de l'angle du corps** — David a la matière. Ça tranche aussi la piste photo contre typo restée ouverte : les cartes typographiques disent la douleur, pas la méthode.
+
+**Trois épinglés Insta** — qui je suis, méthode, témoignages : **identique à Baptiste**. Deux sources, même structure.
+
+**Témoignages** : en tête-à-tête sur un pic émotionnel, **interview naturelle plutôt que script**, structure avant/pendant/après, vidéo > audio > écrit, et **rangés par situation de départ**. *Nuance avec les six questions écrites de Baptiste : les questions cadrent, l'entretien capte l'émotion.*
+
 ### Ce qui reste à faire
 
 - [ ] **Refaire la voix des treize angles du lot 1** selon la doctrine. À poser à Anthony : vaut-elle pour tout le lot ?
