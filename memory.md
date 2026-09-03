@@ -1152,3 +1152,5 @@ Note [[Olivier 3 septembre]], transcription Wispr d'1 h 08, versée dans [[Scali
 - [ ] Tester le nouveau build : glissements, rappels, bouton agenda, icône.
 - [ ] **Créer un calendrier « Matrice »** dédié, et le désigner dans les réglages de l'app.
 - [ ] Toujours ouvert depuis le 02/09 : le sort du journal, et l'`index.md` du vault.
+
+**Radiance, tranché le 03/09 au soir** : les trois questions **ne partent pas en amont**, David les pose en direct le 04/09. Sa raison : *« si MyConnecting est à l'aise de m'envoyer ainsi, je me fais confiance pour être à propos. S'ils étaient plus exigeants ou inquiets, ils seraient dans le sur-contrôle et auraient veillé à caler tout ça en amont. »* La légèreté du client est une information sur le formalisme attendu, et une liste envoyée avant la première réunion a un coût relationnel. **J'avais insisté pour l'envoi ; son raisonnement vaut mieux que mon objection.** Ce qui survit : ouvrir le fichier pendant l'appel et poser les questions tôt.

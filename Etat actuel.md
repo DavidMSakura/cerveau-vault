@@ -6,7 +6,7 @@
 
 | Quand | Quoi |
 |---|---|
-| **ven. 04/09** | **Cadrage Radiance 11h15–11h45** — ⚠️ **envoyer les 3 questions ce soir** · tripartite CFF 14h · ⚠️ lien WeTransfer de Bruno Pellen expire |
+| **ven. 04/09** | **Cadrage Radiance 11h15–11h45** — les 3 questions se posent **en direct**, tôt dans l'appel · tripartite CFF 14h · ⚠️ lien WeTransfer de Bruno Pellen expire |
 | **lun. 07/09** | Coaching **Elisabeth** — 2 h, format questions-réponses. **5 à 8 questions à préparer** |
 | **09 → 11/09** | IGECOM : Toulon, Clermont, Naves — aucune prépa |
 | **14-15/09** | Prise de parole CFF — rien à préparer |
@@ -25,7 +25,7 @@
 
 **Mnemonaute — Gandhi.** Script validé, trois miniatures prêtes. **Avant de publier** : renommer le fichier vidéo, écrire les chapitres à la main, programmer 24 h à l'avance, préparer le commentaire épinglé.
 
-**Radiance.** Charte et déroulé validés. ⚠️ **Les trois questions doivent partir avant demain matin** → [[Radiance - questions pour le cadrage du 4 septembre]]. Dire à Simon que Maori a répondu le 25/08.
+**Radiance.** Charte et déroulé validés. **Tranché le 03/09 : les questions ne sont pas envoyées en amont**, David les pose en direct — *« si MyConnecting est à l'aise de m'envoyer ainsi, je me fais confiance pour être à propos »*. Garder [[Radiance - questions pour le cadrage du 4 septembre]] ouvert pendant l'appel et les poser tôt : 30 min à sept, ça se remplit vite. Dire à Simon que Maori a répondu le 25/08.
 
 **Crédit Foncier.** Le plus rentable. **Steph en lead sur Sophie Pons.** Clôture le 08/12.
 
