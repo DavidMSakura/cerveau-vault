@@ -48,7 +48,7 @@
 
 ## ⚠️ Points de vigilance
 
-- **Deux secrets à régénérer** : mot de passe d'application Gmail (27/08) et **token du bot Telegram** (31/08). Tous deux en clair dans la note iCloud « ADMIN », avec l'IBAN Qonto.
+- **Secrets — alerte revue à la baisse le 04/09.** Le vault est propre : ni IBAN, ni token complet, ni mot de passe en clair (vérifié). David a nettoyé la note iCloud, et le mot de passe Gmail vit dans le **trousseau macOS**, au bon endroit. Reste que le **token Telegram complet est passé dans une conversation le 31/08** — le projet de bot ayant été abandonné, le plus simple est de **supprimer le bot** via BotFather plutôt que de le régénérer.
 - **Six tâches sur neuf en urgent-et-important** dans la matrice — le profil de quelqu'un qui subit. Et le quadrant 2 quasi vide, alors que c'est là que dorment les livres et les audios du Cercle.
 - **Cercle de Vérité : trois audios jamais enregistrés.** L'order bump n'a ni audio, ni vidéo, ni mockup.
 - **Citation Frayssinet à vérifier** avant tout usage, et toujours la sourcer.
