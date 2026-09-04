@@ -41,6 +41,8 @@ Parcours d'accompagnement de **13 femmes sur 9 mois**, animé avec Steph. **Le c
 
 Chaque parcours femmes vaut **Test EQ-i 2.0 + 4h30 de coaching**. Toutes les séances observées durent 1h30, ce qui donne **trois séances par personne**. ⚠️ C'est une déduction, pas une donnée écrite : **à confirmer avec Sophie**, parce que c'est le volume à facturer.
 
+> ⚠️ **David n'envoie jamais les invitations Teams.** C'est au coaché ou au CFF de les émettre, pour des raisons de sécurité informatique — précisé par David le 04/09/2026. Conséquence pratique : **une séance n'est réellement posée que lorsque son invitation est reçue.** Un accord par mail ne suffit pas, et il ne faut jamais écrire « je t'envoie l'invitation » dans un mail de calage : on propose des créneaux, puis on demande explicitement au coaché d'émettre la convocation.
+
 #### Parcours femmes — état au 03/09/2026
 
 | Participante | N+1 | Séances faites | Reste | Programmé | Émargement |
