@@ -10,7 +10,11 @@ tags: [cff, coaching, tripartite]
 # Tripartite Jilani Ben-Yahmed — conducteur
 
 **Vendredi 4 septembre, 14h–15h, visio.** Quatre personnes : Jilani (coaché), François Nanthavisouk (N+1), Sophie Pons (RH), David (coach).
-**Thème de l'accompagnement** : posture managériale, relations avec les pairs.
+**Le mandat, tel qu'écrit dans `Suivi coachings DM.xlsx`** — c'est la formulation de référence, plus précise que « posture managériale et relations avec les pairs » :
+> • **Développer sa posture managériale** : l'aider à analyser et à ajuster ses pratiques managériales pour mieux appréhender et gérer les **dynamiques d'équipe**, ainsi que les **situations conflictuelles**.
+> • **Renforcer ses relations avec ses pairs** : l'accompagner dans la gestion de ses interactions et de sa collaboration avec les **managers des autres directions**, afin d'améliorer la **communication et la coordination inter-services**.
+
+Deux axes, deux terrains différents : l'un **dans** son équipe, l'autre **entre** les directions. Ne pas les mélanger — les objectifs de sortie doivent en couvrir un de chaque.
 **Ce que cette heure doit produire** : trois objectifs observables, validés à voix haute par tous. C'est ce qui alimente la convention, qui se rédige juste après.
 
 > Adapté de [[Tripartite]] (trame Banque de Savoie, Sherpa).
@@ -34,7 +38,7 @@ Tu parles peu, mais tu poses trois choses, dans cet ordre :
 **Il parle avant son N+1. C'est le point le plus important du déroulé.** S'il entend d'abord les attentes de François, il ne dira plus que ce qui s'y ajuste, et tu perds sa version.
 
 - **« Selon toi, qu'est-ce qui fait qu'on est là aujourd'hui ? »**
-- **« Sur quoi veux-tu être jugé dans six mois ? »**
+- **« Sur quoi veux-tu être évalué dans six mois ? »**
 - « Avec tes pairs — raconte-moi une situation récente qui s'est mal passée. Que s'est-il passé exactement ? »
 - « Et une qui s'est bien passée ? Qu'est-ce que tu as fait, là ? »
 - « Qu'est-ce qui te ferait dévier dans ce rôle ? Tes pièges connus. »
@@ -50,6 +54,7 @@ Tu parles peu, mais tu poses trois choses, dans cet ordre :
 - **« À six mois, qu'est-ce que vous devez voir ou entendre sur le terrain pour dire : c'est réussi ? »**
 - « Quels sont les trois comportements que vous attendez ? »
 - « Quels sont les deux irritants que vous ne voulez plus revoir ? »
+- **« Avec quelle direction en particulier ça coince ? »** *Faire nommer. « Les autres directions » n'est pas un interlocuteur.*
 - **« Qu'est-ce que Jilani fait déjà bien et qu'il ne doit surtout pas perdre ? »** *Toujours poser celle-là devant lui.*
 - **« Et vous, qu'êtes-vous prêt à changer pour que ça marche ? »** *Presque jamais posée. Elle transforme la relation.*
 - « Quel est votre rôle de sponsor : soutien, arbitrage, feedback, ressources ? »
@@ -82,12 +87,14 @@ Tu reformules à voix haute et tu écris devant eux.
 
 **Le coaching comme outil de contrôle.** Si le reporting demandé va au-delà des thèmes et de l'avancement, refuse tout de suite, devant Jilani. C'est ta crédibilité pour tout le reste.
 
-**L'objectif mou.** « Améliorer la communication » n'est pas un objectif, c'est un vœu. Tant que tu ne peux pas dire ce que tu verrais si c'était atteint, continue de creuser.
+**L'objectif mou.** « Améliorer la communication » n'est pas un objectif, c'est un vœu — et c'est mot pour mot ce que dit le mandat sur l'axe 2. Tant que tu ne peux pas dire ce que tu verrais si c'était atteint, continue de creuser.
+
+**Le problème d'organisation déguisé en problème de personne.** L'axe 2 porte sur la coordination inter-services. Si les directions ne se coordonnent pas, ce n'est pas toujours la faute du manager qu'on envoie en coaching. La question à poser à François, calmement : **« la coordination inter-services, c'est un sujet propre à Jilani, ou est-ce que ses collègues d'autres directions auraient les mêmes difficultés à sa place ? »** Si la réponse penche vers la seconde, l'accompagnement doit le nommer — sinon Jilani travaillera seul sur un problème qui ne lui appartient pas.
 
 ---
 
 ## Sortie attendue
 
-Trois objectifs observables · le rythme des séances · qui envoie les invitations · la date de la tripartite de conclusion · la feuille signée.
+Trois objectifs observables, **dont au moins un par axe** · le rythme des séances · qui envoie les invitations · la date de la tripartite de conclusion · la feuille signée.
 
 → [[Contrat Crédit Foncier]]
