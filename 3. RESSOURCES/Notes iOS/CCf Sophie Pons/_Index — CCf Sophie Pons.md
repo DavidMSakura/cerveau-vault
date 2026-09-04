@@ -15,6 +15,7 @@ Notes de mission.
 ## Les notes de ce dossier
 
 - [[EQ-i débriefing Sandra Vieira]]
+- [[JILANI - Tripartite 4 septembre]]
 - [[Rdv Steve Amarenthe 27 avril]]
 
 ---
