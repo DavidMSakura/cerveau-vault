@@ -11,7 +11,7 @@ tags:
 
 # Radiance — compte rendu du cadrage du 4 septembre
 
-**Jeudi 4 septembre, 11h15–11h45, Teams.** Présents : Näns Durieux (MyConnecting, organisatrice), Inna Scrive, Johana Fostino et Mathilde Barozzi (Radiance), plus David Lagnier et Stéphie Rakoto invités. Mathilde a quitté l'appel à l'heure.
+**Jeudi 4 septembre, 11h15–11h45, Teams.** Présents : Näns Durieux (MyConnecting, organisateur), Inna Scrive, Johana Fostino et Mathilde Barozzi (Radiance), plus David Lagnier et Stéphie Rakoto invités. Mathilde a quitté l'appel à l'heure.
 
 > ⚠️ **Source** : enregistrement Wispr Flow, dans lequel **seule la voix de David a été captée**. Les réponses de Radiance sont reconstituées à partir de ses reprises à voix haute. Fiable sur ce que David a dit, inféré sur ce qu'elles ont répondu — à revérifier avant d'engager quoi que ce soit de coûteux.
 > [Notes Wispr Flow](https://notes.wisprflow.ai/shared/Ey3hi85i5CZfKPn0t4QThGBRopUR-MOMhRrMC_fj8Fo)
@@ -25,12 +25,12 @@ tags:
 **Ce sont des débutantes.** *« Ce sont plutôt des débutantes, ou en tout cas en cours d'être aguerries. »* Et *« il n'y a pas trop de mauvais plis qui sont pris, il faut juste crever le doute. »* Le dispositif ne corrige donc pas des habitudes installées, il installe une structure et de la confiance. David a lui-même tiré la conséquence pendant l'appel : *« les pousser un peu plus, attendre un peu plus, me baser sur leur savoir-faire et les solliciter pour qu'elles partagent. »*
 
 **Les gammes, telles que reconstituées** — à confirmer par écrit :
-- **Deux-roues** : oui. La reprise est *« Deux roues. »* puis *« Ah, donc si. »*, ce qui suggère une réponse en deux temps.
+- **Deux-roues : hors jeu.** Précisé par David après l'appel : la souscription est compliquée et se fait **en version papier**. Le cas du scooter est donc abandonné.
 - **Prévoyance légère** : oui — David la rapproche de la garantie des accidents de la vie.
 - **Prévoyance lourde, familiale, obsèques, décès** : non.
 - **Santé** : oui, avec la remarque que ce n'est pas évident face aux contrats employeur obligatoires. David a orienté vers les cas **étudiants et retraités**.
 
-**Le produit frontalier sort du périmètre.** *« Donc ça ne vaut pas le coup que je l'amène dans les situations. »* Dijon est trop loin de la frontière. Question réglée, séquence à ne pas construire.
+**Le produit frontalier sort aussi du périmètre.** *« Donc ça ne vaut pas le coup que je l'amène dans les situations. »* Dijon est trop loin de la frontière. Question réglée, séquence à ne pas construire.
 
 **Le MyDiag est abandonné, par David lui-même.** *« Pas d'urgence pour moi. Le déroulé est bâti, je sais animer sans. C'était juste pour être sûr qu'on n'avait pas un trou dans la raquette. »*
 
@@ -42,11 +42,11 @@ tags:
 
 Elles n'apparaissent nulle part dans l'enregistrement :
 
-1. **La conséquence concrète d'une formule au minimum sur un deux-roues.** C'était la priorité absolue, celle qui structure toute la séquence sur le devoir de conseil, et celle dont il était écrit qu'il ne fallait pas la lâcher.
+1. ~~La conséquence concrète d'une formule au minimum sur un deux-roues.~~ **Devenue sans objet** : le deux-roues sort du périmètre. La question tombe, mais l'illustration qu'elle devait nourrir est à remplacer.
 2. **La répartition des six informations dues** entre l'ouverture et la contractualisation.
 3. **La vraie clause de garantie** pour le test d'entrée du J1 — la slide 9 porte toujours un bandeau orange et une clause inventée.
 
-Le sujet des deux-roues a bien été abordé, mais comme périmètre de gamme, pas comme cas de sinistre. **Ces trois-là restent ouvertes et se rattrapent par écrit**, auprès de Näns ou directement auprès des managers.
+**Les deux qui restent se rattrapent par écrit**, auprès de Näns ou directement auprès des managers.
 
 ## Ce qui n'a pas été capté
 
@@ -69,18 +69,35 @@ La réponse sur **les ordinateurs en salle** — David a posé la question et en
 - L'angle **RGPD** traité par l'exemple : *« on a parlé de Monsieur Lambert, et il ne faut surtout pas dire que c'est Monsieur Lambert parce qu'il y a son adresse. »* Résumé par son propre mot : *« ne pas aller en taule. »*
 - Et le fil rouge : *« où est l'humain là-dedans »*, l'esprit critique sur le prompt comme sur la restitution.
 
-**Näns doit envoyer quelque chose à David, qui s'est engagé à le regarder** — *« carrément, je vais regarder ça attentivement »* et *« je regarde ça et je te dirai »*. **C'est un engagement pris, à honorer.** Elle est basée à Paris, David a proposé de se voir en vrai lors d'un passage.
+**Näns doit envoyer quelque chose à David, qui s'est engagé à le regarder** — *« carrément, je vais regarder ça attentivement »* et *« je regarde ça et je te dirai »*. **C'est un engagement pris, à honorer.** Il est basé à Paris, David a proposé de se voir en vrai lors d'un passage.
 
-**Point à vérifier** : David mentionne que c'est **« Sophie Vanov »** qui l'a mis en relation avec MyConnecting. À ne pas confondre avec Sophie Pons du Crédit Foncier — ou bien il s'agit d'une erreur de transcription.
+**Näns Durieux est un homme.** Noté ici parce que Doc s'est trompé une fois — à reporter dans `memory.md` au prochain `/fin`.
+
+**L'entremetteuse : Sophie Vanhove**, du cabinet **Sherpa**, que David connaît de là. C'est elle qui l'a mis en relation avec MyConnecting. À ne pas confondre avec Sophie Pons du Crédit Foncier.
 
 ---
 
 ## Ce qui reste à faire
 
-- **Reprendre le cas fil rouge pour du CRC.** C'est le vrai chantier de conception qui sort de cet appel.
-- Retirer la séquence frontalier, ajuster les gammes (deux-roues oui, prévoyance lourde non, santé sur étudiants et retraités).
-- **Relancer par écrit sur les trois questions de contenu**, en priorité la conséquence d'une formule au minimum sur un deux-roues.
+- **Reprendre le cas fil rouge : pour du CRC, et sans le scooter.** C'est le vrai chantier de conception qui sort de cet appel — voir ci-dessous.
+- Retirer la séquence frontalier. Ajuster les gammes : prévoyance lourde non, santé oui sur étudiants et retraités.
+- **Relancer par écrit sur les deux questions de contenu restantes** : la répartition des six informations dues, et la vraie clause de garantie du test d'entrée.
 - **Répondre à Näns** sur ce qu'elle lui envoie.
 - Décider si l'accompagnement managérial se propose maintenant ou après la formation.
+
+---
+
+## Le remplacement du scooter — proposition de Doc, non validée
+
+Le scooter tenait trois fonctions dans le cas : il **ouvrait** l'entretien (couche 1, la demande spontanée), il portait la **séquence du devoir de conseil** (« mettez-moi le minimum » → refus de conseil à tracer), et il justifiait l'**autorisation demandée en présentation** (« un conseil dont vous ne pensez pas avoir besoin »). Le retirer casse les trois.
+
+La substitution la moins coûteuse garde toute la famille et ne déplace que la demande d'entrée : **Théo entre en première année d'IUT à Dijon**, et Marc appelle pour sa **complémentaire santé étudiante**. Ça fonctionne pour quatre raisons :
+
+- La santé est dans la gamme, et Radiance a elle-même désigné **les étudiants et les retraités** comme les cas où la santé se joue vraiment face aux contrats employeur obligatoires.
+- C'est un appel entrant crédible en centre de relation clients — contrairement à un projet de construction, qui suppose un entretien en agence.
+- La demande reste **étroite et spontanée**, ce qui préserve tout l'intérêt pédagogique des couches : la MRH, l'extension et la prévoyance ne sortent toujours que sur questions ouvertes.
+- Le « mettez-moi le minimum » se rejoue à l'identique sur la **formule santé la moins chère** — même mécanique, même refus de conseil à tracer, même besoin d'une conséquence chiffrée. C'est cette conséquence-là qu'il faut désormais demander à Radiance, à la place de celle du deux-roues.
+
+Reste que **le cas complet suppose toujours un propriétaire qui fait construire**, ce qui reste étrange au téléphone. À trancher : garder l'extension comme gisement de besoins découvert en profondeur, ou rebâtir un cas entièrement pensé pour du CRC.
 
 → [[Radiance - questions pour le cadrage du 4 septembre]] · [[Tableau de bord]]
